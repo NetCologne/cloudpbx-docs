@@ -5,6 +5,7 @@ title = "NetCologne Cloud PBX"
 titleSeparator = "-"
 titleAddition = "Dokumentation"
 description = "Hier bekommen Sie Hilfe und Schritt-für-Schritt-Anleitungen zu Ihrem Cloud PBX Konto."
+logo = "/images/nclogo.svg"
 
 ## Documentation
 # docsVersion = "0.3"
