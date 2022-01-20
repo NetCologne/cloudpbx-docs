@@ -1,18 +1,13 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "https://doks.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "de-DE"
+languageCode = "en-US"
 paginate = 7
 rssLimit = 10
-
-# Multilingual
-defaultContentLanguage = "de"
-disableLanguages = ["en", "nl"]
-# defaultContentLanguageInSubdir = true
 
 # add redirects/headers
 [outputs]
@@ -73,22 +68,10 @@ rel  = "sitemap"
     min = "0.80.0"
     max = ""
   [[module.mounts]]
-    source = "node_modules/@hyas/doks/archetypes"
-    target = "archetypes"
-  [[module.mounts]]
-    source = "node_modules/@hyas/doks/assets"
+    source = "assets"
     target = "assets"
-#  [[module.mounts]]
-#    source = "node_modules/@hyas/doks/content"
-#    target = "content"
   [[module.mounts]]
-    source = "node_modules/@hyas/doks/data"
-    target = "data"
-  [[module.mounts]]
-    source = "node_modules/@hyas/doks/layouts"
-    target = "layouts"
-  [[module.mounts]]
-    source = "node_modules/@hyas/doks/static"
+    source = "static"
     target = "static"
   [[module.mounts]]
     source = "node_modules/flexsearch"
@@ -99,21 +82,3 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "node_modules/mermaid"
     target = "assets/js/vendor/mermaid"
-  [[module.mounts]]
-    source = "assets"
-    target = "assets"
-  [[module.mounts]]
-    source = "static"
-    target = "static"
-#  [[module.mounts]]
-#    source = "content"
-#    target = "content"
-  [[module.mounts]]
-    source = "layouts"
-    target = "layouts"
-  [[module.mounts]]
-    source = "archetypes"
-    target = "archetypes"
-  [[module.mounts]]
-    source = "data"
-    target = "data"

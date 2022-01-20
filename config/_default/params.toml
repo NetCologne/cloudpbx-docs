@@ -1,23 +1,23 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "NetCologne"
+title = "NetCologne Cloud PBX"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Dokumentation"
+description = "Hier bekommen Sie Hilfe und Schritt-für-Schritt-Anleitungen zu Ihrem Cloud PBX Konto."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
 images = ["doks.png"]
-ogLocale = "de_DE"
+ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
-titleHome = "NetCologne CloudPBX Dokumentation"
+titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@NetCologneNEWS"
-twitterCreator = "@NetCologneNEWS"
+twitterSite = "@getdoks"
+twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -27,7 +27,7 @@ schemaAuthor = "Henk Verlinde"
 schemaAuthorTwitter = "https://twitter.com/henkverlinde"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "de-DE"
+schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
@@ -54,10 +54,10 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "© NetCologne GmbH 2022 <a href=\"https://www.netcologne.de/impressum/\">Impressum</a>, <a href=\"https://www.netcologne.de/agb/\">AGB</a>, <a href=\"https://www.netcologne.de/datenschutz/\">Datenschutz</a>"
 
 # Feed
-copyRight = "© NetCologne GmbH 2022"
+copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
 
 # Alert
 alert = false
@@ -66,9 +66,13 @@ alertDismissable = true
 alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
 
 # Edit Page
+# repoHost [Github | Gitea | GitLab] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
 docsRepo = "https://github.com/h-enk/doks"
 docsRepoBranch = "master"
 editPage = false
+lastMod = false
 
 [options]
   lazySizes = true
