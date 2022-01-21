@@ -1,19 +1,43 @@
-[[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
-
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
-
 [[main]]
   name = "Dokumentation"
-  url = "/docs/prologue/introduction/"
+  weight = 1
+  url = "/docs/grundlagen/voraussetzungen"
+
+[[docs]]
+  name = "Grundlagen"
   weight = 10
+  identifier = "grundlagen"
+  url = "/docs/grundlagen/"
+
+[[docs]]
+  name = "Konfiguration"
+  weight = 20
+  identifier = "konfiguration"
+  url = "/docs/konfiguration/"
+
+[[docs]]
+  name = "Konto"
+  weight = 30
+  identifier = "konto"
+  url = "/docs/konto/"
+
+[[docs]]
+  name = "Funktionen"
+  weight = 40
+  identifier = "funktionen"
+  url = "/docs/funktionen/"
+
+[[docs]]
+  name = "Endgeräte"
+  weight = 50
+  identifier = "endgeraete"
+  url = "/docs/endgeraete/"
+
+[[docs]]
+  name = "Problemlösungen"
+  weight = 60
+  identifier = "problemleosungen"
+  url = "/docs/problemleosungen/"
 
 [[social]]
   name = "Twitter"
