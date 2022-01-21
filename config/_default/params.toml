@@ -5,10 +5,10 @@ title = "NetCologne Cloud PBX"
 titleSeparator = "-"
 titleAddition = "Dokumentation"
 description = "Hier bekommen Sie Hilfe und Schritt-für-Schritt-Anleitungen zu Ihrem Cloud PBX Konto."
-logo = "/images/nclogo.svg"
+logo = "/nclogo.svg"
 
 ## Open Graph + Twitter Cards
-images = ["title.png"]
+images = ["nctitle.jpg"]
 ogLocale = "de_DE"
 domainTLD = "netcologne-cpbxdoku.netlify.app"
 titleHome = "NetCologne Cloud PBX Dokumentation"
@@ -17,7 +17,7 @@ twitterCreator = "NetCologneNEWS"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "title.png"
+schemaLogo = "nctitle.jpg"
 schemaTwitter = "https://twitter.com/NetCologneNEWS"
 schemaGitHub = "https://github.com/NetCologne/cloudpbx-docs"
 schemaSection = "blog"
