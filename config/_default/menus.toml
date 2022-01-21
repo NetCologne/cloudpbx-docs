@@ -1,6 +1,6 @@
 [[main]]
   name = "Dokumentation"
-  weight = 1
+  weight = 5
   url = "/docs/grundlagen/voraussetzungen"
 
 [[docs]]

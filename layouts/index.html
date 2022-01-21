@@ -3,12 +3,14 @@
   <div class="row justify-content-center">
     <div class="col-lg-12 text-center">
       <h1 class="mt-0">
+        <a href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}grundlagen/voraussetzungen/">
         <img src="/nctitle.jpg" style="max-width:800px" alt="NetCologne Cloud PBX Logo"/>
+      </a>
       </h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}grundlagen/voraussetzungen/" role="button">Los geht's</a>
+      <a class="btn btn-secondary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}grundlagen/voraussetzungen/" role="button">Los geht's</a>
     </div>
   </div>
 </section>
