@@ -1,7 +1,7 @@
 https://netcologne-cpbxdoku.netlify.app/
 =============
 
-This repository is the netcologne cloud pbx documentation web site built with Hugo & Doks.
+This repository is the netcologne cloud pbx documentation web site.
 
 
 ## Development

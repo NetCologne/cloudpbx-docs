@@ -11,10 +11,10 @@ logo = "/images/nclogo.svg"
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
-ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+images = ["title.jpg"]
+ogLocale = "de_DE"
+domainTLD = "netcologne-cpbxdoku.netlify.app"
+titleHome = "NetCologne Cloud PBX Dokumentation"
 
 ## Twitter Cards
 twitterSite = "@NetCologneNEWS"
