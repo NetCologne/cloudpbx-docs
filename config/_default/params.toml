@@ -7,37 +7,19 @@ titleAddition = "Dokumentation"
 description = "Hier bekommen Sie Hilfe und Schritt-für-Schritt-Anleitungen zu Ihrem Cloud PBX Konto."
 logo = "/images/nclogo.svg"
 
-## Documentation
-# docsVersion = "0.3"
-
-## Open Graph
-images = ["title.jpg"]
+## Open Graph + Twitter Cards
+images = ["title.png"]
 ogLocale = "de_DE"
 domainTLD = "netcologne-cpbxdoku.netlify.app"
 titleHome = "NetCologne Cloud PBX Dokumentation"
-
-## Twitter Cards
-twitterSite = "@NetCologneNEWS"
-twitterCreator = "@NetCologneNEWS"
+twitterSite = "NetCologneNEWS"
+twitterCreator = "NetCologneNEWS"
 
 ## JSON-LD
-# schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "doks.png"
-schemaImageWidth = 1280
-schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaLogo = "title.png"
+schemaTwitter = "https://twitter.com/NetCologneNEWS"
+schemaGitHub = "https://github.com/NetCologne/cloudpbx-docs"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
