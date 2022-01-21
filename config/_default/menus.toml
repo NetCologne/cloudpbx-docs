@@ -36,8 +36,8 @@
 [[docs]]
   name = "Problemlösungen"
   weight = 60
-  identifier = "problemleosungen"
-  url = "/docs/problemleosungen/"
+  identifier = "problemloesungen"
+  url = "/docs/problemloesungen/"
 
 [[social]]
   name = "Twitter"
