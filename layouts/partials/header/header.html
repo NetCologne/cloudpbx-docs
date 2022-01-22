@@ -11,6 +11,7 @@
 <header class="navbar navbar-expand-md navbar-light doks-navbar">
   <nav class="container-xxl flex-wrap flex-md-nowrap" aria-label="Main navigation">
     <a class="navbar-brand p-0 me-auto" href="{{ "/" | relLangURL }}" aria-label="{{ .Site.Params.Title }}">
+      <img src="{{ .Site.Params.Logo }}" height="80px" alt="Logo">
       {{ .Site.Params.Title }}
     </a>
 
@@ -99,7 +100,7 @@
 
     {{ if .Site.Params.options.flexSearch -}}
     <form class="doks-search position-relative flex-grow-1 me-auto">
-      <input id="search" class="form-control is-search" type="search" placeholder="Search docs..." aria-label="Search docs..." autocomplete="off">
+      <input id="search" class="form-control is-search" type="search" placeholder="Suche..." aria-label="Suche..." autocomplete="off">
       <div id="suggestions" class="shadow bg-white rounded d-none"></div>
     </form>
     {{ end -}}
