@@ -136,7 +136,7 @@ Source:
     // inform user that no results were found
     if (flatResults.size === 0 && searchQuery) {
       const noResultsMessage = document.createElement('div')
-      noResultsMessage.innerHTML = `No results for "<strong>${searchQuery}</strong>"`
+      noResultsMessage.innerHTML = `Keine Ergebnisse für "<strong>${searchQuery}</strong>"`
       noResultsMessage.classList.add("suggestion__no-results");
       suggestions.appendChild(noResultsMessage);
       return;
