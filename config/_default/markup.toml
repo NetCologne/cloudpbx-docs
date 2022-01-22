@@ -1,17 +1,5 @@
 defaultMarkdownHandler = "blackFriday"
 
-[goldmark]
-  [goldmark.extensions]
-    linkify = false
-  [goldmark.parser]
-    autoHeadingID = true
-    autoHeadingIDType = "github"
-    [goldmark.parser.attribute]
-      block = true
-      title = true
-  [goldmark.renderer]
-    unsafe = true
-
 [highlight]
   codeFences = false
   guessSyntax = false
