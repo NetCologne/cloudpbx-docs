@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode | default " en" }}">
+{{ partial "head/head.html" . }}
+{{ if eq .Kind "home" -}}
+{{ .Scratch.Set "class" "home" -}}
+{{ else if eq .Kind "404" -}}
+{{ .Scratch.Set "class" "error404" -}}
+{{ else if eq .Kind "page" -}}
+{{ .Scratch.Set "class" .Type -}}
+{{ .Scratch.Add "class" " single" -}}
+{{ else -}}
+{{ .Scratch.Set "class" .Type -}}
+{{ .Scratch.Add "class" " list" -}}
+{{ end -}}
+
+<body class="{{ .Scratch.Get " class" }}">
+  {{ partial "header/header.html" . }}
+  <div class="wrap container-xxl" role="document">
+    <div class="content">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </div>
+  {{ block "sidebar-prefooter" . }}{{ end }}
+  {{ block "sidebar-footer" . }}{{ end }}
+  {{ partial "footer/footer.html" . }}
+  {{ partial "footer/script-footer.html" . }}
+</body>
+
+</html>
+
+<script src="/js/medium-zoom.min.js"></script>
+
+<script>
+  const images = Array.from(document.querySelectorAll("img"));
+  images.forEach(img => {
+    mediumZoom(img, {
+      margin: 40, /* The space outside the zoomed image */
+      scrollOffset: 40, /* The number of pixels to scroll to close the zoom */
+      container: null, /* The viewport to render the zoom in */
+      template: null, /* The template element to display on zoom */
+      background: 'rgba(0, 0, 0, 0.1)'
+    });
+  });
+</script>
+
+
+<style type="text/css">
+  .medium-zoom-overlay,
+  .medium-zoom-image--opened {
+    z-index: 9999;
+  }
+</style>
