@@ -1,4 +1,4 @@
-baseurl = "https://cloudpbx-doku.netcologne.de/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
