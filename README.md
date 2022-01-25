@@ -1,7 +1,6 @@
-https://cloudpbx-doku.netcologne.de/
 =============
 
-This repository is the netcologne cloud pbx documentation web site.
+This repository is the netcologne [cloud pbx documentation](https://cloudpbx-doku.netcologne.de/) web site.
 
 
 ## Development
