@@ -18,7 +18,7 @@ toc: true
 
 ### Baresip+
 
-![grafik](https://user-images.githubusercontent.com/20154956/150996920-9714b70d-155a-45ad-bcbc-34ade9088ee9.png){ width=10% }
+![grafik](https://user-images.githubusercontent.com/20154956/150996920-9714b70d-155a-45ad-bcbc-34ade9088ee9.png)
 ![grafik](https://user-images.githubusercontent.com/20154956/150996947-1ea0706d-8f0e-4eca-b790-327d0fde5117.png)
 ![grafik](https://user-images.githubusercontent.com/20154956/150997101-0a1e0205-e5a5-472d-8cb2-20cc310af44d.png)
 ![grafik](https://user-images.githubusercontent.com/20154956/150997140-7c5ac868-1a08-40d6-8d72-2ae8b4937e28.png)
