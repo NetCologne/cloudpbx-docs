@@ -1,4 +1,4 @@
-https://netcologne-cpbxdoku.netlify.app/
+https://cloudpbx-doku.netcologne.de/
 =============
 
 This repository is the netcologne cloud pbx documentation web site.
