@@ -10,7 +10,7 @@ logo = "/nclogo.svg"
 ## Open Graph + Twitter Cards
 images = ["nctitle.jpg"]
 ogLocale = "de_DE"
-domainTLD = "netcologne-cpbxdoku.netlify.app"
+domainTLD = "cloudpbx-doku.netcologne.de"
 titleHome = "NetCologne Cloud PBX Dokumentation"
 twitterSite = "NetCologneNEWS"
 twitterCreator = "NetCologneNEWS"
