@@ -2,6 +2,12 @@
   publish = "public"
   functions = "functions"
 
+[[redirects]]
+  from = "https://www.cloudpbx-doku.netcologne.de/*"
+  to = "https://cloudpbx-doku.netcologne.de/:splat"
+  status = 301
+  force = true
+
 [build.environment]
   NODE_VERSION = "16.13.1"
   NPM_VERSION = "8.1.2"
