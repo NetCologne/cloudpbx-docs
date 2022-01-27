@@ -23,7 +23,7 @@ Sie haben von uns ihre Login-Daten zur Konfiguration ihrer CloudPBX in folgender
 
 Auf der angebenen Seite können sie sich mit diesen Daten anmelden
 
-![CloudPBX-Login](https://user-images.githubusercontent.com/98472426/151358994-ec120bbf-5d31-4150-833d-54f8816c143a.jpg)
+![CloudPBX-Login_cr](https://user-images.githubusercontent.com/98472426/151377338-9a457a2e-d072-41ef-af33-7f3c4cd6a4b2.jpg)
 
 Sie befinden sich nun in der Administrator-Maske der CloudPBX - hier können sie ihre Anlage konfigurieren:
 
