@@ -8,7 +8,7 @@ weight: 504
 toc: true
 ---
 
-Die Marke Unify bietet mehrere Modelle, die mit dem NetCologne Cloud PBX funktionieren. Wir zeigen Ihnen, wie Sie einzelne Geräte mit Ihrer virtuellen Telefonanlage einrichten.
+Die Marke Unify bietet mehrere Modelle, die mit der NetCologne Cloud PBX funktionieren. Wir zeigen Ihnen, wie Sie einzelne Geräte mit Ihrer virtuellen Telefonanlage einrichten.
 
 Achtung: Die automatische Konfiguration ist mit den SIP-Modellen von Unify zurzeit noch nicht möglich. Deshalb zeigen wir Ihnen die manuelle Einrichtung.
 
