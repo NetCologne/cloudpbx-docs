@@ -42,11 +42,11 @@ Nach dem erfolgreichen Upgrade, müssen folgende Einstellungen am Endgerät durc
 
 * Konfiguration der System Identity  
 
-![SystemIdentity](https://user-images.githubusercontent.com/98472426/151379751-6609f59f-b68f-44c3-84ef-e0789a843b67.jpg)
+![SystemIdentity](https://user-images.githubusercontent.com/98472426/151382353-5d7c1eaa-9b76-4bcc-9dea-0224431d92c1.jpg)
 
 * Konfiguration des SIP Interfaces  
-
-![SIPInterface](https://user-images.githubusercontent.com/98472426/151368295-d115b93d-9778-410d-bdd8-5dec94804a67.jpg)  
+  
+![SIPInterface](https://user-images.githubusercontent.com/98472426/151382172-6e96d2b5-f897-4dc6-b143-0e1af0052c39.jpg)
 
 * sRTP Konfiguration  
 
