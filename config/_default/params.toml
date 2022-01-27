@@ -65,6 +65,6 @@ lastMod = false
   breadCrumb = false
   highLight = true
   kaTex = false
-  collapsibleSidebar = true
+  collapsibleSidebar = false
   multilingualMode = false
   docsVersioning = false
