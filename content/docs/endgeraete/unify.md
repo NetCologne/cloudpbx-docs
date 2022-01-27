@@ -42,7 +42,7 @@ Nach dem erfolgreichen Upgrade, müssen folgende Einstellungen am Endgerät durc
 
 * Konfiguration der System Identity  
 
-![SystemIdentity](https://user-images.githubusercontent.com/98472426/151368099-9476679e-af1f-40f7-87cd-0c205a550a6a.jpg)  
+![SystemIdentity](https://user-images.githubusercontent.com/98472426/151379751-6609f59f-b68f-44c3-84ef-e0789a843b67.jpg)
 
 * Konfiguration des SIP Interfaces  
 
