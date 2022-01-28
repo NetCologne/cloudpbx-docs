@@ -23,6 +23,15 @@ Bei snom Geräten finden Sie die MAC-Adresse auf der Lieferverpackung des Gerät
 
 Auch auf der Rückseite Ihres Telefons steht die MAC-Adresse.
 
+<img src="/images/snom_menu_ip.jpg" alt="snom-menu"/>
+
+Auch über das Telefonmenü ist es möglich die MAC-Adresse abzulesen. Am Beispiel der snom 7er Reihe sind folgende Schritte nötig:
+
+1. Drücken Sie die Menü-Taste (bei snom 710 & D715 Display-Taste "Einstellungen").
+2. Gehen Sie mit der Navigations-Taste auf "Information".
+3. Gehen Sie zu "Systeminformationen".
+4. Gehen Sie nach unten bis zur MAC-Adresse. Notieren Sie diese ebenso wie die IP-Adresse. 
+
 ## MAC-Adresse Yealink 
 ![grafik](https://user-images.githubusercontent.com/20154956/150969351-9d2667d7-9cee-4cad-a0a3-9cccc0861933.png)
 
