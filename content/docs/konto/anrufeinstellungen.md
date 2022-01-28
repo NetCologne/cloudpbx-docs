@@ -16,3 +16,7 @@ toc: true
 
 
 ![grafik](https://user-images.githubusercontent.com/20154956/151543767-114241d7-2ffb-43e9-bb9d-e17197d00447.png)
+
+## Kurzwahl
+
+![grafik](https://user-images.githubusercontent.com/20154956/151547068-0066756c-bc1a-4d98-94fe-309497a1e62a.png)
