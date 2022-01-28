@@ -20,3 +20,7 @@ toc: true
 ## Kurzwahl
 
 ![grafik](https://user-images.githubusercontent.com/20154956/151547068-0066756c-bc1a-4d98-94fe-309497a1e62a.png)
+
+## Erinnerung
+
+![grafik](https://user-images.githubusercontent.com/20154956/151550099-6bee3f32-bbd0-4c37-bc27-96245a399a65.png)
