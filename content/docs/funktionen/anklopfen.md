@@ -14,4 +14,4 @@ Sie können Ihr aktuelles Telefonat nun:
 
 * abschließen und den neuen Anrufer in die Leitung nehmen,
 * auf "Halten" setzen und den neuen Anrufer in die Leitung nehmen,
-* fortführen und den neuen Anrufer abweisen.
+* fortführen und den neuen Anrufer abweisen. 
