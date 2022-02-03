@@ -27,27 +27,30 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX
 
 ![cloudpbx_dashboard1](https://user-images.githubusercontent.com/98753538/152346499-6842be07-6604-4428-be19-691e8e123992.jpg)
 
-1. Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls) und den registrierten Endgeräten.
+[1] Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls) und den registrierten Endgeräten.
 
-2. Beim Punkt Konversationen stehen weitere Details wie "von" und "an".  
-   Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf  
-3. "Seats" und fügen  
-   ![cloudpbx_dashboard2-8](https://user-images.githubusercontent.com/98753538/152347008-0ad4c1fe-a492-4fd1-860c-2b355e903b0a.jpg)
+[2] Beim Punkt Konversationen stehen weitere Details wie "von" und "an".
+
+## Einrichtung von Nebenstellen 
+
+Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf
+
+[3] "Seats" und fügen  
+
+![cloudpbx_dashboard2-8](https://user-images.githubusercontent.com/98753538/152347008-0ad4c1fe-a492-4fd1-860c-2b355e903b0a.jpg)
    
-4. Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen)
+[4] Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen)
 
-(5) Web- und SIP Password (können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben)
+[5] Web- und SIP Password (können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben)
 
-(6) Unter Alias-Nummern können Sie eine oder mehrere Rufnummern eintragen, unter denen diese Nebenstelle ebenfalls erreicht werden soll. Die Zuordnung der gewählten Rufnummer auf die der Nebenstelle ist hiermit gespeichert.
+[6] Unter Alias-Nummern können Sie eine oder mehrere Rufnummern eintragen, unter denen diese Nebenstelle ebenfalls erreicht werden soll. Die Zuordnung der gewählten Rufnummer auf die der Nebenstelle ist hiermit gespeichert.
 
-(7) Hier können Gruppen konfiguriet werden.
+[7] Hier können Gruppen konfiguriet werden.
 
 [8] Falls Sie Ihre eigenen Töne oder Melodien verwenden wollen, können Sie diese im wav-Format hier hochladen und der Nebenstelle zuweisen.
 
 
 ![Schritt1-NST-einrichten](https://user-images.githubusercontent.com/98472426/151360917-a172d4b3-f9fa-4e63-9fc1-ee0aa02177ec.jpg)
-
-## Einrichtung von Nebenstellen 
 
 Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dahinter kein physikalischer Anschluss steckt. Hinter Nebenstellen können folgende Funktionen konfiguriert werden:
 
@@ -57,7 +60,8 @@ Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dah
 * ACD/IVR
 
 Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die entsprechende Funktion realisiert. Weiterleitungen sind also nicht nur auf physikalische Ziele möglich, sondern auch auf die o. a. Funktionen. 
-Hier wird nun die Nebenstelle 10 für den User max eingerichtet:
+
+Beispiel: Hier wird nun die Nebenstelle 10 für den User max eingerichtet:
 
 ![Schritt2-NST-einrichten](https://user-images.githubusercontent.com/98472426/151360059-00894ef1-789f-40ca-8a79-50c51eb1657f.jpg)
 
@@ -68,7 +72,3 @@ Das SIP Passwort ist erforderlich, wenn Endgeräte – also Telefone oder Sip Cl
 Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wurden bereit 3 Nebenstellen konfiguriert. 
 
 ![Ändern NST](https://user-images.githubusercontent.com/98472426/151360446-3d90ea15-3cfa-4651-b644-baec80a2c62d.jpg)
-
-
-
-
