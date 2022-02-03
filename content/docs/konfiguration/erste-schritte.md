@@ -21,7 +21,7 @@ Passwort: `xxxxxxxxxxxxxx`
 
 Auf der angebenen Seite können Sie sich mit diesen Daten anmelden
 
-![cloudpbx_login](https://user-images.githubusercontent.com/98753538/152330569-0a1e9264-2ecb-49e4-9acf-54f19c7f29e6.jpg)
+![cloudpbx_login](https://user-images.githubusercontent.com/98753538/152331121-be008d22-e8da-4997-88f2-47daf5f423f7.jpg)
 
 Sie befinden sich nun in der Administrator-Maske der CloudPBX - hier können sie ihre Anlage konfigurieren:
 
