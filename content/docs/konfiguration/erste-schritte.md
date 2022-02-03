@@ -35,10 +35,9 @@ Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" 
 
 3. "Seats" und fügen
 
-4. Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen)
-
 ![cloudpbx_dashboard2-8](https://user-images.githubusercontent.com/98753538/152347008-0ad4c1fe-a492-4fd1-860c-2b355e903b0a.jpg)
-hier können sie ihre Anlage konfigurieren:
+
+4. Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen)
 
 5. Web- und SIP Password (können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben)
 
