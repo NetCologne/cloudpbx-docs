@@ -33,6 +33,15 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX
 
 ## Einrichtung von Nebenstellen 
 
+Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dahinter kein physikalischer Anschluss steckt. Hinter Nebenstellen können folgende Funktionen konfiguriert werden:
+
+* Physikalische Anschlüsse wie Telefone oder SIP Clients
+* Anrufbeantworter
+* Faxserver
+* ACD/IVR
+
+Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die entsprechende Funktion realisiert. Weiterleitungen sind also nicht nur auf physikalische Ziele möglich, sondern auch auf die o. a. Funktionen. 
+
 Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf
 
 [3] "Seats" und fügen  
@@ -48,18 +57,6 @@ Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" 
 [7] Hier können Gruppen konfiguriet werden.
 
 [8] Falls Sie Ihre eigenen Töne oder Melodien verwenden wollen, können Sie diese im wav-Format hier hochladen und der Nebenstelle zuweisen.
-
-
-![Schritt1-NST-einrichten](https://user-images.githubusercontent.com/98472426/151360917-a172d4b3-f9fa-4e63-9fc1-ee0aa02177ec.jpg)
-
-Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dahinter kein physikalischer Anschluss steckt. Hinter Nebenstellen können folgende Funktionen konfiguriert werden:
-
-* Physikalische Anschlüsse wie Telefone oder SIP Clients
-* Anrufbeantworter
-* Faxserver
-* ACD/IVR
-
-Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die entsprechende Funktion realisiert. Weiterleitungen sind also nicht nur auf physikalische Ziele möglich, sondern auch auf die o. a. Funktionen. 
 
 Beispiel: Hier wird nun die Nebenstelle 10 für den User max eingerichtet:
 
