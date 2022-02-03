@@ -27,15 +27,13 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX
 
 ![cloudpbx_dashboard1](https://user-images.githubusercontent.com/98753538/152346499-6842be07-6604-4428-be19-691e8e123992.jpg)
 
-(1) Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls) und den registrierten Endgeräten.
+1. Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls) und den registrierten Endgeräten.
 
-(2) Beim Punkt Konversationen stehen weitere Details wie "von" und "an".  
-...Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf..
-
-(3) "Seats" und fügen  
-...![cloudpbx_dashboard2-8](https://user-images.githubusercontent.com/98753538/152347008-0ad4c1fe-a492-4fd1-860c-2b355e903b0a.jpg)..
-
-(4) Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen)
+2. Beim Punkt Konversationen stehen weitere Details wie "von" und "an".  
+   Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf  
+3. "Seats" und fügen  
+   ![cloudpbx_dashboard2-8](https://user-images.githubusercontent.com/98753538/152347008-0ad4c1fe-a492-4fd1-860c-2b355e903b0a.jpg)
+4. Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen)
 
 (5) Web- und SIP Password (können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben)
 
