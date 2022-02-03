@@ -31,9 +31,9 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX
 
 2. Beim Punkt Konversationen stehen weitere Details wie "von" und "an".
 
-```
+`
 Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf
-```
+`
 
 3. "Seats" und fügen
 
