@@ -12,16 +12,13 @@ Nun machen Sie sich mit Ihrer NetCologne Cloud PBX vertraut. In diesem Abschnitt
 
 ## Anmeldevorgang
 
-Die Anmeldung erfolgt über folgende Punkte:
-
-1. Registrierung
 Sie haben von uns ihre Login-Daten zur Konfiguration ihrer CloudPBX in folgender Form erhalten:
 
     Webseite: [https://myportal.cloudpbx.netcologne.de/v2](https://myportal.cloudpbx.netcologne.de/v2/ "Cloud-PBX Konfiguration")  
     Benutzer: `+49ONKZRufNr@firma.cloudpbx.netcologne.de`  
     Passwort: `xxxxxxxxxxxxxx`    
 
-Auf der angebenen Seite können sie sich mit diesen Daten anmelden
+Auf der angebenen Seite können Sie sich mit diesen Daten anmelden
 
 ![CloudPBX-Login_cr](https://user-images.githubusercontent.com/98472426/151378584-db4a2417-cd21-4552-9dc7-313f3234a700.jpg)
 
@@ -29,9 +26,9 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX - hier können sie
 
 ![Schritt1-NST-einrichten](https://user-images.githubusercontent.com/98472426/151360917-a172d4b3-f9fa-4e63-9fc1-ee0aa02177ec.jpg)
 
-Der erste Schritt ist die Einrichtung der Nebenstellen.
+## Einrichtung von Nebenstellen 
 
-Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dahinter kien physikalischer Anschluss steckt. Hinter Nebenstellen können folgende Funktionen konfiguriert werden:
+Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dahinter kein physikalischer Anschluss steckt. Hinter Nebenstellen können folgende Funktionen konfiguriert werden:
 
 * Physikalische Anschlüsse wie Telefone oder SIP Clients
 * Anrufbeantworter
