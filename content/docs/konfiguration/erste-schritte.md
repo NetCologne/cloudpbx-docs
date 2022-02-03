@@ -14,8 +14,8 @@ Nun machen Sie sich mit Ihrer NetCologne Cloud PBX vertraut. In diesem Abschnitt
 
 Sie haben von uns ihre Login-Daten zur Konfiguration ihrer CloudPBX in folgender Form erhalten:
 
-  
-   Webseite: [https://myportal.cloudpbx.netcologne.de/v2](https://myportal.cloudpbx.netcologne.de/v2/ "Cloud-PBX Konfiguration")
+   
+   Webseite: [https://myportal.cloudpbx.netcologne.de/v2](https://myportal.cloudpbx.netcologne.de/v2/ "Cloud-PBX Konfiguration")   
    Benutzer: `+49ONKZRufNr@firma.cloudpbx.netcologne.de`  
    Passwort: `xxxxxxxxxxxxxx`  
 
