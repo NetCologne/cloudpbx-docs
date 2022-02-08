@@ -54,8 +54,8 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 * |Dial Tone	                  |f1=425@-10,c=0/0;       |
 * |Ringback Tone	              |f1=425@-12,c=1000/4000; |
-* Busy Tone	                    f1=425@-12,c=500/500; 
-* Reorder Tone	                f1=425@-12,c=220/220; 
+* Busy Tone	                        f1=425@-12,c=500/500; 
+* Reorder Tone	                    f1=425@-12,c=220/220; 
 * Confirmation Tone	            f1=425@-11,f2=440@-11,c=100/100-100/100-100/100; 
 * Call Waiting Tone	            f1=425@-10,c=220/220-220/220-0/0; 
 * Prompt Tone	                  f1=425@-17,f2=440@-17, c=0/0; 
