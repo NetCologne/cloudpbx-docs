@@ -34,6 +34,3 @@ Weitere Informationen zum Firmwareupdate finden sich auf der Grandstream Seite: 
 Um eine Konfigurationsdatei hochzuladen, wechseln Sie in der Navigationsleiste auf den Reiter „Advanced Settings“. Scrollen Sie bis zum Ende der Seite und erstellen ein Backup Ihrer aktuellen Konfiguration. (Bei frisch installierten Geräten kann dieser Schritt auch übersprungen werden). Unter dem Punkt „Upload Configuration“ können Sie die neue Konfiguration hochladen. Hier wählen Sie lediglich den lokalen Pfad zu der gewünschten Konfigurations-Datei aus und klicken auf „Upload Configuration“.
 
 
-
-
-
