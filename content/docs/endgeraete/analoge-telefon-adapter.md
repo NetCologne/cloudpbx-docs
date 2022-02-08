@@ -17,7 +17,7 @@ Schließen Sie zuallererst Ihren Grandstream am Stromnetz und an Ihr Netzwerk an
 #### Zugangsdaten und Firmeware
 
 Das Grandstream HT-814 wird nicht automatisch provisioniert. Die Konfiguration ist daher selbst vorzunehmen.
-Über die IP-Adresse (hier 87.78.68.220), die man z.B. in der Fritzbox auslesen kann, und den Portzusatz ":49080" gelangt man auf die GUI:
+Der Zugriff auf das WebInterface erfolgt einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
 
 ![ATA Login](https://user-images.githubusercontent.com/98753538/152982361-ef730222-a9e8-49ac-bb52-665fc1d45da0.jpg)
 
