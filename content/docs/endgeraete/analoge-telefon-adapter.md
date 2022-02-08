@@ -73,7 +73,9 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 ![ATA Profile 1d](https://user-images.githubusercontent.com/98753538/152998051-436127e7-19e8-4b02-989f-059c88f43d0b.jpg)
 
-![ATA Profile 1e](https://user-images.githubusercontent.com/98753538/152998644-bb64ff90-5ee4-488a-805b-a02930aed30c.jpg)
+![ATA Profile 1e](https://user-images.githubusercontent.com/98753538/153001884-9cc66e53-7e67-4e8f-b5b6-5832479ad4e1.jpg)
+
+
 
 
 
