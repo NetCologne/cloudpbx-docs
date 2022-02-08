@@ -29,9 +29,10 @@ Im Menue "Grandsteam Device Configuration" überprüfen Sie bitte im Tab "Status
 
 https://firmware.grandstream.com/Release_Note_HT812_HT814_1.0.33.4.pdf
 
-Weitere Informationen zum Firmwareupdate finden sich auf der Grandstream Seite: http://www.grandstream.com/support/firmware
+Weitere Informationen zum Firmwareupdate und die entsprechenden Downloads finden sich auf der Grandstream Seite: http://www.grandstream.com/support/firmware
 
-Um eine Konfigurationsdatei hochzuladen, wechseln Sie in der Navigationsleiste auf den Reiter „Advanced Settings“. Scrollen Sie bis zum Ende der Seite und erstellen ein Backup Ihrer aktuellen Konfiguration. (Bei frisch installierten Geräten kann dieser Schritt auch übersprungen werden). Unter dem Punkt „Upload Configuration“ können Sie die neue Konfiguration hochladen. Hier wählen Sie lediglich den lokalen Pfad zu der gewünschten Konfigurations-Datei aus und klicken auf „Upload Configuration“.
+Wechseln Sie in der Navigationsleiste auf den Reiter „Advanced Settings“ und scrollen bis zum Ende der Seite. Unter dem Punkt „Upload Firmeware“ können Sie die zuvor abgelegte Firmware auswählen und hochladen.
+Mit "Export Backup Configuration" können Sie ein Backup Ihrer aktuellen Konfiguration erstellen (entfällt bei neu zu installierenden Geräten). Unter dem Punkt „Upload Configuration“ können Sie eine neue Konfiguration hochladen: Sie wählen den lokalen Pfad zu der gewünschten Konfigurations-Datei aus und klicken auf „Upload Configuration“.
 
 #### Basic Settings
 
@@ -43,7 +44,11 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 ### Advanced Settings
 
+![ATA Advanced Setting 1](https://user-images.githubusercontent.com/98753538/152993085-9e822078-d8b2-4fb8-927c-45a2c5a59ae2.jpg)
 
+![ATA Advanced Setting 2](https://user-images.githubusercontent.com/98753538/152993341-9497468f-470e-4dba-b2d0-48700a6d5cc1.jpg)
 
+![ATA Advanced Setting 3](https://user-images.githubusercontent.com/98753538/152994356-9c31fc26-4820-4302-8472-e4911f4105d4.jpg)
 
+Übernehmen Sie die entsprechenden Einstellungen und bestätigen am unteren Menueende mit "Apply". 
 
