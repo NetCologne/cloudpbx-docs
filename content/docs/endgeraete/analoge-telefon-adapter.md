@@ -67,6 +67,15 @@ Conference Party Hangup Tone	f1=425@-15,c=600/600;
 
 ![ATA Profile 1a](https://user-images.githubusercontent.com/98753538/152995771-2222ab95-cb9d-4a48-b043-6972b732f5a3.jpg)
 
+![ATA Profile 1b](https://user-images.githubusercontent.com/98753538/152997833-82a5f4b8-bb80-404a-98b7-8c020d76ea02.jpg)
+
+![ATA Profile 1c](https://user-images.githubusercontent.com/98753538/152997853-ade99b8d-a752-4e7c-867b-46c3ad457fac.jpg)
+
+![ATA Profile 1d](https://user-images.githubusercontent.com/98753538/152998051-436127e7-19e8-4b02-989f-059c88f43d0b.jpg)
+
+![ATA Profile 1e](https://user-images.githubusercontent.com/98753538/152998644-bb64ff90-5ee4-488a-805b-a02930aed30c.jpg)
+
+
 
 
 
