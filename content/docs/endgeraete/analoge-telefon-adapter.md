@@ -83,7 +83,8 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 ![ATA FXS Ports](https://user-images.githubusercontent.com/98753538/153009721-f5b4e79c-e7e6-484c-84c1-a41b695ec402.jpg)
 
-Das einzutragende Passwort ist das SIP Password der Nebenstelle aus der Cloud-PBX.
+Unter SIP User ID, Authenticat ID, Name und Request URI Routing ID tragen sie den Sip Usernamen, der in der Cloud PBX eingerichteten Nebenstelle, ein.
+Das einzutragende Passwort ist das zugehörige SIP Password der Nebenstelle aus der Cloud-PBX.
 
 Übernehmen Sie die entsprechenden Einstellungen und bestätigen am unteren Menueende mit "Apply". 
 
