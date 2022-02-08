@@ -19,7 +19,7 @@ Schließen Sie zuallererst Ihren Grandstream am Stromnetz und an Ihr Netzwerk an
 Das Grandstream HT-814 wird nicht automatisch provisioniert. Die Konfiguration ist daher selbst vorzunehmen.
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
 
-![152982361-ef730222-a9e8-49ac-bb52-665fc1d45da0_ew](https://user-images.githubusercontent.com/98472426/153013120-4430551b-370c-4c40-8999-a75e82dcf261.jpg)
+![ATA_Login](https://user-images.githubusercontent.com/98472426/153013541-d360ff56-54ea-46d5-a651-2adefb915fc2.jpg)
 
 Username und Password lauten beide "admin".
 
