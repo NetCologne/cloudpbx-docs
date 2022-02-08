@@ -75,6 +75,11 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 ![ATA Profile 1e](https://user-images.githubusercontent.com/98753538/153001884-9cc66e53-7e67-4e8f-b5b6-5832479ad4e1.jpg)
 
+![ATA Profile 1f](https://user-images.githubusercontent.com/98753538/153002274-b6b3e96b-891d-4887-a56f-807001b48d7f.jpg)
+
+Übernehmen Sie die entsprechenden Einstellungen und bestätigen am unteren Menueende mit "Apply". 
+
+#### FXS Ports
 
 
 
