@@ -14,7 +14,7 @@ Schließen Sie zuallererst Ihren Grandstream am Stromnetz und an Ihr Netzwerk an
 
 <img src="/images/ht814.jpg" alt="HT-814"/>
 
-# Zugangsdaten und Firmeware
+#### Zugangsdaten und Firmeware
 
 Das Grandstream HT-814 wird nicht automatisch provisioniert. Die Konfiguration ist daher selbst vorzunehmen.
 Über die IP-Adresse (hier 87.78.68.220), die man z.B. in der Fritzbox auslesen kann, und den Portzusatz ":49080" gelangt man auf die GUI:
@@ -32,5 +32,18 @@ https://firmware.grandstream.com/Release_Note_HT812_HT814_1.0.33.4.pdf
 Weitere Informationen zum Firmwareupdate finden sich auf der Grandstream Seite: http://www.grandstream.com/support/firmware
 
 Um eine Konfigurationsdatei hochzuladen, wechseln Sie in der Navigationsleiste auf den Reiter „Advanced Settings“. Scrollen Sie bis zum Ende der Seite und erstellen ein Backup Ihrer aktuellen Konfiguration. (Bei frisch installierten Geräten kann dieser Schritt auch übersprungen werden). Unter dem Punkt „Upload Configuration“ können Sie die neue Konfiguration hochladen. Hier wählen Sie lediglich den lokalen Pfad zu der gewünschten Konfigurations-Datei aus und klicken auf „Upload Configuration“.
+
+#### Basic Settings
+
+Beachten Sie die Voreinstellung von 10 Minuten beim Session Timeout.
+
+![ATA Basic Setting](https://user-images.githubusercontent.com/98753538/152987589-de064f81-9a80-4af9-855b-2c678c5df960.jpg)
+
+Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit "Apply". 
+
+### Advanced Settings
+
+
+
 
 
