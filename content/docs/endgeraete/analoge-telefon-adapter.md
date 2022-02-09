@@ -54,13 +54,6 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 
 <table>
-  <thead>
-    <tr>
-      <th>Spalte 1</th>
-      <th>Spalte 2</th>
-      <th>Spalte 3</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>Inhalt</td>
