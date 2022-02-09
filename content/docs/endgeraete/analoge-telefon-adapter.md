@@ -53,25 +53,29 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 ###### Call Progress Tones
 
 
-<div class="pull-left">
+<table>
+  <thead>
+    <tr>
+      <th>Spalte 1</th>
+      <th>Spalte 2</th>
+      <th>Spalte 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+  </tbody>
+</table>
 
-## Heading
 
----
-Dieser Text wird in der linken Spalte ausgegeben.<br>This text is displayed in the left column.
-
----
-</div>
-
-<div class="pull-right">
-
-## Überschrift
-
----
-Dieser Text wird in der rechten Spalte ausgegeben.<br>This text is displayed in the right column.
-
----
-</div>
 +:------------------------------+-------------------------:+
 |Dial Tone                      |f1=425@-10,c=0/0;         |
 +-------------------------------+--------------------------+
