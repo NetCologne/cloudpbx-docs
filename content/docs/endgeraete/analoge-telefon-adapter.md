@@ -121,6 +121,3 @@ Mit der *Profile ID* wählen Sie das entsprechende Profil aus. *Profile 1* könn
 Zu den Unterschieden in den Profilen bzgl. Fax und analogem Telefon, beachten Sie bitte die Anmerkungen in den Abbildungen unter **Profile 1**.
 
 Übernehmen Sie die entsprechenden Einstellungen und bestätigen am unteren Menueende mit "Apply". 
-
-
-
