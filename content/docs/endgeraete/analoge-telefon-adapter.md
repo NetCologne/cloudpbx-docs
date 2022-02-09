@@ -62,6 +62,7 @@ Dieser Text wird in der linken Spalte ausgegeben.<br>This text is displayed in t
 
 ---
 </div>
+
 <div class="pull-right">
 
 ## Überschrift
