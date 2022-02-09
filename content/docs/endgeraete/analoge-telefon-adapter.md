@@ -81,15 +81,15 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 #### FXS Ports
 
-![ATA FXS Ports](https://user-images.githubusercontent.com/98753538/153009721-f5b4e79c-e7e6-484c-84c1-a41b695ec402.jpg)
+![ATA FXS Ports](https://user-images.githubusercontent.com/98753538/153131122-84c31339-ff01-4c23-97e7-615006551e4b.jpg)
 
-Unter *SIP User ID*, *Authenticat ID*, *Name* und *Request URI Routing ID* tragen sie den Sip Usernamen, der in der Cloud PBX eingerichteten Nebenstelle, ein.
+Unter *SIP User ID*, *Authenticat ID*, *Name* und *Request URI Routing ID* tragen Sie den Sip Usernamen der in der Cloud PBX eingerichteten Nebenstelle ein.
 
 Das einzutragende *Passwort* ist das zugehörige SIP Password der Nebenstelle aus der Cloud-PBX.
 
-Mit der *Profile ID* wählen sie das entsprechende Profil aus. Profil 1 könnte ein Profil für ein **analoges Telefon** sein, während Profil 2 die Einstellungen für ein **Fax** beinhaltet. 
+Mit der *Profile ID* wählen Sie das entsprechende Profil aus. *Profile 1* könnte ein Profil für ein **analoges Telefon** sein, während *Profile 2* die Einstellungen für ein **Fax** beinhaltet. 
 
-Zu den Unterschieden in den Profilen bzgl. Fax und analogem Telefon, beachten sie bitte die Anmerkungen in den Abbildungen zu **Profil 1**
+Zu den Unterschieden in den Profilen bzgl. Fax und analogem Telefon, beachten Sie bitte die Anmerkungen in den Abbildungen zu **Profile 1**
 
 Übernehmen Sie die entsprechenden Einstellungen und bestätigen am unteren Menueende mit "Apply". 
 
