@@ -89,7 +89,7 @@ Das einzutragende *Passwort* ist das zugehörige SIP Password der Nebenstelle au
 
 Mit der *Profile ID* wählen Sie das entsprechende Profil aus. *Profile 1* könnte ein Profil für ein **analoges Telefon** sein, während *Profile 2* die Einstellungen für ein **Fax** beinhaltet. 
 
-Zu den Unterschieden in den Profilen bzgl. Fax und analogem Telefon, beachten Sie bitte die Anmerkungen in den Abbildungen zu **Profile 1**
+Zu den Unterschieden in den Profilen bzgl. Fax und analogem Telefon, beachten Sie bitte die Anmerkungen in den Abbildungen unter **Profile 1**.
 
 Übernehmen Sie die entsprechenden Einstellungen und bestätigen am unteren Menueende mit "Apply". 
 
