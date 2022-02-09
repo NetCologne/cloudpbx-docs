@@ -52,7 +52,7 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 ###### Call Progress Tones
 
--                               -
+-----------------------------   ------------------------------------------------
 * Dial Tone                     f1=425@-10,c=0/0;
 * Ringback Tone>>>>>>>>>>>>>>   f1=425@-12,c=1000/4000;
 * Busy Tone>>>>>>>>>>>>>>>>>    f1=425@-12,c=500/500; 
