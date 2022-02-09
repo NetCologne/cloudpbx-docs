@@ -56,14 +56,12 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 <table>
   <tbody>
     <tr>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
+      <td>Dial Tone</td>
+      <td>f1=425@-10,c=0/0;</td>
     </tr>
     <tr>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
+      <td>Ringback Tone</td>
+      <td>f1=425@-12,c=1000/4000;</td>
     </tr>
   </tbody>
 </table>
