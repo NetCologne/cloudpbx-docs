@@ -38,6 +38,8 @@ toc: true
 ## Windows
 ### PhonerLite
 
+Installation des Softclients unter http://phonerlite.de/download_de.htm . 
+
 ![PhoneLite Konfiguration Server](https://user-images.githubusercontent.com/98753538/153848572-20e621de-3bd6-49a9-8b27-91cfaa74f07c.jpg)
 
 ![PhoneLite Konfiguration Benutzer](https://user-images.githubusercontent.com/98753538/153848487-ffd54614-be89-4a5e-a1bb-7d88b315be46.jpg)
