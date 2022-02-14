@@ -16,12 +16,9 @@ Achtung: Die automatische Konfiguration ist mit den SIP-Modellen von Unify zurze
 
 <img src="/images/cp200.jpg" alt="CP200"/>
   
-Grundsätzlich können nur Endgeräte mit SIP Protokoll betrieben werden. Wenn das zu konfigurierende Telefon noch mit einer HFA Firmware ausgerüstet ist, muss zunächst ein Firmware Upgrade auf eine SIP fähige Firmware durchgeführt werden.  
-Ein entsprechendes Image kann [hier](https://hipath.tonidoid.com/ui/core/index.html#expl-tabl.G:%5CTonido%5CShared%5COpenScape%20Desk%20Phone%20CP%5CSIP%5CDesk%20Phone%20CP20x%20SIP%20V1/ "Login als guest, User und PW hipath4000") heruntergeladen werden.
-
-![DownloadImage](https://user-images.githubusercontent.com/98472426/151367270-09e12db5-0af5-4072-b640-36c99ddb7419.jpg)
-
-Das File „CP20X_SIP_V1_R9_2_0.img“ bitte herunterladen und auf einem PC speichern, der im gleichen Netz hängt, wie die upzudatenden Endgeräte.   
+Grundsätzlich können nur Endgeräte mit SIP Protokoll betrieben werden. Wenn das zu konfigurierende Telefon noch mit einer HFA Firmware ausgerüstet ist, muss zunächst ein Firmware Upgrade auf eine SIP fähige Firmware durchgeführt werden. 
+Um die entsprechende SIP Software zu erhalten, setzen sie sich bitte mit ihrem Anlagenbauer oder direkt mit Unify in Verbindung. 
+   
 Das Firmware Upgrade wird über das Web Interface der Telefone durchgeführt. Das Interface wird über die IP der Telefone erreicht. Das Hautproblem ist die IP des Telefons zu ermitteln. Im Idealfall lässt sich diese am Router auslesen.  
 Der Zugriff auf das WebInterface erfolgt dann mit https://IPAdresse des Telefons. Der Admin Login für das Web Interface ist:
 
