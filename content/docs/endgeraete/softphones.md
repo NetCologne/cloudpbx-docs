@@ -35,3 +35,25 @@ toc: true
 <img src="https://user-images.githubusercontent.com/20154956/151133142-b4a73e8e-7260-43a7-b9f5-b755cd398434.png" height="600" />
 <img src="https://user-images.githubusercontent.com/20154956/151133171-85ef0dd0-26cd-4174-bb28-639bc6d25a05.png" height="600" />
 
+## Windows
+### PhonerLite
+
+![PhoneLite Konfiguration Server](https://user-images.githubusercontent.com/98753538/153848572-20e621de-3bd6-49a9-8b27-91cfaa74f07c.jpg)
+
+![PhoneLite Konfiguration Benutzer](https://user-images.githubusercontent.com/98753538/153848487-ffd54614-be89-4a5e-a1bb-7d88b315be46.jpg)
+
+![PhoneLite Konfiguration Netzwerk](https://user-images.githubusercontent.com/98753538/153848648-7e632f41-637a-4e9e-9981-62e29ab2c0cd.jpg)
+
+![PhoneLite Konfiguration Codecs](https://user-images.githubusercontent.com/98753538/153848681-538cc078-55c7-4d99-a235-6ea1dedfa2ad.jpg)
+
+![PhoneLite Konfiguration Speichern](https://user-images.githubusercontent.com/98753538/153848898-3573ac86-51c3-46d6-8db3-87855a3fd115.jpg)
+
+![PhoneLite Konfiguration Registrierung](https://user-images.githubusercontent.com/98753538/153848918-f7d61a80-3fb9-4fdf-a09f-fc252ebfb171.jpg)
+
+![PhoneLite Konfiguration Telefonbuch](https://user-images.githubusercontent.com/98753538/153849003-47444112-b522-4fb7-8d51-908cb3d2ed61.jpg)
+
+![PhoneLite Konfiguration Kurzwahl](https://user-images.githubusercontent.com/98753538/153849019-0e5857be-3c33-44a8-92c6-b6fffb33f279.jpg)
+
+![PhoneLite Konfiguration Kurz Kollege](https://user-images.githubusercontent.com/98753538/153849040-d45cd9ec-cdd1-4644-aba0-667edcf25be6.jpg)
+
+
