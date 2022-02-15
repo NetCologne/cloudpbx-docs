@@ -51,7 +51,7 @@ Im Reiter "Benutzer" werden Benutzername, Angezeigter Name, Authentifizierungsna
 ![PhoneLite Konfiguration Benutzer](https://user-images.githubusercontent.com/98753538/153848487-ffd54614-be89-4a5e-a1bb-7d88b315be46.jpg)
 <br>
 <br>  
-Um die Inhalte zu schützen bzw. sicher zu verschlüsseln, wird im Reiter "Netzwekr" TLS als bevorzugte Verbindungsart ausgewählt. Der Lokale Port lautet 5061:
+Um die Inhalte zu schützen bzw. sicher zu verschlüsseln, wird im Reiter "Netzwerk" TLS als bevorzugte Verbindungsart ausgewählt. Der Lokale Port lautet 5061:
 ![PhoneLite Konfiguration Netzwerk](https://user-images.githubusercontent.com/98753538/153848648-7e632f41-637a-4e9e-9981-62e29ab2c0cd.jpg)
 <br>
 <br>  
