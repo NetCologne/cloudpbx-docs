@@ -14,6 +14,11 @@ Schließen Sie zuallererst Ihren Grandstream am Stromnetz und an Ihr Netzwerk an
 
 <img src="/images/ht814.jpg" alt="HT-814"/>
 
+#### Anschlüsse
+
+![ATA Anschlüsse](https://user-images.githubusercontent.com/98753538/154268048-2ea154a9-ae3e-4934-960a-fa563b7d6f05.jpg)
+
+
 #### Zugangsdaten und Firmeware
 
 Das Grandstream HT-814 wird nicht automatisch provisioniert. Die Konfiguration ist daher selbst vorzunehmen.
