@@ -32,7 +32,7 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [4]	Installieren Sie nach Bedarf "ActiveX", "Outlook" und "CTI Client TAPI Connector".<br>
 <br>
-![phonesuite Installation](https://user-images.githubusercontent.com/98753538/154282695-07121521-4dd6-45c2-a66a-0c0502c30c1c.jpg)
+![phonesuite Installation](https://user-images.githubusercontent.com/98753538/154282695-07121521-4dd6-45c2-a66a-0c0502c30c1c.jpg)<br>
 <br>
 <br>
 [5]	Klicken Sie auf "Weiter" und führen Sie die Installation zu Ende.<br>
@@ -46,22 +46,22 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [7]	Klicken Sie im Menü "Optionen" auf den Punkt "PhoneDialog (TAPI-Gerät)".<br>
 <br>
-![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154283706-a1b91ce8-7d6f-4d88-858a-0e2fa3136c0b.jpg)
+![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154283706-a1b91ce8-7d6f-4d88-858a-0e2fa3136c0b.jpg)<br>
 <br>
 <br>
 [8]	Klicken Sie im sich daraufhin öffnenden Fenster auf "TAPI-Gerät auswählen".<br>
 <br>
-![phoneSuite Tapi auswählen2](https://user-images.githubusercontent.com/98753538/154433643-5d54e0d4-9b00-4c75-9d9d-e423084263ca.jpg)
+![phoneSuite Tapi auswählen2](https://user-images.githubusercontent.com/98753538/154433643-5d54e0d4-9b00-4c75-9d9d-e423084263ca.jpg)<br>
 <br>
 <br>
 [9]	Wählen Sie aus der Auswahl "snom Phones" oder "Yealink Phones" aus.<br>
 <br>
-![phoneSuite Yeahlink auswählen2](https://user-images.githubusercontent.com/98753538/154433861-b458ac1a-1895-44e4-98e2-d69002f91e7b.jpg)
+![phoneSuite Yeahlink auswählen2](https://user-images.githubusercontent.com/98753538/154433861-b458ac1a-1895-44e4-98e2-d69002f91e7b.jpg)<br>
 <br>
 <br>
 [10] und klicken auf "Geräte-Konfiguration".<br>
 <br>
-![phoneSuite Line_Konfiguration](https://user-images.githubusercontent.com/98753538/154434987-be3f84eb-97f4-46fb-acae-ec35c9faee2f.jpg)
+![phoneSuite Line_Konfiguration](https://user-images.githubusercontent.com/98753538/154434987-be3f84eb-97f4-46fb-acae-ec35c9faee2f.jpg)<br>
 <br>
 [11]	Geben Sie nun die IP-Adresse des anzubindenden Telefons ein.<br>
 <br>
@@ -74,7 +74,7 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 #### Konfiguration der Firewall
 <br>
-![phoneSuite Line_Konfiguration2a](https://user-images.githubusercontent.com/98753538/154460088-29a61e4e-4fc0-43c3-8717-06f501696c48.jpg)
+![phoneSuite Line_Konfiguration2a](https://user-images.githubusercontent.com/98753538/154460088-29a61e4e-4fc0-43c3-8717-06f501696c48.jpg)<br>
 <br>
 [15]	Klicken Sie auf den Reiter "Aktions-URL" und stellen Sie sicher, dass der Haken bei "Anruf-Ereignisse vom Telefon empfangen" gesetzt ist.<br>
 <br>
@@ -82,11 +82,11 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [17]	Klicken Sie anschließend auf "Start". Damit ändert sich der Status von "Inaktiv" auf "Aktiv".<br>
 <br>
-![phoneSuite LineKonfiguration3](https://user-images.githubusercontent.com/98753538/154460446-9533fc06-1d2a-42d5-a8f7-496151eddcbe.jpg)
+![phoneSuite LineKonfiguration3](https://user-images.githubusercontent.com/98753538/154460446-9533fc06-1d2a-42d5-a8f7-496151eddcbe.jpg)<br>
 <br>
 [18]	Klicken Sie sodann auf "Windows-Firewall konfigurieren". Damit wird der TCP-Port 8080 an Ihrem PC für eingehenden Datenverkehr freigeschaltet.<br>
 <br>
-![phoneSuite Firewall](https://user-images.githubusercontent.com/98753538/154444715-e295431d-eef7-4f94-8ccc-9f18c3a822a4.jpg)
+![phoneSuite Firewall](https://user-images.githubusercontent.com/98753538/154444715-e295431d-eef7-4f94-8ccc-9f18c3a822a4.jpg)<br>
 <br>
 [19]	Wählen Sie nun "Windows-Firewall jetzt automatisch konfigurieren".<br>
 <br>
@@ -107,11 +107,11 @@ Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21
 <br>
 #### Verknüpfung des Telefons
 <br>
-![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154445924-0a437dfa-8bc6-46c8-899f-f1abd6e4ab34.jpg)
+![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154445924-0a437dfa-8bc6-46c8-899f-f1abd6e4ab34.jpg)<br>
 <br>
 [24]	Wählen Sie im Menü "Optionen" nun "PhoneDialog (TAPI-Gerät)" aus.<br>
 <br>
-![phoneSuite PhoneDialog2](https://user-images.githubusercontent.com/98753538/154446298-f5f215c4-9435-4e3a-b39d-4e96c4390765.jpg)
+![phoneSuite PhoneDialog2](https://user-images.githubusercontent.com/98753538/154446298-f5f215c4-9435-4e3a-b39d-4e96c4390765.jpg)<br>
 <br>
 [25]	Klicken Sie auf "Wähleinstellungen" für das betreffende TAPI-Gerät.<br>
 <br>
@@ -119,7 +119,7 @@ Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21
 <br>
 [27]	Je nachdem, ob eine Amtsholung erforderlich ist, setzen Sie den Haken bei "Amtskennziffer" und geben die entsprechende Ziffer(n) ein, z.B. "0"<br>
 <br>
-<![phoneSuite Wähleinstellungen2](https://user-images.githubusercontent.com/98753538/154468450-8c325c65-afeb-4758-b998-c570f841ee3f.jpg)
+<![phoneSuite Wähleinstellungen2](https://user-images.githubusercontent.com/98753538/154468450-8c325c65-afeb-4758-b998-c570f841ee3f.jpg)<br>
 <br>
 [28]	Klicken Sie abschließend auf "OK".<br>
 <br>
