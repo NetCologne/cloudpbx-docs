@@ -105,11 +105,11 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 
 #### Verknüpfung des Telefons
 
-Bild: PhoneDialog auswählen
+![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154445924-0a437dfa-8bc6-46c8-899f-f1abd6e4ab34.jpg)
 <br>
 [24]	Wählen Sie im Menü "Optionen" nun "PhoneDialog (TAPI-Gerät)" aus.<br>
 <br>
-Bild: Wähleinstellungen treffen
+![phoneSuite PhoneDialog2](https://user-images.githubusercontent.com/98753538/154446298-f5f215c4-9435-4e3a-b39d-4e96c4390765.jpg)
 <br>
 [25]	Klicken Sie auf "Wähleinstellungen" für das betreffende TAPI-Gerät.<br>
 <br>
