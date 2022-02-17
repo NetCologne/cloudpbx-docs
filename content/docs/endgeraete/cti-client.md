@@ -69,13 +69,13 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [13]	Das Passwort lautet im Auslieferungszustand ebenfalls "admin". Bei über die Cloud-PBX-GUI provisionierten Geräten lautet es "adminpass". Oder verwenden Sie das von Ihnen gesetzte Passwort (siehe Provisionierung Endgeräte).<br>
 <br>
-[14]	Nach erfolgter Eingabe aklicken Sie auf "Test". Sind alle Eingaben korrekt, so erscheint hier "OK".<br>
+[14]	Nach erfolgter Eingabe klicken Sie auf "Test". Sind alle Eingaben korrekt, so erscheint hier "OK".<br>
 <br>
 
 
 #### Konfiguration der Firewall
 
-Bild: Windows Firewall konfigurieren		Bild: Firewall Einstellungen
+![phoneSuite Line_Konfiguration2](https://user-images.githubusercontent.com/98753538/154444473-87f8f662-a622-456a-ac7b-c64d283a35c2.jpg)
 <br>
 [15]	Klicken Sie auf den Reiter "Aktions-URL" und stellen Sie sicher, dass der Haken bei "Anruf-Ereignisse vom Telefon empfangen" gesetzt ist.<br>
 <br>
@@ -85,13 +85,15 @@ Bild: Windows Firewall konfigurieren		Bild: Firewall Einstellungen
 <br>
 [18]	Klicken Sie sodann auf "Windows-Firewall konfigurieren". Damit wird der TCP-Port 8080 an Ihrem PC für eingehenden Datenverkehr freigeschaltet.<br>
 <br>
+![phoneSuite Firewall](https://user-images.githubusercontent.com/98753538/154444715-e295431d-eef7-4f94-8ccc-9f18c3a822a4.jpg)
+<br>
 [19]	Wählen Sie nun "Windows-Firewall jetzt automatisch konfigurieren".<br>
 <br>
 [20]	Klicken Sie auf "Test-URL im Browser öffnen".<br>
 <br>
-XML-Anzeige: TAPI erfolgreich eingerichtet<br>
+![phoneSuite TAPI Receive](https://user-images.githubusercontent.com/98753538/154444915-bce5fcb5-9f13-4d4a-b0fd-ce756f3dc5f9.jpg)
 <br>
-Bild: Abfrage nach XML-Anzeige<br>
+![phoneSuite TAPI Receive2](https://user-images.githubusercontent.com/98753538/154444938-b8e69021-c3e2-49bc-ae31-b72b9eec8b61.jpg)
 <br>
 [21]	Ihr Webbrowser öffnet sich nun mit der Meldung <TAPI>Receive OK</TAPI>. Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21 und überprüfen Sie Ihre Firewall-Einstellungen.<br>
 <br>
