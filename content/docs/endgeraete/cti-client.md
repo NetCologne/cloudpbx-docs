@@ -93,16 +93,17 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [20]	Klicken Sie auf "Test-URL im Browser öffnen".<br>
 <br>
+[21]	Ihr Webbrowser öffnet sich nun mit der Meldung <TAPI>Receive OK</TAPI>:<br>
+<br>
 ![phoneSuite TAPI Receive](https://user-images.githubusercontent.com/98753538/154444915-bce5fcb5-9f13-4d4a-b0fd-ce756f3dc5f9.jpg)<br>
 <br>
-![phoneSuite TAPI Receive2](https://user-images.githubusercontent.com/98753538/154444938-b8e69021-c3e2-49bc-ae31-b72b9eec8b61.jpg)<br>
-<br>
-[21]	Ihr Webbrowser öffnet sich nun mit der Meldung <TAPI>Receive OK</TAPI>. Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21 und überprüfen Sie Ihre Firewall-Einstellungen.<br>
+Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21 und überprüfen Sie Ihre Firewall-Einstellungen.<br>
 <br>
 [22]	Klicken Sie bei der Abfrage auf "OK".<br>
 <br>
-[23]	Schließen Sie das Einstellungs-Fenster mit einem Klick auf "OK".<br>
+![phoneSuite TAPI Receive2](https://user-images.githubusercontent.com/98753538/154444938-b8e69021-c3e2-49bc-ae31-b72b9eec8b61.jpg)<br>
 <br>
+[23]	Schließen Sie das Einstellungs-Fenster mit einem Klick auf "OK".<br>
 
 
 #### Verknüpfung des Telefons
