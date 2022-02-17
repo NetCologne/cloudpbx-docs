@@ -21,6 +21,7 @@ Es ist keine systemfremde Firewall (außer Windows) installiert.
 
 Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-Software eingetragen.
 <br>
+<br>
 
 #### Installation des PhoneSuite CTI Clients
 
@@ -72,7 +73,7 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [14]	Nach erfolgter Eingabe klicken Sie auf "Test". Sind alle Eingaben korrekt, so erscheint hier "OK".<br>
 <br>
-
+<br>
 
 #### Konfiguration der Firewall
 
@@ -105,7 +106,8 @@ Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21
 ![phoneSuite TAPI Receive2](https://user-images.githubusercontent.com/98753538/154444938-b8e69021-c3e2-49bc-ae31-b72b9eec8b61.jpg)<br>
 <br>
 [23]	Schließen Sie das Einstellungs-Fenster mit einem Klick auf "OK".<br>
-
+<br>
+<br>
 
 #### Verknüpfung des Telefons
 
