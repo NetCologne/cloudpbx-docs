@@ -116,9 +116,10 @@ Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21
 [25]	Klicken Sie auf "Wähleinstellungen" für das betreffende TAPI-Gerät.<br>
 <br>
 [26]	Wählen Sie den Reiter "Telefonanlage".<br>
-<![phoneSuite Wähleinstellungen2](https://user-images.githubusercontent.com/98753538/154468450-8c325c65-afeb-4758-b998-c570f841ee3f.jpg)
 <br>
 [27]	Je nachdem, ob eine Amtsholung erforderlich ist, setzen Sie den Haken bei "Amtskennziffer" und geben die entsprechende Ziffer(n) ein, z.B. "0"<br>
+<br>
+<![phoneSuite Wähleinstellungen2](https://user-images.githubusercontent.com/98753538/154468450-8c325c65-afeb-4758-b998-c570f841ee3f.jpg)
 <br>
 [28]	Klicken Sie abschließend auf "OK".<br>
 <br>
