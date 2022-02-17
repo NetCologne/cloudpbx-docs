@@ -22,9 +22,8 @@ Es ist keine systemfremde Firewall (außer Windows) installiert.
 Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-Software eingetragen.
 <br>
 <br>
-
 #### Installation des PhoneSuite CTI Clients
-
+<br>
 [1] Download des Clients von der Website des Herstellers: https://www.phonesuite.de/de/download.htm.<br>
 <br>
 [2]	Führen Sie Setup.exe aus.<br>
@@ -43,9 +42,8 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 ![phoneSuite_Start](https://user-images.githubusercontent.com/98753538/154282861-d6c26fca-6760-466a-80b2-62cbbe989b77.jpg)
 <br>
 <br>
-
 #### Einrichtung des PhoneSuite CTI Clients
-
+<br>
 [7]	Klicken Sie im Menü "Optionen" auf den Punkt "PhoneDialog (TAPI-Gerät)".<br>
 <br>
 ![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154283706-a1b91ce8-7d6f-4d88-858a-0e2fa3136c0b.jpg)
@@ -74,9 +72,8 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 [14]	Nach erfolgter Eingabe klicken Sie auf "Test". Sind alle Eingaben korrekt, so erscheint hier "OK".<br>
 <br>
 <br>
-
 #### Konfiguration der Firewall
-
+<br>
 ![phoneSuite Line_Konfiguration2a](https://user-images.githubusercontent.com/98753538/154460088-29a61e4e-4fc0-43c3-8717-06f501696c48.jpg)
 <br>
 [15]	Klicken Sie auf den Reiter "Aktions-URL" und stellen Sie sicher, dass der Haken bei "Anruf-Ereignisse vom Telefon empfangen" gesetzt ist.<br>
@@ -108,9 +105,8 @@ Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21
 [23]	Schließen Sie das Einstellungs-Fenster mit einem Klick auf "OK".<br>
 <br>
 <br>
-
 #### Verknüpfung des Telefons
-
+<br>
 ![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154445924-0a437dfa-8bc6-46c8-899f-f1abd6e4ab34.jpg)
 <br>
 [24]	Wählen Sie im Menü "Optionen" nun "PhoneDialog (TAPI-Gerät)" aus.<br>
