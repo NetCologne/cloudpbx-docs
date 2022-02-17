@@ -44,18 +44,16 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 
 #### Einrichtung des PhoneSuite CTI Clients
 
+[7]	Klicken Sie im Menü "Optionen" auf den Punkt "PhoneDialog (TAPI-Gerät)".<br>
 ![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154283706-a1b91ce8-7d6f-4d88-858a-0e2fa3136c0b.jpg)
 <br>
-<br>
-[7]	Klicken Sie im Menü "Optionen" auf den Punkt "PhoneDialog (TAPI-Gerät)".<br>
-<br>
-![phoneSuite Tapi auswählen](https://user-images.githubusercontent.com/98753538/154283893-db566f8e-96e4-4d01-8ab4-e1a0fb40c49c.jpg)
-<br>
-<br>
 [8]	Klicken Sie im sich daraufhin öffnenden Fenster auf "TAPI-Gerät auswählen".<br>
-<br>
-![phoneSuite Yeahlink auswählen](https://user-images.githubusercontent.com/98753538/154284087-ee1e3d86-1f91-4a69-a9d4-2dc52d5dadfd.jpg)
-<br>
+![phoneSuite Tapi auswählen2](https://user-images.githubusercontent.com/98753538/154433643-5d54e0d4-9b00-4c75-9d9d-e423084263ca.jpg)
 <br>
 [9]	Wählen Sie aus der Auswahl "snom Phones" oder "Yealink Phones" aus.<br>
+![phoneSuite Yeahlink auswählen2](https://user-images.githubusercontent.com/98753538/154433861-b458ac1a-1895-44e4-98e2-d69002f91e7b.jpg)
+[10] und klicken auf "Geräte-Konfiguration".<br>
+
+
 <br>
+
