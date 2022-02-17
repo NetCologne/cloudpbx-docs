@@ -23,7 +23,7 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 <br>
 #### Installation des PhoneSuite CTI Clients
-<br>
+
 [1] Download des Clients von der Website des Herstellers: https://www.phonesuite.de/de/download.htm.<br>
 <br>
 [2]	Führen Sie Setup.exe aus.<br>
@@ -34,7 +34,6 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 ![phonesuite Installation](https://user-images.githubusercontent.com/98753538/154282695-07121521-4dd6-45c2-a66a-0c0502c30c1c.jpg)<br>
 <br>
-<br>
 [5]	Klicken Sie auf "Weiter" und führen Sie die Installation zu Ende.<br>
 <br>
 [6] Starten Sie "Phone Suite CTI Client" über das Windows-Startmenü.<br>
@@ -43,21 +42,18 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 <br>
 #### Einrichtung des PhoneSuite CTI Clients
-<br>
+
 [7]	Klicken Sie im Menü "Optionen" auf den Punkt "PhoneDialog (TAPI-Gerät)".<br>
 <br>
 ![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154283706-a1b91ce8-7d6f-4d88-858a-0e2fa3136c0b.jpg)<br>
-<br>
 <br>
 [8]	Klicken Sie im sich daraufhin öffnenden Fenster auf "TAPI-Gerät auswählen".<br>
 <br>
 ![phoneSuite Tapi auswählen2](https://user-images.githubusercontent.com/98753538/154433643-5d54e0d4-9b00-4c75-9d9d-e423084263ca.jpg)<br>
 <br>
-<br>
 [9]	Wählen Sie aus der Auswahl "snom Phones" oder "Yealink Phones" aus.<br>
 <br>
 ![phoneSuite Yeahlink auswählen2](https://user-images.githubusercontent.com/98753538/154433861-b458ac1a-1895-44e4-98e2-d69002f91e7b.jpg)<br>
-<br>
 <br>
 [10] und klicken auf "Geräte-Konfiguration".<br>
 <br>
@@ -71,9 +67,8 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [14]	Nach erfolgter Eingabe klicken Sie auf "Test". Sind alle Eingaben korrekt, so erscheint hier "OK".<br>
 <br>
-<br>
 #### Konfiguration der Firewall
-<br>
+
 ![phoneSuite Line_Konfiguration2a](https://user-images.githubusercontent.com/98753538/154460088-29a61e4e-4fc0-43c3-8717-06f501696c48.jpg)<br>
 <br>
 [15]	Klicken Sie auf den Reiter "Aktions-URL" und stellen Sie sicher, dass der Haken bei "Anruf-Ereignisse vom Telefon empfangen" gesetzt ist.<br>
@@ -104,9 +99,8 @@ Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21
 <br>
 [23]	Schließen Sie das Einstellungs-Fenster mit einem Klick auf "OK".<br>
 <br>
-<br>
 #### Verknüpfung des Telefons
-<br>
+
 ![phoneSuite Einrichtung1](https://user-images.githubusercontent.com/98753538/154445924-0a437dfa-8bc6-46c8-899f-f1abd6e4ab34.jpg)<br>
 <br>
 [24]	Wählen Sie im Menü "Optionen" nun "PhoneDialog (TAPI-Gerät)" aus.<br>
@@ -122,7 +116,6 @@ Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21
 <![phoneSuite Wähleinstellungen2](https://user-images.githubusercontent.com/98753538/154468450-8c325c65-afeb-4758-b998-c570f841ee3f.jpg)<br>
 <br>
 [28]	Klicken Sie abschließend auf "OK".<br>
-<br>
 <br>
 Ihr Phone Suite CTI Client ist nun mit Ihrem Telefon verbunden. Eingehende Anrufe werden im CTI-Client signalisiert, ausgehende Anrufe werden über den CTI-Client vom IP-Telefon ausgeführt. Eventuell müssen Sie bei der Konfiguration am Telefon eine Abfrage "Remote Zugriff zulassen" bestätigen.
 Rufnummern können in der Standardeinstellung aus jedem Windows-Programm systemweit (nach Aktivierung mit der Maus) mit dem Hotkey "Pause" nahe des Ziffernblocks jeder Tastatur gewählt werden. Für weitere Informationen konsultieren Sie bitte die Dokumentation des Herstellers des PhoneSuite CTI Client.
