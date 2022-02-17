@@ -117,10 +117,11 @@ Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21
 [25]	Klicken Sie auf "Wähleinstellungen" für das betreffende TAPI-Gerät.<br>
 <br>
 [26]	Wählen Sie den Reiter "Telefonanlage".<br>
+<![phoneSuite Wähleinstellungen2](https://user-images.githubusercontent.com/98753538/154468450-8c325c65-afeb-4758-b998-c570f841ee3f.jpg)
 <br>
-[27]	Entfernen Sie den Haken bei "Amtskennziffer"<br>
+[27]	Je nachdem, ob eine Amtsholung erforderlich ist, setzen Sie den Haken bei "Amtskennziffer" und geben die entsprechende Ziffer(n) ein, z.B. "0"<br>
 <br>
-[28]	Klicken Sie auf "OK".<br>
+[28]	Klicken Sie abschließend auf "OK".<br>
 <br>
 <br>
 Ihr Phone Suite CTI Client ist nun mit Ihrem Telefon verbunden. Eingehende Anrufe werden im CTI-Client signalisiert, ausgehende Anrufe werden über den CTI-Client vom IP-Telefon ausgeführt. Eventuell müssen Sie bei der Konfiguration am Telefon eine Abfrage "Remote Zugriff zulassen" bestätigen.
