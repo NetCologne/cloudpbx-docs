@@ -75,13 +75,15 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 
 #### Konfiguration der Firewall
 
-![phoneSuite Line_Konfiguration2](https://user-images.githubusercontent.com/98753538/154444473-87f8f662-a622-456a-ac7b-c64d283a35c2.jpg)
+![phoneSuite Line_Konfiguration2a](https://user-images.githubusercontent.com/98753538/154460088-29a61e4e-4fc0-43c3-8717-06f501696c48.jpg)
 <br>
 [15]	Klicken Sie auf den Reiter "Aktions-URL" und stellen Sie sicher, dass der Haken bei "Anruf-Ereignisse vom Telefon empfangen" gesetzt ist.<br>
 <br>
-[16]	Wählen Sie im Dropdown-Menü die lokale IP-Adresse Ihres Computers aus. Sollte eine IP-Adresse mit der Nummer 169.XXX.XXX.XXX angezeigt werden, so ignorieren Sie diese bitte.<br>
+[16]	Wählen Sie im Dropdown-Menü die lokale IP-Adresse Ihres Computers aus. Sollte eine IP-Adresse mit der Nummer 169.XXX.XXX.XXX angezeigt werden, so ignorieren Sie dies.<br>
 <br>
-[17]	Klicken Sie anschließend auf "Start".<br>
+[17]	Klicken Sie anschließend auf "Start". Damit ändert sich der Status von "Inaktiv" auf "Aktiv".<br>
+<br>
+![phoneSuite LineKonfiguration3](https://user-images.githubusercontent.com/98753538/154460446-9533fc06-1d2a-42d5-a8f7-496151eddcbe.jpg)
 <br>
 [18]	Klicken Sie sodann auf "Windows-Firewall konfigurieren". Damit wird der TCP-Port 8080 an Ihrem PC für eingehenden Datenverkehr freigeschaltet.<br>
 <br>
@@ -91,9 +93,9 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [20]	Klicken Sie auf "Test-URL im Browser öffnen".<br>
 <br>
-![phoneSuite TAPI Receive](https://user-images.githubusercontent.com/98753538/154444915-bce5fcb5-9f13-4d4a-b0fd-ce756f3dc5f9.jpg)
+![phoneSuite TAPI Receive](https://user-images.githubusercontent.com/98753538/154444915-bce5fcb5-9f13-4d4a-b0fd-ce756f3dc5f9.jpg)<br>
 <br>
-![phoneSuite TAPI Receive2](https://user-images.githubusercontent.com/98753538/154444938-b8e69021-c3e2-49bc-ae31-b72b9eec8b61.jpg)
+![phoneSuite TAPI Receive2](https://user-images.githubusercontent.com/98753538/154444938-b8e69021-c3e2-49bc-ae31-b72b9eec8b61.jpg)<br>
 <br>
 [21]	Ihr Webbrowser öffnet sich nun mit der Meldung <TAPI>Receive OK</TAPI>. Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21 und überprüfen Sie Ihre Firewall-Einstellungen.<br>
 <br>
