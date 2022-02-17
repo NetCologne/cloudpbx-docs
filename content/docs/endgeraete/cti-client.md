@@ -20,7 +20,7 @@ Der PC läuft mit einem Windows-Betriebssystem.
 Es ist keine systemfremde Firewall (außer Windows) installiert.
 
 Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-Software eingetragen.
-
+<br>
 
 #### Installation des PhoneSuite CTI Clients
 
@@ -40,6 +40,7 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 [6] Starten Sie "Phone Suite CTI Client" über das Windows-Startmenü.<br>
 <br>
 ![phoneSuite_Start](https://user-images.githubusercontent.com/98753538/154282861-d6c26fca-6760-466a-80b2-62cbbe989b77.jpg)
+<br>
 <br>
 
 #### Einrichtung des PhoneSuite CTI Clients
