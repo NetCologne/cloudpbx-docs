@@ -63,4 +63,60 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 ![phoneSuite Line_Konfiguration](https://user-images.githubusercontent.com/98753538/154434987-be3f84eb-97f4-46fb-acae-ec35c9faee2f.jpg)
 <br>
+[11]	Geben Sie nun die IP-Adresse des anzubindenden Telefons ein.<br>
 <br>
+[12]	Tragen Sie den gewünschten Nutzernamen für die Admin-Oberfläche des Telefons ein, z.B. "admin".<br>
+<br>
+[13]	Das Passwort lautet im Auslieferungszustand ebenfalls "admin". Bei über die Cloud-PBX-GUI provisionierten Geräten lautet es "adminpass". Oder verwenden Sie das von Ihnen gesetzte Passwort (siehe Provisionierung Endgeräte).<br>
+<br>
+[14]	Nach erfolgter Eingabe aklicken Sie auf "Test". Sind alle Eingaben korrekt, so erscheint hier "OK".<br>
+<br>
+
+
+#### Konfiguration der Firewall
+
+Bild: Windows Firewall konfigurieren		Bild: Firewall Einstellungen
+<br>
+[15]	Klicken Sie auf den Reiter "Aktions-URL" und stellen Sie sicher, dass der Haken bei "Anruf-Ereignisse vom Telefon empfangen" gesetzt ist.<br>
+<br>
+[16]	Wählen Sie im Dropdown-Menü die lokale IP-Adresse Ihres Computers aus. Sollte eine IP-Adresse mit der Nummer 169.XXX.XXX.XXX angezeigt werden, so ignorieren Sie diese bitte.<br>
+<br>
+[17]	Klicken Sie anschließend auf "Start".<br>
+<br>
+[18]	Klicken Sie sodann auf "Windows-Firewall konfigurieren". Damit wird der TCP-Port 8080 an Ihrem PC für eingehenden Datenverkehr freigeschaltet.<br>
+<br>
+[19]	Wählen Sie nun "Windows-Firewall jetzt automatisch konfigurieren".<br>
+<br>
+[20]	Klicken Sie auf "Test-URL im Browser öffnen".<br>
+<br>
+XML-Anzeige: TAPI erfolgreich eingerichtet<br>
+<br>
+Bild: Abfrage nach XML-Anzeige<br>
+<br>
+[21]	Ihr Webbrowser öffnet sich nun mit der Meldung <TAPI>Receive OK</TAPI>. Sollte dies nicht der Fall sein, so wiederholen Sie bitte die Schritte 16 bis 21 und überprüfen Sie Ihre Firewall-Einstellungen.<br>
+<br>
+[22]	Klicken Sie bei der Abfrage auf "OK".<br>
+<br>
+[23]	Schließen Sie das Einstellungs-Fenster mit einem Klick auf "OK".<br>
+<br>
+
+
+#### Verknüpfung des Telefons
+
+Bild: PhoneDialog auswählen
+<br>
+[24]	Wählen Sie im Menü "Optionen" nun "PhoneDialog (TAPI-Gerät)" aus.<br>
+<br>
+Bild: Wähleinstellungen treffen
+<br>
+[25]	Klicken Sie auf "Wähleinstellungen" für das betreffende TAPI-Gerät.<br>
+<br>
+[26]	Wählen Sie den Reiter "Telefonanlage".<br>
+<br>
+[27]	Entfernen Sie den Haken bei "Amtskennziffer"<br>
+<br>
+[28]	Klicken Sie auf "OK".<br>
+<br>
+<br>
+Ihr Phone Suite CTI Client ist nun mit Ihrem Telefon verbunden. Eingehende Anrufe werden im CTI-Client signalisiert, ausgehende Anrufe werden über den CTI-Client vom IP-Telefon ausgeführt. Eventuell müssen Sie bei der Konfiguration am Telefon eine Abfrage "Remote Zugriff zulassen" bestätigen.
+Rufnummern können in der Standardeinstellung aus jedem Windows-Programm systemweit (nach Aktivierung mit der Maus) mit dem Hotkey "Pause" nahe des Ziffernblocks jeder Tastatur gewählt werden. Für weitere Informationen konsultieren Sie bitte die Dokumentation des Herstellers des PhoneSuite CTI Client.
