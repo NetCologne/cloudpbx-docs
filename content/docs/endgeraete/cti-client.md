@@ -32,7 +32,7 @@ Beim eingehenden Anruf eines Kunden, der bereits mit seiner Telefonnummer in Ihr
 
 Auch andere Systeme können über CTI mit Ihrer IP-Telefonanlage verbunden werden. Neben Applikationen, in denen die Kontaktdaten Ihrer Kunden gespeichert sind (z.B. Outlook, Lotu Nodes), sind auch auch Support-Software oder spezielle Programmen zur Auswertung der Telefonie möglich.
 
-Bei der NetCologne Cloud PBX nutzen Sie für CTI eine externe Software - einen sogenannten **CTI-Client**.
+Bei der NetCologne Cloud PBX nutzen Sie für CTI eine externe Software - einen **CTI-Client**.
 
 
 #### Voraussetzungen für den PhoneSuite CTI Client
