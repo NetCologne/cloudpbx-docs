@@ -21,16 +21,15 @@ Im ersten Fall ermöglicht eine CTI-Anwendung den automatischen Aufbau, die Anna
   - Durchstellen von Anrufen – Koordinierter Transfer von Anrufen und Daten zwischen zwei Gesprächsteilnehmern.
 
 In der Umkehrrrichtung werden über eine automatische Anruferidentifikation die passenden Kundendaten aus einer Datenbank auf Ihren Bildschirm gebracht. Mittels Software werden Anrufberichte über geführte Gespräche angelegt. Per Datenbankaufruf kann die Nummer des Anrufers oder die gewählte Nummer ausgewertet und davon abhängig zu unterschiedlichen Zielen weitergeleitet werden.
+Auch andere Systeme können über CTI mit Ihrer IP-Telefonanlage verbunden werden. Neben Applikationen, in denen die Kontaktdaten Ihrer Kunden gespeichert sind (z.B. Outlook, Lotu Nodes), sind auch auch Support-Software oder spezielle Programmen zur Auswertung der Telefonie möglich.
 
-Mit Hilfe von CTI können Sie mehr Effizienz in Ihren Arbeitsalltag bringen. Eine entsprechende Schnittstelle ermöglicht Ihnen den geschützten Zugriff zu Ihren digitalen Kundendaten wie z.B. Name, Position, Firma und Telefonnummer. Die wichtigsten *Funktionen* sind:
+**Fazit:** Mit Hilfe von CTI können Sie mehr Effizienz in Ihren Arbeitsalltag bringen. Eine entsprechende Schnittstelle ermöglicht Ihnen den geschützten Zugriff zu Ihren digitalen Kundendaten wie z.B. Name, Position, Firma und Telefonnummer. Die wichtigsten *Funktionen* sind:
 
 ##### Click To Call
 Durch einfachen Klick auf die Telefonnummer eines Kunden auf dem Bildschirm haben Sie die Möglichkeit einen Anruf über Ihre IP-Telefonanlage aufzubauen.
 
 ##### Reverse Lookup
 Beim eingehenden Anruf eines Kunden, der bereits mit seiner Telefonnummer in Ihrer Datenbank gespeichert ist, wird automatisch der Kontakt geöffnet und Sie können sich die eingetragenen Informationen ansehen bevor Sie den Anruf entgegennehmen. Ihr Kundenkontakt wird noch persönlicher und kompetenter – direkt im Moment, in dem Sie das Telefon abheben.
-
-Auch andere Systeme können über CTI mit Ihrer IP-Telefonanlage verbunden werden. Neben Applikationen, in denen die Kontaktdaten Ihrer Kunden gespeichert sind (z.B. Outlook, Lotu Nodes), sind auch auch Support-Software oder spezielle Programmen zur Auswertung der Telefonie möglich.
 
 Bei der NetCologne Cloud PBX nutzen Sie für CTI eine externe Software - einen **CTI-Client**.
 
