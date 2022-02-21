@@ -8,6 +8,8 @@ weight: 511
 toc: true
 ---
 
+#### CTI - Software und Telefonie wachsen zusammen
+
 Computer Telephony Integration (kurz CTI) beschreibt eine Verbindung zwischen Computer und VoIP-Telefonanlage, die beidseitig egnutzt werden kann. D.h. der Computer kommuniziert mit einem oder mehreren Telefonen und umgekehrt. 
 
 Einerseits ermöglicht eine entsprechende CTI-Anwendung den automatischen Aufbau, die Annahme und Beendigung von Telefongesprächen, den Aufbau von Telefonkonferenzen, das Senden und Empfangen von Faxnachrichten, Telefonbuchdienste, sowie die Weitervermittlung von Gesprächen. Zudem werden Desktop-Funktionen bereitgestellt, wie z.B:
@@ -20,18 +22,17 @@ Einerseits ermöglicht eine entsprechende CTI-Anwendung den automatischen Aufbau
  
  - Durchstellen von Anrufen – Koordinierter Transfer von Anrufen und Daten zwischen zwei Gesprächsteilnehmern.
 
-Andererseits können über eine automatische Anruferidentifikation die passenden Kundendaten aus einer Datenbank auf den Bildschirm gebracht werden. Mittels Software werden Anrufberichte über geführte Gespräche angelegt. Per Datenbankaufruf kann die Nummer des Anrufers oder die gewählte Nummer ausgewertet und davon abhängig zu unterschiedlichen Zielen weitergeleitet werden.
-
-#### Die Telefonie wächst mit Ihrer Software zusammen
-
-Mit Hilfe von CTI können Sie verschiedene Systeme mit Ihrer VoIP-Telefonanlage verbinden und somit mehr Effizienz in Ihren Arbeitsalltag bringen. Eine entsprechende Schnittstelle ermöglicht Ihnen den geschützten Zugriff zu Ihren digitalen Kundendaten wie z.B. Name, Position, Firma und Telefonnummer.
-Auch andere Systeme können über CTI mit Ihrer IP-Telefonanlage verbunden werden. Neben Applikationen, in denen die Kontaktdaten Ihrer Kunden gespeichert sind (z.B. Outlook, Lotu Nodes), sind auch auch Support-Software oder spezielle Programmen zur Auswertung der Telefonie möglich.
-
 #### CTI Funktion - Click To Call
 Durch einfachen Klick auf die Telefonnummer eines Kunden auf dem Bildschirm haben Sie die Möglichkeit einen Anruf über Ihre IP-Telefonanlage aufzubauen.
 
+Andererseits können über eine automatische Anruferidentifikation die passenden Kundendaten aus einer Datenbank auf den Bildschirm gebracht werden. Mittels Software werden Anrufberichte über geführte Gespräche angelegt. Per Datenbankaufruf kann die Nummer des Anrufers oder die gewählte Nummer ausgewertet und davon abhängig zu unterschiedlichen Zielen weitergeleitet werden.
+
 #### CTI Funktion - Reverse Lookup
 Beim eingehenden Anruf eines Kunden, der bereits mit seiner Telefonnummer in Ihrer Datenbank gespeichert ist, wird automatisch der Kontakt geöffnet und Sie können sich die eingetragenen Informationen ansehen bevor Sie den Anruf entgegennehmen. Ihr Kundenkontakt wird noch persönlicher und kompetenter – direkt im Moment, in dem Sie das Telefon abheben.
+
+Mit Hilfe von CTI können Sie mehr Effizienz in Ihren Arbeitsalltag bringen. Eine entsprechende Schnittstelle ermöglicht Ihnen den geschützten Zugriff zu Ihren digitalen Kundendaten wie z.B. Name, Position, Firma und Telefonnummer.
+Auch andere Systeme können über CTI mit Ihrer IP-Telefonanlage verbunden werden. Neben Applikationen, in denen die Kontaktdaten Ihrer Kunden gespeichert sind (z.B. Outlook, Lotu Nodes), sind auch auch Support-Software oder spezielle Programmen zur Auswertung der Telefonie möglich.
+
 
 Bei der NetCologne Cloud PBX nutzen Sie für CTI eine externe Software - einen sogenannten CTI-Client.
 
