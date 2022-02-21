@@ -11,9 +11,13 @@ toc: true
 Computer Telephony Integration (kurz CTI) beschreibt eine Verbindung zwischen Computer und VoIP-Telefonanlage, die beidseitig egnutzt werden kann. D.h. der Computer kommuniziert mit einem oder mehreren Telefonen und umgekehrt. 
 
 Einerseits ermöglicht eine entsprechende CTI-Anwendung den automatischen Aufbau, die Annahme und Beendigung von Telefongesprächen, den Aufbau von Telefonkonferenzen, das Senden und Empfangen von Faxnachrichten, Telefonbuchdienste, sowie die Weitervermittlung von Gesprächen. Zudem werden Desktop-Funktionen bereitgestellt, wie z.B:
+
  - Dialogfenster – Anzeige mit Anrufinformationen (Nummer des Anrufers, gewählte Nummer
+ 
  - Wählen – Automatische und computergesteuerte Einwahl.
+ 
  - Telefonsteuerung – Umfasst Anrufsteuerung (Anrufe entgegennehmen, auflegen, halten, Konferenzschaltung etc.) und Funktionen wie z.B. Anrufweiterleitung.
+ 
  - Durchstellen von Anrufen – Koordinierter Transfer von Anrufen und Daten zwischen zwei Gesprächsteilnehmern.
 
 Andererseits können über eine automatische Anruferidentifikation die passenden Kundendaten aus einer Datenbank auf den Bildschirm gebracht werden. Mittels Software werden Anrufberichte über geführte Gespräche angelegt. Per Datenbankaufruf kann die Nummer des Anrufers oder die gewählte Nummer ausgewertet und davon abhängig zu unterschiedlichen Zielen weitergeleitet werden.  
