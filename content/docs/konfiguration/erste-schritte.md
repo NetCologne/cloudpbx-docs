@@ -52,7 +52,7 @@ Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" 
 
 [5] Web- und SIP Password (können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben)
 
-[6] Unter Alias-Nummern können Sie eine oder mehrere Rufnummern eintragen, unter denen diese Nebenstelle ebenfalls erreicht werden soll. Die Zuordnung der gewählten Rufnummer auf die der Nebenstelle ist hiermit gespeichert.
+[6] Ist der Kunde Eigentümer einer weitereren "Alias"-nummer und hat er diese bei der Auftragserteilung der NetCologne mitgeteilt, kann diese hier ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. 
 
 [7] Hier können Gruppen konfiguriet werden.
 
