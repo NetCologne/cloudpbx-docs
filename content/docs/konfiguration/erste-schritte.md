@@ -69,7 +69,8 @@ Das Web Passwort wird benötigt, wenn der User der Nebenstelle per Web Interface
 Das SIP Passwort ist erforderlich, wenn Endgeräte – also Telefone oder Sip Clients etc. – manuell provisioniert werden sollen. Grundsätzlich kann sowohl der Administrator als auch der User die entsprechenden Passwörter ändern und genau dabei auch wieder einsehen. 
 Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wurden bereit 6 Nebenstellen konfiguriert. 
 
-![Ändern NST](https://user-images.githubusercontent.com/98472426/151360446-3d90ea15-3cfa-4651-b644-baec80a2c62d.jpg)
+![cloudpbx_seat hinzufügen3](https://user-images.githubusercontent.com/98753538/157044723-2df6568d-81a5-48e2-bec1-7db413f34a1d.jpg)
+
 
 ## Einrichten von Geräten
 
