@@ -69,3 +69,11 @@ Das SIP Passwort ist erforderlich, wenn Endgeräte – also Telefone oder Sip Cl
 Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wurden bereit 3 Nebenstellen konfiguriert. 
 
 ![Ändern NST](https://user-images.githubusercontent.com/98472426/151360446-3d90ea15-3cfa-4651-b644-baec80a2c62d.jpg)
+
+## Einrichten von Geräten
+
+### Yealink T5-Serie
+
+### Snom D7-Serie
+
+### Snom M900-Dect
