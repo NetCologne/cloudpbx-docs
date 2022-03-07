@@ -48,25 +48,25 @@ Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" 
 
 ![cloudpbx_dashboard2-8](https://user-images.githubusercontent.com/98753538/152347008-0ad4c1fe-a492-4fd1-860c-2b355e903b0a.jpg)
    
-[4] Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen)
+[4] Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen) und
 
-[5] Web- und SIP Password (können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben)
+[5] Web- sowie SIP Password (können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben) hinzu.
 
-[6] Ist der Kunde Eigentümer einer weitereren "Alias"-nummer und hat er diese bei der Auftragserteilung der NetCologne mitgeteilt, kann diese hier ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. 
+[6] Ist der Kunde Eigentümer einer weitereren "Alias-Nummer" und hat er diese bei Auftragserteilung der NetCologne mitgeteilt, kann diese hier ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. 
 
 [7] Hier können Gruppen konfiguriet werden.
 
 [8] Falls Sie Ihre eigenen Töne oder Melodien verwenden wollen, können Sie diese im wav-Format hier hochladen und der Nebenstelle zuweisen.
 
-Beispiel: Hier wird nun die Nebenstelle 10 für den User max eingerichtet:
+Beispiel: Hier wird nun die Nebenstelle 0 für den User "zollstock" eingerichtet:
 
-![Schritt2-NST-einrichten](https://user-images.githubusercontent.com/98472426/151360059-00894ef1-789f-40ca-8a79-50c51eb1657f.jpg)
+![cloudpbx_seat hinzufügen](https://user-images.githubusercontent.com/98753538/157040888-c73e65a9-1cdc-4030-97d1-55d2e2eb54a3.jpg)
 
-![Schritt3-NST-einrichten](https://user-images.githubusercontent.com/98472426/151360126-9c9fc7ef-8c7d-4a0c-9041-799d06bc641c.jpg)
+![cloudpbx_seat hinzufügen2](https://user-images.githubusercontent.com/98753538/157042114-55a4e3f5-5c54-442d-82f6-89cb611d984f.jpg)
 
 Das Web Passwort wird benötigt, wenn der User der Nebenstelle per Web Interface seine Nebenstelle konfigurieren können soll – also Anrufweiterschaltungen, Kurzwahlen etc. einrichten können soll. 
-Das SIP Passwort ist erforderlich, wenn Endgeräte – also Telefone oder Sip Clients etc. – manuell provisioniert werden sollen. Grundsätzlich kann, sowohl der Administrator als auch der User die entsprechenden Passwörter ändern und dabei dann auch wieder einsehen. 
-Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wurden bereit 3 Nebenstellen konfiguriert. 
+Das SIP Passwort ist erforderlich, wenn Endgeräte – also Telefone oder Sip Clients etc. – manuell provisioniert werden sollen. Grundsätzlich kann sowohl der Administrator als auch der User die entsprechenden Passwörter ändern und genau dabei auch wieder einsehen. 
+Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wurden bereit 6 Nebenstellen konfiguriert. 
 
 ![Ändern NST](https://user-images.githubusercontent.com/98472426/151360446-3d90ea15-3cfa-4651-b644-baec80a2c62d.jpg)
 
