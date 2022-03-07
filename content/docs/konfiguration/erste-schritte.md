@@ -75,7 +75,10 @@ Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wur
 ## Einrichten von Geräten
 
 ### Yealink T5-Serie
+![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
 
 ### Snom D7-Serie
+![cloudpbx_Gerät1 hinzufügen](https://user-images.githubusercontent.com/98753538/157050069-16510561-363d-4d15-842b-838dbd7b46aa.jpg)
 
 ### Snom M900-Dect
+![cloudpbx_Gerät3 hinzufügen](https://user-images.githubusercontent.com/98753538/157050358-01266501-cc69-4e7a-b46f-cf0dddebf921.jpg)
