@@ -74,7 +74,9 @@ Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wur
 
 ## Einrichten von Geräten
 
-Die Geräte werden ebenfalls unter dem Punkt PBX-Konfiguration eingerichtet- Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das entsprechende Telefonmodell aus.
+Die Geräte werden ebenfalls unter dem Punkt PBX-Konfiguration eingerichtet. 
+
+Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das entsprechende Telefonmodell aus.
 
 Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". 
 
