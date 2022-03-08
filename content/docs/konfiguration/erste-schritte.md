@@ -79,11 +79,23 @@ Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". <br>
 Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das entsprechende Telefonmodell aus. <br>
 Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
 
-### Yealink T5-Serie
-![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
-
 ### Snom D7-Serie
 ![cloudpbx_Gerät1 hinzufügen](https://user-images.githubusercontent.com/98753538/157050069-16510561-363d-4d15-842b-838dbd7b46aa.jpg)
 
+Anschließend auf das Gerät klicken und bei der entsprechende Lampe/Taste den Teilnehmer einrichten
+![cloudpbx_Teilnehmer einrichten1](https://user-images.githubusercontent.com/98753538/157249202-096b60c3-3ec4-49b8-a22c-d85b0278d1b9.jpg)
+
 ### Snom M900-Dect
 ![cloudpbx_Gerät3 hinzufügen](https://user-images.githubusercontent.com/98753538/157050358-01266501-cc69-4e7a-b46f-cf0dddebf921.jpg)
+
+Bei der SNOM-Basisstation können bis zu 19 Teilnehmer eingerichtet werden. Im Beispiel sind es zwei:
+![cloudpbx_Teilnehmer einrichten2](https://user-images.githubusercontent.com/98753538/157249871-a15e2c1a-8ee4-4af3-995e-a4dde92cd579.jpg)
+
+### Yealink T5-Serie
+![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
+
+Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" belegt werden. So sieht z.B. die "Zentrale", welcher Kollege gerade angerufen wird oder kann einen ankommenden Anruf übernehmen.
+
+![cloudpbx_Teilnehmer einrichten4](https://user-images.githubusercontent.com/98753538/157250752-3cb7113d-c166-4b48-b172-fbfe210cdc87.jpg)
+
+
