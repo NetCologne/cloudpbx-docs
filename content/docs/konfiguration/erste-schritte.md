@@ -74,6 +74,8 @@ Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wur
 
 ## Einrichten von Geräten
 
+Die Geräte werden ebenfalls unter dem Punkt PBX-Konfiguration eingerichtet- Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das entsprechende Telefonmodell aus. Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". 
+
 ### Yealink T5-Serie
 ![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
 
