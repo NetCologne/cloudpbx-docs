@@ -97,9 +97,11 @@ Bei der SNOM-Basisstation können bis zu 19 Teilnehmer eingerichtet werden. Im B
 ### Yealink T5-Serie
 ![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
 
-Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" belegt werden. So sieht z.B. die "Zentrale", welcher Kollege gerade angerufen wird oder kann einen ankommenden Anruf übernehmen.
+Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" belegt werden: 
 
 ![cloudpbx_Teilnehmer einrichten4](https://user-images.githubusercontent.com/98753538/157250752-3cb7113d-c166-4b48-b172-fbfe210cdc87.jpg)
+
+So sieht z.B. die "Zentrale", welcher Kollege gerade angerufen wird oder kann einen ankommenden Anruf übernehmen:
 
 ![cloudpbx_busylampfield1](https://user-images.githubusercontent.com/98753538/157256356-a871d273-04d9-4c8c-844e-6dc818de1f0c.jpg)
 
