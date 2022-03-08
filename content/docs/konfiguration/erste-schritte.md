@@ -76,13 +76,13 @@ Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wur
 
 Die Geräte werden ebenfalls unter dem Punkt PBX-Konfiguration eingerichtet. <br> 
 Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". <br>
-Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das entsprechende Telefonmodell aus. <br>
+Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das Telefonmodell aus. <br>
 Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
 
 ### Snom D7-Serie
 ![cloudpbx_Gerät1 hinzufügen](https://user-images.githubusercontent.com/98753538/157050069-16510561-363d-4d15-842b-838dbd7b46aa.jpg)
 
-Anschließend auf das Gerät klicken und bei der entsprechende Lampe/Taste den Teilnehmer einrichten
+Anschließend auf das Gerät klicken und bei der entsprechenden Lampe/Taste den Teilnehmer einrichten:
 ![cloudpbx_Teilnehmer einrichten1](https://user-images.githubusercontent.com/98753538/157249202-096b60c3-3ec4-49b8-a22c-d85b0278d1b9.jpg)
 
 ### Snom M900-Dect
