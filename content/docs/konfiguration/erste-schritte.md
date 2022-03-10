@@ -127,7 +127,7 @@ Abschließend aktualisieren Sie im WEB-Portal die Ansicht "Extension" und Sie se
 
 ![Cloudpbx_einrichten_snom_dect_endgeräte4](https://user-images.githubusercontent.com/98753538/157692597-70050298-c579-4109-b648-41ad36701c50.jpg)
 
-Sind die angemeldeten Handsets noch nicht sichtbar ist gegebenenfalls im Menüüunkt "Home/Status" ein Reboot der DECT-Basisstation sinnvoll.
+Sind die angemeldeten Handsets noch nicht sichtbar ist gegebenenfalls im Menüunkt "Home/Status" ein Reboot der DECT-Basisstation sinnvoll.
 
 ![Cloudpbx_einrichten_snom_dect_reboot](https://user-images.githubusercontent.com/98753538/157691428-c41043ce-f043-4586-ac25-4365ba70e299.jpg)
 
