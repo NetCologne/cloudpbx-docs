@@ -109,3 +109,28 @@ Bei der SNOM-Basisstation können bis zu 19 Teilnehmer eingerichtet werden. Im B
 
 ![cloudpbx_Teilnehmer einrichten5](https://user-images.githubusercontent.com/98753538/157256005-95ef62fb-dcec-42a6-915e-8888618f1e67.jpg)
 
+#### Anmeldung der Snom-Mobilteile (Handsets)
+
+Im Fritzbox-Meü -> Heimnetz -> Netzwerk kann man unter "Netzwerverbindungen" die IP-Adresse der DECT-Basisstation einsehen bzw. diese auswählen:
+
+![Cloudpbx_einrichten_snom_dect_fritzbox](https://user-images.githubusercontent.com/98753538/157690228-f65b389b-9384-42ec-acd8-79b36f1ba638.jpg)
+
+So gelangt man zum WEB-Portal der Snom M900. Im Menüpunkt "Extensions" kann man die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür beim entsprechenden Gerät mit Häkchen auswählen und aus "Register Handset(s). Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier 7666 angezeigt.
+
+![Cloudpbx_einrichten_snom_dect_endgeräte3](https://user-images.githubusercontent.com/98753538/157692195-9bae9037-8950-4312-8380-033f61c84253.jpg)
+
+Parallel dazu wählen Sie im Handset/Mobilteil den Punkt "Connectivity" aus, bestätigen "Register" und tragen den Access-Code ein und bestätigen mit "OK".
+
+![Handheld hinzufügen](https://user-images.githubusercontent.com/98753538/157691802-be0a428d-e6e9-49a4-b753-b00f016dbb6b.jpg)
+
+Abschließend aktualisieren Sie im WEB-Portal die Ansicht "Extension" und Sie sehen alle registrierten Mobilteile:
+
+![Cloudpbx_einrichten_snom_dect_endgeräte4](https://user-images.githubusercontent.com/98753538/157692597-70050298-c579-4109-b648-41ad36701c50.jpg)
+
+
+Sind die angemeldeten Handsets noch nicht sichtbar ist gegebenenfalls im Menüüunkt "Home/Status" ein Reboot der DECT-Basisstation sinnvoll.
+
+![Cloudpbx_einrichten_snom_dect_reboot](https://user-images.githubusercontent.com/98753538/157691428-c41043ce-f043-4586-ac25-4365ba70e299.jpg)
+
+
+
