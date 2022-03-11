@@ -14,6 +14,11 @@ Ist schon eine Ihrer Nummern eine aktive Faxnummer, sehen Sie im Menü vom Cloud
 
 Wenn Sie faxen wollen, laden Sie den Fax-Inhalt als PDF Dokument in die Cloud PBX und ergänzen Faxnummer und Betreff für den Empfänger. Sie bekommen eine Vorschau, starten das Fax und werden über den Status der Übertragung informiert. Das gefaxte Dokument und den Sendebericht finden Sie nun im Fax-Journal wieder.
 
-## Fax to Mail
+![grafik](https://user-images.githubusercontent.com/20154956/151542716-bd20b68d-2beb-4bfd-943f-4dd1c1f57e2d.png)
 
-## Mail to Fax
+
+Um die gewünschte Nummer als Faxnummer zu konfigurieren gehen Sie bitte unter Faxeinstellungen wie folgt vor:
+
+1. Aktivieren Sie die Faxfunktion
+2. Hinterlegen Sie eine E-Mail Adresse
+3. Nutzen Sie das Faxfeld um Faxe zu versenden

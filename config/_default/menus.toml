@@ -15,11 +15,7 @@
   identifier = "konfiguration"
   url = "/docs/konfiguration/"
 
-[[docs]]
-  name = "Konto"
-  weight = 30
-  identifier = "konto"
-  url = "/docs/konto/"
+
 
 [[docs]]
   name = "Funktionen"
