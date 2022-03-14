@@ -44,18 +44,18 @@ Hier ist beschrieben, wie Sie die Telefone konfigurieren und den Nebenstellen zu
 Yealink und SNOM Telefone können teilweise autoprovisioniert werden. Wie sie in diesen Fällen vorgehen, erfahren Sie hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/geraete/#einrichten-von-ger%C3%A4ten). <br>
 Falls bei ihrem Gerät keine Autoprovisionierung möglich ist, schauen sie hier (Link) nach, ob eine manuelle Provisionierungsanleitung vorhanden ist.   
 
-4. Anrufwarteschlangen
+4. Anrufwarteschlangen <br>
 Anrufwarteschlangen sorgen dafür, dass auch bei besetzter Nebenstelle Anrufe nicht abgewiesen und stattdessen in eine Warteschlange eingereiht werden.
 Der Anrufer erhält eine Begrüssungsansage und eine Information, an welcher Stelle der Warteschlange er sich befindet. Ansagen und Wartemusik sind konfigurierbar (Link).
 Wie sie bei der Einrichtung der Wartemusik vorgehen, ist hier (https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufwarteschlangen/) beschrieben.
 
-5. SoundSets konfigurieren
+5. SoundSets <br>
 Die Soundsets sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die Wartemusik anpassen oder "OutOfOffice" Ansagen definieren. Wie Sie bei der Konfiguration der SoundSets vorgehen ist, hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/sound-sets/) beschrieben. <br>
 Achtung: Individuelle Ansagen für die Voicebox werden hier nicht definiert. Diese sollen durch den Besitzer der Nebenstelle definiert werden. Dazu ist der Loging auf dem direkten Nebenstellenaccount erforderlich. Alternativ kann der Administrator diese Einstellungen auch über den Menüpunkt "Kundendetails" vornehmen. 
 
-6. Geschäftsführungssekretariat
+6. Geschäftsführungssekretariat <br>
 (https://cloudpbx-doku.netcologne.de/docs/konfiguration/sekretariat-einrichten/)
 
-7. Anrufmenü (AutoAttendant)
+7. Anrufmenü (AutoAttendant) <br>
 Hier können Sie ein bis zu 10-stufiges Anrufmenü konfigurieren. Sie legen die Ziele fest, die den einzelnen Auswahlpunkten entsprechen sollen. Ziele können Gruppen, Nebenstellen, Voiceboxen, Mobilnummern oder auch weitere Anrufmenüs sein. Vorraussetzung für eine sinnvolle Nutzung ist die Konfiguration der SoundSets unter (Link).
 Wie Sie bei der Konfiguration des Anrufmenüs vorgehen, ist hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/anrufmenue/) beschrieben. <br>
