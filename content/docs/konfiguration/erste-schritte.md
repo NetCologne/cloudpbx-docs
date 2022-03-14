@@ -32,7 +32,7 @@ Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
 1. Seats = Nebenstellen <br>
 Damit Sie telefonieren können, müssen Sie zunächst Nebenstellen einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten für die jeweilige Rufnummer. Wie Sie bei der Einrichtung der Nebenstellen vorgehen, ist hier beschrieben: <br>
-[LINK](https://cloudpbx-doku.netcologne.de/docs/konfiguration/seats/ "Nebenstellen einrichten") <br>
+[Nebnestelle einrichten](https://cloudpbx-doku.netcologne.de/docs/konfiguration/seats/ "Nebenstellen einrichten") <br>
 Vorteilhaft ist es, wenn Sie sich zunächst den Verwendungszweck der Nebenstelle überlegen. Soll die Nummer einem Telefon zugewiesen werden oder handelt es sich um eine Voice- oder Faxbox? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? <br>
 Hinweis: Mehrere Nebenstellen können unter einer Gruppennummer zusammengefasst werden. Außerdem werden viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen über Anrufweiterschaltungen realisiert. Die Anrufweiterschaltung und damit die Aktivierung der entsprechenden Funktion kann durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über den Menüpunkt "Kundendetails", aktiviert werden. <br>
 Von allen diesen Überlegungen hängt dann die weiteren Konfiguration ab. <br> 
