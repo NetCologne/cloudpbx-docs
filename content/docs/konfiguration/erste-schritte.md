@@ -33,11 +33,11 @@ Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 1. Seats = Nebenstellen <br>
 Damit Sie telefonieren können, müssen Sie zunächst Nebenstellen einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten für die jeweilige Rufnummer. Wie Sie bei der Einrichtung der Nebenstellen vorgehen, ist hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/seats/) beschrieben. <br>
 Vorteilhaft ist es, wenn Sie sich zunächst den Verwendungszweck der Nebenstelle überlegen. Soll die Nummer einem Telefon zugewiesen werden oder handelt es sich um eine Voice- oder Faxbox? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? <br>
-Hinweis: Viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen, werden über Anrufweiterschaltungen realisiert. Die Anrufweiterschaltungen und damit die Aktivierung der entsprechenden Funktion, können durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über "Kundendetails" aktiviert werden. Eine Sonderform der Nebenstelle ist eine Gruppennummer. Hinter Gruppennummern können mehrere Nebenstellen zusammengefasst werden. Dafür entstehen keine zusätzlichen Kosten. <br>
-Von all diesen Überlegungen hängt dann die weiteren Konfiguration ab. 
+Hinweis: Mehrere Nebenstellen können unter einer Gruppennummer zusammengefasst werden. Außerdem werden viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen über Anrufweiterschaltungen realisiert. Die Anrufweiterschaltung und damit die Aktivierung der entsprechenden Funktion kann durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über den Menüpunkt "Kundendetails", aktiviert werden. <br>
+Von allen diesen Überlegungen hängt dann die weiteren Konfiguration ab. 
 
 2. Gruppen <br>
-Hier erfahren Sie, wie Sie Gruppen einrichten (https://cloudpbx-doku.netcologne.de/docs/konfiguration/gruppen/) und die jeweiligen Einstellungen festlegen. <br>
+Eine Sonderform der Nebenstelle ist eine Gruppennummer. Dabei werden ohne zusätzliche Kosten mehrere Nebenstellen unter einer Gruppennummer zusammengefasst. Hier können sie die Einstellungen für eine Gruppennummer festlegen: (https://cloudpbx-doku.netcologne.de/docs/konfiguration/gruppen/) <br>
 
 3. Geräte <br>
 Hier ist beschrieben, wie Sie die Telefone konfigurieren und den Nebenstellen zuweisen. Zuvor haben Sie sich die Struktur überlegt, welche Mitarbeiter zusammenarbeiten und welche Mitarbeiter den Presence-Status von welchen Kollegen erhalten sollen. Entsprechend können Sie dann z.B. BusyLampFields einrichten.
