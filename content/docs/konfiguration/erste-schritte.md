@@ -32,9 +32,9 @@ Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
 1. Nebenstellen einrichten: Damit Sie telefonieren können, müssen Sie zunächst Nebenstellen einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten
 für die jeweilige Rufnummer.
-Wie Sie bei der Einrichtung der Nebenstellen vorgehen, ist hier (content/docs/konfiguration/seats.md) beschrieben.
-Vorteilhaft ist es, wenn Sie sich zunächst den Verwendungszweck der Nebenstelle überlegen. Soll die Nummer einem Telefon zugewiesen werden oder handelt es sich um eine Voice- oder Faxbox? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? 
-Hinweis: Viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen, werden über Anrufweiterschaltungen realisiert. Die Anrufweiterschaltungen und damit die Aktivierung der entsprechenden Funktion, können durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über "Kundendetails" aktiviert werden. Eine Sonderform der Nebenstelle ist eine Gruppennummer. Hinter Gruppennummern können mehrere Nebenstellen zusammengefasst werden. Für eine Gruppennummer entstehen keine zusätzlichen Kosten.
+Wie Sie bei der Einrichtung der Nebenstellen vorgehen, ist hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/seats/) beschrieben.
+Vorteilhaft ist es, wenn Sie sich zunächst den Verwendungszweck der Nebenstelle überlegen. Soll die Nummer einem Telefon zugewiesen werden oder handelt es sich um eine Voice- oder Faxbox? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? <br>
+Hinweis: Viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen, werden über Anrufweiterschaltungen realisiert. Die Anrufweiterschaltungen und damit die Aktivierung der entsprechenden Funktion, können durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über "Kundendetails" aktiviert werden. Eine Sonderform der Nebenstelle ist eine Gruppennummer. Hinter Gruppennummern können mehrere Nebenstellen zusammengefasst werden. Für eine Gruppennummer entstehen keine zusätzlichen Kosten. <br>
 Von diesen Überlegungen hängen dann die weiteren Konfigurationen ab. 
 
 2. Telefone konfigurieren und Nebenstellen zuweisen
