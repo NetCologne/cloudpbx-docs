@@ -22,7 +22,7 @@ Passwort: `xxxxxxxxxxxxxx`
 
 Auf der angebenen Seite können Sie sich mit diesen Daten anmelden
 
-![cloudpbx_login](https://user-images.githubusercontent.com/98753538/152331121-be008d22-e8da-4997-88f2-47daf5f423f7.jpg =250x250)
+![cloudpbx_login](https://user-images.githubusercontent.com/98753538/152331121-be008d22-e8da-4997-88f2-47daf5f423f7.jpg =250x250px)
 
 Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls), der Konfiguration und den registrierten Endgeräten.
 
