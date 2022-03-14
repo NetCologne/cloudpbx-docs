@@ -38,7 +38,7 @@ Hinweis: Mehrere Nebenstellen können unter einer Gruppennummer zusammengefasst 
 Von allen diesen Überlegungen hängt dann die weiteren Konfiguration ab. <br> 
 
 2. Gruppen <br>
-Eine Sonderform der Nebenstelle ist eine Gruppennummer. Dabei werden ohne zusätzliche Kosten mehrere Nebenstellen unter einer Gruppennummer zusammengefasst. Hier können sie die Einstellungen für eine Gruppennummer festlegen: <br>
+Eine Sonderform der Nebenstelle ist eine Gruppennummer. Dabei werden ohne zusätzliche Kosten mehrere Nebenstellen zu einer solchen zusammengefasst. Hier können sie die Einstellungen für eine Gruppennummer festlegen: <br>
 (https://cloudpbx-doku.netcologne.de/docs/konfiguration/gruppen/) <br>
 
 3. Geräte <br>
