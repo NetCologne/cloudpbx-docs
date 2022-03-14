@@ -26,7 +26,7 @@ Auf der angebenen Seite können Sie sich mit diesen Daten anmelden
 
 Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls), der Konfiguration und den registrierten Endgeräten.
 
-![cloudpbx_dashboard](https://user-images.githubusercontent.com/98753538/158141158-8a1401a7-f9a3-42c3-ac3f-9baebe6e3210.jpg)
+![![cloudpbx konfiguration](https://user-images.githubusercontent.com/98753538/158146352-44ab0a62-5820-434c-b90d-a19b127380f2.jpg)
 
 Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
@@ -42,8 +42,6 @@ Hier (Link) können sie die Einstellungen für eine Gruppennummer festlegen
 3. Telefone konfigurieren und Nebenstellen zuweisen
 Hier können Sie die Telefone einrichten und konfigurieren. Zuvor haben Sie sich die Struktur überlegt, welche Mitarbeiter zusammenarbeiten und welche Mitarbeiter den Presence-Status von welchen Kollegen erhalten sollen. Entsprechend können Sie dann z.B. BusyLampFields einrichten.
 Yealink und SNOM Telefone können teilweise autoprovisioniert werden. Wie sie in diesen Fällen vorgehen ist hier (Link) beschrieben. Falls bei ihrem Gerät keine Autoprovisionierung möglich ist, schauen sie hier (Link) nach, ob eine manuelle Provisionierungsanleitung vorhanden ist.   
-
-![cloudpbx_konfiguration](https://user-images.githubusercontent.com/98753538/158144030-bb298ac8-0daa-48fc-a049-1be97796390e.jpg)
 
 4. Anrufwarteschlangen einrichten
 Anrufwarteschlangen sorgen dafür, dass, auch bei besetzter Nebenstelle keine Anrufe abgewiesen und stattdessen in eine Warteschlange eingereiht werden.
