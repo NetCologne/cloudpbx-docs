@@ -12,9 +12,10 @@ Nun machen Sie sich mit Ihrer NetCologne Cloud PBX vertraut. In diesem Abschnitt
 
 ## Anmeldevorgang
 
-Sie haben von uns Ihre Login-Daten zur Konfiguration ihrer CloudPBX in folgender Form erhalten:
+Die Anmeldung erfolgt über folgende Punkte:
 
-   
+Via E-Mail haben Sie die Zugangsdaten zu Ihrem NetCologne Cloud PBX Konto bekommen. Dieses Konto ist immer das Administrator-Konto. 
+
 Webseite: [https://myportal.cloudpbx.netcologne.de/v2](https://myportal.cloudpbx.netcologne.de/v2/ "Cloud-PBX Konfiguration")   
 Benutzer: `+49ONKZRufNr@firma.cloudpbx.netcologne.de`  
 Passwort: `xxxxxxxxxxxxxx`  
@@ -31,102 +32,33 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX
 
 [2] Beim Punkt Konversationen stehen weitere Details wie "von" und "an".
 
-## Einrichtung von Nebenstellen 
 
-Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dahinter kein physikalischer Anschluss steckt. Hinter Nebenstellen können folgende Funktionen konfiguriert werden:
+Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
-* Physikalische Anschlüsse wie Telefone oder SIP Clients
-* Anrufbeantworter
-* Faxserver
-* ACD/IVR
+1. Nebenstellen einrichten: Damit Sie telefonieren können, müssen Sie zunächst Nebenstellen einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten
+für die jeweilige Rufnummer.
+Wie Sie bei der Einrichtung der Nebenstellen vorgehen, ist hier (Link) beschrieben.
+Vorteilhaft ist es, wenn Sie sich zunächst den Verwendungszweck der Nebenstelle überlegen. Soll die Nummer einem Telefon zugewiesen werden oder handelt es sich um eine Voice- oder Faxbox?
+Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? Hinweis:  Viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen, werden über Anrufweiterschaltungen realisiert. Die Anrufweiterschaltungen und damit die Aktivierung der entsprechenden Funktion, können durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über "Kundendetails" aktiviert werden. Eine Sonderform der Nebenstelle ist eine Gruppennummer. Hinter Gruppennummern können mehrere Nebenstellen zusammengefasst werden.
+Für eine Gruppennummer entstehen keine zusätzlichen Kosten.
+Von diesen Überlegungen hängen dann die weiteren Konfigurationen ab. 
 
-Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die entsprechende Funktion realisiert. Weiterleitungen sind also nicht nur auf physikalische Ziele möglich, sondern auch auf die o. a. Funktionen. 
+2. Telefone konfigurieren und Nebenstellen zuweisen
+Hier können Sie die Telefone einrichten und konfigurieren. Zuvor haben Sie sich die Struktur überlegt, welche Mitarbeiter zusammenarbeiten und welche Mitarbeiter den Presence-Status von welchen Kollegen erhalten sollen. Entsprechend können Sie dann z.B. BusyLampFields einrichten.
+Yealink und SNOM Telefone können teilweise autoprovisioniert werden. Wie sie in diesen Fällen vorgehen ist hier (Link) beschrieben. Falls bei ihrem Gerät keine Autoprovisionierung möglich ist, schauen sie hier (Link) nach, ob eine manuelle Provisionierungsanleitung vorhanden ist.   
 
-Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf
+3. Gruppen einrichten
+Hier (Link) können sie die Einstellungen für eine Gruppennummer festlegen
 
-[3] "Seats" und fügen  
+4. Anrufwarteschlangen einrichten
+Anrufwarteschlangen sorgen dafür, dass, auch bei besetzter Nebenstelle keine Anrufe abgewiesen und stattdessen in eine Warteschlange eingereiht werden.
+Der Anrufer erhält eine Begrüssungsansage und eine Information, an welcher Stelle der Warteschlange er sich befindet. Ansagen und Wartemusik sind konfigurierbar (Link).
+Wie sie bei der Einrichtung der Wartemusik vorgehen, ist hier (Link) beschrieben.
 
-![cloudpbx_dashboard2-8](https://user-images.githubusercontent.com/98753538/152347008-0ad4c1fe-a492-4fd1-860c-2b355e903b0a.jpg)
-   
-[4] Namen (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen) und
-
-[5] Web- sowie SIP Password (können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben) hinzu.
-
-[6] Ist der Kunde Eigentümer einer weitereren "Alias-Nummer" und hat er diese bei Auftragserteilung der NetCologne mitgeteilt, kann diese hier ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. 
-
-[7] Hier können Gruppen konfiguriet werden.
-
-[8] Falls Sie Ihre eigenen Töne oder Melodien verwenden wollen, können Sie diese im wav-Format hier hochladen und der Nebenstelle zuweisen.
-
-Beispiel: Hier wird nun die Nebenstelle 0 für den User "zollstock" eingerichtet:
-
-![cloudpbx_seat hinzufügen](https://user-images.githubusercontent.com/98753538/157040888-c73e65a9-1cdc-4030-97d1-55d2e2eb54a3.jpg)
-
-![cloudpbx_seat hinzufügen2](https://user-images.githubusercontent.com/98753538/157043465-299f7057-0011-4bb0-a597-5a4dcd5b25e2.jpg)
-
-Das Web-Passwort wird benötigt, wenn der User der Nebenstelle per Web-Interface seine Nebenstelle konfigurieren können soll – also Anrufweiterschaltungen, Kurzwahlen etc. einrichten können soll.
-
-Das SIP Passwort ist erforderlich, wenn Endgeräte – also Telefone oder Sip Clients etc. – manuell provisioniert werden sollen. Grundsätzlich kann sowohl der Administrator als auch der User die entsprechenden Passwörter ändern und genau dabei auch wieder einsehen. 
-Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wurden bereit 6 Nebenstellen konfiguriert. 
-
-![cloudpbx_seat hinzufügen3](https://user-images.githubusercontent.com/98753538/157044723-2df6568d-81a5-48e2-bec1-7db413f34a1d.jpg)
-
-
-## Einrichten von Geräten
-
-Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Telefone in der CloudPBX bekannt. Die Einrichtung erfolgt ebenfalls unter dem Punkt PBX-Konfiguration. <br> 
-Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". <br>
-Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das Telefonmodell aus. <br>
-Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
-
-### Snom D7-Serie
-![cloudpbx_Gerät1 hinzufügen](https://user-images.githubusercontent.com/98753538/157050069-16510561-363d-4d15-842b-838dbd7b46aa.jpg)
-
-Im nächsten Schritt konfigurieren Sie die Telefone. Sie legen also fest, welche Nebenstelle auf welchem Telefon klingeln soll und welche Nebenstellen per BusyLampField (BLF) überwacht werden sollen. Klicken Sie dafür auf das Gerät richten bei der entsprechenden Lampe/Taste den Teilnehmer ein:
-![cloudpbx_Teilnehmer einrichten1](https://user-images.githubusercontent.com/98753538/157249202-096b60c3-3ec4-49b8-a22c-d85b0278d1b9.jpg)
-
-### Yealink T5-Serie
-![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
-
-Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" (BLF) belegt werden: 
-
-![cloudpbx_Teilnehmer einrichten4](https://user-images.githubusercontent.com/98753538/157250752-3cb7113d-c166-4b48-b172-fbfe210cdc87.jpg)
-
-So sieht z.B. die "Zentrale", welcher Kollege gerade angerufen wird oder kann einen ankommenden Anruf übernehmen:
-
-![cloudpbx_busylampfield1](https://user-images.githubusercontent.com/98753538/157256356-a871d273-04d9-4c8c-844e-6dc818de1f0c.jpg)
-
-### Snom M900 DECT-Basisstation
-Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen. Die M900 bietet neben einem integrierten DECT-Manager auch eine DECT- und LAN-Synchronisierung. Der SIP-Transport kann neben UDP auch mittels TCP oder TLS erfolgen. Mit "Seamless Handover" ist der nahtlose Wechsel von einer Basisstation zur nächsten möglich.
-
-![cloudpbx_Gerät3 hinzufügen](https://user-images.githubusercontent.com/98753538/157050358-01266501-cc69-4e7a-b46f-cf0dddebf921.jpg)
-
-Kompatible Mobilteile sind M25, M65, M70, M80, M85, M90. Jedes DECT-Telefon muss der Basisstation zugewiesen werden.
-
-![cloudpbx_Teilnehmer einrichten2](https://user-images.githubusercontent.com/98753538/157249871-a15e2c1a-8ee4-4af3-995e-a4dde92cd579.jpg)
-
-Bei der SNOM-Basisstation können bis zu 19 Teilnehmer eingerichtet werden. Im Beispiel sind es zwei:
-
-![cloudpbx_Teilnehmer einrichten5](https://user-images.githubusercontent.com/98753538/157256005-95ef62fb-dcec-42a6-915e-8888618f1e67.jpg)
-
-#### Anmeldung der Snom-Mobilteile (Handsets)
-
-Im Fritzbox-Meü -> Heimnetz -> Netzwerk kann man unter "Netzwerkverbindungen" die IP-Adresse der DECT-Basisstation einsehen bzw. diese auswählen:
-
-![Cloudpbx_einrichten_snom_dect_fritzbox](https://user-images.githubusercontent.com/98753538/157690228-f65b389b-9384-42ec-acd8-79b36f1ba638.jpg)
-
-So gelangen Sie zum Web-Interface Ihrer Snom M900. Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechenden Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.
-
-![Cloudpbx_einrichten_snom_dect_endgeräte3](https://user-images.githubusercontent.com/98753538/157692195-9bae9037-8950-4312-8380-033f61c84253.jpg)
-
-Parallel dazu wählen Sie im Handset/Mobilteil den Punkt "Connectivity", dann "Register", tragen hier den Access-Code ein und bestätigen diesen mit "OK".
-
-![Handheld hinzufügen](https://user-images.githubusercontent.com/98753538/157691802-be0a428d-e6e9-49a4-b753-b00f016dbb6b.jpg)
-
-Abschließend aktualisieren Sie im Web-Interface die Ansicht "Extension" und sehen alle registrierten Mobilteile:
-
-![Cloudpbx_einrichten_snom_dect_endgeräte4](https://user-images.githubusercontent.com/98753538/157692597-70050298-c579-4109-b648-41ad36701c50.jpg)
-
-Sind die angemeldeten Handsets noch nicht sichtbar, ist gegebenenfalls im Menüpunkt "Home/Status" ein Reboot der DECT-Basisstation sinnvoll.
-
-![Cloudpbx_einrichten_snom_dect_reboot](https://user-images.githubusercontent.com/98753538/157691428-c41043ce-f043-4586-ac25-4365ba70e299.jpg)
+5. Ein Anrufmenü (AutoAttendant) konfigurieren
+Hier können Sie ein bis zu 10-stufiges Anrufmenü konfigurieren. Sie legen die Ziele fest, die den einzelnen Auswahlpunkten entsprechen sollen. Ziele können Gruppen, Nebenstellen, Voiceboxen, Mobilnummern oder auch weitere Anrufmenüs sein. Vorraussetzung für eine sinnvolle Nutzung ist die Konfiguration der SoundSets unter (Link).
+Wie Sie bei der Konfiguration des Anrufmenüs vorgehen ist hier (Link) beschrieben
+ 
+6. SoundSets konfigurieren
+Die Soundsets sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die Wartemusik anpassen oder "OutOfOffice" Ansagen definieren. Wie Sie bei der Konfiguration der SoundSets vorgehen ist hier (Link) beschrieben.
+Achtung: Individuelle Ansagen für die Voicebox werden nicht hier definiert. Diese sollen durch den Besitzer der Nebenstelle definiert werden. Dazu ist der Loging auf dem direkten Nebenstellenaccount erforderlich. Alternativ kann der Administrator diese Einstellungen auch über "Kundendetails" vornehmen. 
