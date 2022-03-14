@@ -33,9 +33,8 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard lie
 Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
 ### 1. Seats = Nebenstellen <br>
-Damit Sie telefonieren können, müssen Sie zunächst **Nebenstellen** einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten für die jeweilige Rufnummer. Hier finden Sie die Beschreibung, wie Sie eine [Nebenstelle einrichten](https://cloudpbx-doku.netcologne.de/docs/konfiguration/seats/) <br>
-Es ist hilfreich, wenn Sie sich vorher den *Verwendungszweck* der Nebenstelle überlegen. Soll die Nummer einem *Telefon* zugewiesen werden oder handelt es sich um eine *Voice- oder Faxbox*? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? <br>
-Mehrere Nebenstellen können in einer *Gruppe* zusammengefasst werden. Außerdem werden viele Sonderfunktionen wie *Anrufmenü, Faxserver oder Voiceboxen* über *Anrufweiterschaltungen* realisiert. Die *Anrufweiterschaltung* und damit die Aktivierung der entsprechenden Funktion kann durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über den Menüpunkt *"Kundendetails"*, aktiviert werden. <br>
+Damit Sie telefonieren können, müssen Sie zunächst **Nebenstellen** einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten für die jeweilige Rufnummer. Hier finden Sie die Beschreibung, wie Sie eine [Nebenstelle einrichten](https://cloudpbx-doku.netcologne.de/docs/konfiguration/seats/). <br>
+Es ist hilfreich, wenn Sie sich vorher den *Verwendungszweck* der Nebenstelle überlegen: Soll die Nummer einem *Telefon* zugewiesen werden oder handelt es sich um eine *Voice- oder Faxbox*? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? Mehrere Nebenstellen können in einer *Gruppe* zusammengefasst werden. Außerdem werden viele Sonderfunktionen wie *Anrufmenü, Faxserver oder Voiceboxen* über *Anrufweiterschaltungen* realisiert. Die *Anrufweiterschaltung* und damit die Aktivierung der entsprechenden Funktion kann durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über den Menüpunkt *"Kundendetails"*, aktiviert werden. <br>
 Von allen diesen Überlegungen hängt dann die weiteren Konfiguration ab. <br> 
 
 ### 2. Gruppen <br>
