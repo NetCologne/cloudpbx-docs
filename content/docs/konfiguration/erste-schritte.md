@@ -56,7 +56,6 @@ Wie sie bei der Einrichtung der Wartemusik vorgehen, ist hier beschrieben: <br>
 5. SoundSets <br>
 Die Soundsets sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die Wartemusik anpassen oder "OutOfOffice" Ansagen definieren. Wie Sie bei der Konfiguration der SoundSets vorgehen ist, steht  hier: <br>
 (https://cloudpbx-doku.netcologne.de/docs/konfiguration/sound-sets/) <br>
-
 Achtung: Individuelle Ansagen für die Voicebox werden hier nicht definiert. Diese sollen durch den Besitzer der Nebenstelle definiert werden. Dazu ist der Loging auf dem direkten Nebenstellenaccount erforderlich. Alternativ kann der Administrator diese Einstellungen auch über den Menüpunkt "Kundendetails" vornehmen. 
 
 6. Geschäftsführungssekretariat <br>
@@ -65,4 +64,4 @@ Achtung: Individuelle Ansagen für die Voicebox werden hier nicht definiert. Die
 7. Anrufmenü (AutoAttendant) <br>
 Hier können Sie ein bis zu 10-stufiges Anrufmenü konfigurieren. Sie legen die Ziele fest, die den einzelnen Auswahlpunkten entsprechen sollen. Ziele können Gruppen, Nebenstellen, Voiceboxen, Mobilnummern oder auch weitere Anrufmenüs sein. Vorraussetzung für eine sinnvolle Nutzung ist die Konfiguration der SoundSets unter (Link).
 Wie Sie bei der Konfiguration des Anrufmenüs vorgehen, ist hier beschrieben: <br>
-(https://cloudpbx-doku.netcologne.de/docs/konfiguration/anrufmenue/) beschrieben. <br>
+(https://cloudpbx-doku.netcologne.de/docs/konfiguration/anrufmenue/) <br>
