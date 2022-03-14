@@ -24,23 +24,17 @@ Auf der angebenen Seite können Sie sich mit diesen Daten anmelden
 
 ![cloudpbx_login](https://user-images.githubusercontent.com/98753538/152331121-be008d22-e8da-4997-88f2-47daf5f423f7.jpg)
 
-Sie befinden sich nun in der Administrator-Maske der CloudPBX
+Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard [1] liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls) und den registrierten Endgeräten.
 
 ![cloudpbx_dashboard1](https://user-images.githubusercontent.com/98753538/152346499-6842be07-6604-4428-be19-691e8e123992.jpg)
-
-[1] Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls) und den registrierten Endgeräten.
-
-[2] Beim Punkt Konversationen stehen weitere Details wie "von" und "an".
-
 
 Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
 1. Nebenstellen einrichten: Damit Sie telefonieren können, müssen Sie zunächst Nebenstellen einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten
 für die jeweilige Rufnummer.
-Wie Sie bei der Einrichtung der Nebenstellen vorgehen, ist hier (Link) beschrieben.
-Vorteilhaft ist es, wenn Sie sich zunächst den Verwendungszweck der Nebenstelle überlegen. Soll die Nummer einem Telefon zugewiesen werden oder handelt es sich um eine Voice- oder Faxbox?
-Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? Hinweis:  Viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen, werden über Anrufweiterschaltungen realisiert. Die Anrufweiterschaltungen und damit die Aktivierung der entsprechenden Funktion, können durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über "Kundendetails" aktiviert werden. Eine Sonderform der Nebenstelle ist eine Gruppennummer. Hinter Gruppennummern können mehrere Nebenstellen zusammengefasst werden.
-Für eine Gruppennummer entstehen keine zusätzlichen Kosten.
+Wie Sie bei der Einrichtung der Nebenstellen vorgehen, ist hier (content/docs/konfiguration/seats.md) beschrieben.
+Vorteilhaft ist es, wenn Sie sich zunächst den Verwendungszweck der Nebenstelle überlegen. Soll die Nummer einem Telefon zugewiesen werden oder handelt es sich um eine Voice- oder Faxbox? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? 
+Hinweis: Viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen, werden über Anrufweiterschaltungen realisiert. Die Anrufweiterschaltungen und damit die Aktivierung der entsprechenden Funktion, können durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über "Kundendetails" aktiviert werden. Eine Sonderform der Nebenstelle ist eine Gruppennummer. Hinter Gruppennummern können mehrere Nebenstellen zusammengefasst werden. Für eine Gruppennummer entstehen keine zusätzlichen Kosten.
 Von diesen Überlegungen hängen dann die weiteren Konfigurationen ab. 
 
 2. Telefone konfigurieren und Nebenstellen zuweisen
