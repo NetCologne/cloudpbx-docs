@@ -26,7 +26,7 @@ Auf der angebenen Seite können Sie sich mit diesen Daten anmelden
 
 Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls), Faxeinstellungen, den registrierten Endgeräten und der ...
 
-## PBX-Konfiguration##
+## PBX-Konfiguration
 
 ![cloudpbx konfiguration](https://user-images.githubusercontent.com/98753538/158146352-44ab0a62-5820-434c-b90d-a19b127380f2.jpg)
 
@@ -35,7 +35,7 @@ Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 ### 1. Seats = Nebenstellen <br>
 Damit Sie telefonieren können, müssen Sie zunächst **Nebenstellen** einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten für die jeweilige Rufnummer. Hier finden Sie die Beschreibung, wie Sie eine [Nebenstelle einrichten](https://cloudpbx-doku.netcologne.de/docs/konfiguration/seats/) <br>
 Es ist hilfreich, wenn Sie sich vorher den *Verwendungszweck* der Nebenstelle überlegen. Soll die Nummer einem *Telefon* zugewiesen werden oder handelt es sich um eine *Voice- oder Faxbox*? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? <br>
-Mehrere Nebenstellen können unter einer *Gruppennummer* zusammengefasst werden. Außerdem werden viele Sonderfunktionen wie *Anrufmenü, Faxserver oder Voiceboxen* über *Anrufweiterschaltungen* realisiert. Die *Anrufweiterschaltung* und damit die Aktivierung der entsprechenden Funktion kann durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über den Menüpunkt *"Kundendetails"*, aktiviert werden. <br>
+Mehrere Nebenstellen können in einer *Gruppe* zusammengefasst werden. Außerdem werden viele Sonderfunktionen wie *Anrufmenü, Faxserver oder Voiceboxen* über *Anrufweiterschaltungen* realisiert. Die *Anrufweiterschaltung* und damit die Aktivierung der entsprechenden Funktion kann durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über den Menüpunkt *"Kundendetails"*, aktiviert werden. <br>
 Von allen diesen Überlegungen hängt dann die weiteren Konfiguration ab. <br> 
 
 ### 2. Gruppen <br>
