@@ -26,7 +26,7 @@ Auf der angebenen Seite können Sie sich mit diesen Daten anmelden
 
 Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls), der Konfiguration und den registrierten Endgeräten.
 
-![![cloudpbx konfiguration](https://user-images.githubusercontent.com/98753538/158146352-44ab0a62-5820-434c-b90d-a19b127380f2.jpg)
+![cloudpbx konfiguration](https://user-images.githubusercontent.com/98753538/158146352-44ab0a62-5820-434c-b90d-a19b127380f2.jpg)
 
 Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
@@ -37,23 +37,24 @@ Hinweis: Viele Sonderfunktionen wie Anrufmenü, Faxserver oder Voiceboxen, werde
 Von all diesen Überlegungen hängt dann die weiteren Konfiguration ab. 
 
 2. Gruppen einrichten
-Hier (Link) können sie die Einstellungen für eine Gruppennummer festlegen
+Hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/gruppen/) können sie die Einstellungen für eine Gruppennummer festlegen
 
 3. Telefone konfigurieren und Nebenstellen zuweisen
 Hier können Sie die Telefone einrichten und konfigurieren. Zuvor haben Sie sich die Struktur überlegt, welche Mitarbeiter zusammenarbeiten und welche Mitarbeiter den Presence-Status von welchen Kollegen erhalten sollen. Entsprechend können Sie dann z.B. BusyLampFields einrichten.
-Yealink und SNOM Telefone können teilweise autoprovisioniert werden. Wie sie in diesen Fällen vorgehen ist hier (Link) beschrieben. Falls bei ihrem Gerät keine Autoprovisionierung möglich ist, schauen sie hier (Link) nach, ob eine manuelle Provisionierungsanleitung vorhanden ist.   
+Yealink und SNOM Telefone können teilweise autoprovisioniert werden. Wie sie in diesen Fällen vorgehen ist hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/geraete/#einrichten-von-ger%C3%A4ten) beschrieben. Falls bei ihrem Gerät keine Autoprovisionierung möglich ist, schauen sie hier (Link) nach, ob eine manuelle Provisionierungsanleitung vorhanden ist.   
 
 4. Anrufwarteschlangen einrichten
 Anrufwarteschlangen sorgen dafür, dass, auch bei besetzter Nebenstelle keine Anrufe abgewiesen und stattdessen in eine Warteschlange eingereiht werden.
 Der Anrufer erhält eine Begrüssungsansage und eine Information, an welcher Stelle der Warteschlange er sich befindet. Ansagen und Wartemusik sind konfigurierbar (Link).
-Wie sie bei der Einrichtung der Wartemusik vorgehen, ist hier (Link) beschrieben.
+Wie sie bei der Einrichtung der Wartemusik vorgehen, ist hier (https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufwarteschlangen/) beschrieben.
 
 5. SoundSets konfigurieren
-Die Soundsets sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die Wartemusik anpassen oder "OutOfOffice" Ansagen definieren. Wie Sie bei der Konfiguration der SoundSets vorgehen ist hier (Link) beschrieben.
+Die Soundsets sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die Wartemusik anpassen oder "OutOfOffice" Ansagen definieren. Wie Sie bei der Konfiguration der SoundSets vorgehen ist hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/sound-sets/) beschrieben.
 Achtung: Individuelle Ansagen für die Voicebox werden nicht hier definiert. Diese sollen durch den Besitzer der Nebenstelle definiert werden. Dazu ist der Loging auf dem direkten Nebenstellenaccount erforderlich. Alternativ kann der Administrator diese Einstellungen auch über "Kundendetails" vornehmen. 
 
 6. Geschäftsführungssekretariat
+(https://cloudpbx-doku.netcologne.de/docs/konfiguration/sekretariat-einrichten/)
 
 7. Ein Anrufmenü (AutoAttendant) konfigurieren
 Hier können Sie ein bis zu 10-stufiges Anrufmenü konfigurieren. Sie legen die Ziele fest, die den einzelnen Auswahlpunkten entsprechen sollen. Ziele können Gruppen, Nebenstellen, Voiceboxen, Mobilnummern oder auch weitere Anrufmenüs sein. Vorraussetzung für eine sinnvolle Nutzung ist die Konfiguration der SoundSets unter (Link).
-Wie Sie bei der Konfiguration des Anrufmenüs vorgehen ist hier (Link) beschrieben
+Wie Sie bei der Konfiguration des Anrufmenüs vorgehen ist hier (https://cloudpbx-doku.netcologne.de/docs/konfiguration/anrufmenue/) beschrieben
