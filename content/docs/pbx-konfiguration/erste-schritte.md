@@ -33,16 +33,16 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard lie
 Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
 ### 1. Seats = Nebenstellen <br>
-Damit Sie telefonieren können, müssen Sie zunächst *Nebenstellen* einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten für die jeweilige Rufnummer. Hier die Beschreibung, wie Sie eine [Nebenstelle einrichten](https://cloudpbx-doku.netcologne.de/docs/konfiguration/seats/). <br>
+Damit Sie telefonieren können, müssen Sie zunächst *Nebenstellen* einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten für die jeweilige Rufnummer. Hier die Beschreibung, wie Sie eine [Nebenstelle einrichten](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/seats/). <br>
 Es ist hilfreich, wenn Sie sich vorher den Verwendungszweck der Nebenstelle überlegen: Soll die Nummer einem *Telefon* zugewiesen werden oder handelt es sich um eine *Voice- oder Faxbox*? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? Mehrere Nebenstellen können in einer *Gruppe* zusammengefasst werden. Außerdem werden viele Sonderfunktionen wie *Anrufmenü, Faxserver oder Voiceboxen* über *Anrufweiterschaltungen* realisiert. Die *Anrufweiterschaltung* und damit die Aktivierung der entsprechenden Funktion kann durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über den Menüpunkt "Kundendetails", aktiviert werden. <br>
 Von allen diesen Überlegungen hängt dann die weiteren Konfiguration ab. <br> 
 
 ### 2. Gruppen <br>
-Eine Sonderform der Nebenstelle ist eine *Gruppe*. Dabei werden ohne zusätzliche Kosten mehrere Nebenstellen zu einer solchen zusammengefasst. Hier können sie die Einstellungen für eine [Gruppennummer festlegen](https://cloudpbx-doku.netcologne.de/docs/konfiguration/gruppen/). <br>
+Eine Sonderform der Nebenstelle ist eine *Gruppe*. Dabei werden ohne zusätzliche Kosten mehrere Nebenstellen zu einer solchen zusammengefasst. Hier können sie die Einstellungen für eine [Gruppennummer festlegen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/gruppen/). <br>
 
 ### 3. Geräte <br>
 Hier ist beschrieben, wie Sie die *Telefone* konfigurieren und den Nebenstellen zuweisen. Zuvor haben Sie sich die Struktur überlegt, welche Mitarbeiter zusammenarbeiten und welche Mitarbeiter den *Presence-Status* von welchen Kollegen erhalten sollen. Entsprechend können Sie dann z.B. *BusyLampFields* einrichten.
-Yealink und SNOM Telefone können teilweise autoprovisioniert werden. Wie sie in diesen Fällen vorgehen, erfahren Sie hier: [Geräte einrichten](https://cloudpbx-doku.netcologne.de/docs/konfiguration/geraete/#einrichten-von-ger%C3%A4ten). <br>
+Yealink und SNOM Telefone können teilweise autoprovisioniert werden. Wie sie in diesen Fällen vorgehen, erfahren Sie hier: [Geräte einrichten](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/geraete/#einrichten-von-ger%C3%A4ten). <br>
 Falls bei ihrem Gerät keine *Autoprovisionierung* möglich ist, schauen sie unter dem Menüpunkt "Endgeräte" nach, ob eine Anleitung zur manuellen Provisionierung vorhanden ist.   
 
 ### 4. Anrufwarteschlangen <br>
