@@ -21,7 +21,14 @@ Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die ents
 
 ![cloudpbx_seat hinzufügen1](https://user-images.githubusercontent.com/98753538/158319658-b4752816-35c2-46f8-ae93-06168a1458f5.jpg)
 
-Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf Seats (1) und fügen Namen (2) (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen), Web-Password (3) sowie SIP Password (4) (beide können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben) hinzu. Ist der Kunde Eigentümer einer weitereren "Alias-Nummer" und hat er diese bei Auftragserteilung der NetCologne mitgeteilt, kann diese hier (5) ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. Unter (6) können Gruppen konfiguriet werden. Falls Sie Ihre eigenen Töne oder Melodien verwenden wollen, können Sie diese im wav-Format hier (7) hochladen und der Nebenstelle zuweisen.
+Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf 
+Seats (1) und fügen 
+Namen (2) (nur Kleinbuchstaben, keine Leer- oder Sonderzeichen), 
+Web-Password (3) sowie 
+SIP Password (4) (beide können aus Sicherheitsgründen nur beim Anlegen eingesehen werden - entweder jetzt notieren oder später neu vergeben) hinzu. Ist der Kunde Eigentümer einer weitereren Nummer und hat er diese bei Auftragserteilung der NetCologne mitgeteilt, kann diese unter
+"Alias-Nummer" (5) ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. 
+Gruppen können hier (6) konfiguriet werden. Falls Sie Ihre eigenen Töne oder Melodien verwenden wollen, können Sie diese im wav-Format unter
+Sound-Set (7) hochladen und der Nebenstelle zuweisen.
 
 Beispiel: Hier wird nun die Nebenstelle 0 für den User "zollstock" eingerichtet:
 
