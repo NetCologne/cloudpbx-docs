@@ -3,7 +3,7 @@ title: "Erste Schritte"
 date: 2022-01-20T00:11:22+00:00
 menu:
   docs:
-    parent: "konfiguration"
+    parent: "pbx-konfiguration"
 weight: 201
 toc: true
 ---
