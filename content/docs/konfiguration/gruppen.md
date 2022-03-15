@@ -23,3 +23,11 @@ klicken Sie bitte im Punkt “PBX-Konfiguration” auf
 
 ![cloudpbx gruppe hunting](https://user-images.githubusercontent.com/98753538/158193548-c0180461-ea76-41f4-9fbb-f5f091ef7c68.jpg)
 
+* Serielles Klingeln - Bei jedem eingehenden Anruf versucht das System immer, den Anrufer an die erste Nebenstelle in der Liste zu vermitteln. Wenn diese nicht antwortet, arbeitet sich das System sequentiell durch die Liste, um eine Nebenstelle zu suchen, die den Anruf entgegen nimmt.
+* Paralleles Klingeln - Wenn ein Anruf eingeht, klingelt es bei allen nicht belegten Nebenstellen in der Gruppe gleichzeitig. Der Anruf wird mit dem zuerst entgegengenommenen Telefon verbunden.
+* Zufälliges Klingeln - Das System verteilt die Anrufe an die Nebenstellen zufällig.
+* Zirkuläres Klingeln - Die Nebenstellen werden zyklisch in der festegelegten Reihenfolge ausgewählt. Das System verucht einen eingehenden Anruf an die Nebenstelle zu leiten, die nach der Nebenstelle aufgeführt ist, die zuletzt einen Anruf angenommen hat. Schlägt der erste Übertragungsversuch fehl, arbeitet das System die Liste zyklisch ab.
+
+
+
+
