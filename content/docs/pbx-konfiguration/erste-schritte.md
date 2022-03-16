@@ -47,14 +47,14 @@ Falls bei ihrem Gerät keine *Autoprovisionierung* möglich ist, schauen sie unt
 
 ### 4. Anrufwarteschlangen <br>
 *Anrufwarteschlangen* sorgen dafür, dass auch bei besetzter Nebenstelle Anrufe nicht abgewiesen und stattdessen in eine Warteschlange eingereiht werden.
-Der Anrufer erhält eine Begrüssungsansage und eine Information, an welcher Stelle der Warteschlange er sich befindet. Details zur Konfiguration finden Sie unter [Anrufwarteschlangen einrichten](https://cloudpbx-doku.netcologne.de/docs/konfiguration/anrufwarteschlangen-einrichten/). <br>
+Der Anrufer erhält eine Begrüssungsansage und eine Information, an welcher Stelle der Warteschlange er sich befindet. Details zur Konfiguration finden Sie unter [Anrufwarteschlangen einrichten](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufwarteschlangen-einrichten/). <br>
 
 ### 5. SoundSets <br>
-Die *Soundsets* sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die *Wartemusik* anpassen oder *"OutOfOffice" Ansagen* definieren. Wie Sie bei der Konfiguration vorgehen ist, steht hier: [Soundsets](https://cloudpbx-doku.netcologne.de/docs/konfiguration/sound-sets/). <br>
+Die *Soundsets* sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die *Wartemusik* anpassen oder *"OutOfOffice" Ansagen* definieren. Wie Sie bei der Konfiguration vorgehen ist, steht hier: [Soundsets](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sound-sets/). <br>
 Achtung: *Individuelle Ansagen* für die Voicebox werden hier nicht bereitgestellt. Diese sollen durch den Besitzer der Nebenstelle definiert werden. Dazu ist der Loging auf dem direkten Nebenstellenaccount erforderlich. Alternativ kann der Administrator diese Einstellungen auch über den Menüpunkt "Kundendetails" vornehmen. 
 
 ### 6. Geschäftsführungssekretariat <br>
-[Sekretariat einrichten](https://cloudpbx-doku.netcologne.de/docs/konfiguration/sekretariat-einrichten/). <br>
+[Sekretariat einrichten](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sekretariat-einrichten/). <br>
 
 ### 7. Anrufmenü (AutoAttendant) <br>
-Hier können Sie ein bis zu 10-stufiges *Anrufmenü* konfigurieren. Sie legen die Ziele fest, die den einzelnen Auswahlpunkten entsprechen sollen. Ziele können *Gruppen, Nebenstellen, Voiceboxen, Mobilnummern* oder auch weitere *Anrufmenüs* sein. Wie Sie bei der Konfiguration vorgehen, ist hier beschrieben: [Anrufmenü](https://cloudpbx-doku.netcologne.de/docs/konfiguration/anrufmenue/). <br>
+Hier können Sie ein bis zu 10-stufiges *Anrufmenü* konfigurieren. Sie legen die Ziele fest, die den einzelnen Auswahlpunkten entsprechen sollen. Ziele können *Gruppen, Nebenstellen, Voiceboxen, Mobilnummern* oder auch weitere *Anrufmenüs* sein. Wie Sie bei der Konfiguration vorgehen, ist hier beschrieben: [Anrufmenü](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufmenue/). <br>
