@@ -8,6 +8,26 @@ weight: 205
 toc: true
 ---
 
-Mit einer Anrufwarteschlange stellen Sie sicher, dass keine Anrufe verloren gehen. Die Anrufe werden gehalten und Ihre Kunden durch Ansagen informiert. Es gibt unterschiedliche Möglichkeiten, wie die Anrufe an Ihre Mitarbeiter verteilt werden. Auch kann die Wartezeit durch das Einspielen von Loungemusik erleichtert werden. Hier erfahren Sie, wie Sie Ihre Anrufwarteschlangen einrichten.
+Mit einer Anrufwarteschlange stellen Sie sicher, dass keine ankommende Anrufe verloren gehen. Die Anrufe werden gehalten und Ihre Kunden durch Ansagen informiert. Auch kann die Wartezeit durch das Einspielen von Musik erleichtert werden. Hier erfahren Sie, wie Sie Ihre Anrufwarteschlangen einrichten.
 
-![cloudpbx gruppe](https://user-images.githubusercontent.com/98753538/158602555-7c11b296-5e80-438f-a82b-a27ca061bd4f.jpg)
+![cloudpbx warteschlange](https://user-images.githubusercontent.com/98753538/158607755-632e2eed-fe5a-499c-a9b5-3796d855abb8.jpg)
+
+Klicken Sie bitte auf den Unterpunkt “Anrufwarteschlange” (1) und hier auf "+ ANRUFWARTESCHLANGE HINZUFÜGEN". 
+
+Wählen Sie die Gruppe oder Nebenstelle (2) aus, fur die Sie die Warteschlange konfigurieren.
+
+Mit der Warteschlangenlänge (3) bestimmen Sie die maximale Anzahl der Anrufer, die gehalten werden.
+
+Die Nachbearbeitungszeit (4) gibt dem Angerufenen z.B. 20 Sekunden Zeit, sich abschließende Notizen zu machen, bevor ihm der nächste gehaltene Anrufer zugestellt wird.
+
+Abschließend klicken Sie auf "ANRUFWARTESCHLANGE HINZUFÜGEN".
+
+![cloudpbx warteschlange2](https://user-images.githubusercontent.com/98753538/158609830-57f76e3a-e0e9-4ac6-8f42-d898c48c7c34.jpg)
+
+In der Warteschlange "Schäl Sick" werden bis zu 5 Anrufer gehalten. Sind alle Abfrageplätze belegt, erhalten sie standardmäßig die folgende Ansagen:
+* "Alle Leitungen sind zur Zeit belegt. Ihr Anruf wird gereiht." (pbx queue_greeting)
+* "Sie befinden sich zur Zeit an Position…" (pbx queue_prefix)
+* "…der Warteschlange. Bitte legen Sie nicht auf." (pbx queue_suffix)
+* Musik für Warteschlange )pbx queue_waiting_music => )
+
+
