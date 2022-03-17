@@ -36,4 +36,7 @@ Beispiel: In der Warteschlange "Schäl Sick" werden bis zu 5 Anrufer gehalten. S
 * "Alle Leitungen sind zu Zeit belegt. Bitte versuchen Sie es später erneut." (pbx queue_full)
 
 In Klammern stehen die Namen des jeweiligen Soundsets, die Sie mit wenigen Mausklicks auf Ihr Unternehmen bzw. für Ihre Anrufer anpassen können.
-Die Details dazu stehen im Kapitel [Soundsets](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sound-sets/).
+Wenn Sie im Internet mit "text to speech german kostenlos" finden Sie leicht einen (kostenlosen) Text-zu-Sprache-Generator wie z.B. ttsfree, freetts oder ttsmp3. Dort können Sie Ihren gewünschten Ansagetext eingeben, wählen die Sprache und Stimme für die Ausgabe und erzeugen so eine mp3-Datei. Um diese in der Cloud-PBX verwenden zu können, ist noch eine Wandlung ins WAV-Format erforderlich. Entsprechende Konverter sind im Internet mit "mp3 wav converter" ebenfalls
+sehr leicht zu finden. Wichtig: In Mono und nach a-Law konvertieren.
+
+Wie Sie selbst erzeugte Ansagen in Ihre Cloud-PBX hochladen und aktiveren, steht im Kapitel [Soundsets](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sound-sets/).
