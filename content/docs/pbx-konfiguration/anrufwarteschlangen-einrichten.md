@@ -14,7 +14,7 @@ Mit einer Anrufwarteschlange stellen Sie sicher, dass keine ankommende Anrufe ve
 
 Klicken Sie bitte auf den Unterpunkt “Anrufwarteschlange” (1) und hier auf "+ ANRUFWARTESCHLANGE HINZUFÜGEN". 
 
-Wählen Sie die Gruppe oder Nebenstelle (2) aus, fur die Sie die Warteschlange konfigurieren.
+Wählen Sie die Gruppe oder Nebenstelle (2) aus, für die Sie die Warteschlange konfigurieren.
 
 Mit der Warteschlangenlänge (3) bestimmen Sie die maximale Anzahl der Anrufer, die gehalten werden.
 
@@ -29,7 +29,7 @@ Beispiel: In der Warteschlange "Schäl Sick" werden bis zu 5 Anrufer gehalten. S
 * "Alle Leitungen sind zur Zeit belegt. Ihr Anruf wird gereiht." (pbx queue_greeting)
 * "Sie befinden sich zur Zeit an Position…" (pbx queue_prefix)
 * "…der Warteschlange. Bitte legen Sie nicht auf." (pbx queue_suffix)
-* Anschließend hört der Anrufer Musik (pbx queue_waiting_music)
+* Anschließend hört der Anrufer Musik. (pbx queue_waiting_music)
 
 Übersteigt die Anzahl der Anrufer die *Warteschlangenlänge* (hier 5), wird diese Ansage geschaltet:
 
