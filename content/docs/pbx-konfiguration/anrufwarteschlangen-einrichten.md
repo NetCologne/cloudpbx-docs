@@ -35,4 +35,5 @@ Beispiel: In der Warteschlange "Schäl Sick" werden bis zu 5 Anrufer gehalten. S
 
 * "Alle Leitungen sind zu Zeit belegt. Bitte versuchen Sie es später erneut." (pbx queue_full)
 
-In Klammern stehen die Namen des jeweiligen Soundsets, die Sie auf Ihr Unternehmen bzw. für Ihre Anrufer anpassen können.
+In Klammern stehen die Namen des jeweiligen Soundsets, die Sie mit wenigen Mausklicks auf Ihr Unternehmen bzw. für Ihre Anrufer anpassen können.
+Die Details dazu stehen im Kapitel [Soundsets]https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sound-sets/
