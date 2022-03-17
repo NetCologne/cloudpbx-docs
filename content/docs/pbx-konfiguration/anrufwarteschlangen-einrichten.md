@@ -24,10 +24,15 @@ Abschließend klicken Sie auf "ANRUFWARTESCHLANGE HINZUFÜGEN".
 
 ![cloudpbx warteschlange2](https://user-images.githubusercontent.com/98753538/158609830-57f76e3a-e0e9-4ac6-8f42-d898c48c7c34.jpg)
 
-In der Warteschlange "Schäl Sick" werden bis zu 5 Anrufer gehalten. Sind alle Abfrageplätze belegt, erhalten sie standardmäßig die folgende Ansagen:
+Beispiel: In der Warteschlange "Schäl Sick" werden bis zu 5 Anrufer gehalten. Sind alle Abfrageplätze belegt, erhalten sie standardmäßig die folgende Ansagen (Soundset):
+
 * "Alle Leitungen sind zur Zeit belegt. Ihr Anruf wird gereiht." (pbx queue_greeting)
 * "Sie befinden sich zur Zeit an Position…" (pbx queue_prefix)
 * "…der Warteschlange. Bitte legen Sie nicht auf." (pbx queue_suffix)
-* Musik für Warteschlange )pbx queue_waiting_music => )
+* Anschließend hört der Anrufer Musik (pbx queue_waiting_music)
 
+Übersteigt die Anzahl der Anrufer die *Warteschlangenlänge* (hier 5), wird diese Ansage geschaltet:
 
+* "Alle Leitungen sind zu Zeit belegt. Bitte versuchen Sie es später erneut." (pbx queue_full)
+
+In Klammern stehen die Namen des jeweiligen Soundsets, die Sie auf Ihr Unternehmen bzw. für Ihre Anrufer anpassen können.
