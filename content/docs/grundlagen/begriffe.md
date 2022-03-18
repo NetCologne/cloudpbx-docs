@@ -67,7 +67,8 @@ Das Protokoll Secure Socket Layer (SSL) authentifiziert und verschlüsselt Daten
 ## TAPI
 
 Ein Telephony Application Programming Interface (TAPI) ist eine Schnittstelle für die Telefonie. Windows Betriebssysteme verbinden sich über die TAPI mit den Telefonie-Programmen. Dadurch können Apps für VoIP-Telefonie, Callcenter-Systeme oder Videokonferenzprogramme genutzt werden.
-VDSL
+
+## VDSL
 
 Very High Speed Digital Subscriber Line (VDSL) ist ein digitaler Hochgeschwindigkeitsanschluss, mit dem wesentlich höhere Datenübertragungsraten möglich sind als mit DSL. Sowohl in der asymmetrischen als auch in der symmetrischen Übertragung erreichen VDSL-Anschlüsse damit weit höhere Geschwindigkeiten.
 
