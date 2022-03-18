@@ -8,7 +8,7 @@ weight: 102
 toc: true
 ---
 
-Da wir besonderen Wert auf die Sicherheit Ihrer Daten und unserer Dienste liegen, haben wir für ihren Schutz besondere Maßnahmen ergriffen. Wir liefern unseren Service aus drei deutschen Rechenzentren mit höchster Sicherheit. Der Zutritt zu diesen Zentren und der Zugriff auf die Daten ist so geschützt, dass Dritte nicht eindringen können. Den Weg Ihrer Daten sichern wir mit verschlüsselter Datenübertragung. Dadurch, dass die Rechenzentren in Deutschland stehen, greift das deutsche Datenschutzgesetz mit seinen hohen Standards. Zudem unterziehen wir die Infrastruktur regelmäßigen Stresstests und fahren zyklische Sicherheitsupdates - Ihre Daten sind in guten Händen.
+Da wir besonderen Wert auf die Sicherheit Ihrer Daten und unserer Dienste legen, haben wir für ihren Schutz besondere Maßnahmen ergriffen. Wir liefern unseren Service aus drei deutschen Rechenzentren mit höchster Sicherheit. Der Zutritt zu diesen Zentren und der Zugriff auf die Daten ist so geschützt, dass Dritte nicht eindringen können. Den Weg Ihrer Daten sichern wir mit verschlüsselter Datenübertragung. Dadurch, dass die Rechenzentren in Deutschland stehen, greift das deutsche Datenschutzgesetz mit seinen hohen Standards. Zudem unterziehen wir die Infrastruktur regelmäßigen Stresstests und fahren zyklische Sicherheitsupdates - Ihre Daten sind in guten Händen.
 
 ## Passwortsicherheit
 
