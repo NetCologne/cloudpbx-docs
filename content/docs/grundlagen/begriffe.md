@@ -50,7 +50,7 @@ Auf Deutsch heißt Symmetric Digital Subscriber Line (SDSL) “symmetrischer dig
 
 ## SIP-Protokoll
 
-Ein Session Initiation Protocol (SIP) macht eine Kommunikationssitzung mit zwei oder mehr Teilnehmern möglich. Das HTTP-basierte Protokoll schickt dafür Daten in Echtzeit über paketgeschützte Netze und ermöglicht den Auf- und Abbau sowie die Steuerung der Sitzung. Deshalb wird es häufig mit VoIP verwechselt, ist aber letztlich nur ein Bestandteil eines VoIP-Gesprächs, zusammen mit anderen Protokollen. SIP ist vergleichbar mit dem H.323 Protokoll, aber im Aufbau einfacher und sicherer. So nutzt H.323 die ganze Bandbreite des Ports, SIP ist über zwei TCP-Ports verschlüsselt (per SSL oder TSL). Zudem bauen sich die Verbindungen nicht über permanent wechselnde IP-Adressen auf, sondern nutzen feste SIP-Adressen, die E-Mail-Adressen ähnlich sind.
+Ein Session Initiation Protocol (SIP) macht eine Kommunikationssitzung mit zwei oder mehr Teilnehmern möglich. Das HTTP-basierte Protokoll schickt dafür Daten in Echtzeit über paketgestützte Netze und ermöglicht den Auf- und Abbau sowie die Steuerung der Sitzung. Deshalb wird es häufig mit VoIP verwechselt, ist aber letztlich nur ein Bestandteil eines VoIP-Gesprächs, zusammen mit anderen Protokollen. SIP ist vergleichbar mit dem H.323 Protokoll, aber im Aufbau einfacher und sicherer. So nutzt H.323 die ganze Bandbreite des Ports, SIP ist über zwei TCP-Ports verschlüsselt (per SSL oder TSL). Zudem bauen sich die Verbindungen nicht über permanent wechselnde IP-Adressen auf, sondern nutzen feste SIP-Adressen, die E-Mail-Adressen ähnlich sind.
 
 ## SIP-Telefon
 
