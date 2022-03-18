@@ -24,7 +24,7 @@ Auf der angebenen Seite können Sie sich mit diesen Daten anmelden
 
 ![cloudpbx_login](https://user-images.githubusercontent.com/98753538/152331121-be008d22-e8da-4997-88f2-47daf5f423f7.jpg)
 
-Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard liefert eine Überischt zu Nachrichten (Messages), Anrufen (Calls), Faxeinstellungen, den registrierten Endgeräten und der ...
+Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard liefert eine Übersicht zu Nachrichten (Messages), Anrufen (Calls), Faxeinstellungen, den registrierten Endgeräten und der ...
 
 ## PBX-Konfiguration
 
