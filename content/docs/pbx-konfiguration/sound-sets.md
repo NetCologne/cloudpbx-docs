@@ -22,4 +22,8 @@ Im Blid sehen Sie alle Ansagen, die Sie für die Erstellung/Modikfikation einer 
 4. **pbx queue_suffix** “…der Warteschlange. Bitte legen Sie nicht auf.”
 5. **pbx queue_waiting_music** Musik, die dem Anrufer das Warten *versüßen* soll.
 
+Mit Ansage (6) **pbx office_hours** informieren Sie Ihre Anurfer wie folgt: Mit "Sie rufen außerhalb unserer Öffnungszeiten an." Sie gehört also nicht zur Anrufwarteschlange und wird bei den Call Forwards aktiviert:
+
+
+
 
