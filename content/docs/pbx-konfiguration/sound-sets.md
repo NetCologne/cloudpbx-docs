@@ -23,11 +23,10 @@ Im Bild sehen Sie die Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation
 5. **pbx queue_waiting_music** Musik, die dem Anrufer das Warten *versüßen* soll.
 
 Mit 6. **pbx office_hours** informieren Sie Ihre Anrufer wie folgt: "Sie rufen außerhalb unserer Öffnungszeiten an." Diese *Out-of-Office-Ansage* gehört also nicht zur Anrufwarteschlange. 
-Aktiviert wird bei den *Call Forwards*. Klicken Sie dafür auf den Unterpunkt "Kunden-Details" (1), dann im Menü "Einstellungen" auf "Subscriber" (2). In der Tabelle sind die Nebenstellen mit Name und Durchwahl aufgelistet. In der Spalte rechts können Sie die Einträge Terminieren (löschen), erfahren Details dazu oder Sie modifizieren die Einstellungen (3):
+Aktiviert wird bei den *Call Forwards*. Klicken Sie dafür auf den Unterpunkt "Kunden-Details" (1), dann im Menü "Einstellungen" auf "Subscriber" (2). In der Tabelle sind die Nebenstellen mit Name und Durchwahl aufgelistet. In der Spalte rechts können Sie die Einträge Terminieren (löschen), erfahren Details dazu oder Sie modifizieren Einstellungen (3), wie z.B. Call Forwards:
 
 ![cloudpbx soundsetC](https://user-images.githubusercontent.com/98753538/159277582-16b92cc8-7173-480a-8f85-5dc37e9a21d6.jpg)
 
+Die Tabelle zeigt die unterschiedlichen Fälle der Anrufweiterleitung, wie z.B. generell, wenn besett, nach definierter Zeitspanneoder falls nicht erreichbar/registriert. Wenn Sie rechts auf "Edit" klicken, können Sie das entsprechende Ziel der Weiterschaltung eingeben. In diesem Fall ist das "Office Hours Announcement". Beim "Advanced View" (6) sind weitere Konfigurationen, wie z.B. die Eingabe von Zeiten (7), Ursprungen und Zielen möglich, bei denen die *Out-of-Office-Ansage* gespielt werden soll. Bestätigen Sie Ihre Auswahl mit "Save" (8).
 
-
-
-![cloudpbx soundsetG](https://user-images.githubusercontent.com/98753538/159274618-98e54cfd-b312-4b2a-9dc4-9e265f4903df.jpg)
+![cloudpbx soundsetG](https://user-images.githubusercontent.com/98753538/159278277-d6dcb79c-e292-484f-bcb0-3d0ad3f8dd20.jpg)
