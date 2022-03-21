@@ -22,7 +22,7 @@ Im Bild sehen Sie die Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation
 4. **pbx queue_suffix** “…der Warteschlange. Bitte legen Sie nicht auf.”
 5. **pbx queue_waiting_music** Musik, die dem Anrufer das Warten *versüßen* soll.
 
-Mit 6. **pbx office_hours** informieren Sie Ihre Anrufer wie folgt: "Sie rufen außerhalb unserer Öffnungszeiten an." Sie gehört also nicht zur Anrufwarteschlange und wird bei den Call Forwards aktiviert.
+Mit 6. **pbx office_hours** informieren Sie Ihre Anrufer wie folgt: "Sie rufen außerhalb unserer Öffnungszeiten an." Diese Ansage gehört also nicht zur Anrufwarteschlange. Aktiviert wird bei den *Call Forwards*. Klicken Sie dafür auf den Unterpunkt "
 
 
 
