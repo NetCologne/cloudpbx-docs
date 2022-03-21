@@ -14,7 +14,7 @@ Im Unterpunkt Sounds-Sets (1) werden alle Sprachansagen vorgestellt. Sie können
 
 ![cloudpbx soundsetB](https://user-images.githubusercontent.com/98753538/159233155-18e931f4-ddc0-423d-9abf-255d3611fcbe.jpg)
 
-Im Blid sehen Sie alle Ansagen, die Sie für die Erstellung/Modikfikation einer Anrufwarteschlange benötigen:
+Im Bild sehen Sie die Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation einer Anrufwarteschlange benötigen:
 
 1. **pbx queue_greeting** “Alle Leitungen sind zur Zeit belegt. Ihr Anruf wird gereiht.” 
 2. **pbx queue_full** “Alle Leitungen sind zu Zeit belegt. Bitte versuchen Sie es später erneut.”
@@ -22,7 +22,7 @@ Im Blid sehen Sie alle Ansagen, die Sie für die Erstellung/Modikfikation einer 
 4. **pbx queue_suffix** “…der Warteschlange. Bitte legen Sie nicht auf.”
 5. **pbx queue_waiting_music** Musik, die dem Anrufer das Warten *versüßen* soll.
 
-Mit Ansage (6) **pbx office_hours** informieren Sie Ihre Anurfer wie folgt: Mit "Sie rufen außerhalb unserer Öffnungszeiten an." Sie gehört also nicht zur Anrufwarteschlange und wird bei den Call Forwards aktiviert:
+Mit 6. **pbx office_hours** informieren Sie Ihre Anrufer wie folgt: "Sie rufen außerhalb unserer Öffnungszeiten an." Sie gehört also nicht zur Anrufwarteschlange und wird bei den Call Forwards aktiviert.
 
 
 
