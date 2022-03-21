@@ -18,7 +18,7 @@ Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
 ### Snom D7-Serie
 ![cloudpbx_Gerät1 hinzufügen](https://user-images.githubusercontent.com/98753538/157050069-16510561-363d-4d15-842b-838dbd7b46aa.jpg)
 
-Im nächsten Schritt konfigurieren Sie die Telefone. Sie legen also fest, welche Nebenstelle auf welchem Telefon klingeln soll und welche Nebenstellen per BusyLampField (BLF) überwacht werden sollen. Klicken Sie dafür auf das Gerät richten bei der entsprechenden Lampe/Taste den Teilnehmer ein:
+Im nächsten Schritt konfigurieren Sie die Telefone. Sie legen also fest, welche Nebenstelle auf welchem Telefon klingeln soll und welche Nebenstellen per BusyLampField (BLF) überwacht werden sollen. Klicken Sie dafür auf das Gerät und richten bei der entsprechenden Lampe/Taste den Teilnehmer ein:
 ![cloudpbx_Teilnehmer einrichten1](https://user-images.githubusercontent.com/98753538/157249202-096b60c3-3ec4-49b8-a22c-d85b0278d1b9.jpg)
 
 ### Yealink T5-Serie
