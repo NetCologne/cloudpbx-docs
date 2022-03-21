@@ -22,8 +22,8 @@ Im Bild sehen Sie die Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation
 4. **pbx queue_suffix** “…der Warteschlange. Bitte legen Sie nicht auf.”
 5. **pbx queue_waiting_music** Musik, die dem Anrufer das Warten *versüßen* soll.
 
-Mit 6. **pbx office_hours** informieren Sie Ihre Anrufer wie folgt: "Sie rufen außerhalb unserer Öffnungszeiten an." Diese Ansage gehört also nicht zur Anrufwarteschlange. Aktiviert wird bei den *Call Forwards*. Klicken Sie dafür auf den Unterpunkt "
+Mit 6. **pbx office_hours** informieren Sie Ihre Anrufer wie folgt: "Sie rufen außerhalb unserer Öffnungszeiten an." Diese Ansage gehört also nicht zur Anrufwarteschlange. Aktiviert wird bei den *Call Forwards*. Klicken Sie dafür auf den Unterpunkt "Kunden-Details" (1), dann "Einstellungen" (2) und weiter mit "Subscriber" (3). In der Tabelle sind die Nebenstellen mit Name und Durchwahl aufgelistet. In der Spalte rechts können Sie die Einträge Terminieren (löschen), erfahren Details dazu oder die Einstellungen (4) modifizieren.
 
+![cloudpbx soundsetC](https://user-images.githubusercontent.com/98753538/159274569-617e84a2-81e3-4572-9c90-464383f4e24e.jpg)
 
-
-
+![cloudpbx soundsetG](https://user-images.githubusercontent.com/98753538/159274618-98e54cfd-b312-4b2a-9dc4-9e265f4903df.jpg)
