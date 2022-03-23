@@ -20,6 +20,7 @@ Beispiel B - Routingdialog
 Erste Weiterleitung = "Büro"
 
 In diesem Beispiel steht Ihre Weiterleitung auf DND. Deshalb wird nun die Basisregel aktiv. Je nachdem, wie Sie die Basisregel eingestellt haben, hört der Anrufer nun eine Mailbox oder ein virtuelles Freizeichen.
+
 DND-Taste auf Endgerät
 
 Mit der DND-Taste leiten Sie Ihr Telefon direkt auf das nächste Weiterleitungsziel um. Je nach Modell machen Sie das über eine Display-Taste oder eine eigene DND-Taste.
