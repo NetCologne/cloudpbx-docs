@@ -21,7 +21,7 @@ Im ersten Fall ermöglicht eine CTI-Anwendung den automatischen Aufbau, die Anna
   - Durchstellen von Anrufen – Koordinierter Transfer von Anrufen und Daten zwischen zwei Gesprächsteilnehmern.
 
 In der Umkehrrrichtung werden über eine automatische Anruferidentifikation die passenden Kundendaten aus einer Datenbank auf Ihren Bildschirm gebracht. Mittels Software werden Anrufberichte über geführte Gespräche angelegt. Per Datenbankaufruf kann die Nummer des Anrufers oder die gewählte Nummer ausgewertet und davon abhängig zu unterschiedlichen Zielen weitergeleitet werden.
-Auch andere Systeme können über CTI mit Ihrer IP-Telefonanlage verbunden werden. Neben Applikationen, in denen die Kontaktdaten Ihrer Kunden gespeichert sind (z.B. Outlook, Lotu Nodes), sind auch auch Support-Software oder spezielle Programmen zur Auswertung der Telefonie möglich.
+Auch andere Systeme können über CTI mit Ihrer IP-Telefonanlage verbunden werden. Neben Applikationen, in denen die Kontaktdaten Ihrer Kunden gespeichert sind (z.B. Outlook, Lotus Notes), sind auch auch Support-Software oder spezielle Programme zur Auswertung der Telefonie möglich.
 
 **Fazit:** Mit Hilfe von CTI können Sie mehr Effizienz in Ihren Arbeitsalltag bringen. Eine entsprechende Schnittstelle ermöglicht Ihnen den geschützten Zugriff zu Ihren digitalen Kundendaten wie z.B. Name, Position, Firma und Telefonnummer. Die wichtigsten *Funktionen* sind:
 
