@@ -15,7 +15,7 @@ D.h. der Computer kommuniziert mit einem oder mehreren Telefonen und umgekehrt.
 
 Im ersten Fall ermöglicht eine CTI-Anwendung den automatischen Aufbau, die Annahme und Beendigung von Telefongesprächen, den Aufbau von Telefonkonferenzen, das Senden und Empfangen von Faxnachrichten, Telefonbuchdienste, sowie die Weitervermittlung von Gesprächen. Zudem werden Desktop-Funktionen bereitgestellt, wie z.B:
 
-  - Dialogfenster – Anzeige mit Anrufinformationen (Nummer des Anrufers, gewählte Nummer
+  - Dialogfenster – Anzeige mit Anrufinformationen (Nummer des Anrufers, gewählte Nummer)
   - Wählen – Automatische und computergesteuerte Einwahl.
   - Telefonsteuerung – Umfasst Anrufsteuerung (Anrufe entgegennehmen, auflegen, halten, Konferenzschaltung etc.) und Funktionen wie z.B. Anrufweiterleitung.
   - Durchstellen von Anrufen – Koordinierter Transfer von Anrufen und Daten zwischen zwei Gesprächsteilnehmern.
