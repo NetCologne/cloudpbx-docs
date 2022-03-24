@@ -32,6 +32,16 @@ So sieht z.B. die "Zentrale", welcher Kollege gerade angerufen wird oder kann ei
 
 ![cloudpbx_busylampfield1](https://user-images.githubusercontent.com/98753538/157256356-a871d273-04d9-4c8c-844e-6dc818de1f0c.jpg)
 
+### Yealink W60B
+Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
+
+![cloudpbx yealinkW60B](https://user-images.githubusercontent.com/98753538/159929245-d66ec338-1a73-42dc-9967-5330f1423112.jpg)
+
+Durch Klicken auf die entsprechende Nummer (grüner Pfeil), weisen Sie dem Gerät die entsprechende Nebenstelle zu:
+
+![cloudpbx yealinkW60B_NSt](https://user-images.githubusercontent.com/98753538/159929867-bbe9c09b-d4bb-4556-bf4f-3de8ee100c74.jpg)
+
+
 ### Snom M900 DECT-Basisstation
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen. Die M900 bietet neben einem integrierten DECT-Manager auch eine DECT- und LAN-Synchronisierung. Der SIP-Transport kann neben UDP auch mittels TCP oder TLS erfolgen. Mit "Seamless Handover" ist der nahtlose Wechsel von einer Basisstation zur nächsten möglich.
 
