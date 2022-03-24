@@ -41,7 +41,11 @@ Durch Klicken auf die entsprechende Nummer (grüner Pfeil), weisen Sie dem Gerä
 
 ![cloudpbx yealinkW60B_NSt](https://user-images.githubusercontent.com/98753538/159929867-bbe9c09b-d4bb-4556-bf4f-3de8ee100c74.jpg)
 
-Dem zugehörigen Handset, z.B. Yealink 56H, wird dann die Nebenstelle automatisch zugewiesen.
+Dem zugehörigen Handset, z.B. Yealink 56H, wird dann die Nebenstelle automatisch zugewiesen.<br>
+<br>
+<br>
+<br>
+
 
 *IN VOREBEREITUNG: ### Snom M900 DECT-Basisstation*
 *Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen. Die M900 bietet neben einem integrierten DECT-Manager auch eine DECT- und LAN-Synchronisierung. Der SIP-Transport kann neben UDP auch mittels TCP oder TLS erfolgen. Mit "Seamless Handover" ist der nahtlose Wechsel von einer Basisstation zur nächsten möglich.*
