@@ -103,7 +103,7 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 ![ATA Profile 1b](https://user-images.githubusercontent.com/98753538/152997833-82a5f4b8-bb80-404a-98b7-8c020d76ea02.jpg)
 
-![ATA Profile 1c](https://user-images.githubusercontent.com/98753538/152997853-ade99b8d-a752-4e7c-867b-46c3ad457fac.jpg)
+Bitte beachten Sie die Unterschiede bei der Einrichtung von Telefon und Faxgerät:
 
 ![ATA Profile 2a](https://user-images.githubusercontent.com/98753538/160421318-7cba8881-c80d-42d7-8da4-5686cbe3d684.jpg)
 
@@ -113,7 +113,7 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 ![ATA Profile 1e](https://user-images.githubusercontent.com/98753538/153001884-9cc66e53-7e67-4e8f-b5b6-5832479ad4e1.jpg)
 
-![ATA Profile 1f](https://user-images.githubusercontent.com/98753538/153002274-b6b3e96b-891d-4887-a56f-807001b48d7f.jpg)
+Bitte beachten Sie die Unterschiede bei der Einrichtung von Telefon und Faxgerät:
 
 ![ATA Profile 3a](https://user-images.githubusercontent.com/98753538/160421380-55670a4f-b0df-4ebf-ad68-5dad975174ae.jpg)
 
