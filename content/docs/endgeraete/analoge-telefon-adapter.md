@@ -105,11 +105,19 @@ Wählen Sie die entsprechende Zeitzone und bestätigen am unteren Menueende mit 
 
 ![ATA Profile 1c](https://user-images.githubusercontent.com/98753538/152997853-ade99b8d-a752-4e7c-867b-46c3ad457fac.jpg)
 
+![ATA Profile 2a](https://user-images.githubusercontent.com/98753538/160421318-7cba8881-c80d-42d7-8da4-5686cbe3d684.jpg)
+
+![ATA Profile 2b](https://user-images.githubusercontent.com/98753538/160421341-1a06c706-ea5f-4174-b8b7-4d3a6ce009a8.jpg)
+
 ![ATA Profile 1d](https://user-images.githubusercontent.com/98753538/152998051-436127e7-19e8-4b02-989f-059c88f43d0b.jpg)
 
 ![ATA Profile 1e](https://user-images.githubusercontent.com/98753538/153001884-9cc66e53-7e67-4e8f-b5b6-5832479ad4e1.jpg)
 
 ![ATA Profile 1f](https://user-images.githubusercontent.com/98753538/153002274-b6b3e96b-891d-4887-a56f-807001b48d7f.jpg)
+
+![ATA Profile 3a](https://user-images.githubusercontent.com/98753538/160421380-55670a4f-b0df-4ebf-ad68-5dad975174ae.jpg)
+
+![ATA Profile 3b](https://user-images.githubusercontent.com/98753538/160421400-aed4a6ec-42aa-47d6-9ac6-e8578d794c66.jpg)
 
 Übernehmen Sie die entsprechenden Einstellungen und bestätigen am unteren Menueende mit "Apply". 
 
