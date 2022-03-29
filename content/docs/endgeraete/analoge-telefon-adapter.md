@@ -123,11 +123,15 @@ Bitte beachten Sie die Unterschiede bei der Einrichtung von Telefon und Faxgerä
 
 #### FXS Ports
 
+Bei den **User Settings** achten Sie bitte darauf, ob und welche Vervollständgungegn durch Ihren Browser gemacht werden. Der Einsatz von *Google Chrome* wird empfohlen. 
+
 ![ATA FXS Ports](https://user-images.githubusercontent.com/98753538/153131122-84c31339-ff01-4c23-97e7-615006551e4b.jpg)
 
-Unter *SIP User ID*, *Authenticat ID*, *Name* und *Request URI Routing ID* tragen Sie den Sip Usernamen der in der Cloud PBX eingerichteten Nebenstelle ein.
+Ein SIP Account besteht aus einem *Benutzernamen/SIP User ID* sowie einem *SIP Passwort* und wird dazu benötigt, um sich beim SIP Anbieter anzumelden. Der Login erfolgt auf dem SIP-Server oder SIP-Proxy des Providers. Bei der Registrierung wird auch die *Authenticate ID* verlangt. Weiterhin wird unter *Name* der SIP-Display-Name eingegeben. Aus Gründen der Übersichtichkeit wird empfohlen: 
 
-Das einzutragende *Passwort* ist das zugehörige SIP Password der Nebenstelle aus der Cloud-PBX.
+Unter *SIP User ID*, *Authenticate ID*, *Name* und *Request URI Routing ID* tragen Sie den **Sip Usernamen** der in der Cloud PBX eingerichteten Nebenstelle ein.
+
+Das einzutragende *Passwort* ist das zugehörige **SIP Password** der Nebenstelle aus der Cloud-PBX.
 
 Mit der *Profile ID* wählen Sie das entsprechende Profil aus. *Profile 1* könnte ein Profil für ein **analoges Telefon** sein, während *Profile 2* die Einstellungen für ein **Fax** beinhaltet. 
 
