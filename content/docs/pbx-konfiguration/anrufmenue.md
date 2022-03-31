@@ -18,7 +18,7 @@ Die Einrichtung eines Anrufmenues erfordert zum einen die Konfiguration der Ausw
 
 ### Konfiguration der Auswahlmöglichkeiten
 
-Zuerst klicken Sie im Menue *PBX-Konfiguration* auf den Unterpunkt **Anrufmenue [1]** . Dann wählen die Nebenstelle aus, für die Sie ein Anrufmenue zur Verfügung stellen möchten. Hier ist das *zollstock*: 
+Zuerst klicken Sie im Menue *PBX-Konfiguration* auf den Unterpunkt *Anrufmenue [1]* . Dann wählen die Nebenstelle aus, für die Sie ein Anrufmenue zur Verfügung stellen möchten. Hier ist das *zollstock*: 
 
 ![Anrufmenue1](https://user-images.githubusercontent.com/98753538/160846360-54337494-1f96-4b50-80b8-d2e97e1faf83.jpg)
 
@@ -29,7 +29,7 @@ Wenn Sie auf "+ EINTRAG HINZUFÜGEN" [2] klicken, können Sie die Ziffer (0 bis 
 
 ### Aktivierung des Anrufmenues
 
-Das Anrufmenue wird mittels *Call-Forward-Funktion* aktiviert. Klicken Sie dafür auf den Menuepunkt **Kunden-Details [1]**, dann auf **Subscriber [2]** und bei der betreffenden Nebenstelle auf **Einstellungen [3]**. Hier ist das erneut *zollstock*:
+Das Anrufmenue wird mittels *Call-Forward-Funktion* aktiviert. Klicken Sie dafür auf den Menuepunkt *Kunden-Details [1]*, dann auf *Subscriber [2]* und bei der betreffenden Nebenstelle auf *Einstellungen [3]*. Hier ist das erneut *zollstock*:
 
 ![Anrufmenue_Auswahl Call Fowards2](https://user-images.githubusercontent.com/98753538/161062432-8a60e0e0-83ac-46ff-876a-e1bb67cc1e24.jpg)
 
