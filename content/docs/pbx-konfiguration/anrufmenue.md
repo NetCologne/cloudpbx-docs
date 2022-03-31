@@ -49,12 +49,9 @@ Bevor Sie mit *Save* [4] speichern, können Sie mit dem Button *Advanced View* [
 
 ![Anrufmenue_Auswahl Call Fowards Advaced1](https://user-images.githubusercontent.com/98753538/161068276-a0d06f14-d03e-4071-bc35-bc381239c6a8.jpg)
 
-1. during Time Set
-2. from Source Set
-3. to B-Number Set
-4. Destination Set
+1. during Time Set - Zeiträume, in denen das Anrufmenue aktiviert ist.
+2. from Source Set - Zulässige oder verbotene A-Rufnummernbereiche.
+3. to B-Number Set - Zulässige oder verbotene A-Rufnummernbereiche.
+4. Destination Set - Übersicht der Call Forwards (s.o.), für die ein *Anrufmenue* oder *Office Hours Announcements* aktiviert sind.
 
 Wie Sie ein solches *destination/time set* konfigurieren und das davon mehrere möglich sind, erfahren Sie unter der Funktion [Anrufweiterleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/).
-
-
-
