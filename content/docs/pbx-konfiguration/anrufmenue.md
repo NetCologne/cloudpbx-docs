@@ -18,17 +18,22 @@ Die Einrichtung eines Anrufmenues erfordert zum einen die Konfiguration der Ausw
 
 ### Konfiguration der Auswahlmöglichkeiten
 
-Zuerst klicken Sie im Menue *PBX-Konfiguration* auf den Unterpunkt **Anrufmenue [1]** . Dann wählen die Nebenstelle aus, für die Sie ein Anrufmenue zur Verfügung stellen möchten. Hier ist das *Zollstock*: 
+Zuerst klicken Sie im Menue *PBX-Konfiguration* auf den Unterpunkt **Anrufmenue [1]** . Dann wählen die Nebenstelle aus, für die Sie ein Anrufmenue zur Verfügung stellen möchten. Hier ist das *zollstock*: 
 
 ![Anrufmenue1](https://user-images.githubusercontent.com/98753538/160846360-54337494-1f96-4b50-80b8-d2e97e1faf83.jpg)
 
-Wenn Sie auf "+ EINTRAG HINZUFÜGEN" [2] klicken, können Sie die Ziffer (0 bis 9) auswählen, die dem Anrufer angeboten werden soll. Unter *Ziel* tragen Sie die  gewünschte Nebenstelle [3] ein und bestätigen mit "SPEICHERN" [4]. Damit ist Nebenstelle zugeordnet. Im Beispiel erreichen Sie also durch Wahl der Ziffer "1" die Nebenstelle "bruehl" und mit der "2" die Nebenstelle "chorweiler". "Kalk" erreicht man durch Wählen der "3":
+Wenn Sie auf "+ EINTRAG HINZUFÜGEN" [2] klicken, können Sie die Ziffer (0 bis 9) auswählen, die dem Anrufer angeboten werden soll. Unter *Ziel* tragen Sie die  gewünschte Nebenstelle [3] ein und bestätigen mit "SPEICHERN" [4]. Damit ist Nebenstelle zugeordnet. Im Beispiel erreichen Sie also durch Wahl der Ziffer "1" die Nebenstelle "bruehl" und mit der "2" die Nebenstelle "chorweiler". "kalk" erreicht man durch Wählen der "3":
 
 ![Anrufmenue2](https://user-images.githubusercontent.com/98753538/160850022-5ade644d-12c3-4450-856b-9f4c246edfa0.jpg)
 
 
 ### Aktivierung des Anrufmenues
 
-![Anrufmenue_Auswahl Call Fowards1](https://user-images.githubusercontent.com/98753538/161059082-d313a8e7-2652-47c0-87d7-c66d24d36f85.jpg)
+Das Anrufmenue wird mittels *Call-Forward-Funktion* aktiviert. Klicken Sie dafür auf den Menuepunkt **Kunden-Details [1]**, dann auf **Subscriber [2]** und bei der betreffenden Nebenstelle auf **Einstellungen [3]**. Hier ist das erneut *zollstock*:
+
+![Anrufmenue_Auswahl Call Fowards2](https://user-images.githubusercontent.com/98753538/161062432-8a60e0e0-83ac-46ff-876a-e1bb67cc1e24.jpg)
+
+Öffenen Sie nun das Menue *Call-Forwards* und entscheiden, unter welchen Bedingungen das Anrufmenue erreicht werden soll.
+
 
 ![Anrufmenue_Auswahl Call Fowards Destin2](https://user-images.githubusercontent.com/98753538/161059358-8b507405-d193-409e-8dc7-7fb08781c4b5.jpg)
