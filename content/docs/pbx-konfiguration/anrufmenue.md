@@ -29,3 +29,6 @@ Wenn Sie auf "+ EINTRAG HINZUFÜGEN" [2] klicken, können Sie die Ziffer (0 bis 
 
 ### Aktivierung des Anrufmenues
 
+![Anrufmenue_Auswahl Call Fowards1](https://user-images.githubusercontent.com/98753538/161059082-d313a8e7-2652-47c0-87d7-c66d24d36f85.jpg)
+
+![Anrufmenue_Auswahl Call Fowards Destin2](https://user-images.githubusercontent.com/98753538/161059358-8b507405-d193-409e-8dc7-7fb08781c4b5.jpg)
