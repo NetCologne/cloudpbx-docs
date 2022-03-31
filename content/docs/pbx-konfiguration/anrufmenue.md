@@ -54,7 +54,7 @@ Bevor Sie mit *Save* [4] speichern, können Sie mit dem Button *Advanced View* [
 3. to B-Number Set
 4. Destination Set
 
-Wie Sie ein solches *destination/time set* konfigurieren und das davon mehrere möglich sind, erfahren Sie unter Anrufweiterschaltungen.
+Wie Sie ein solches *destination/time set* konfigurieren und das davon mehrere möglich sind, erfahren Sie unter der Funktion [Anrufweiterleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/).
 
 
 
