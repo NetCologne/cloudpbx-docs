@@ -35,10 +35,10 @@ Das Anrufmenue wird mittels *Call-Forward-Funktion* aktiviert. Klicken Sie dafü
 
 Öffenen Sie nun das Menue *Call-Forwards* und entscheiden, unter welchen Bedingungen das Anrufmenue erreicht werden soll. Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
  
- * Call Forward Unconditional - generelle Anrufweiterleitung
- * Call Forward Busy - Anrufweiterleitung, wenn besetzt
- * Call Forward Timeout - Anrufweiterleitung nach eine bestimmten Zeitspanne
+ * *Call Forward Unconditional* - generelle Anrufweiterleitung
+ * *Call Forward Busy* - Anrufweiterleitung, wenn besetzt
+ * *Call Forward Timeout* - Anrufweiterleitung nach eine bestimmten Zeitspanne
 
-Der Sonderfall Call Forward Unavailable kommt zum Tragen, falls die Nebenstelle nicht registriert und damit nicht erreichbar ist.
+Der Sonderfall *Call Forward Unavailable* kommt zum Tragen, falls die Nebenstelle nicht registriert und damit nicht erreichbar ist. Im Beispiel wurde *Call Forward Unconditional* also die generelle Anrufweiterleitung angeklickt. Anschließend wählen Sie unter den Destinationen den Punkt *Auto Attendant* [1] und schauen, ob das Aktivierungshäkchen bei *Enabled* [2] gesetzt ist. Bevor Sie mit *Save* [4] speichern, können Sie mit dem Button *Advanced View* [3] weitere Funktionen auswählen:
 
 ![Anrufmenue_Auswahl Call Fowards Destin2](https://user-images.githubusercontent.com/98753538/161059358-8b507405-d193-409e-8dc7-7fb08781c4b5.jpg)
