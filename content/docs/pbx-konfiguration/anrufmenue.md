@@ -39,6 +39,22 @@ Das Anrufmenue wird mittels *Call-Forward-Funktion* aktiviert. Klicken Sie dafü
  * *Call Forward Busy* - Anrufweiterleitung, wenn besetzt
  * *Call Forward Timeout* - Anrufweiterleitung nach eine bestimmten Zeitspanne
 
-Der Sonderfall *Call Forward Unavailable* kommt zum Tragen, falls die Nebenstelle nicht registriert und damit nicht erreichbar ist. Im Beispiel wurde *Call Forward Unconditional* also die generelle Anrufweiterleitung angeklickt. Anschließend wählen Sie unter den Destinationen den Punkt *Auto Attendant* [1] und schauen, ob das Aktivierungshäkchen bei *Enabled* [2] gesetzt ist. Bevor Sie mit *Save* [4] speichern, können Sie mit dem Button *Advanced View* [3] weitere Funktionen auswählen:
+Der Sonderfall *Call Forward Unavailable* kommt zum Tragen, falls die Nebenstelle nicht registriert und damit nicht erreichbar ist. <br>
+<br>
+Im Beispiel wurde *Call Forward Unconditional* also die generelle Anrufweiterleitung angeklickt. Anschließend wählen Sie unter den Destinationen den Punkt *Auto Attendant* [1] und schauen, ob das Aktivierungshäkchen bei *Enabled* [2] gesetzt ist. 
 
 ![Anrufmenue_Auswahl Call Fowards Destin2](https://user-images.githubusercontent.com/98753538/161059358-8b507405-d193-409e-8dc7-7fb08781c4b5.jpg)
+
+Bevor Sie mit *Save* [4] speichern, können Sie mit dem Button *Advanced View* [3] weitere Funktionen/Bedingungen auswählen:
+
+![Anrufmenue_Auswahl Call Fowards Advaced1](https://user-images.githubusercontent.com/98753538/161068276-a0d06f14-d03e-4071-bc35-bc381239c6a8.jpg)
+
+1. during Time Set
+2. from Source Set
+3. to B-Number Set
+4. Destination Set
+
+Wie Sie ein solches *destination/time set* konfigurieren und das davon mehrere möglich sind, erfahren Sie unter Anrufweiterschaltungen.
+
+
+
