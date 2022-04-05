@@ -142,7 +142,5 @@ Zu den Unterschieden in den Profilen bzgl. Fax und analogem Telefon, beachten Si
 #### Besonderheit bei CLIR per Call
 
 Auch im Bereich der IP-Telefonie sind die Funktionen "CLIP" und "CLIR" von Bedeutung. Mit Ihnen entscheiden Sie darüber, ob der angerufene Kunde die Rufnummer Ihres Unternehmens korrekt angezeigt bekommt und Sie die Rufnummer des Kunden bei einem eingehenden Anruf korrekt angezeigt bekommen.
-
 *CLIP* steht dabei für „Calling Line Identification Presentation“. Das bedeutet einfach gesagt, dass die Rufnummer des anrufenden Teilnehmers zum annehmenden Teilnehmer übermittelt wird. 
-
-*CLIR* stellt das Gegenteil dar („Calling Line Identification Restriction“) und steht daher für Rufnummernunterdrückung. Möchte man diese beim nächsten Anruf nicht anzeigen, muss bei  der Grandstream HT-814 bzw. am analogen DECT-/Telefon "\*67" vor die zu wählende Nummer gesetzt werden (abweichend vom deutschen Standard \*31).
+*CLIR* stellt das Gegenteil dar („Calling Line Identification Restriction“) und steht daher für Rufnummernunterdrückung. Möchte man diese beim nächsten Anruf (CLIR per Call) nicht anzeigen, muss bei  der Grandstream HT-814 bzw. am analogen DECT-/Telefon "\*67" vor die zu wählende Nummer gesetzt werden (abweichend vom deutschen Standard \*31).
