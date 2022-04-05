@@ -145,4 +145,4 @@ Auch im Bereich der IP-Telefonie sind die Funktionen "CLIP" und "CLIR" von Bedeu
 
 *CLIP* steht dabei für „Calling Line Identification Presentation“. Das bedeutet einfach gesagt, dass die Rufnummer des anrufenden Teilnehmers zum annehmenden Teilnehmer übermittelt wird. 
 
-*CLIR* stellt das Gegenteil dar („Calling Line Identification Restriction“) und steht daher für Rufnummernunterdrückung. Möchte man diese beim nächsten Anruf nicht anzeigen, muss bei  der Grandstream HT-814 bzw. am analogen DECT-/Telefon "*67"* vor die zu wählende Nummer gesetzt werden. ( abweichend vom deutschen Standard *31 )
+*CLIR* stellt das Gegenteil dar („Calling Line Identification Restriction“) und steht daher für Rufnummernunterdrückung. Möchte man diese beim nächsten Anruf nicht anzeigen, muss bei  der Grandstream HT-814 bzw. am analogen DECT-/Telefon "\*67" vor die zu wählende Nummer gesetzt werden (abweichend vom deutschen Standard \*31).
