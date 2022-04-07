@@ -12,11 +12,14 @@ Mit der Faxfunktion können Sie sich das klassische Faxgerät sparen, denn hierm
 
 ![Fax Seat Flittard1](https://user-images.githubusercontent.com/98753538/162135771-5b0c0c96-13a0-4096-a0f4-2e0c1e17434c.jpg)
 
-### Faxe empfangen
+### Faxservice einrichten
 
-Um nun Faxe empfangen und als E-Mail weitergeleitet zu bekommen, klicken Sie im Menüpunkt *Faxeinstellungen* auf +ZIELRUFNUMMER HINZUFÜGEN (1) und geben die Ziel-E-Mail-Adresse (2), den gewünschten Dateityp (3), in dem das Fax als E-Mail gesendet werden soll und aktivieren die Zustellung bzw. den Sendebericht (4). Abschließend bestätigen Sie mit ✓ ZIEL ERSTELLEN (5) und wichtig: aktiveren die Faxfunktion (6).
+Um Faxe empfangen und als E-Mail weitergeleitet zu bekommen, klicken Sie im Menüpunkt *Faxeinstellungen* auf +ZIELRUFNUMMER HINZUFÜGEN (1) und geben die Ziel-E-Mail-Adresse (2), den gewünschten Dateityp (3), in dem das Fax als E-Mail gesendet werden soll und aktivieren die Zustellung bzw. den Sendebericht (4). Abschließend bestätigen Sie mit ✓ ZIEL ERSTELLEN (5) und wichtig: aktiveren die Faxfunktion (6) und beachten [Faxempfang durch Rufumleitung].
 
 ![Fax Einstellungen1](https://user-images.githubusercontent.com/98753538/162148734-0797682a-2dcd-47d3-8f7d-92c813024b72.jpg)
+
+### Faxempfang durch Rufumleitung
+
 
 ### Faxe versenden
 
