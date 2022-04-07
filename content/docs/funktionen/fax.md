@@ -8,7 +8,10 @@ weight: 407
 toc: true
 ---
 
-Mit der Faxfunktion können Sie sich das klassische Faxgerät sparen, denn hiermit empfangen und versenden Sie digitale Faxe direkt über das Cloud PBX Konto. Sie brauchen lediglich eine Rufnummer mit dem Verwendungstyp "Faxnummer".
+Mit der Faxfunktion können Sie sich das klassische Faxgerät sparen, denn hiermit empfangen und versenden Sie digitale Faxe direkt über das Konto Ihrer Cloud PBX. Sie brauchen lediglich eine Nebenstelle mit der entsprechenden Faxnummer. In unserem Beispiel ist dies die Nebenstelle Flittard mit der Durchwahl 22:
+
+![Fax Seat Flittard1](https://user-images.githubusercontent.com/98753538/162135771-5b0c0c96-13a0-4096-a0f4-2e0c1e17434c.jpg)
+
 
 Ist schon eine Ihrer Nummern eine aktive Faxnummer, sehen Sie im Menü vom Cloud PBX Konto das "Fax-Journal". Hier sehen Sie alle eingehenden und ausgehenden Faxe mit Sendeberichten. Sie können auf deren Inhalt zugreifen und sie direkt herunterladen. Ist die Funktion der E-Mail-Benachrichtigung zuvor aktiv gelassen worden, bekommen Sie zudem über jedes Fax eine Nachricht mit dem Fax-Inhalt als PDF-Dokument.
 
