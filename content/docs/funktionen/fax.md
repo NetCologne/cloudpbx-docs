@@ -14,7 +14,8 @@ Mit der Faxfunktion können Sie sich das klassische Faxgerät sparen, denn hierm
 
 ### Faxservice einrichten
 
-Um Faxe empfangen und als E-Mail weitergeleitet zu bekommen, klicken Sie im Menüpunkt *Faxeinstellungen* auf +ZIELRUFNUMMER HINZUFÜGEN (1) und geben die Ziel-E-Mail-Adresse (2), den gewünschten Dateityp (3), in dem das Fax als E-Mail gesendet werden soll und aktivieren die Zustellung bzw. den Sendebericht (4). Abschließend bestätigen Sie mit ✓ ZIEL ERSTELLEN (5) und wichtig: aktiveren die Faxfunktion (6) und beachten den Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung).
+Um Faxe empfangen und als E-Mail weitergeleitet zu bekommen, klicken Sie im Menüpunkt *Faxeinstellungen* auf +ZIELRUFNUMMER HINZUFÜGEN (1), geben die Ziel-E-Mail-Adresse (2) und den gewünschten Dateityp (3) an, in dem das Fax als E-Mail gesendet werden soll. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht.<br>
+Abschließend bestätigen Sie mit ✓ ZIEL ERSTELLEN (5) und wichtig: aktiveren die Faxfunktion (6) und beachten den Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung).
 
 ![Fax Einstellungen1](https://user-images.githubusercontent.com/98753538/162148734-0797682a-2dcd-47d3-8f7d-92c813024b72.jpg)
 
@@ -38,8 +39,8 @@ Bei "Inhalt" (6) können Sie Ihre Nachricht in Textform eingeben. Darunter beste
 
 ![Fax Konversationen](https://user-images.githubusercontent.com/98753538/162376562-8a9de5c1-bcb7-4dab-853a-dca5c1bfff9e.jpg)
 
-Hier sehen Sie alle eingehenden und ausgehenden Faxe mit Sendeberichten. Sie können auf deren Inhalt zugreifen und sie direkt herunterladen. Ist die Funktion der E-Mail-Benachrichtigung zuvor aktiv gelassen worden, bekommen Sie zudem über jedes Fax eine Nachricht mit dem Fax-Inhalt als PDF-Dokument
-Das gefaxte Dokument und den Sendebericht finden Sie nun im Fax-Journal wieder.
+Im Menuüpunkt Konversationen können Sie sehen, welche Fax Sie versendet bzw. erhalten haben. Mit Filtern können Sie den Zeitraum eingrenzen. Außerdem  besteht hier die Möglichkeit, die Faxe herunterladen. 
+
 
 ### Fax-Konfiguration als Administrator
 
