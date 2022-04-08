@@ -63,14 +63,3 @@ Gleiches gilt für die Konfiguration der Faxeinstellungen, die Sie unter "Fax Fe
 ![Fax Admin Kundendetails3](https://user-images.githubusercontent.com/98753538/162376679-b5146278-36fb-496b-b624-8fd720e549ad.jpg)
 
 Auch hier können Sie die "Fax2Mail and Sendfax-Funktionen" an- und ausschalten, indem bei *Active* ein Häkchen gesetzt wird (yes) oder eben nicht (no).
-
-
-*Der untere Teil kann nun weg, oder?*
-
-![grafik](https://user-images.githubusercontent.com/20154956/151542716-bd20b68d-2beb-4bfd-943f-4dd1c1f57e2d.png)
-
-*Um die gewünschte Nummer als Faxnummer zu konfigurieren gehen Sie bitte unter Faxeinstellungen wie folgt vor:*
-
-*1. Aktivieren Sie die Faxfunktion*
-*2. Hinterlegen Sie eine E-Mail Adresse*
-*3. Nutzen Sie das Faxfeld um Faxe zu versenden*
