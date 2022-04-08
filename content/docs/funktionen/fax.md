@@ -14,26 +14,24 @@ Mit Ihrer Cloud PBX können Sie sich das klassische Faxgerät sparen. Die Faxfun
 
 ### Faxservice einrichten
 
-Klicken Sie zunächst im Menüpunkt *Faxeinstellungen* auf +ZIELRUFNUMMER HINZUFÜGEN (1), geben die Ziel-E-Mail-Adresse (2) und den gewünschten Dateityp (3) an, in dem das Fax als E-Mail gesendet werden soll. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht.<br>
-Abschließend bestätigen Sie mit ✓ ZIEL ERSTELLEN (5) und wichtig: aktiveren die Faxfunktion (6) und beachten den nächsten Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung).
+Klicken Sie zunächst im Menüpunkt *Faxeinstellungen* auf +ZIELRUFNUMMER HINZUFÜGEN (1), geben die Ziel-E-Mail-Adresse (2) und den gewünschten Dateityp (3) an, in dem das Fax als E-Mail gesendet werden soll. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht. Danach Sie mit ✓ ZIEL ERSTELLEN (5). <br>
+Wichtig: Aktiveren Sie die Faxfunktion (6) und beachten den nächsten Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung).
 
 ![Fax Einstellungen1](https://user-images.githubusercontent.com/98753538/162148734-0797682a-2dcd-47d3-8f7d-92c813024b72.jpg)
 
-
 ### Faxempfang durch Rufumleitung
 
-Damit die Nebenstelle nun Faxe empfangen und als E-Mail weiterleiten kann, aktivieren Sie bitte bei den *Anrufeinstellungen* die Rufumleitung (1) und klicken auf + RUFUMLEITUNG HINZUFÜGEN (2). Danach legen Sie Bedingungen fest, wann die Weiterleitung erfolgen soll. Falls dies *IMMER* der Fall sein soll, wählen Sie "Wenn verfügbar" (3a) und "Wenn nicht verfügbar" (3b). Letzte Bedingung greift, falls die Nebenstelle nicht registriert ist. Anschließend klicken Sie rechst auf die drei kleinen Punkte (4a bzw. 4b) und wählen im sich öffnenden Menü den Punkt "Zu Fax2Mail weiterleiten" (5). 
+Damit die Nebenstelle nun Faxe empfangen und als E-Mail weiterleiten kann, klicken Sie bitte bei *Anrufeinstellungen* auf Rufumleitung (1) und dort auf + RUFUMLEITUNG HINZUFÜGEN (2). Danach legen Sie Bedingungen fest, wann die Weiterleitung erfolgen soll. Falls dies *IMMER* der Fall sein soll, wählen Sie "Wenn verfügbar" (3a) und "Wenn nicht verfügbar" (3b). Letzte Bedingung greift, falls die Nebenstelle nicht registriert ist. Anschließend klicken Sie rechst auf die drei kleinen Punkte (4a bzw. 4b) und wählen im sich öffnenden Menü den Punkt "Zu Fax2Mail weiterleiten" (5). 
 
 ![Fax Rufumleitung1](https://user-images.githubusercontent.com/98753538/162376426-7f10996a-43cc-44aa-a926-91445e5db525.jpg)
 
-Den überflüssigen Punkt "Weitergeleitet zu  Nummer" können Sie entfernen.
+Die überflüssige Zeile "Weitergeleitet zu  Nummer" können Sie einfach entfernen.
 
 ![Fax Rufumleitung2a](https://user-images.githubusercontent.com/98753538/162387302-2a4b9111-e6cf-4928-b42e-85dfdc080d65.jpg)
 
-Wenn Sie anschließend Ihre Browseransicht aktualisieren, sollte die "Fax2Mail-Rufumleitung" so aussehen:
+Nach Aktualisierung Ihrer Browseransicht sollte die "Fax2Mail-Rufumleitung" so aussehen:
 
 ![Fax Rufumleitung2](https://user-images.githubusercontent.com/98753538/162376441-df0a41c0-3568-47bb-8593-de60fff8b519.jpg)
-
 
 ### Faxe versenden
 
@@ -47,10 +45,12 @@ Bei "Inhalt" (6) können Sie Ihre Nachricht in Textform eingeben. Darunter beste
 
 ![Fax Konversationen](https://user-images.githubusercontent.com/98753538/162376562-8a9de5c1-bcb7-4dab-853a-dca5c1bfff9e.jpg)
 
-Im Menuüpunkt Konversationen können Sie sehen, welche Fax Sie versendet bzw. erhalten haben. Mit Filtern können Sie den Zeitraum eingrenzen. Außerdem  besteht hier die Möglichkeit, die Faxe herunterladen. 
+Im Menuüpunkt Konversationen können Sie sehen, welche Faxe Sie versendet bzw. erhalten haben. Mit Filtern können Sie den Zeitraum eingrenzen. Außerdem besteht hier die Möglichkeit, die Faxe herunterladen. 
 
 
 ### Fax-Konfiguration als Administrator
+
+Auch wenn Sie als Administrator eingeloggt sind, können Sie die Faxeinstellungen konfigurieren. Allerdings gelten die angezeigten Menüpunkte *Faxeinstellungen* und *Anrufeinstellungen* mit dem Unterpunkt *Rufumleitung* dann für die ganze Cloud PBX und nicht nur für die "FAX-Nebenstelle". Zu den nebenstellenspezifischen Einstellungen gelangen Sie mit dem untersten Menüpunkt *Kundendetails*.
 
 ![Fax Admin Kundendetails](https://user-images.githubusercontent.com/98753538/162376660-3e9aae1d-a9eb-4123-87a6-5e6725724e80.jpg)
 
