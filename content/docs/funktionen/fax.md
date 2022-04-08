@@ -20,7 +20,9 @@ Um Faxe empfangen und als E-Mail weitergeleitet zu bekommen, klicken Sie im Men�
 
 ### Faxempfang durch Rufumleitung
 
+![Fax Rufumleitung1](https://user-images.githubusercontent.com/98753538/162376426-7f10996a-43cc-44aa-a926-91445e5db525.jpg)
 
+![Fax Rufumleitung2](https://user-images.githubusercontent.com/98753538/162376441-df0a41c0-3568-47bb-8593-de60fff8b519.jpg)
 
 
 
@@ -32,19 +34,29 @@ Auch für den Versand von Faxen ist es erforderlich im Menüpunkt *Faxeinstellun
 
 Bei "Inhalt" (6) können Sie Ihre Nachricht in Textform eingeben. Darunter besteht die Möglichkeit eine Datei auszuwählen, die dann als Fax übertragen wird. Sind alle Angaben gemacht, klicken Sie abschließend auf SENDEN (8).
 
+### Konversationen
+
+![Fax Konversationen](https://user-images.githubusercontent.com/98753538/162376562-8a9de5c1-bcb7-4dab-853a-dca5c1bfff9e.jpg)
+
+Hier sehen Sie alle eingehenden und ausgehenden Faxe mit Sendeberichten. Sie können auf deren Inhalt zugreifen und sie direkt herunterladen. Ist die Funktion der E-Mail-Benachrichtigung zuvor aktiv gelassen worden, bekommen Sie zudem über jedes Fax eine Nachricht mit dem Fax-Inhalt als PDF-Dokument
+Das gefaxte Dokument und den Sendebericht finden Sie nun im Fax-Journal wieder.
+
+### Fax-Konfiguration als Administrator
+
+![Fax Admin Kundendetails](https://user-images.githubusercontent.com/98753538/162376660-3e9aae1d-a9eb-4123-87a6-5e6725724e80.jpg)
+
+![Fax Admin Kundendetails2](https://user-images.githubusercontent.com/98753538/162376672-7ae4aad6-9475-49c8-9f6c-164488e67070.jpg)
+
+![Fax Admin Kundendetails3](https://user-images.githubusercontent.com/98753538/162376679-b5146278-36fb-496b-b624-8fd720e549ad.jpg)
 
 
 
-
-
-Ist schon eine Ihrer Nummern eine aktive Faxnummer, sehen Sie im Menü vom Cloud PBX Konto das "Fax-Journal". Hier sehen Sie alle eingehenden und ausgehenden Faxe mit Sendeberichten. Sie können auf deren Inhalt zugreifen und sie direkt herunterladen. Ist die Funktion der E-Mail-Benachrichtigung zuvor aktiv gelassen worden, bekommen Sie zudem über jedes Fax eine Nachricht mit dem Fax-Inhalt als PDF-Dokument.
-
-Wenn Sie faxen wollen, laden Sie den Fax-Inhalt als PDF Dokument in die Cloud PBX und ergänzen Faxnummer und Betreff für den Empfänger. Sie bekommen eine Vorschau, starten das Fax und werden über den Status der Übertragung informiert. Das gefaxte Dokument und den Sendebericht finden Sie nun im Fax-Journal wieder.
+*Der untere Teil kann nun weg, oder?
 
 ![grafik](https://user-images.githubusercontent.com/20154956/151542716-bd20b68d-2beb-4bfd-943f-4dd1c1f57e2d.png)
 
-Um die gewünschte Nummer als Faxnummer zu konfigurieren gehen Sie bitte unter Faxeinstellungen wie folgt vor:
+*Um die gewünschte Nummer als Faxnummer zu konfigurieren gehen Sie bitte unter Faxeinstellungen wie folgt vor:
 
-1. Aktivieren Sie die Faxfunktion
-2. Hinterlegen Sie eine E-Mail Adresse
-3. Nutzen Sie das Faxfeld um Faxe zu versenden
+*1. Aktivieren Sie die Faxfunktion
+*2. Hinterlegen Sie eine E-Mail Adresse
+*3. Nutzen Sie das Faxfeld um Faxe zu versenden
