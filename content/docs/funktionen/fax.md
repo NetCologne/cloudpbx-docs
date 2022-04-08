@@ -50,14 +50,19 @@ Im Menuüpunkt Konversationen können Sie sehen, welche Faxe Sie versendet bzw. 
 
 ### Fax-Konfiguration als Administrator
 
-Auch wenn Sie als Administrator eingeloggt sind, können Sie die Faxeinstellungen konfigurieren. Allerdings gelten die angezeigten Menüpunkte *Faxeinstellungen* und *Anrufeinstellungen* mit dem Unterpunkt *Rufumleitung* dann für die ganze Cloud PBX und nicht nur für die "FAX-Nebenstelle". Zu den nebenstellenspezifischen Einstellungen gelangen Sie mit dem untersten Menüpunkt *Kundendetails*.
+Auch wenn Sie als Administrator eingeloggt sind, können Sie die Faxeinstellungen konfigurieren. Allerdings gelten die angezeigten Menüpunkte *Faxeinstellungen* und *Anrufeinstellungen* mit dem Unterpunkt *Rufumleitung* dann für die ganze Cloud PBX und nicht nur für die "FAX-Nebenstelle". Zu den nebenstellenspezifischen Einstellungen gelangen Sie mit dem untersten Menüpunkt *Kundendetails* (1). Klicken Sie anschließend auf *Subscriber* (2) und dann bei der "Fax-Nebenstelle" rechts auf Einstellungen (3).
 
 ![Fax Admin Kundendetails](https://user-images.githubusercontent.com/98753538/162376660-3e9aae1d-a9eb-4123-87a6-5e6725724e80.jpg)
 
+Unter dem Punkt "Call Forwards" können Sie bestehenden Fax2Mail-Rufumleitungen einsehen und editieren:
+
 ![Fax Admin Kundendetails2](https://user-images.githubusercontent.com/98753538/162376672-7ae4aad6-9475-49c8-9f6c-164488e67070.jpg)
+
+Gleiches gilt für die Konfiguration der Faxeinstellungen, die Sie unter "Fax Features" finden.
 
 ![Fax Admin Kundendetails3](https://user-images.githubusercontent.com/98753538/162376679-b5146278-36fb-496b-b624-8fd720e549ad.jpg)
 
+Auch hier können Sie die "Fax2Mail and Sendfax-Funktionen" an- und ausschalten, indem bei *Active* ein Häkchen gesetzt wird (yes) oder eben nicht (no).
 
 
 *Der untere Teil kann nun weg, oder?
