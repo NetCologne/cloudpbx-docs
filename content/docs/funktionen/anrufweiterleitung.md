@@ -16,7 +16,7 @@ Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *Subscri
 
 Öffenen Sie nun das Menue *Call-Forwards* und entscheiden, bei welcher Bedingung die *Anrufweiterleitung* greifen soll. Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
 
- * *Call Forward Unconditional* - generelle Anrufweiterleitung
+ * *Call Forward Unconditional* - generelle Anrufweiterleitung. Bitte beachten Sie, dass sich "generell" nur auf die *registrierte Nebenstelle* bezieht. Wenn Sie auch für diesen Fall eine Anrufweiterleitung wünschen, fügen Sie einfach *Call Forward Unavailable* (gelb) hinzu.
  * *Call Forward Busy* - Anrufweiterleitung, wenn besetzt
  * *Call Forward Timeout* - Anrufweiterleitung nach eine bestimmten Zeitspanne
   
