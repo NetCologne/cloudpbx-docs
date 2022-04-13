@@ -50,7 +50,7 @@ Im Menuüpunkt Konversationen können Sie sehen, welche Faxe Sie versendet bzw. 
 
 ### Fax-Konfiguration als Administrator
 
-Auch wenn Sie als Administrator eingeloggt sind, können Sie die Faxeinstellungen konfigurieren. Allerdings gelten die angezeigten Menüpunkte *Faxeinstellungen* und *Anrufeinstellungen* mit dem Unterpunkt *Rufumleitung* dann für die ganze Cloud PBX und nicht nur für die "FAX-Nebenstelle". Zu den nebenstellenspezifischen Einstellungen gelangen Sie mit dem untersten Menüpunkt *Kundendetails* (1). Klicken Sie anschließend auf *Subscriber* (2) und dann bei der "Fax-Nebenstelle" rechts auf Einstellungen (3).
+Wenn Sie als Administrator eingeloggt sind, können Sie jede Ihrer Nebenstellen individuell konfigurieren (ohne sich als diese anzumelden). Zu diesen Einstellungen gelangen Sie mit dem untersten Menüpunkt *Kundendetails* (1). Hier können Sie nun die Nebenstelle konfigurieren, die als Faxgeräte betrieben werden soll. Klicken Sie dafür auf *Subscriber* (2) und dann bei der "Fax-Nebenstelle" rechts auf Einstellungen (3).
 
 ![Fax Admin Kundendetails](https://user-images.githubusercontent.com/98753538/162376660-3e9aae1d-a9eb-4123-87a6-5e6725724e80.jpg)
 
