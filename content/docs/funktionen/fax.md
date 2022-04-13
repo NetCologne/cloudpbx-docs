@@ -29,7 +29,7 @@ Die überflüssige Zeile "Weitergeleitet zu  Nummer" können Sie einfach entfern
 
 ![Fax Rufumleitung2a](https://user-images.githubusercontent.com/98753538/162387302-2a4b9111-e6cf-4928-b42e-85dfdc080d65.jpg)
 
-Nach Aktualisierung Ihrer Browseransicht sollte die "Fax2Mail-Rufumleitung" so aussehen:
+Aufgrund eines Fehler in der Anzeige, ist es notwendig, dass Sie die **Browseransicht aktualisieren**. Danach sollte die "Fax2Mail-Rufumleitung" so aussehen:
 
 ![Fax Rufumleitung2](https://user-images.githubusercontent.com/98753538/162376441-df0a41c0-3568-47bb-8593-de60fff8b519.jpg)
 
