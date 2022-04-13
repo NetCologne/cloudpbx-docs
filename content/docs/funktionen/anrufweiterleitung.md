@@ -27,7 +27,7 @@ Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
  ![Anrufmenue_Auswahl Call Fowards2](https://user-images.githubusercontent.com/98753538/161062432-8a60e0e0-83ac-46ff-876a-e1bb67cc1e24.jpg)
 
 Der Sonderfall *Call Forward Unavailable* (gelb) kommt zum Tragen, falls die Nebenstelle nicht registriert und damit nicht erreichbar ist. <br>
-Mit einem Klick auf den Button "Edit" gelangen Sie zu den
+Mit einem Klick auf den Button "Edit" (2) gelangen Sie zu den
 
 ### Call Forward Destination
 
@@ -42,5 +42,8 @@ Aktuell können Sie zu sieben verschiedene Zielen/Destinationen (1) weiterleiten
 * Office Hours Announcement - Hier bekommen Anrufer die Geschäfts-/Öffnungszeiten mitgeteilt, d.h. es sollte immer außerhalb dieser Zeiten dorthin weitergeleitet werden.
 * Custom Announcement - Hier kann auf eine individuelle kundenspezifische Ansage weitergeleitet werden.
 * URI/Number - Weiterleitung zu einer konkreten Rufnummer, die so eingetragen wird, wie man wählen würde, d.h. mit "0", fall eine "Amtsholung" erforderlich ist.
+
+Für die Aktivierungn ist das Häkchen bei Enabled (2) erfoderlich. Mit dem SAVE-Button (3) werden die Einstellungen gespeichert. Der ADVANCED VIEW (4) bietet Ihnen zusätzliche Funktionen:
+
 
 
