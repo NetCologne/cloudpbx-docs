@@ -41,20 +41,29 @@ Aktuell können Sie zu sieben verschiedene Zielen/Destinationen (1) weiterleiten
 * Auto Attendant - Anrufer werden zu einem Anrufmenü weitergeleitet, das die Funktion einer automatische Telefonzentrale übernimmt. Die Details stehen unter [Anrufmenü](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufmenue/).
 * Office Hours Announcement - Hier bekommen Anrufer die Geschäfts-/Öffnungszeiten mitgeteilt, d.h. es sollte immer außerhalb dieser Zeiten dorthin weitergeleitet werden.
 * Custom Announcement - Hier kann auf eine individuelle kundenspezifische Ansage weitergeleitet werden.
-* URI/Number - Weiterleitung zu einer konkreten Rufnummer, die so eingetragen wird, wie man wählen würde, d.h. mit "0", fall eine "Amtsholung" erforderlich ist.
+* URI/Number - Weiterleitung zu einer konkreten Rufnummer, die so eingetragen wird, wie man sie wählen würde, d.h. mit "0", fall eine "Amtsholung" erforderlich ist.
 
-Für die Aktivierungn ist das Häkchen bei Enabled (2) erfoderlich. Mit dem SAVE-Button (3) werden die Einstellungen gespeichert. Der ADVANCED VIEW (4) bietet Ihnen zusätzliche Funktionen:
+Für die Aktivierungn ist das Häkchen bei Enabled (2) erfoderlich. Mit dem SAVE-Button (3) werden die Einstellungen gespeichert. Bei (4) gelangen Sie zum
+
+### Advanced View
+
+und haben folgende zusätzliche Funktionen, im Beispiel für *Call Forward Unconditional*, also eine *generelle Anrufweiterleitung*:
 
 ![Call Forward Advanced View1](https://user-images.githubusercontent.com/98753538/163390556-2808d31f-c7e3-4ecb-af22-99a27de53e6e.jpg)
 
-
-
+#### during Time Set (1)
 
 ![Call Forward Time Sets](https://user-images.githubusercontent.com/98753538/163390616-05ac7208-cbc8-490b-bd6b-fc42886fa9ca.jpg)
 
+#### from source Set (2)
+
 ![Call Forward Source Set](https://user-images.githubusercontent.com/98753538/163390624-de4f3337-4256-4aca-82e6-2beb4db6702a.jpg)
 
+#### to B-Number Set (3)
+
 ![Call Forward B-Number Set](https://user-images.githubusercontent.com/98753538/163390640-8b8ce30c-7837-4d11-9e16-faafb32045fa.jpg)
+
+#### Destination Set (4)
 
 ![Call Forward Destination Sets](https://user-images.githubusercontent.com/98753538/163390656-591fcc5b-a774-449f-8fb1-b27d4001a473.jpg)
 
