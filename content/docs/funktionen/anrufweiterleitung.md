@@ -31,7 +31,7 @@ Mit einem Klick auf den Button "Edit" (2) gelangen Sie zu den unterschiedlichen 
 
 ### Destinationen
 
-![Call Forward Destinations1](https://user-images.githubusercontent.com/98753538/163186900-64c4af17-b174-4d58-8dc9-36734d01591f.jpg)
+![Call Forward Destinations1](https://user-images.githubusercontent.com/98753538/163390500-eaff73a8-60c1-4758-864b-69139d16c79e.jpg)
 
 Aktuell können Sie zu sieben verschiedene Zielen/Destinationen (1) weiterleiten:
 
@@ -44,6 +44,22 @@ Aktuell können Sie zu sieben verschiedene Zielen/Destinationen (1) weiterleiten
 * URI/Number - Weiterleitung zu einer konkreten Rufnummer, die so eingetragen wird, wie man wählen würde, d.h. mit "0", fall eine "Amtsholung" erforderlich ist.
 
 Für die Aktivierungn ist das Häkchen bei Enabled (2) erfoderlich. Mit dem SAVE-Button (3) werden die Einstellungen gespeichert. Der ADVANCED VIEW (4) bietet Ihnen zusätzliche Funktionen:
+
+![Call Forward Advanced View1](https://user-images.githubusercontent.com/98753538/163390556-2808d31f-c7e3-4ecb-af22-99a27de53e6e.jpg)
+
+
+
+
+![Call Forward Time Sets](https://user-images.githubusercontent.com/98753538/163390616-05ac7208-cbc8-490b-bd6b-fc42886fa9ca.jpg)
+
+![Call Forward Source Set](https://user-images.githubusercontent.com/98753538/163390624-de4f3337-4256-4aca-82e6-2beb4db6702a.jpg)
+
+![Call Forward B-Number Set](https://user-images.githubusercontent.com/98753538/163390640-8b8ce30c-7837-4d11-9e16-faafb32045fa.jpg)
+
+![Call Forward Destination Sets](https://user-images.githubusercontent.com/98753538/163390656-591fcc5b-a774-449f-8fb1-b27d4001a473.jpg)
+
+
+
 
 
 
