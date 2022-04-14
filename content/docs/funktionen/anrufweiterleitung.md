@@ -20,7 +20,7 @@ Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *Subscri
 
 Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
 
- * *Call Forward Unconditional* - generelle Anrufweiterleitung. Bitte beachten Sie, dass sich "generell" nur auf die *registrierte Nebenstelle* bezieht. Wenn Sie auch für diesen Fall eine Anrufweiterleitung wünschen, fügen Sie einfach *Call Forward Unavailable* (gelb) hinzu.
+ * *Call Forward Unconditional* - generelle Anrufweiterleitung. Bitte beachten Sie, dass sich "generell" nur auf die *registrierte Nebenstelle* bezieht. Wenn Sie für eine nicht registrierte Nebenstelle eine Anrufweiterleitung wünschen, fügen Sie einfach Call Forward Unavailable (gelb) hinzu. Oder, wenn sie ganz sicher gehen wollen, dass die Anrufweiterlieung immer greift, aktivieren sie beide Weiterleitungstypen.
  * *Call Forward Busy* - Anrufweiterleitung, wenn besetzt
  * *Call Forward Timeout* - Anrufweiterleitung nach eine bestimmten Zeitspanne
   
