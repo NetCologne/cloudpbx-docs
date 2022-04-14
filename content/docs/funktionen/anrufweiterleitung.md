@@ -65,7 +65,7 @@ Sie möchten, dass Ihre Kunden im Ortsnetz Köln (0221) eine andere Ansage erhal
 
 #### to B-Number Set (3)
 
-Ähnlich wie bei A-Rufnummern für die Urspünge können Sie auch bei den B-Rufnummer, zu denen weitergeleitet werden soll, Unterschiede machen. Denkbar wäre, dass z.B. Internationale Ziel nicht erlaubt sind.
+Ähnlich wie bei A-Rufnummern für die Urspünge können Sie auch bei den B-Rufnummer, zu denen weitergeleitet werden soll bzw. darf, Unterschiede machen. Denkbar wäre z.B., dass Internationale Ziel nicht erlaubt sind.
 
 ![Call Forward B-Number Set](https://user-images.githubusercontent.com/98753538/163390640-8b8ce30c-7837-4d11-9e16-faafb32045fa.jpg)
 
