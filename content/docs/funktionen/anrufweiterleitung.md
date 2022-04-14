@@ -53,22 +53,26 @@ und haben folgende zusätzliche Funktionen, im Beispiel für *Call Forward Uncon
 
 #### during Time Set (1)
 
+Hier können Sie einen oder mehrere Zeiträume eintragen und editieren, in denen die jeweilige Anrufweiterleitung gelten soll.
+
 ![Call Forward Time Sets](https://user-images.githubusercontent.com/98753538/163390616-05ac7208-cbc8-490b-bd6b-fc42886fa9ca.jpg)
 
-#### from source Set (2)
+#### from Source Set (2)
+
+Sie möchten, dass Ihre Kunden im Ortsnetz Köln (0221) eine andere Ansage erhalten als die aus Bonn (0228), dann definieren Sie unterschiedliche Source Sets. Denkbar wäre auch eine Ansage in Englisch für internationale Kunden (002 bis 009). Bei jedem *Source Set* können Sie wählen, ob Sie mit einer *Whitelist (zulässige Rufnummern)* oder einer *Blacklist (verbotene Rufnummern)* arbeiten möchten.
 
 ![Call Forward Source Set](https://user-images.githubusercontent.com/98753538/163390624-de4f3337-4256-4aca-82e6-2beb4db6702a.jpg)
 
 #### to B-Number Set (3)
 
+Ähnlich wie bei A-Rufnummern für die Urspünge können Sie auch bei den B-Rufnummer, zu denen weitergeleitet werden soll, Unterschiede machen. Denkbar wäre, dass z.B. Internationale Ziel nicht erlaubt sind.
+
 ![Call Forward B-Number Set](https://user-images.githubusercontent.com/98753538/163390640-8b8ce30c-7837-4d11-9e16-faafb32045fa.jpg)
 
 #### Destination Set (4)
 
+Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neue hinzufügen.
+
 ![Call Forward Destination Sets](https://user-images.githubusercontent.com/98753538/163390656-591fcc5b-a774-449f-8fb1-b27d4001a473.jpg)
 
-
-
-
-
-
+Das *Enabled-Häkchen* (5) zeigt Ihnen, welche Sets aktiv sind bzw. nicht. Per Mausklick auf "Remove" (6a) löschen Sie ein Set genauso einfach, wie Sie ein neues per Klick auf "Add destination/time sets" (6b) wieder hinzufügen können. Mit dem Button "Simple View" (7) gelangen Sie zurück zur "einfachen" Ansicht. Vergessen Sie nicht die Änderungen mit SAVE (8) zu speichern.
