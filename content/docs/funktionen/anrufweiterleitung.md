@@ -27,17 +27,17 @@ Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
  ![Anrufmenue_Auswahl Call Fowards2](https://user-images.githubusercontent.com/98753538/161062432-8a60e0e0-83ac-46ff-876a-e1bb67cc1e24.jpg)
 
 Der Sonderfall *Call Forward Unavailable* (gelb) kommt zum Tragen, falls die Nebenstelle nicht registriert und damit nicht erreichbar ist. <br>
-Mit einem Klick auf den Button "Edit" (2) gelangen Sie zu den
+Mit einem Klick auf den Button "Edit" (2) gelangen Sie zu den unterschiedlichen Call-Forward...
 
-### Call Forward Destination
+### Destinationen
 
 ![Call Forward Destinations1](https://user-images.githubusercontent.com/98753538/163186900-64c4af17-b174-4d58-8dc9-36734d01591f.jpg)
 
 Aktuell können Sie zu sieben verschiedene Zielen/Destinationen (1) weiterleiten:
 
-* Voicemail - Der Anruf erhält eine Ansage und kann dem Empfänger eine Audionachricht hinterlassen.
-* Conference - Wird hierhin weitergeleitet, werden die Anrufer in einer Konferenz zusammengeschaltet, um gleichzeitig mit drei, vier oder mehr Personen gleichzeitig zu sprechen.
-* Fax2Mail - Eine Nebenstelle wird als Fax genutzt und ankommende Calls (besser: Faxe) werden dorthin geleitet, um als E-Mail ausgegeben werden zu können. Sehen Sie hierzu auch [FAX](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/).
+* Voicemail - Der Anrufer erhält eine Ansage und kann dem Empfänger eine Audionachricht hinterlassen.
+* Conference - Wird hierhin weitergeleitet, werden die Anrufer in einer Konferenz zusammengeschaltet, um gleichzeitig mit drei, vier oder mehr Personen sprechen zu können.
+* Fax2Mail - Eine Nebenstelle wird als Fax genutzt und ankommende Calls (besser: Faxe) werden dorthin geleitet und als E-Mail ausgegeben. Sehen Sie hierzu auch [FAX](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/).
 * Auto Attendant - Anrufer werden zu einem Anrufmenü weitergeleitet, das die Funktion einer automatische Telefonzentrale übernimmt. Die Details stehen unter [Anrufmenü](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufmenue/).
 * Office Hours Announcement - Hier bekommen Anrufer die Geschäfts-/Öffnungszeiten mitgeteilt, d.h. es sollte immer außerhalb dieser Zeiten dorthin weitergeleitet werden.
 * Custom Announcement - Hier kann auf eine individuelle kundenspezifische Ansage weitergeleitet werden.
