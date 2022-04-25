@@ -148,5 +148,7 @@ Auch im Bereich der IP-Telefonie sind die Funktionen "CLIP" und "CLIR" von Bedeu
 ## Grandstream HT-802
 
 Bei diesem Analog Telefon Adapter handelt es sich um die kleinere Version des HT-814. Es besitzt im Unterschied zu diesem nur 2 analoge Phone-Buchsen.
+![HT802](https://user-images.githubusercontent.com/98472426/165046529-54dd3e67-abaf-44d8-a5a9-036488a316d0.png)
+
 Die Konfiguration des HT-802 erfolgt analog zum HT-814.
 Hinweis: Die Profil-Daten der Ports werden hier direkt unter den Tab's FXS Ports konfiguriert.
