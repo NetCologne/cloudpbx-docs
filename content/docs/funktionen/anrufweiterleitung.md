@@ -63,7 +63,8 @@ Dabei können "Von-Bis-Angaben" für die Zeiteinheiten Jahr, Monat, x. Tag im Mo
 
 ![Call Forward Time Sets 2](https://user-images.githubusercontent.com/98753538/167443767-2a032485-6ad4-44dc-bfe0-43f95891c81d.jpg)
 
-Bei einer minutengenauen Zeitangabe, die sich dann über mehrere Stunden erstreckt, können also **KEINE klassischen Uhrzeitangaben** gemacht werden und die zuerst begonnene Stunde muss erst mit 59 Minuten beendet und eine neue Periode mi der nächsten vollen Stunde begonnen werden. Ein weiteres Beispiel zeigt die Anrufweiterleitung immer freitags von 11:00 bis 14:00 Uhr:
+Bei einer minutengenauen Zeitangabe, die sich dann über mehrere Stunden erstreckt, können also **KEINE klassischen Uhrzeitangaben** gemacht werden: Die begonnene Stunde muss erst mit 59 Minuten beendet und eine neue Periode mi der nächsten vollen Stunde begonnen werden. 
+Ein weiteres (einfacheres) Beispiel zeigt die Anrufweiterleitung immer freitags von 11:00 bis 14:00 Uhr:
 
 ![Call Forward Time Sets 3](https://user-images.githubusercontent.com/98753538/167446097-88a32ea3-8e87-4800-9d4e-c02aec00fb4e.jpg)
 
