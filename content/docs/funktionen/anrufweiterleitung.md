@@ -83,7 +83,7 @@ Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne
 
 Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
 
-*Call Forward Unconditional:* Einrichtung der Rufumleitung durch Wahl von **\*72*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
+*Call Forward Unconditional:* Einrichtung der Rufumleitung durch Wahl von <b>*\*72*Zielrufnummer</b> (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
 
 *Call Forward on Busy:* Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #90*.
 
