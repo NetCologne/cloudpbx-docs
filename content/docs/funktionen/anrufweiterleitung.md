@@ -59,6 +59,14 @@ Hier können Sie einen oder mehrere Zeiträume eintragen und editieren, in denen
 
 ![Call Forward Time Sets](https://user-images.githubusercontent.com/98753538/163390616-05ac7208-cbc8-490b-bd6b-fc42886fa9ca.jpg)
 
+Dabei können "Von-Bis-Angaben" für die Zeiteinheiten Jahr, Monat, x. Tag im Monat, Wochentag, Stunde und Minute gemacht werden. Dabei muss man beachten, dass man für jede Periode Start- und Ende einzeln definieren muss. Im Beispiel soll die Anrufweiterleitung dienstags und mittwochs jeweils von 10:15 Uhr bis 14:00 und von 15:00 Uhr bis 15:28h erfolgen. Für diese beiden Zeitspannen sind **drei** Eingaben erforderlich:
+
+![Call Forward Time Sets 2](https://user-images.githubusercontent.com/98753538/167443767-2a032485-6ad4-44dc-bfe0-43f95891c81d.jpg)
+
+Bei einer minutengenauen Zeitangabe, die sich dann über mehrere Stunden erstreckt, können also **KEINE klassischen Uhrzeitangaben** gemacht werden und die zuerst begonnene Stunde muss erst mit 59 Minuten beendet und eine neue Periode mi der nächsten vollen Stunde begonnen werden. Ein weiteres Beispiel zeigt die Anrufweiterleitung immer freitags von 11:00 bis 14:00 Uhr:
+
+![Call Forward Time Sets 3](https://user-images.githubusercontent.com/98753538/167446097-88a32ea3-8e87-4800-9d4e-c02aec00fb4e.jpg)
+
 #### from Source Set (2)
 
 Sie möchten, dass Ihre Kunden im Ortsnetz Köln (0221) eine andere Ansage erhalten als die aus Bonn (0228), dann definieren Sie unterschiedliche Source Sets. Denkbar wäre auch eine Ansage in Englisch für internationale Kunden (002 bis 009). Bei jedem *Source Set* können Sie wählen, ob Sie mit einer *Whitelist (zulässige Rufnummern)* oder einer *Blacklist (verbotene Rufnummern)* arbeiten möchten.
