@@ -91,4 +91,4 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 
 *Call Forward on Not Available:* Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von ***93*Zielrufnummer** - *Deaktivierung durch Wahl von #93*.
 
-Die *Deaktivierung* **aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**
+Die *Deaktivierung* **aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
