@@ -59,7 +59,8 @@ Unter "Port" muss "5061" stehen.
 
 Um ein Mobilteil an der Yealink DECT IP Basisstation W70B anzumelden, gehen Sie bitte wie folgt vor:
 
-![NC_Doku_Mobilteil_Anmelden](https://user-images.githubusercontent.com/99875491/169034921-f41e5816-a167-4bd0-b3b3-a239b38125f4.jpg)
+
+![NC_Doku_Mobilteil_Anmelden_1](https://user-images.githubusercontent.com/99875491/169036830-5e5ea5de-a2a6-4c47-a654-16cc1c3d8ffb.jpg)
 
 1. Begeben Sie sich zu dem Menüpunkt "Status".
 2. Wählen Sie nun den Punkt "Handset & Voip" aus.
