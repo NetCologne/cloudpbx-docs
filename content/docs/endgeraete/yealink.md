@@ -34,11 +34,11 @@ Hier wird beschrieben, wie Sie das Gerät manuell einrichten können.
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
 
-![NC_Doku_Login](https://user-images.githubusercontent.com/99875491/169034516-397e6482-fbf3-4f24-8b36-35190a253213.jpg)
+![NC_Doku_Login](https://user-images.githubusercontent.com/99875491/169037825-ceb507ee-9886-4f5e-8ef7-3409a2bc55e8.jpg)
 
 Username und Password lauten beide "admin".
 
-![NC_Doku_Konto_Registrieren](https://user-images.githubusercontent.com/99875491/169034811-6552a92f-a28a-49d0-8422-aaab4da6c1ae.jpg)
+![NC_Doku_Konto_Registrieren_1](https://user-images.githubusercontent.com/99875491/169037784-15289deb-1673-48cd-9a4f-b254fb7de357.jpg)
 
 1. Begeben Sie sich zu dem Menüpunkt "Konto".
 2. Wählen Sie nun den Punkt "Registrieren" aus.
@@ -58,7 +58,6 @@ Unter "Port" muss "5061" stehen.
 ### Mobilteil anmelden ( W56H )
 
 Um ein Mobilteil an der Yealink DECT IP Basisstation W70B anzumelden, gehen Sie bitte wie folgt vor:
-
 
 ![NC_Doku_Mobilteil_Anmelden_1](https://user-images.githubusercontent.com/99875491/169036830-5e5ea5de-a2a6-4c47-a654-16cc1c3d8ffb.jpg)
 
