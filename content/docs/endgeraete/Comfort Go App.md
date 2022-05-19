@@ -22,7 +22,7 @@ Ihre Vorteile im Überblick:
 
 ### Comfort Go bei Google Play (Android)
 
-Für Android (ab Version 4.2) können Sie die App unter [Google Play](https://play.google.com/store/apps/details?id=de.netcologne.hometogo&hl=de&gl=US herunterladen).
+Für Android (ab Version 4.2) können Sie die App unter [Google Play](https://play.google.com/store/apps/details?id=de.netcologne.hometogo&hl=de&gl=US) herunterladen.
 
 ### Comfort Go im App Store (iOS)
 
