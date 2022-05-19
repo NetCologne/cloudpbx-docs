@@ -25,7 +25,7 @@ Ihre Vorteile im Überblick:
 
 Für Android (ab 4.2) können Sie die App unter [Google Play](https://play.google.com/store/apps/details?id=de.netcologne.hometogo&hl=de&gl=US) herunterladen und installieren.
 
-![IMG_20220518_152252](https://user-images.githubusercontent.com/98753538/169229965-0697cfea-6c58-4ec8-abf1-f75bf61a043d.jpg)
+![App Google Play](https://user-images.githubusercontent.com/98753538/169261390-61447d26-e5b7-4297-be0a-e64ecd3b4aa5.jpg)
 
 Anschließend werden Sie aufgefordert, den QR-Code von der zugehörigen Nebenstelle zu scannen. Diesen finden Sie im Menue ihrer Cloud-PBX am oberen Rand (roter Pfeil).
 
