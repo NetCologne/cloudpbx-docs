@@ -37,6 +37,11 @@ Sobald Sie auf das Symbol geklickt haben, können Sie den QR-Code einscannen.
 
 Anschließend werden Sie um die üblichen Zugriffsberechtigungen (Kontakte, Microfon und Hintergrunddaten) gebeten.
 
+![Zugriff](https://user-images.githubusercontent.com/98753538/169234986-406640bf-5dec-46e2-ae07-ae9dc6057e7b.jpg)
+
+Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ihrer Cloud-PBX telefonieren, d.h. für abgehende Telefonaten ist die Amtsholung "0" erforderlich. Wenn Sie Ihre Kontakte direkt anrufen möchten, müssen deren Nummern mit "+49" eingetragen sein. Falls Sie angerufen werden, ist mit der Taste "Transfer" die Weiterleitung zu anderen Nebenstellen möglich.
+
+![Funktionen](https://user-images.githubusercontent.com/98753538/169236252-fdb10320-1c51-4f78-a547-f32a13f180c1.jpg)
 
 
 ### Comfort Go im App Store (iOS)
