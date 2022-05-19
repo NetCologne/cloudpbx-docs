@@ -10,6 +10,7 @@ toc: true
 Mit „Comfort Go“ wird Ihr Smartphone zum Festnetztelefon. Die App bietet Ihnen die Möglichkeit mit Ihrer Festnetznummer über das eigene Smartphone zu telefonieren, egal wo Sie sich gerade aufhalten. Mit „Comfort Go“ sind Sie im Büro, im Café oder auf Reisen über Ihre Festnetznummer erreichbar. Haben Sie doch mal einen Anruf verpasst, können Sie bequem von unterwegs Ihren NetCologne Anrufbeantworter abhören.
 
 Ihre Vorteile im Überblick:
+
 * nutzen Sie „Comfort Go“ um weltweit mit Ihrer Festnetznummer zu telefonieren 
 * „Comfort Go“ kommuniziert verschlüsselt (TSIP / SRTP) mit unseren Servern 
 * Informationen über Ihre Rufnummer sowie die Gespräche selber sind gegen Abhören geschützt 
