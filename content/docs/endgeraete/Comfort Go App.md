@@ -23,7 +23,21 @@ Ihre Vorteile im Überblick:
 
 ### Comfort Go bei Google Play (Android)
 
-Für Android (ab 4.2) können Sie die App unter [Google Play](https://play.google.com/store/apps/details?id=de.netcologne.hometogo&hl=de&gl=US) herunterladen.
+Für Android (ab 4.2) können Sie die App unter [Google Play](https://play.google.com/store/apps/details?id=de.netcologne.hometogo&hl=de&gl=US) herunterladen und installieren.
+
+![IMG_20220518_152252](https://user-images.githubusercontent.com/98753538/169229965-0697cfea-6c58-4ec8-abf1-f75bf61a043d.jpg)
+
+Anschließend werden Sie aufgefordert, den QR-Code von der zugehörigen Nebenstelle zu scannen. Diesen finden Sie im Menue ihrer Cloud-PBX am oberen Rand (roter Pfeil).
+
+![Cloud PBX_Uebersicht2](https://user-images.githubusercontent.com/98753538/169230239-f24efc0b-9633-4713-ae8d-0196c0a560ed.jpg)
+
+Sobald Sie auf das Symbol geklickt haben, können Sie den QR-Code einscannen.
+
+![Cloud PBX_QR_Code1](https://user-images.githubusercontent.com/98753538/169230789-4dac34ef-d995-45ee-a15a-be3a7f933591.jpg)
+
+Anschließend werden Sie um die üblichen Zugriffsberechtigungen (Kontakte, Microfon und Hintergrunddaten) gebeten.
+
+
 
 ### Comfort Go im App Store (iOS)
 
