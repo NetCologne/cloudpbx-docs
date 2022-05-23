@@ -61,7 +61,7 @@ Unter "Port" muss "5061" stehen.
 ### Verschlüsselung
 Ihre Gesprächsdaten/Inhalte werden verschlüsselt übertragen. Bitte stellen Sie hierzu sicher, dass folgende Einstellung aktiv ist ( SRTP )
 
-
+![NC_Doku_SRTP_Obligatorisch](https://user-images.githubusercontent.com/99875491/169795970-996dd398-d9f6-4c9e-b820-9f6106d18373.jpg)
 
 ### Mobilteil anmelden W56H 
 
