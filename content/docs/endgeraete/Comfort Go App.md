@@ -46,9 +46,9 @@ Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ih
 
 ### Comfort Go im App Store (iOS)
 
-Für iOS (ab 13.0) finden sie die App im [App Store](https://apps.apple.com/de/app/comfort-go-ihre-sip-festnetznummer-f%C3%BCr-unterwegs/id1047120037). Nach der Installation erlauben Sie den Kamerazugriff, um damit den QR-Code von der zugehörigen Nebenstelle zu scannen.
+Für iOS (ab 13.0) finden sie die App im [App Store](https://apps.apple.com/de/app/comfort-go-ihre-sip-festnetznummer-f%C3%BCr-unterwegs/id1047120037). Nach der Installation erlauben Sie den Kamerazugriff, um den QR-Code von der zugehörigen Nebenstelle scannen zu können.
 
-
+![iOS Comfort Go App](https://user-images.githubusercontent.com/98753538/169789714-43ceb944-5991-430c-a7da-a28840f6484b.jpg)
 
 Diesen finden Sie im Menue ihrer Cloud-PBX am oberen Rand (roter Pfeil).
 
