@@ -19,7 +19,7 @@ Ihre Vorteile im Überblick:
 * lassen Sie sich alle Anrufe im Verlauf anzeigen 
 * verwenden Sie bis zu zehn Festnetznummern Ihres IP-basierten Comfort-Anschlusses 
 * chatten Sie verschlüsselt mit Ihren Kontakten, die ebenfalls die „Comfort Go“ nutzen 
-* hören Sie von unterwegs Ihren NetCologne Anrufbeantworter ab
+* hören Sie von unterwegs Ihren NetCologne Anrufbeantworter ab<br>
 
 ## Comfort Go bei Google Play (Android)
 
@@ -42,7 +42,7 @@ Anschließend werden Sie um die üblichen Zugriffsberechtigungen (Kontakte, Micr
 Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ihrer Cloud-PBX telefonieren, d.h. für abgehende Telefonaten ist die Amtsholung "0" erforderlich. Wenn Sie Ihre Kontakte direkt anrufen möchten, müssen deren Nummern mit "+49" eingetragen sein. Falls Sie angerufen werden, ist mit der Taste "Transfer" die Weiterleitung zu anderen Nebenstellen möglich.
 
 ![Funktionen](https://user-images.githubusercontent.com/98753538/169236252-fdb10320-1c51-4f78-a547-f32a13f180c1.jpg)
-
+<br>
 
 ## Comfort Go im App Store (iOS)
 
