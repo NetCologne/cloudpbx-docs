@@ -58,7 +58,7 @@ Unter "Port" muss "5061" stehen.
 12. Stellen Sie sicher, dass "NAT" auf "Deaktiviert" gestellt wird.
 15. Mit Klick auf "Bestätigen" ist die Konfiguration abgeschlossen. 
 
-### Mobilteil anmelden ( W56H )
+### Mobilteil anmelden W56H 
 
 Um ein Mobilteil an der Yealink DECT IP Basisstation W70B anzumelden, gehen Sie bitte wie folgt vor:
 
