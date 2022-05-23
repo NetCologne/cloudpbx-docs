@@ -21,7 +21,7 @@ Ihre Vorteile im Überblick:
 * chatten Sie verschlüsselt mit Ihren Kontakten, die ebenfalls die „Comfort Go“ nutzen 
 * hören Sie von unterwegs Ihren NetCologne Anrufbeantworter ab
 
-### Comfort Go bei Google Play (Android)
+## Comfort Go bei Google Play (Android)
 
 Für Android (ab 4.2) können Sie die App unter [Google Play](https://play.google.com/store/apps/details?id=de.netcologne.hometogo&hl=de&gl=US) herunterladen und installieren.
 
@@ -44,7 +44,7 @@ Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ih
 ![Funktionen](https://user-images.githubusercontent.com/98753538/169236252-fdb10320-1c51-4f78-a547-f32a13f180c1.jpg)
 
 
-### Comfort Go im App Store (iOS)
+## Comfort Go im App Store (iOS)
 
 Für iOS (ab 13.0) finden sie die App im [App Store](https://apps.apple.com/de/app/comfort-go-ihre-sip-festnetznummer-f%C3%BCr-unterwegs/id1047120037). Nach der Installation erlauben Sie den Kamerazugriff, um den QR-Code von der zugehörigen Nebenstelle scannen zu können.
 
