@@ -38,19 +38,22 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 
 Username und Password lauten beide "admin".
 
-![NC_Doku_Konto_Registrieren_1](https://user-images.githubusercontent.com/99875491/169037784-15289deb-1673-48cd-9a4f-b254fb7de357.jpg)
+![NC_Doku_Konto_Registrieren_03](https://user-images.githubusercontent.com/99875491/169790420-1c3212da-9da1-4103-81f8-684dacdbbf87.jpg)
+
+![NC_Doku_Konto_Registrieren_02](https://user-images.githubusercontent.com/99875491/169790505-ac107f95-6d75-4cb3-b895-47b47a7060fe.jpg)
+
 
 1. Begeben Sie sich zu dem Menüpunkt "Konto".
-2. Wählen Sie nun den Punkt "Registrieren" aus.
-3. Im ersten Schritt der Einrichtung wählen Sie das betreffende Konto im oberen Reiter aus.
-4. Aktivieren Sie die Leitung mit Auswahl von "An".
-5. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Telefon einsetzen.
-6. Unter "Registrierterungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
-7. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
-8. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
-9. Unter "Transport" wählen Sie "TLS" aus.
-10. Bitte aktivieren Sie den "Outbound Proxy Server", indem Sie in dem Reiter den Punkt "An" auswählen.
-11. Beim Punkt "Ausgehender Proxy Server 1" tragen Sie bitten Ihren Proxy Server ein: “firmaid.cloudpbx.netcologne.de“. 
+3. Wählen Sie nun den Punkt "Registrieren" aus.
+4. Im ersten Schritt der Einrichtung wählen Sie das betreffende Konto im oberen Reiter aus.
+5. Aktivieren Sie die Leitung mit Auswahl von "An".
+6. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Telefon einsetzen.
+7. Unter "Registrierterungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
+8. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
+9. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
+10. Unter "Transport" wählen Sie "TLS" aus.
+11. Bitte aktivieren Sie den "Outbound Proxy Server", indem Sie in dem Reiter den Punkt "An" auswählen.
+12. Beim Punkt "Ausgehender Proxy Server 1" tragen Sie bitten Ihren Proxy Server ein: “firmaid.cloudpbx.netcologne.de“. 
 Unter "Port" muss "5061" stehen.
 12. Stellen Sie sicher, dass "NAT" auf "Deaktiviert" gestellt wird.
 15. Mit Klick auf "Bestätigen" ist die Konfiguration abgeschlossen. 
