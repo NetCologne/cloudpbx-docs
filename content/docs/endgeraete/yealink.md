@@ -58,6 +58,12 @@ Unter "Port" muss "5061" stehen.
 12. Stellen Sie sicher, dass "NAT" auf "Deaktiviert" gestellt wird.
 15. Mit Klick auf "Bestätigen" ist die Konfiguration abgeschlossen. 
 
+### Verschlüsselung
+Ihre Gesprächsdaten/Inhalte werden verschlüsselt übertragen. Bitte stellen Sie hierzu sicher, dass folgende Einstellung aktiv ist ( SRTP )
+
+![NC_Doku_SRTP_Obligatorisch](https://user-images.githubusercontent.com/99875491/169795349-467cafac-0e18-4ade-a5d0-f998177567a1.jpeg)
+
+
 ### Mobilteil anmelden W56H 
 
 Um ein Mobilteil an der Yealink DECT IP Basisstation W70B anzumelden, gehen Sie bitte wie folgt vor:
