@@ -46,5 +46,22 @@ Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ih
 
 ### Comfort Go im App Store (iOS)
 
-Für iOS (ab 13.0) finden sie die App im [App Store](https://apps.apple.com/de/app/comfort-go-ihre-sip-festnetznummer-f%C3%BCr-unterwegs/id1047120037).
+Für iOS (ab 13.0) finden sie die App im [App Store](https://apps.apple.com/de/app/comfort-go-ihre-sip-festnetznummer-f%C3%BCr-unterwegs/id1047120037). Nach der Installation erlauben Sie den Kamerazugriff, um damit den QR-Code von der zugehörigen Nebenstelle zu scannen.
 
+![iOS Comfort Go App](https://user-images.githubusercontent.com/98753538/169788964-d3c25c78-4352-49cf-8823-03bbfc31de89.jpg)
+
+iesen finden Sie im Menue ihrer Cloud-PBX am oberen Rand (roter Pfeil).
+
+![Cloud PBX_Uebersicht2](https://user-images.githubusercontent.com/98753538/169230239-f24efc0b-9633-4713-ae8d-0196c0a560ed.jpg)
+
+Sobald Sie auf das Symbol geklickt haben, können Sie den QR-Code einscannen.
+
+![Cloud PBX_QR_Code1](https://user-images.githubusercontent.com/98753538/169230789-4dac34ef-d995-45ee-a15a-be3a7f933591.jpg)
+
+Anschließend werden Sie um die üblichen Zugriffsberechtigungen (Kontakte, Mikrofon und Push) gebeten.
+
+![iOS Zugriff](https://user-images.githubusercontent.com/98753538/169789073-b9914ce7-3c44-43de-b19e-590a1678db33.jpg)
+
+Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ihrer Cloud-PBX telefonieren, d.h. für abgehende Telefonaten ist die Amtsholung "0" erforderlich. Wenn Sie Ihre Kontakte direkt anrufen möchten, müssen deren Nummern mit "+49" eingetragen sein. Falls Sie angerufen werden, ist mit der Taste "Transfer" die Weiterleitung zu anderen Nebenstellen möglich.
+
+![iOS Funktionen](https://user-images.githubusercontent.com/98753538/169789156-eb121fa9-3bf4-4411-84ea-06d9d9bda438.jpg)
