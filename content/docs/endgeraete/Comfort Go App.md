@@ -20,6 +20,7 @@ Ihre Vorteile im Überblick:
 * verwenden Sie bis zu zehn Festnetznummern Ihres IP-basierten Comfort-Anschlusses 
 * chatten Sie verschlüsselt mit Ihren Kontakten, die ebenfalls die „Comfort Go“ nutzen 
 * hören Sie von unterwegs Ihren NetCologne Anrufbeantworter ab<br>
+<br>
 
 ## Comfort Go bei Google Play (Android)
 
