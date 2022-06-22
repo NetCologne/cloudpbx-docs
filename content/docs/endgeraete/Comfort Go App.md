@@ -61,7 +61,7 @@ Sobald Sie auf das Symbol geklickt haben, können Sie den QR-Code einscannen.
 
 Anschließend werden Sie um die üblichen Zugriffsberechtigungen (Kontakte, Mikrofon und Push) gebeten.
 
-![iOS Zugriff](https://user-images.githubusercontent.com/98753538/169789073-b9914ce7-3c44-43de-b19e-590a1678db33.jpg)
+![iOS Zugriff2](https://user-images.githubusercontent.com/98753538/174999578-9c2ec802-fc65-465d-90a3-8b4bd4734b46.jpg)
 
 Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ihrer Cloud-PBX telefonieren, d.h. für abgehende Telefonaten ist die Amtsholung "0" erforderlich. Wenn Sie Ihre Kontakte direkt anrufen möchten, müssen deren Nummern mit "+49" eingetragen sein. Falls Sie angerufen werden, ist mit der Taste "Transfer" die Weiterleitung zu anderen Nebenstellen möglich.
 
