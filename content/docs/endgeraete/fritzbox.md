@@ -12,14 +12,13 @@ Mit der Fritzbox können Sie bis zu 20 NetCologne Rufnummern einrichten und mit 
 
 ## FritzBox 7490 ( beispielhaft )
 
-Schließen Sie zuallererst Ihre FritzBox am Stromnetz und an Ihren DSL-Anschluß an. Verbinden Sie dann das Gerät mit einem analogen Telefon via der Phone-Buchse.
-Zum Konfigurieren der Rufnummer(n) auf der FritzBox verbinden Sie dann Ihren PC / Notebook mit der FritzBox ( zB. Buchse "LAN1" )
+Schließen Sie zuallererst Ihre FritzBox am Stromnetz und an Ihren DSL-Anschluß an. Verbinden Sie dann das Gerät mit einem analogen Telefon via der Phone-Buchse. Zum Konfigurieren der Rufnummer(n) auf der FritzBox verbinden Sie dann Ihren PC / Notebook mit der FritzBox ( zB. Buchse "LAN1" )
 Starten Sie einen Browswer Ihrer Wahl und geben als URL "fritz.box" ein. Sie gelangen auf die GUI der FritzBox. 
 Vergewissern Sie sich bitte zunächst über die aktuelle Firmware-Version der FritBox. Sie ist in der Übersicht hier zu finden:
 
 ![990](https://user-images.githubusercontent.com/99875491/178981706-bc0b0d42-3db4-447f-9331-78639f1ccf97.png)
 
-Die Firmware-Version muss 7.20 oder größer sein, damit die veschlüsselt Übertragung unterstützt wird. Ohne verschlüsslte Übertragung wird der Anschluss nicht funktionieren. 
+Die Firmware-Version muss 7.20 oder größer sein, damit die veschlüsselte Übertragung unterstützt wird. Ohne verschlüsselte Übertragung wird der Anschluss nicht funktionieren. 
 
 Wählen Sie im Anschluss hier den Punkt Telefonie/ Eigene Rufnummern aus:
 
