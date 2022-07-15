@@ -36,7 +36,7 @@ Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" die komp
 
 ![1010_1](https://user-images.githubusercontent.com/99875491/178977016-6899a8bc-4782-45c8-9a16-00f7c75e9203.png)
 
-Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihnen von NetCologne mitgeteilt wurden. Gleiches gilt für die Domänen bei *Registrar* und *Proxy-Server*. <br>
+Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihnen von NetCologne mitgeteilt wurden. Gleiches gilt für die Domäne bei *Registrar* und *Proxy-Server*. <br>
 
 ![Zugangsdaten](https://user-images.githubusercontent.com/98753538/179159885-5013b8ab-69a6-4352-a670-d2d94972e3d5.jpg)
 
@@ -45,7 +45,7 @@ Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme bei
 ![1010_3_1](https://user-images.githubusercontent.com/99875491/178978075-33376f83-b9bb-4c07-aa89-c0fb8167f1c6.png)
 
 <br>
-Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertragen. Damit dies funktioniert, setze Sie bitte das Häkchen bei "Der Anbieter unterstützt verschlüsselte Telefonie..." und wählen unter *Media Protocol* "RTP/SAVP" aus : <br>
+Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertragen. Damit dies funktioniert, setzen Sie bitte das Häkchen bei "Der Anbieter unterstützt verschlüsselte Telefonie..." und wählen unter *Media Protocol* "RTP/SAVP" aus : <br>
 
 ![1010_3_2](https://user-images.githubusercontent.com/99875491/178978575-cfbd4553-8f5d-4c3b-be32-d6513e27d44b.png)
 Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten und wählen "weiter". <br>
