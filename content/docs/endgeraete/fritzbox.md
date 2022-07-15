@@ -8,7 +8,7 @@ weight: 506
 toc: true
 ---
 
-An der Fritzbox können Sie mehrere Rufnummern und analoge (DECT)-Telefone einrichten. Am Modell der 7490 zeigen wir schrittweise, wie Sie Ihre Fritzbox mit der NetCologne Cloud PBX verbinden und so analoge Telefone bei der virtuellen Telefonanlage nutzen können. 
+An der Fritzbox können Sie mehrere Rufnummern und analoge (DECT)-Telefone einrichten. Am Modell der 7490 zeigen wir schrittweise, wie Sie Ihre Fritzbox mit der NetCologne Cloud PBX verbinden und so analoge Telefone bei Ihrer virtuellen Telefonanlage nutzen können. 
 
 ## Einrichtung 7490 (stellvertretend für FritzBox)
 
