@@ -44,6 +44,7 @@ Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihn
 Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt *Transportprotokoll*. Hier wählen Sie bitte "UDP" <br>
 
 ![1010_3_1](https://user-images.githubusercontent.com/99875491/178978075-33376f83-b9bb-4c07-aa89-c0fb8167f1c6.png)
+
 <br>
 Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertragen. Damit dies funktioniert, setze Sie bitte das Häkchen bei "Der Anbieter unterstützt verschlüsselte Telefonie..." und wählen unter *Media Protocol* "RTP/SAVP" aus : <br>
 
