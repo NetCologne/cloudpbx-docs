@@ -52,7 +52,6 @@ Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertra
 Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten und wählen "weiter". <br>
 
 ![1010_4](https://user-images.githubusercontent.com/99875491/178978819-51ed6ada-8f4f-447a-b747-09ddbf0eeff2.png)
-
 ### Telefoniegeräte
 
 Wählen Sie im FritzBox-Menue den Punkt "Telefoniegeräte". Nun konfigurieren Sie ein oder zwei analoge Telefone, welche Sie bereits an die FritzBox angeschlossen haben: <br>
