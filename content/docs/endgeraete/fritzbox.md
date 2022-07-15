@@ -14,7 +14,7 @@ Mit der Fritzbox können Sie mehrere Rufnummern einrichten und mit analogen (DEC
 
 Schließen Sie zuallererst Ihre FritzBox am Stromnetz und an Ihren DSL-Anschluß an. <br>
 Verbinden Sie dann das Gerät mit einem analogen Telefon via der Phone-Buchse. <br>
-Zum Konfigurieren der Rufnummer(n) auf der FritzBox verbinden Sie dann Ihren PC/Notebook mit der FritzBox (z.B. Buchse "LAN1"). <br>
+Zum Konfigurieren der Rufnummer(n) auf der FritzBox verbinden Sie dann Ihren PC/Notebook mit der FritzBox (z.B. Buchse "LAN1").
 Starten Sie einen Browswer Ihrer Wahl und geben als URL "fritz.box" ein. Sie gelangen auf die GUI der FritzBox. <br>
 Vergewissern Sie sich bitte zunächst über die aktuelle Firmware-Version der FritBox. Sie ist in der Übersicht hier zu finden: <br>
 
