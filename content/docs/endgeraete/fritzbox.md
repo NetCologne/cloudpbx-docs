@@ -20,8 +20,7 @@ Vergewissern Sie sich bitte zunächst über die aktuelle Firmware-Version der Fr
 
 ![990](https://user-images.githubusercontent.com/99875491/178981706-bc0b0d42-3db4-447f-9331-78639f1ccf97.png)
 
-Die Firmware-Version muss 7.20 oder größer sein, damit die veschlüsselte Übertragung unterstützt wird. <br>
-Ohne verschlüsselte Übertragung wird der Anschluss nicht funktionieren. <br>
+Die Firmware-Version muss 7.20 oder größer sein, damit die veschlüsselte Übertragung unterstützt wird. Ohne verschlüsselte Übertragung wird der Anschluss **nicht funktionieren.** <br>
 
 ### Eigene Rufnummern
 
