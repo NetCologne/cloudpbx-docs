@@ -48,6 +48,7 @@ Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme bei
 Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertragen. Damit dies funktioniert, setze Sie bitte das Häkchen bei "Der Anbieter unterstützt verschlüsselte Telefonie..." und wählen unter *Media Protocol* "RTP/SAVP" aus : <br>
 
 ![1010_3_2](https://user-images.githubusercontent.com/99875491/178978575-cfbd4553-8f5d-4c3b-be32-d6513e27d44b.png)
+
 Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten und wählen "weiter". <br>
 
 ![1010_4](https://user-images.githubusercontent.com/99875491/178978819-51ed6ada-8f4f-447a-b747-09ddbf0eeff2.png)
@@ -61,6 +62,7 @@ Wählen Sie im FritzBox-Menue den Punkt "Telefoniegeräte". Nun konfigurieren Si
 Hier ist beispielhaft die Einrichtung einer Nebenstelle auf einem der analogen Ports der FritzBox dargestellt: <br>
 
 ![1020_1](https://user-images.githubusercontent.com/99875491/178979352-f70e296d-3276-4f4c-99e5-1901b4213e98.png)
+
 Zum Abschluss der Konfiguration sollten Sie noch prüfen, ob sich Ihre Cloud-PBX-Nebenstelle ordnungsgemäß am NetCologne-Netz registriert hat.
 Dazu rufen Sie die folgende Übersicht auf: <br>
 
