@@ -8,11 +8,11 @@ weight: 506
 toc: true
 ---
 
-Mit der Fritzbox können Sie bis zu 20 NetCologne Rufnummern einrichten und mit analogen (DECT)-Telefonen telefonieren. Wir zeigen Ihnen nun Step by Step, wie Sie Ihre NetCologne Cloud PBX mit der Fritzbox verbinden und dadurch auch analoge Telefone mit der virtuellen Telefonanlage einsetzen. 
+Mit der Fritzbox können Sie mehrere Rufnummern einrichten und mit analogen (DECT)-Telefonen telefonieren. Am Modell 7490 zeigen wir schrittweise, wie Sie Ihre Fritzbox mit der NetCologne Cloud PBX verbinden und analoge Telefone mit der virtuellen Telefonanlage einsetzen können. 
 
-## FritzBox 7490 ( beispielhaft )
+## Einrichtung 7490 (stellvertretend für FritzBox)
 
-Schließen Sie zuallererst Ihre FritzBox am Stromnetz und an Ihren DSL-Anschluß an. Verbinden Sie dann das Gerät mit einem analogen Telefon via der Phone-Buchse. Zum Konfigurieren der Rufnummer(n) auf der FritzBox verbinden Sie dann Ihren PC / Notebook mit der FritzBox ( zB. Buchse "LAN1" )
+Schließen Sie zuallererst Ihre FritzBox am Stromnetz und an Ihren DSL-Anschluß an. Verbinden Sie dann das Gerät mit einem analogen Telefon via der Phone-Buchse. Zum Konfigurieren der Rufnummer(n) auf der FritzBox verbinden Sie dann Ihren PC/Notebook mit der FritzBox (z.B. Buchse "LAN1").
 Starten Sie einen Browswer Ihrer Wahl und geben als URL "fritz.box" ein. Sie gelangen auf die GUI der FritzBox. 
 Vergewissern Sie sich bitte zunächst über die aktuelle Firmware-Version der FritBox. Sie ist in der Übersicht hier zu finden:
 
@@ -20,7 +20,9 @@ Vergewissern Sie sich bitte zunächst über die aktuelle Firmware-Version der Fr
 
 Die Firmware-Version muss 7.20 oder größer sein, damit die veschlüsselte Übertragung unterstützt wird. Ohne verschlüsselte Übertragung wird der Anschluss nicht funktionieren. 
 
-Wählen Sie im Anschluss hier den Punkt Telefonie/ Eigene Rufnummern aus:
+### Eigene Rufnummer einrichten
+
+Wählen Sie im Menue Telefonie den Unterpunkt Eigene Rufnummern aus:
 ![1000](https://user-images.githubusercontent.com/99875491/178975443-51f51fa3-9a63-4517-8e7e-aa5d19abc41f.png)
 Wählen Sie unter Punkt "Neue Rufnummer" die folgende Option aus:
 ![1005](https://user-images.githubusercontent.com/99875491/178976078-84ff1609-27be-4159-9e8d-d57f14e43ae7.png)
