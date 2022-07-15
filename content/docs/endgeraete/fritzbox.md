@@ -32,8 +32,7 @@ Wählen Sie im Menue "Telefonie" den Unterpunkt "Eigene Rufnummern" aus: <br>
 Wählen Sie unter Punkt "Neue Rufnummer" die folgende Option aus: <br>
 
 ![1005](https://user-images.githubusercontent.com/99875491/178976078-84ff1609-27be-4159-9e8d-d57f14e43ae7.png)
-
-Tragen Sie im Anschluss Ihre Rufnummern wie folgt ein (Rufnummer für die Anmeldung: komplette Nummer/Interne Nummer in der FritzBox: die Nebenstelle) <br>
+Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" die komplette Nummer und bei "Interne Rufnummer in der FritzBox**" die Nebenstelle ein. <br>
 
 ![1010_1](https://user-images.githubusercontent.com/99875491/178977016-6899a8bc-4782-45c8-9a16-00f7c75e9203.png)
 
