@@ -23,7 +23,7 @@ Vergewissern Sie sich bitte zunächst über die aktuelle Firmware-Version der Fr
 Die Firmware-Version muss 7.20 oder größer sein, damit die veschlüsselte Übertragung unterstützt wird. <br>
 Ohne verschlüsselte Übertragung wird der Anschluss nicht funktionieren. <br>
 
-### Eigene Rufnummer einrichten
+### Eigene Rufnummern
 
 Wählen Sie im Menue "Telefonie" den Unterpunkt "Eigene Rufnummern" aus: <br>
 
