@@ -36,7 +36,7 @@ Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" die komp
 
 ![1010_1](https://user-images.githubusercontent.com/99875491/178977016-6899a8bc-4782-45c8-9a16-00f7c75e9203.png)
 
-Unter Zugangsdaten werden Benutzername/Kennwort eingetragen und die Domänen für Registrar und Proxy, wie sie Ihnen von NetCologne mitgeteilt wurden. <br>
+Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihnen von NetCologne mitgeteilt wurden. Gleiches gilt für die Domänen bei *Registrar* und *Proxy-Server*. <br>
 
 ![1010_2](https://user-images.githubusercontent.com/99875491/178977473-990e91bf-118a-4f64-a5a9-940bcac49fbf.png)
 
