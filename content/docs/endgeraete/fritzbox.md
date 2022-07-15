@@ -38,7 +38,8 @@ Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" die komp
 
 Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihnen von NetCologne mitgeteilt wurden. Gleiches gilt für die Domänen bei *Registrar* und *Proxy-Server*. <br>
 
-![1010_2](https://user-images.githubusercontent.com/99875491/178977473-990e91bf-118a-4f64-a5a9-940bcac49fbf.png)
+![Zugangsdaten](https://user-images.githubusercontent.com/98753538/179159885-5013b8ab-69a6-4352-a670-d2d94972e3d5.jpg)
+
 Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt *Transportprotokoll*. Hier wählen Sie bitte "UDP" <br>
 
 ![1010_3_1](https://user-images.githubusercontent.com/99875491/178978075-33376f83-b9bb-4c07-aa89-c0fb8167f1c6.png)
@@ -54,13 +55,15 @@ Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten un
 
 Wählen Sie im FritzBox-Menue den Punkt "Telefoniegeräte". Nun konfigurieren Sie ein oder zwei analoge Telefone, welche Sie bereits an die FritzBox angeschlossen haben: <br>
 
-![1020](https://user-images.githubusercontent.com/99875491/178979105-845c1129-5f71-43a7-9c3e-bf82a0585a59.png)
+![Telefoniegeräte](https://user-images.githubusercontent.com/98753538/179159967-b3a54cef-8b88-44ae-9fed-0824e97f7455.jpg)
+
 Hier ist beispielhaft die Einrichtung einer Nebenstelle auf einem der analogen Ports der FritzBox dargestellt: <br>
 
 ![1020_1](https://user-images.githubusercontent.com/99875491/178979352-f70e296d-3276-4f4c-99e5-1901b4213e98.png)
 Zum Abschluss der Konfiguration sollten Sie noch prüfen, ob sich Ihre Cloud-PBX-Nebenstelle ordnungsgemäß am NetCologne-Netz registriert hat.
 Dazu rufen Sie die folgende Übersicht auf: <br>
 
-![1030](https://user-images.githubusercontent.com/99875491/178979653-0e92acac-c143-4b31-8c45-9598e7a87fec.png)
+![Übersicht](https://user-images.githubusercontent.com/98753538/179160026-eb870bf3-d938-4bb2-b0cd-98f7ed04185c.jpg)
+
 Wenn dort unter Telefonie die von Ihnen eingerichteten Rufnummern als "aktiv" dargestellt werden, war die Einrichtung/Registrierung erfolgreich. <br>
 Falls nicht, überprüfen Sie bitte die eingegeben Daten und ändern/korrigieren sie ggf.. <br>
