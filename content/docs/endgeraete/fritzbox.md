@@ -12,7 +12,7 @@ An der Fritzbox können Sie mehrere Rufnummern und analoge (DECT)-Telefone einri
 
 ## Einrichtung 7490 (stellvertretend für FritzBox)
 
-Schließen Sie zuallererst Ihre FritzBox am Stromnetz und an Ihren DSL-Anschluß an. <br>
+Schließen Sie zuallererst Ihre FritzBox ans Stromnetz und an Ihren DSL-Anschluß an. <br>
 Verbinden Sie dann das Gerät mit einem analogen Telefon via der Phone-Buchse. <br>
 Zum Konfigurieren der Rufnummer(n) auf der FritzBox verbinden Sie dann Ihren PC/Notebook mit der FritzBox (z.B. Buchse "LAN1").
 Starten Sie einen Browswer Ihrer Wahl und geben als URL "fritz.box" ein. Sie gelangen auf die GUI der FritzBox. <br>
