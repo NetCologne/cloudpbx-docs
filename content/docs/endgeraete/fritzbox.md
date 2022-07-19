@@ -16,7 +16,7 @@ Schließen Sie zuallererst Ihre FritzBox ans Stromnetz und an Ihren DSL-Anschlu�
 Verbinden Sie dann das Gerät über die Phone-Buchse mit einem analogen Telefon. <br>
 Zum Konfigurieren der Rufnummer(n) auf der FritzBox verbinden Sie dann Ihren PC/Notebook mit der FritzBox (z.B. Buchse "LAN1").
 Starten Sie einen Browswer Ihrer Wahl und geben als URL "fritz.box" ein. Sie gelangen auf die GUI der FritzBox. <br>
-Vergewissern Sie sich bitte zunächst über die aktuelle Firmware-Version der FritBox. Sie ist in der Übersicht hier zu finden: <br>
+Vergewissern Sie sich bitte zunächst über die aktuelle Firmware-Version der FritzBox. Sie ist in der Übersicht hier zu finden: <br>
 
 ![990](https://user-images.githubusercontent.com/99875491/178981706-bc0b0d42-3db4-447f-9331-78639f1ccf97.png)
 
