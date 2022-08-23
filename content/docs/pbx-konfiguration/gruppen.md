@@ -29,5 +29,5 @@ klicken Sie bitte im Punkt “PBX-Konfiguration” auf
 <br>
 **Info/Tipp für die drei vorstehenden Modi:** Wenn bei der letzten Nebenstelle der Gruppe die Klingeldauer überschritten wird, wird standardmäßig ausgelöst. Bei Bedarf kann die Anrufweiterleitung *Call Forward Unavailable* zu einem beliebigen Ziel (Voicemail, benutzerdefinierte Ansage, andere Nebenstelle, Handy, ...) eingerichtet werden. <br>
 Siehe hierzu [Anrufweiterleitung Gruppe](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#b-anrufweiterleitung-gruppe)
-* Paralleles Klingeln - Wenn ein Anruf eingeht, klingelt es bei allen nicht belegten Nebenstellen in der Gruppe gleichzeitig. Der Anruf wird mit dem zuerst entgegengenommenen Telefon verbunden. <br>
+* Paralleles Klingeln - Wenn ein Anruf eingeht, klingelt es bei allen nicht belegten Nebenstellen in der Gruppe gleichzeitig. Der Anruf wird mit dem zuerst entgegengenommenen Telefon verbunden. Der Parameter "Klingeldauer" hat in diesem Fall keine Bedeutung <br>
 Auch hier ist eine Anrufweiterleitung möglich. Dafür ist der Typ *Call Forward Timeout* auszuwählen. Der Timeout, also nach welcher Zeit die Weiterschaltung erfolgt, wird bei Konfiguration der Weiterleitung festgelegt. 
