@@ -12,11 +12,22 @@ Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe autom
 
 ## 1. Einrichtung über das Web-Interface
 
+### a) Anrufweiterleitung Subscriber
+
 Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *Subscriber [2]* und bei der betreffenden Nebenstelle (hier zollstock) auf *Einstellungen [3]*. 
 
 ![Anrufmenue_Aktivierung1](https://user-images.githubusercontent.com/98753538/161692092-8885b079-3d9e-4b35-be48-31ad5b803f99.jpg)
 
-Öffenen Sie nun das Menue *Call-Forwards* (1 im Bild unten) und entscheiden, bei welcher Bedingung die *Anrufweiterleitung* greifen soll. 
+Öffnen Sie nun das Menue *Call-Forwards* (1 im Bild unten) und entscheiden, bei welcher Bedingung die *Anrufweiterleitung* greifen soll. 
+
+### b) Anrufweiterleitung Gruppe
+
+Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *PBX-Gruppen [2]* und bei der betreffenden Gruppe (hier schal-sick) auf *Einstellungen [3]*. 
+
+![Anrufmenue_Aktivierung_Gruppe](https://user-images.githubusercontent.com/98753538/186081568-6a5c2f03-85f0-486b-8ae8-c62b62a73bbc.jpg)
+
+Öffnen Sie nun das Menue *Call-Forwards* (1 im Bild unten) und entscheiden, bei welcher Bedingung die *Anrufweiterleitung* greifen soll. 
+
 
 ### Call Forward Typen
 
