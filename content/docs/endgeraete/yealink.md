@@ -86,13 +86,13 @@ Im Falle eines W56H zB:
 6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
-## Yealink DECT IP Multi-Cell Manager W80DM
+## Yealink DECT IP Multi-Cell DECT-Manager W80DM
 
-Schließen Sie zuallererst Ihren Yealink DECT IP Multi-Cell Manager W80DM und und mindestens eine Yealink DECT IP Basisstation W80B ans Stromnetz und an Ihr Netzwerk an. 
+Schließen Sie zuallererst Ihren Yealink DECT IP Multi-Cell DECT-Manager W80DM und und mindestens eine Yealink DECT IP Basisstation W80B ans Stromnetz und an Ihr Netzwerk an. 
 
 ![W80_Bild](https://user-images.githubusercontent.com/99875491/187176231-eec46598-65d6-40fa-88e6-9edf7a44754c.jpg)
 
-Empfehlung: Sie haben die Möglichkeit, Ihren DECT IP Multi-Cell Manager W80DM automatisch über das NetCologne Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
+Empfehlung: Sie haben die Möglichkeit, Ihren DECT IP Multi-Cell DECT-Manager W80DM automatisch über das NetCologne Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
 
 Hier wird beschrieben, wie Sie das Gerät manuell einrichten können.
 
