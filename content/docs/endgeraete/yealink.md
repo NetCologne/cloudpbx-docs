@@ -144,7 +144,7 @@ Username und Password lauten beide "admin".
 ![Registrierung_Mobilteil_1](https://user-images.githubusercontent.com/99875491/187174225-3fb22c35-71d0-4f35-b7b5-0aaa4c0c7d48.jpeg)
 
 17. Scrollen Sie bis zum Punkt "RTP-Verschlüsselugn (SRTP)" und wählen dort "obligatorisch" aus.
-    Damit wird sichwergestellt, dass ihre Gesprächsdaten/Inhalte verschlüsselt übertragen werden.
+    Damit wird sichergestellt, dass ihre Gesprächsdaten/Inhalte verschlüsselt übertragen werden.
 
 18. Das Mobilteil sollte nun in der Übersicht vorhanden sein. 
     
@@ -155,7 +155,7 @@ Username und Password lauten beide "admin".
 ![Registrierung_Mobilteil_3](https://user-images.githubusercontent.com/99875491/187174266-07776bac-8118-4b96-ad43-23d2529cb98c.jpeg)
 
 20. Tragen Sie unter "IPUI"(International Portable User Identity) die IPUI des Mobilteils ein und klicken Sie auf "Mobilteil registrieren starten"
-    ( Die IPUI Ihres Mobilteils können Sie folgendermaßen ermitteln: Beispiel W53H -> Status / Mobilteil)
+    ( Die IPUI Ihres Mobilteils können Sie folgendermaßen ermitteln: Beispiel W53H -> Menü (OK) / Status / Mobilteil)
 
 21. Starten Sie zeitnah die Mobilteil-Anmeldung ( siehe weiter unten)
 22. Wenn das Mobilteil erfolgreich an der Basisstation angemeldet wurde, erscheint es in der Übersicht:
