@@ -118,10 +118,12 @@ Username und Password lauten beide "admin".
 5. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. 
 6. Unter "Transport" wählen Sie "TLS" aus.
 7. Unter "Ausgehender Proxy-Server 1" trage Sie bitte "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
-8. Falls Sie bisher noch keine Yealink DECT IP Basisstation W80B angeschlossen haben, müssen Sie im nächsten Schritt nachholen.
+8. Falls Sie bisher noch keine Yealink DECT IP Basisstation W80B angeschlossen haben, müssen Sie dies im nächsten Schritt nachholen.
 9. Die angeschlossene(n) Basis-Statione(n) sehen Sie unter Punkt "Registrieren Basis-Station"
-   Registrieren_Basis_Station.jpeg
-10. Klicken Sie hier auf da Verbindungs-Symbol, um die Basis-Station zu registrieren. 
+   
+![Registrieren_Basis_Station](https://user-images.githubusercontent.com/99875491/187176771-82f43a3a-ec23-418e-bb66-d864330141e4.jpeg)
+
+10. Klicken Sie hier auf das Verbindungs-Symbol, um die Basis-Station zu registrieren. 
     Es öffnet sich folgende Maske, in der Sie nichts zu ändern brauchen. Quittieren Sie bitte mit "OK".
 
 ![Registrieren_Basis_Station_1](https://user-images.githubusercontent.com/99875491/187175571-86be43ba-2cac-4351-b5f2-b9a248545ae8.jpeg)
