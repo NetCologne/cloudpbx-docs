@@ -88,12 +88,10 @@ Im Falle eines W56H zB:
 
 ## Yealink DECT IP Multi-Cell Manager W80DM
 
-Schließen Sie zuallererst Ihren Yealink DECT IP Multi-Cell Manager W80DM und und mindestens eine Yealink DECT IP Basisstation W80B Stromnetz und an Ihr Netzwerk an. 
+Schließen Sie zuallererst Ihren Yealink DECT IP Multi-Cell Manager W80DM und und mindestens eine Yealink DECT IP Basisstation W80B ans Stromnetz und an Ihr Netzwerk an. 
 
-W80_Bild.jpg
+
 ![W80_Bild](https://user-images.githubusercontent.com/99875491/187173974-85e4180b-1da8-4551-a8e7-8b757cb3e5d6.jpg)
-
-
 Empfehlung: Sie haben die Möglichkeit, Ihren DECT IP Multi-Cell Manager W80DM automatisch über das NetCologne Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
 
 Hier wird beschrieben, wie Sie das Gerät manuell einrichten können.
@@ -102,7 +100,6 @@ Hier wird beschrieben, wie Sie das Gerät manuell einrichten können.
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
 
-Zugangsdaten.jpeg
 ![Zugangsdaten](https://user-images.githubusercontent.com/99875491/187174035-35fc98f6-af4a-426f-b626-84e45ccef110.jpeg)
 
 Username und Password lauten beide "admin".
@@ -114,10 +111,7 @@ Username und Password lauten beide "admin".
 3. Im ersten Schritt der Einrichtung klicken Sie bitte auf das Bearbeitungs-Symbol rechts in der Tabelle. 
    Es öffnet sich folgende Eingabe-Maske: 
 
-SIP_Server_Einstellungen_1.jpeg
 ![SIP_Server_Einstellungen_1](https://user-images.githubusercontent.com/99875491/187174069-36c4621e-5f1b-49fb-bc6c-cb0e21b92b0f.jpeg)
-
-SIP_Server_Einstellungen_2.jpeg
 ![SIP_Server_Einstellungen_2](https://user-images.githubusercontent.com/99875491/187174090-811d5566-3ac0-46b0-a3b9-fb36b977137f.jpeg)
 
 4. Unter "Name der Vorlage" vergeben Sie bitte eine Bezeichnung Ihrer Wahl.
@@ -129,15 +123,15 @@ SIP_Server_Einstellungen_2.jpeg
    Registrieren_Basis_Station.jpeg
 10. Klicken Sie hier auf da Verbindungs-Symbol, um die Basis-Station zu registrieren. 
     Es öffnet sich folgende Maske, in der Sie nichts zu ändern brauchen. Quittieren Sie bitte mit "OK".
-    Registrieren_Basis_Station_1.jpeg
+
+![Registrieren_Basis_Station_1](https://user-images.githubusercontent.com/99875491/187175571-86be43ba-2cac-4351-b5f2-b9a248545ae8.jpeg)
+
 11. Unter Menüpunkt "Einstellungen Basisstation" können Sie sehen, ob die Registrieung der Basisstation(en) erfolgreich war:
 
-Einstellungen_Basis_Station.jpeg
 ![Einstellungen_Basis_Station](https://user-images.githubusercontent.com/99875491/187174127-c83879bf-7108-44fe-bd64-d62e5236432f.jpeg)
 
 12. Nun können Mobilteile angemeldet werden. Gehen Sie hierzu unter Punkt "Registrierung Mobilteil"
 
-Registrierung_Mobilteil.jpeg
 ![Registrierung_Mobilteil](https://user-images.githubusercontent.com/99875491/187174164-e54650d4-f636-4646-8671-4ffd56cfdbba.jpeg)
 
 13. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Telefon einsetzen.
@@ -145,7 +139,6 @@ Registrierung_Mobilteil.jpeg
 15. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
 16. Klicken Sie dann auf "Erweiterte Einstellungen anzeigen"
 
-Registrierung_Mobilteil_1.jpeg
 ![Registrierung_Mobilteil_1](https://user-images.githubusercontent.com/99875491/187174225-3fb22c35-71d0-4f35-b7b5-0aaa4c0c7d48.jpeg)
 
 17. Scrollen Sie bis zum Punkt "RTP-Verschlüsselugn (SRTP)" und wählen dort "obligatorisch" aus.
@@ -153,12 +146,10 @@ Registrierung_Mobilteil_1.jpeg
 
 18. Das Mobilteil sollte nun in der Übersicht vorhanden sein. 
     
-Registrierung_Mobilteil_2.jpeg
 ![Registrierung_Mobilteil_2](https://user-images.githubusercontent.com/99875491/187174245-8b336160-c308-48df-a170-3a97d932b634.jpeg)
 
 19. Klicken Sie auf das "Bearbeiten-Symbol"
     
-Registrierung_Mobilteil_3.jpeg
 ![Registrierung_Mobilteil_3](https://user-images.githubusercontent.com/99875491/187174266-07776bac-8118-4b96-ad43-23d2529cb98c.jpeg)
 
 20. Tragen Sie unter "IPUI"(International Portable User Identity) die IPUI des Mobilteils ein und klicken Sie auf "Mobilteil registrieren starten"
@@ -167,7 +158,6 @@ Registrierung_Mobilteil_3.jpeg
 21. Starten Sie zeitnah die Mobilteil-Anmeldung ( siehe weiter unten)
 22. Wenn das Mobilteil erfolgreich an der Basisstation angemeldet wurde, erscheint es in der Übersicht:
 
-Registrierung_Mobilteil_4.jpeg
 ![Registrierung_Mobilteil_4](https://user-images.githubusercontent.com/99875491/187174295-ff6f4d6d-177d-4867-be4b-664aa2d2b025.jpeg)
 
 ### Mobilteil anmelden ( Im Falle eines W53H )
