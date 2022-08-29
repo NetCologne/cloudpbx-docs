@@ -132,6 +132,8 @@ Username und Password lauten beide "admin".
 
 ![Einstellungen_Basis_Station](https://user-images.githubusercontent.com/99875491/187174127-c83879bf-7108-44fe-bd64-d62e5236432f.jpeg)
 
+( Falls Sie weitere Basis-Stationen anschliessen möchten, wiederholen Sie die Aktion, wie unter Punkt 10. beschrieben. Es sind ausser dem Anschliessen ans Netzwerk keine weiteren Konfigurationsmaßnahmen notwendig. )
+
 12. Nun können Mobilteile angemeldet werden. Gehen Sie hierzu unter Punkt "Registrierung Mobilteil"
 
 ![Registrierung_Mobilteil](https://user-images.githubusercontent.com/99875491/187174164-e54650d4-f636-4646-8671-4ffd56cfdbba.jpeg)
