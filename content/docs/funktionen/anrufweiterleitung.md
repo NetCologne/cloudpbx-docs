@@ -35,7 +35,7 @@ Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
 
  * *Call Forward Unconditional* - generelle Anrufweiterleitung. Bitte beachten Sie, dass sich "generell" nur auf die *registrierte Nebenstelle* bezieht. Wenn Sie für eine nicht registrierte Nebenstelle eine Anrufweiterleitung wünschen, fügen Sie einfach Call Forward Unavailable (gelb) hinzu. Oder, wenn sie ganz sicher gehen wollen, dass die Anrufweiterlieung immer greift, aktivieren sie beide Weiterleitungstypen.
  * *Call Forward Busy* - Anrufweiterleitung, wenn besetzt
- * *Call Forward Timeout* - Anrufweiterleitung nach eine bestimmten Zeitspanne
+ * *Call Forward Timeout* - Anrufweiterleitung nach einer bestimmten Zeitspanne
   
  ![Anrufmenue_Auswahl Call Fowards2](https://user-images.githubusercontent.com/98753538/161062432-8a60e0e0-83ac-46ff-876a-e1bb67cc1e24.jpg)
 
@@ -56,11 +56,11 @@ Aktuell können Sie zu sieben verschiedene Zielen/Destinationen (1) weiterleiten
 * Custom Announcement - Hier kann auf eine individuelle kundenspezifische Ansage weitergeleitet werden.
 * URI/Number - Weiterleitung zu einer konkreten Rufnummer, die so eingetragen wird, wie man sie wählen würde, d.h. mit "0", fall eine "Amtsholung" erforderlich ist.
 
-Für die Aktivierungn ist das Häkchen bei Enabled (2) erfoderlich. Mit dem SAVE-Button (3) werden die Einstellungen gespeichert. Bei (4) gelangen Sie zum
+Für die Aktivierung ist das Häkchen bei Enabled (2) erfoderlich. Mit dem SAVE-Button (3) werden die Einstellungen gespeichert. Bei (4) gelangen Sie zum
 
 ### Advanced View
 
-und haben folgende zusätzliche Funktionen, im Beispiel für *Call Forward Unconditional*, also eine *generelle Anrufweiterleitung*:
+und haben folgende zusätzliche Funktionen, im Beispiel für *Call Forward Unconditional*, also die *generelle Anrufweiterleitung*:
 
 ![Call Forward Advanced View1](https://user-images.githubusercontent.com/98753538/163390556-2808d31f-c7e3-4ecb-af22-99a27de53e6e.jpg)
 
@@ -111,4 +111,4 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 
 *Call Forward on Not Available:* Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93*Zielrufnummer** - *Deaktivierung durch Wahl von #93*.
 
-Die *Deaktivierung* **aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
+Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
