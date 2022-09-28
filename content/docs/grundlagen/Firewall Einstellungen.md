@@ -14,10 +14,10 @@ Um die Funktion ihrer Cloud-PBX zu gewährleisten müssen folgende Voraussetzung
 
 Folgende Dienste bzw. Ports müssen freigeschaltet sein:
 
-HTTPS
-HTTP
-TCP-Port 1444
-TCP-Port 1445
+HTTPS<br>
+HTTP<br>
+TCP-Port 1444<br>
+TCP-Port 1445<br>
 
 ## Signalisierung
 Die SIP Signalisierung erfolgt verschlüsselt über TLs auf UDP-Port 5061
