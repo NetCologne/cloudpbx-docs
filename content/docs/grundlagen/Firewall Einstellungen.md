@@ -1,3 +1,13 @@
+---
+title: "Berechtigungen"
+date: 2022-01-20T00:11:22+00:00
+menu:
+  docs:
+    parent: "grundlagen"
+weight: 103
+toc: true
+---
+
 Um die Funktion ihrer Cloud-PBX zu gewährleisten müssen folgende Voraussetzungen im lokalen Netz erfüllt sein:
 * Provisionierung der Telefone:
 Folgende Dienste bzw. Ports müssen freigeschaltet sein:
