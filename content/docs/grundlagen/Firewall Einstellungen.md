@@ -10,19 +10,19 @@ toc: true
 
 Um die Funktion ihrer Cloud-PBX zu gewährleisten müssen folgende Voraussetzungen im lokalen Netz erfüllt sein:
 
-## Provisionierung der Telefone:
+### Zur Provisionierung der Telefone:
 
 Folgende Dienste bzw. Ports müssen freigeschaltet sein:
 
-HTTPS<br>
-HTTP<br>
-TCP-Port 1444<br>
-TCP-Port 1445<br>
+* HTTPS<br>
+* HTTP<br>
+* TCP-Port 1444<br>
+' TCP-Port 1445<br>
 
-## Signalisierung
-Die SIP Signalisierung erfolgt verschlüsselt über TLs auf UDP-Port 5061
-Die Mobile APP verwendet zusätzlich XMPP. Zu Nutzung mus der TCP Port 5222 frei gegeben werden
+### Für die Signalisierung
+* Die SIP Signalisierung erfolgt verschlüsselt über TLs auf **UDP-Port 5061**
+* Die Mobile APP verwendet zusätzlich XMPP. Zu Nutzung mus der **TCP Port 5222** frei gegeben werden
 
-### Audio
+#### Für die Übertragung der Sprachdaten
 Die Übertragung der Audio Daten erfolgt verschlüsselt per SRTP.
-Dazu müssen die UDP Ports zwischen 10000 und 50000 freigegeben werden
+Dazu müssen die **UDP Ports zwischen 10000 und 50000** freigegeben werden
