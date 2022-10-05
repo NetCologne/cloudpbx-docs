@@ -70,12 +70,15 @@ Zur Erinnerung: Wenn Sie als Administrator angemeldet sind, steht Ihnen der (zus
 Ist die entsprechende Ansage bereits vorhanden, können Sie diese herunterladen, löschen oder mit dem Button „Edit“ eine neue laden.
 
 ### b.)	Tastatur des Endgerätes
-Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie . . .
+Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie . . . <br>
+
 *	. . . die '1', für alte/neue Nachrichten.“  <br>
-  o	„Für erweiterte Optionen '3' drücken.“  <br>
-      >. . . die '3' um die Tonmitteilung Nachrichten zu hören.“  <br>
-      >. . . die '*' um ins Hauptmenü zu kommen.“  <br>
-  o	. . . die '4', um zur vorherigen Nachricht zu gelangen.“  <br>
+  *	„Für erweiterte Optionen '3' drücken.“  <br>
+      o. . . die '3' um die Tonmitteilung Nachrichten zu hören.“  <br>
+      o . . die '*' um ins Hauptmenü zu kommen.“  <br>
+  *	. . . die '4', um zur vorherigen Nachricht zu gelangen.“  <br>
+  
+  
   o	. . . die '5', um die aktuelle Nachricht wiederholen.“  <br>
   o	. . . die '6', um die nächste Nachricht abzuspielen.“  <br>
   o	. . . die '7', um die aktuelle Nachricht zu löschen.“  <br>
