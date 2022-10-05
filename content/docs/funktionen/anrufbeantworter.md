@@ -73,8 +73,8 @@ Ist die entsprechende Ansage bereits vorhanden, können Sie diese herunterladen,
 Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie . . .
 *	. . . die '1', für alte/neue Nachrichten.“  <br>
   o	„Für erweiterte Optionen '3' drücken.“  <br>
- 	  . . . die '3' um die Tonmitteilung Nachrichten zu hören.“  <br>
-    	. . . die '*' um ins Hauptmenü zu kommen.“  <br>
+ 	  *. . . die '3' um die Tonmitteilung Nachrichten zu hören.“  <br>
+    *	. . . die '*' um ins Hauptmenü zu kommen.“  <br>
   o	. . . die '4', um zur vorherigen Nachricht zu gelangen.“  <br>
   o	. . . die '5', um die aktuelle Nachricht wiederholen.“  <br>
   o	. . . die '6', um die nächste Nachricht abzuspielen.“  <br>
