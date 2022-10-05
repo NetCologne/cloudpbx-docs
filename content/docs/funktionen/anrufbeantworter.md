@@ -71,7 +71,7 @@ Ist die entsprechende Ansage bereits vorhanden, können Sie diese herunterladen,
 
 ### b.)	Tastatur des Endgerätes
 Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie . . .
-•	. . . die '1', für alte/neue Nachrichten.“  <br>
+*	. . . die '1', für alte/neue Nachrichten.“  <br>
   o	„Für erweiterte Optionen '3' drücken.“  <br>
  	  . . . die '3' um die Tonmitteilung Nachrichten zu hören.“  <br>
     	. . . die '*' um ins Hauptmenü zu kommen.“  <br>
@@ -86,16 +86,16 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
     	'3', für: Familien-Nachrichten.  <br>
     	'4', für: Freunde-Nachrichten.  <br>
     	'#', um abzubrechen.  <br>
-•	. . . die '2', wenn Sie den Ordner wechseln wollen.“  <br>
+* . . . die '2', wenn Sie den Ordner wechseln wollen.“  <br>
   o	'0' für: Neue Nachrichten.“  <br>
   o	'1' für: Alte Nachrichten.“  <br>
   o	'2' für: Arbeits-Nachrichten.“  <br>
   o	'3' für: Familien-Nachrichten.“  <br>
   o	'4' für: Freunde-Nachrichten.“  <br>
   o	'#', um abzubrechen.“  <br>
-•	. . . die '3', um zu den erweiterten Optionen zu gelangen.“  <br>
+*	. . . die '3', um zu den erweiterten Optionen zu gelangen.“  <br>
   o	'*', um zum Hauptmenü zurückzukehren.“  <br>
-•	. . . die '0', um zu den Mailboxoptionen zu gelangen.“  <br>
+* . . . die '0', um zu den Mailboxoptionen zu gelangen.“  <br>
   o	'1' Zeichnen Sie Ihre Nicht-verfügbar-Nachricht auf  <br>
     	'1' akzeptieren  <br>
     	'2' Hören Sie es sich an  <br>
@@ -114,5 +114,5 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
     	'3' Neu aufnehmen  <br>
   o	'5' Ändern Sie Ihr Passwort  <br>
   o	'*' Um zum Hauptmenü zurückzukehren  <br>
-•	. . . die '*'-Taste, wenn Sie Hilfe wünschen.“  <br>
-•	. . . die '#'-Taste, um das System zu verlassen.“  <br>
+* . . . die '*'-Taste, wenn Sie Hilfe wünschen.“  <br>
+* . . . die '#'-Taste, um das System zu verlassen.“  <br>
