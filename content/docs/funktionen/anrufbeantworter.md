@@ -97,23 +97,23 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
 *	...die '3', um zu den erweiterten Optionen zu gelangen.“ <br>
     *	'\*', um zum Hauptmenü zurückzukehren.“ <br>
 *	...die '0', um zu den Mailboxoptionen zu gelangen.“ <br>
-    *	'1' Zeichnen Sie Ihre Nicht-verfügbar-Nachricht auf. <br>
-        * '1' akzeptieren <br>
+    *	'1', wenn Sie Ihre Abwesenheitsansage aufzeichnen wollen." <br>
+        * '1' Akzeptieren <br>
         * '2' Hören Sie es sich an <br>
         * '3' Neu aufnehmen <br>
-    * '2' Nehmen Sie Ihre Besetztnachricht auf. <br>
-        *	'1' akzeptieren <br>
+    * '2', um Ihre Besetztansage aufzuzeichnen." <br>
+        *	'1' Akzeptieren <br>
         *	'2' Hören Sie es sich an <br>
         *	'3' Neu aufnehmen <br>
-    * '3' Zeichnen Sie Ihren Namen auf. <br>
-        *	'1' akzeptieren <br>
+    * '3', um Ihren Namen aufzuzeichnen." <br>
+        *	'1' Akzeptieren <br>
         *	'2' Hören Sie es sich an <br>
         * '3' Neu aufnehmen <br>
-    * '4' Zeichnen Sie Ihre temporären Begrüßungen auf. <br>
-        * '1' akzeptiere es / oder nehme die Ansage neu auf, falls es bereits eine gibt. <br>
+    * '4', wenn Sie Ihre temporäre Ansage aufnehmen wollen." <br>
+        * '1' Akzeptiere es / oder nehme die Ansage neu auf, falls es bereits eine gibt. <br>
         * '2' Anhören / oder löschen, falls schon vorhanden <br>
         * '3' Neu aufnehmen <br>
-    * '5' Ändern Sie Ihr Passwort. <br>
-    * '\*', um zum Hauptmenü zurückzukehren. <br>
+    * '5', wenn Sie Ihr Passwort ändern wollen." <br>
+    * ... mit der '\*'-Taste kehren Sie zurück ins Hauptmenü." <br>
 * ... die '\*'-Taste, wenn Sie Hilfe wünschen.“ <br>
 * ... die '#'-Taste, um das System zu verlassen.“ <br>
