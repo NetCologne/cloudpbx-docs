@@ -69,3 +69,50 @@ Zur Erinnerung: Wenn Sie als Administrator angemeldet sind, steht Ihnen der (zus
 
 Ist die entsprechende Ansage bereits vorhanden, können Sie diese herunterladen, löschen oder mit dem Button „Edit“ eine neue laden.
 
+### b.)	Tastatur des Endgerätes
+Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie . . .
+•	. . . die '1', für alte/neue Nachrichten.“
+o	„Für erweiterte Optionen '3' drücken.“
+	. . . die '3' um die Tonmitteilung Nachrichten zu hören.“
+	. . . die '*' um ins Hauptmenü zu kommen.“
+o	. . . die '4', um zur vorherigen Nachricht zu gelangen.“
+o	. . . die '5', um die aktuelle Nachricht wiederholen.“
+o	. . . die '6', um die nächste Nachricht abzuspielen.“
+o	. . . die '7', um die aktuelle Nachricht zu löschen.“
+o	'9', um diese Nachricht in einem Ordner zu speichern und 
+	'0', für: Neue Nachrichten.
+	'1', für: Alte Nachrichten.
+	'2', für: Arbeits-Nachrichten.
+	'3', für: Familien-Nachrichten.
+	'4', für: Freunde-Nachrichten.
+	'#', um abzubrechen.
+•	. . . die '2', wenn Sie den Ordner wechseln wollen.“
+o	'0' für: Neue Nachrichten.“
+o	'1' für: Alte Nachrichten.“
+o	'2' für: Arbeits-Nachrichten.“
+o	'3' für: Familien-Nachrichten.“
+o	'4' für: Freunde-Nachrichten.“
+o	'#', um abzubrechen.“
+•	. . . die '3', um zu den erweiterten Optionen zu gelangen.“
+o	'*', um zum Hauptmenü zurückzukehren.“
+•	. . . die '0', um zu den Mailboxoptionen zu gelangen.“
+o	'1' Zeichnen Sie Ihre Nicht-verfügbar-Nachricht auf
+	'1' akzeptieren
+	'2' Hören Sie es sich an
+	'3' Neu aufnehmen
+o	'2' Nehmen Sie Ihre Besetztnachricht auf
+	'1' akzeptieren
+	'2' Hören Sie es sich an
+	'3' Neu aufnehmen
+o	'3' Zeichnen Sie Ihren Namen auf
+	'1' akzeptieren
+	'2' Hören Sie es sich an
+	'3' Neu aufnehmen
+o	'4' Zeichnen Sie Ihre temporären Begrüßungen auf
+	'1' akzeptiere es / oder nehme die Ansage neu auf, falls es bereits eine gibt
+	'2' Anhören / oder löschen, falls schon vorhanden
+	'3' Neu aufnehmen
+o	'5' Ändern Sie Ihr Passwort
+o	'*' Um zum Hauptmenü zurückzukehren
+•	. . . die '*'-Taste, wenn Sie Hilfe wünschen.“
+•	. . . die '#'-Taste, um das System zu verlassen.“
