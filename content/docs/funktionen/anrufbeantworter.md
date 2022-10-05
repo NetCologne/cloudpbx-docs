@@ -122,24 +122,27 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
 
 ### a.)	Web-Interface
 Klicken Sie zunächst auf den Menüpunkt Kunden-Details, dann auf Subscriber und bei der betreffenden Nebenstelle oder Gruppe auf Einstellungen. Öffnen Sie nun das Menü Call-Forwards und entscheiden, bei welcher Bedingung die Anrufweiterleitung greifen soll: <br>
-•	Call Forward Unconditional - generelle Anrufweiterleitung. <br>
-•	Call Forward Busy - Anrufweiterleitung, wenn besetzt <br>
-•	Call Forward Timeout - Anrufweiterleitung nach einer bestimmten Zeitspanne <br>
-•	Call Forward Unavailable kommt zum Tragen, falls die Nebenstelle nicht registriert/erreichbar ist. <br>
-Siehe hierzu auch Anrufweiterleitung - NetCologne Cloud PBX <br>
+
+•	**Call Forward Unconditional** - generelle Anrufweiterleitung. <br>
+•	**Call Forward Busy** - Anrufweiterleitung, wenn besetzt <br>
+•	**Call Forward Timeout** - Anrufweiterleitung nach einer bestimmten Zeitspanne <br>
+•	**Call Forward Unavailable** kommt zum Tragen, falls die Nebenstelle nicht registriert/erreichbar ist. <br>
+
+Siehe hierzu auch [Anrufweiterleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/). <br>
+
 Nachdem Sie beim gewünschten Call-Forward-Typ auf den Button „Edit“ geklickt haben, können Sie die Destination „Voicemail“ (1) auswählen, mit einem Häkchen bei Enabled (2) aktivieren und mit dem SAVE-Button (3) speichern. <br>
 
 ![Call Forward Destinations1](https://user-images.githubusercontent.com/98753538/194002770-555766ee-23b6-48c4-81be-fdba5d7bb730.jpg)
 
-Bei (4) gelangen Sie zum Anrufweiterleitung - NetCologne Cloud PBX  <br>
+Bei (4) gelangen Sie zum [Advanced View](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view). <br>
 
 ### b.)	Endgerät/Telefon
 Die einzelnen Call Forward Typen können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden, wobei die Zielrufnummer in diesem Fall die Kennung der Voicemail - also die 2000 - ist. <br>
-Call Forward Unconditional: Einrichtung der Rufumleitung durch Wahl von \*72\*2000 – Deaktivierung durch Wahl von #72. <br>
-Call Forward on Busy: Einrichtung der Rufumleitung bei Besetzt durch Wahl von \*90\*2000 – Deaktivierung durch Wahl von #90. <br>
-Call Forward on Timeout: Einrichtung der Rufumleitung nach Zeit durch Wahl von \*92\*30\*2000 (hier also nach 30 Sekunden) – Deaktivierung durch Wahl von #92. <br>
-Call Forward on Not Available: Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von \*93\*2000 - Deaktivierung durch Wahl von #93. <br>
-Die Deaktivierung aller eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code #96. <br>
+Call Forward Unconditional: Einrichtung der Rufumleitung durch Wahl von **\*72\*2000** – Deaktivierung durch Wahl von **#72**. <br>
+Call Forward on Busy: Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90\*2000** – Deaktivierung durch Wahl von **#90**. <br>
+Call Forward on Timeout: Einrichtung der Rufumleitung nach Zeit durch Wahl von **\*92\*30\*2000** (hier also nach 30 Sekunden) – Deaktivierung durch Wahl von **#92**. <br>
+Call Forward on Not Available: Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93\*2000** - Deaktivierung durch Wahl von **#93**. <br>
+Die Deaktivierung aller eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**. <br>
 
 
 
