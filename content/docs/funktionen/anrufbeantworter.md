@@ -144,5 +144,43 @@ Call Forward on Timeout: Einrichtung der Rufumleitung nach Zeit durch Wahl von *
 Call Forward on Not Available: Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93\*2000** - Deaktivierung durch Wahl von **#93**. <br>
 Die Deaktivierung aller eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**. <br>
 
+## 4.	Information über neue Nachrichten
 
+Hat Ihnen jemand eine/mehrere Nachricht/en hinterlassen, bekommen Sie das auf zwei Wegen mitgeteilt:
 
+### a)	Per Message Waiting Indikator am Telefon (siehe Pfeil) 
+
+![Message Waiting Indicator](https://user-images.githubusercontent.com/98753538/194004796-a936a162-93b4-46e6-bba2-8045073749a2.png)
+
+### b)	Benachrichtigung per E-Mail
+Falls Sie dies wünschen, tragen Sie in den Subscriber-Einstellungen Ihre E-Mail-Adresse ein:
+
+![Edit EMail](https://user-images.githubusercontent.com/98753538/194005083-c98072cb-b209-403e-8e0a-9372faae74de.jpg)
+
+Hinterlässt ein Anrufer eine Nachricht, erhalten sie anschließend eine solche E-Mail:
+
+![Message Mail](https://user-images.githubusercontent.com/98753538/194005152-ad047f85-3613-4b73-9bfd-14a324d37b53.jpg)
+
+## 5.	Abhören der Nachrichten
+
+Zum Abhören der Nachrichten stehen Ihnen mehrere Möglichkeiten zur Verfügung:
+
+### a) Am Telefon 
+durch Wahl der 2000  oder Drücken der Message-Taste. Bei Yealink sieht diese so aus:
+
+![Message Key](https://user-images.githubusercontent.com/98753538/194005319-d83c8153-b424-42ff-ac2e-cceb59430095.jpg)
+
+Folgen Sie anschließend dem Menü und "Drücken Sie . . . die '1', für alte/neue Nachrichten."
+
+### b) Per WAV-Datei, aus der E-Mail. 
+
+![Message Mail with Attachement](https://user-images.githubusercontent.com/98753538/194005654-d0bb0ba9-09c2-400a-a544-ffe0f21db838.jpg)
+
+Voraussetzung dafür ist, dass Sie zuvor bei den Einstellungen nicht nur Ihre E-Mail-Adresse eingetragen sondern auch den Unterpunkt „Attach WAV in Email“ per Häkchen aktiviert haben (= yes):
+
+![Edit EMail Attachement](https://user-images.githubusercontent.com/98753538/194005789-460c79bf-f655-428b-b688-45312204d5e2.jpg)
+
+### c) In der GUI 
+unter „Konversationen“ beim Punkt „Sprachnachrichten“ durch Klicken der Taste „Play“ (Pfeil): 
+
+![Message2](https://user-images.githubusercontent.com/98753538/194005901-19b9b576-4b01-44c1-9afc-69f8fadc88b5.jpg)
