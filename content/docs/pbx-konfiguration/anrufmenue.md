@@ -36,7 +36,7 @@ Das Anrufmenue wird mittels *Call-Forward-Funktion* aktiviert. Klicken Sie dafü
 Öffenen Sie nun das Menue *Call-Forwards* und entscheiden, unter welchen Bedingungen das Anrufmenue erreicht werden soll. Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
 
  * **Call Forward Unconditional** - generelle Anrufweiterleitung - dies wird der **Normalfall** sein <br>
- Bedingte Weiterleitungen zum Anrufmenü können sinnvoll sein, wenn z. B. Nichterreichbarkeit einer Nebenstelle dem Anrufer witere mögliche Ziele angeboten werden sollen <br>
+ Bedingte Weiterleitungen zum Anrufmenü können sinnvoll sein, wenn z. B. bei Nichterreichbarkeit einer Nebenstelle dem Anrufer weitere mögliche Ziele angeboten werden sollen <br>
  **Vorsicht:** Im Zusammenspiel mit **Warteschlangen** kann die bedingte Aktivierung des Anrufmenues zu unerwünschten Ergebnissen führen 
  * *Call Forward Busy* - Anrufweiterleitung, wenn besetzt
  * *Call Forward Timeout* - Anrufweiterleitung nach eine bestimmten Zeitspanne
