@@ -172,7 +172,7 @@ durch Wahl der 2000  oder Drücken der Message-Taste. Bei Yealink sieht diese so
 
 Folgen Sie anschließend dem Menü und "Drücken Sie . . . die '1', für alte/neue Nachrichten."
 
-### b) Per WAV-Datei, aus der E-Mail. 
+### b) Per WAV-Datei aus der E-Mail. 
 
 ![Message Mail with Attachement](https://user-images.githubusercontent.com/98753538/194005654-d0bb0ba9-09c2-400a-a544-ffe0f21db838.jpg)
 
