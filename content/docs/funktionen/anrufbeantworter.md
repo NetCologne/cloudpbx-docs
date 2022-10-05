@@ -13,15 +13,15 @@ Um die Erreichbarkeit zu erhöhen, kann jede Nebenstelle oder Gruppe Ihrer Cloud
 ## 1.	Informationen zu Sprachnachrichten und Ordnern
 Mit einer Sprachnachricht kann dem Anrufer zu einen mitgeteilt werden, dass sein Anruf nicht persönlich entgegengenommen wird. Zum anderen können Sie ihm weiterführende Informationen zukommen lassen, wie z. B. wann Sie wieder verfügbar sind, wie er Sie per E-Mail kontaktieren kann oder wie er zusätzliche Unterstützung erhält. Dabei wird unterschieden: <br>
 
-### 1.1	Nicht-verfügbar-Nachricht (Abwesenheitsansage)
+### a) Nicht-verfügbar-Nachricht (Abwesenheitsansage)
 Die „Nicht verfügbar-Nachricht“ ist die Standard-Begrüßung. Sie wird verwendet, wenn Sie den Anruf nicht entgegennehmen und der Anruf an Ihre Voicemail weitergeleitet wird. Wenn Sie nichts aufgezeichnet haben, spielt das Telefonsystem die gewählten Ziffern (des Anschlusses) mit dem Zusatz „ist nicht verfügbar“ ab.
 Wenn Sie statt der „Nicht-verfügbar-Nachricht“ zur Begrüßung Ihren Namen, z.B. „Peter Schneider“ aufgezeichnet haben, gibt das System die Nachricht „Peter Schneider ist nicht verfügbar“ wieder. <br>
 
-### 1.2	Besetzt-Nachricht
+### b) Besetzt-Nachricht
 Wenn Sie möchten, können Sie eine benutzerdefinierte Besetzt-Begrüßung aufzeichnen. Diese wird verwendet, wenn jemand Sie anruft und Sie gerade telefonieren. Wenn Sie nichts aufgezeichnet haben, gibt das System die gewählten Ziffern (des Anschlusses) mit dem Zusatz „ist besetzt“ wieder.
 Wenn Sie statt der „Besetzt-Begrüßung“ Ihren Namen, z.B. „Petra Schmitz“ aufgezeichnet haben, spielt das System diese Nachricht ab: „Petra Schneider ist besetzt.“ <br>
 
-### 1.3	Vorübergehende Begrüßung
+### c) Vorübergehende Begrüßung
 Sie können auch eine temporäre Begrüßung aufzeichnen. Wenn diese vorhanden ist, wird sie anstelle Ihrer „Nicht-verfügbar- oder Besetzt-Begrüßung“ abgespielt. Dies kann zum Beispiel genutzt werden, wenn Sie in Urlaub fahren oder für eine Weile nicht im Büro sind und Anrufer informieren möchten, dass Sie in absehbarer Zeit nicht mit einem Rückruf rechnen können. <br>
 
 Mit dem Voicemail-System können Sie Ihre Nachrichten speichern und in Ordnern organisieren. Die Standard-Ordnerliste umfasst:
