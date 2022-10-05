@@ -35,3 +35,37 @@ Mit dem Voicemail-System können Sie Ihre Nachrichten speichern und in Ordnern o
 Wenn ein Anrufer eine Nachricht für Sie hinterlässt, legt das System die Nachricht im Ordner „Neue Nachrichten“ ab. Wenn Sie die Nachricht abhören, aber die Nachricht nicht löschen oder in einem anderen Ordner speichern, wird die Nachricht automatisch in den Ordner „Alte Nachrichten“ verschoben. <br>
 Wenn Sie sich zum ersten Mal bei Ihrer Mailbox anmelden, macht das Voicemail-System den Ordner „Neue Nachrichten“ zum aktuellen Ordner, wenn Sie neue Nachrichten haben. <br>
 Wenn Sie keine neuen Nachrichten haben, wird der Ordner „Alte Nachrichten“ zum aktuellen Ordner. <br>
+
+## 2.	Individualisierung der Voicemail
+
+Für das Customizing gibt es zwei Möglichkeiten.
+
+### a.)	Administration über das Web-Interface
+Klicken Sie zunächst auf den Menüpunkt Kunden-Details, dann auf Subscriber und bei der betreffenden Nebenstelle oder Gruppe auf Einstellungen. Öffnen Sie nun das Menü „Voicemail and Voicebox“:
+
+![Voicemail and Voicebox 1](https://user-images.githubusercontent.com/98753538/193989352-c4110eb4-41b1-4817-bf1f-8af67b5287f5.jpg)
+
+Mit Hilfe der Schaltfläche „Edit“ (in der letzten Spalte, s. Pfeil) können Sie: <br>
+Den PIN ändern (1),  <br>
+Ihre E-Mail-Adresse zur Benachrichtigung hinterlegen (2),  <br>
+die Option zum Löschen (der Nachricht nach E-Mail-Versand) aktivieren (3) und  <br>
+auswählen, dass aufgezeichnete Sprachnachrichten als WAV-Datei an die E-Mail angehängt werden (4).  <br>
+
+Mit den Punkten 5 bis 8 konfigurieren Sie die unterschiedlichen Ansagen, die Anrufer zu hören bekommen: <br>
+„Nicht-verfügbar- oder Abwesenheitsanzeige“ (5), <br>
+Ansage bei „Besetzt“ (6) und  <br>
+die Temporäre Ansage (7). Ist diese konfiguriert, setzt sie die anderen Ansagen außer Kraft. <br>
+Außer dem können Sie Ihren Namen aufsprechen (8). Dann hören ihn Anrufe anstatt Ihrer Telefonnummer. <br>
+
+Zur Erzeugung einer elektronischen Ansage im wav-Format gehen Sie bitte folgendermaßen vor:  <br>
+Suchen Sie im Internet mit "text to speech german kostenlos". Bei den Ergebnissen finden Sie leicht einen (kostenlosen) Text-zu-Sprache-Generator wie z.B. ttsfree, freetts oder ttsmp3. Dort können Sie Ihren gewünschten Ansagetext eingeben, wählen die Sprache und Stimme für die Ausgabe und erzeugen so eine mp3-Datei. Um diese in der Cloud-PBX verwenden zu können, ist noch eine Wandlung ins WAV-Format erforderlich. Entsprechende Konverter sind im Internet mit "mp3 wav converter" ebenfalls leicht zu finden. Wichtig: In Mono und nach a-Law konvertieren. <br>
+Sie können die elektronischen Ansagen im Menü „Anrufeinstellungen“ unter „Anrufbeantworter“ hochladen und wieder zurücksetzen:  <br>
+
+![Anrufbeantworter2](https://user-images.githubusercontent.com/98753538/193989527-bb699548-7a4c-41aa-a9b2-d5da3c99fdb2.jpg)
+
+Zur Erinnerung: Wenn Sie als Administrator angemeldet sind, steht Ihnen der (zusätzliche) Menüpunkt „Kunden-Details“ zur Verfügung. Auch von hier aus gelangen Sie zu den „Subscribern“ und können dort „Einstellungen“ und den Menüpunkt „Voicemail and Voicebox“ auswählen bzw. öffen:  <br>
+
+![Voicemail Ansagen2](https://user-images.githubusercontent.com/98753538/193989610-cfa67140-24e2-4752-a160-a337a9ff319f.jpg)
+
+Ist die entsprechende Ansage bereits vorhanden, können Sie diese herunterladen, löschen oder mit dem Button „Edit“ eine neue laden.
+
