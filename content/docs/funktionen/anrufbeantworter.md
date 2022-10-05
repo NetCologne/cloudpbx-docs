@@ -135,10 +135,10 @@ Bei (4) gelangen Sie zum Anrufweiterleitung - NetCologne Cloud PBX  <br>
 
 ### b.)	Endgerät/Telefon
 Die einzelnen Call Forward Typen können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden, wobei die Zielrufnummer in diesem Fall die Kennung der Voicemail - also die 2000 - ist. <br>
-Call Forward Unconditional: Einrichtung der Rufumleitung durch Wahl von *72*2000 – Deaktivierung durch Wahl von #72. <br>
-Call Forward on Busy: Einrichtung der Rufumleitung bei Besetzt durch Wahl von *90*2000 – Deaktivierung durch Wahl von #90. <br>
-Call Forward on Timeout: Einrichtung der Rufumleitung nach Zeit durch Wahl von *92*30*2000 (hier also nach 30 Sekunden) – Deaktivierung durch Wahl von #92. <br>
-Call Forward on Not Available: Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von *93*2000 - Deaktivierung durch Wahl von #93. <br>
+Call Forward Unconditional: Einrichtung der Rufumleitung durch Wahl von \*72\*2000 – Deaktivierung durch Wahl von #72. <br>
+Call Forward on Busy: Einrichtung der Rufumleitung bei Besetzt durch Wahl von \*90\*2000 – Deaktivierung durch Wahl von #90. <br>
+Call Forward on Timeout: Einrichtung der Rufumleitung nach Zeit durch Wahl von \*92\*30\*2000 (hier also nach 30 Sekunden) – Deaktivierung durch Wahl von #92. <br>
+Call Forward on Not Available: Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von \*93\*2000 - Deaktivierung durch Wahl von #93. <br>
 Die Deaktivierung aller eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code #96. <br>
 
 
