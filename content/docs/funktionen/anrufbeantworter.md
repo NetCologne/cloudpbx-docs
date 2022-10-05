@@ -70,50 +70,50 @@ Zur Erinnerung: Wenn Sie als Administrator angemeldet sind, steht Ihnen der (zus
 Ist die entsprechende Ansage bereits vorhanden, können Sie diese herunterladen, löschen oder mit dem Button „Edit“ eine neue laden.
 
 ### b.)	Tastatur des Endgerätes
-Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie... br>
+Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie... <br>
 
-*	...die '1', für alte/neue Nachrichten.“ <br>
-    *	„Für erweiterte Optionen '3' drücken.“ <br>
-        * ...die '3' um die Tonmitteilung Nachrichten zu hören.“ <br>
-        * ...die '*' um ins Hauptmenü zu kommen.“ <br>
+*	...die '1' für alte/neue Nachrichten.“ <br>
+    *	„Für erweiterte Optionen" '3' drücken. <br>
+        * ...die '3', um die Tonmitteilung Nachrichten zu hören.“ <br>
+        * ...'*', um ins Hauptmenü zu kommen.“ <br>
     *	...die '4', um zur vorherigen Nachricht zu gelangen.“ <br>
-    *	...die '5', um die aktuelle Nachricht wiederholen.“ <br>
+    *	...die '5', um die aktuelle Nachricht zu wiederholen.“ <br>
     *	...die '6', um die nächste Nachricht abzuspielen.“ <br>
     *	...die '7', um die aktuelle Nachricht zu löschen.“ <br>
     *	'9', um diese Nachricht in einem Ordner zu speichern und <br>
-        * '0', für: Neue Nachrichten. <br>
-        * '1', für: Alte Nachrichten. <br>
-        * '2', für: Arbeits-Nachrichten. <br>
-        * '3', für: Familien-Nachrichten. <br>
-        * '4', für: Freunde-Nachrichten. <br>
+        * '0' für Neue Nachrichten." <br>
+        * '1' für Alte Nachrichten." <br>
+        * '2' für Arbeits-Nachrichten." <br>
+        * '3' für Familien-Nachrichten." <br>
+        * '4' für Freunde-Nachrichten." <br>
         * '#', um abzubrechen. <br>
-* ...die '2', wenn Sie den Ordner wechseln wollen.“ <br>
-    *	'0' für: Neue Nachrichten.“ <br>
-    *	'1' für: Alte Nachrichten.“ <br>
-    *	'2' für: Arbeits-Nachrichten.“ <br>
-    *	'3' für: Familien-Nachrichten.“ <br>
-    *	'4' für: Freunde-Nachrichten.“ <br>
+* ...die '2', wenn Sie den Ordner wechseln wollen und <br>
+    *	'0' für Neue Nachrichten.“ <br>
+    *	'1' für Alte Nachrichten.“ <br>
+    *	'2' für Arbeits-Nachrichten.“ <br>
+    *	'3' für Familien-Nachrichten.“ <br>
+    *	'4' für Freunde-Nachrichten.“ <br>
     *	'#', um abzubrechen.“ <br>
 *	...die '3', um zu den erweiterten Optionen zu gelangen.“ <br>
     *	'\*', um zum Hauptmenü zurückzukehren.“ <br>
 *	...die '0', um zu den Mailboxoptionen zu gelangen.“ <br>
-    *	'1' Zeichnen Sie Ihre Nicht-verfügbar-Nachricht auf <br>
+    *	'1' Zeichnen Sie Ihre Nicht-verfügbar-Nachricht auf. <br>
         * '1' akzeptieren <br>
-    	'2' Hören Sie es sich an <br>
-    	'3' Neu aufnehmen <br>
-  o	'2' Nehmen Sie Ihre Besetztnachricht auf <br>
-    	'1' akzeptieren <br>
-    	'2' Hören Sie es sich an <br>
-    	'3' Neu aufnehmen <br>
-  o	'3' Zeichnen Sie Ihren Namen auf <br>
-    	'1' akzeptieren <br>
-    	'2' Hören Sie es sich an <br>
-    	'3' Neu aufnehmen <br>
-  o	'4' Zeichnen Sie Ihre temporären Begrüßungen auf <br>
-    	'1' akzeptiere es / oder nehme die Ansage neu auf, falls es bereits eine gibt <br>
-    	'2' Anhören / oder löschen, falls schon vorhanden <br>
-    	'3' Neu aufnehmen <br>
-  o	'5' Ändern Sie Ihr Passwort <br>
-  o	'*' Um zum Hauptmenü zurückzukehren <br>
-* . . . die '*'-Taste, wenn Sie Hilfe wünschen.“ <br>
-* . . . die '#'-Taste, um das System zu verlassen.“ <br>
+        * '2' Hören Sie es sich an <br>
+        * '3' Neu aufnehmen <br>
+    * '2' Nehmen Sie Ihre Besetztnachricht auf. <br>
+        *	'1' akzeptieren <br>
+        *	'2' Hören Sie es sich an <br>
+        *	'3' Neu aufnehmen <br>
+    * '3' Zeichnen Sie Ihren Namen auf. <br>
+        *	'1' akzeptieren <br>
+        *	'2' Hören Sie es sich an <br>
+        * '3' Neu aufnehmen <br>
+    * '4' Zeichnen Sie Ihre temporären Begrüßungen auf. <br>
+        * '1' akzeptiere es / oder nehme die Ansage neu auf, falls es bereits eine gibt. <br>
+        * '2' Anhören / oder löschen, falls schon vorhanden <br>
+        * '3' Neu aufnehmen <br>
+    * '5' Ändern Sie Ihr Passwort. <br>
+    * '\*', um zum Hauptmenü zurückzukehren. <br>
+* ... die '\*'-Taste, wenn Sie Hilfe wünschen.“ <br>
+* ... die '#'-Taste, um das System zu verlassen.“ <br>
