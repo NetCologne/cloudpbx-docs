@@ -78,6 +78,29 @@ Im Falle eines W56H zB:
 6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
+Hinweis für Konfigurations-Änderungen nach Erst-Konfiguration:
+Falls im Laufe des Betriebs Änderungen an der Konfiguration der Nebenstellen ( DECT-Mobilteile ) vorgenommen werden sollen ( zB. Löschen und Hinzufügen von Nebenstellen  ( DECT-Mobilteile ) so gehen Sie bitte wie folgt vor:
+
+Um ungewollte Vertauschungen von SIP Usern und Dect Endgeräten zu vermeiden, muss folgendermaßen vorgegangen werden:
+
+1.Schritt: Lückenlose Provisionierung der Nebenstellen im WebInterface der CloudPBX:
+
+![grafik](https://user-images.githubusercontent.com/99875491/196387496-83f9ceaa-3d2c-494d-bb91-a88e9248f777.png)
+
+Das heißt die Ports müssen der Reihe nach belegt werden (hier also 1 – 3)
+
+2.Schritt: Factory Reset des W70B – damit ist sicher gestellt, dass es zu keinen Vertauschungen kommt und in der GUI des W70B sieht das so aus:
+
+![W70_Doku](https://user-images.githubusercontent.com/99875491/196388088-f344b0a3-4892-4f76-b1c3-a02c071a332c.png)
+
+![grafik](https://user-images.githubusercontent.com/99875491/196387806-39d9b8ba-9e75-423d-b8a9-dfed6d76e315.png)
+
+3.Schritt: Registrierung der DECT Telefone über die GUI des W70B
+
+Sollen Nebenstellen ergänzt werden, sollte ein Factory Reset nicht notwendig sein, solange die lückenlose Provisionierung gewährleistet ist.
+
+Wenn in der Web Ansicht des W70B die Diagonale (wie oben zu sehen) unter Eingehende bzw. Ausgehende Leitungen nicht mehr durchgängig ist, ist mindestens ein Factory Reset erforderlich. Die Provisionierung ist vorher auf etwaige Lücken zu prüfen.
+
 ### Yealink W80DM (W80DM-10)
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
 
