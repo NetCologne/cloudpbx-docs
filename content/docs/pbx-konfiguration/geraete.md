@@ -53,7 +53,30 @@ Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprech
 
 ![W70B](https://user-images.githubusercontent.com/99875491/195816281-00e94e06-4e14-4267-93a8-391e5f6d132f.png)
 
-Nach erfolgreicher Nummernzuweisung muss auf der W70B noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station.
+Nach erfolgreicher Nummernzuweisung muss auf der W70B noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station:
+
+### Mobilteil anmelden W56H 
+
+Um ein Mobilteil an der Yealink DECT IP Basisstation W70B anzumelden, gehen Sie bitte wie folgt vor:
+
+![NC_Doku_Mobilteil_Anmelden_1](https://user-images.githubusercontent.com/99875491/169036830-5e5ea5de-a2a6-4c47-a654-16cc1c3d8ffb.jpg)
+
+1. Begeben Sie sich zu dem Menüpunkt "Status".
+2. Wählen Sie nun den Punkt "Handset & Voip" aus.
+3. Mit Klick auf "Mobilteil registrieren starten" wird das Mobilteil an der DECT IP Basisstation angemeldet.
+4. Sie werden nun von der WEB-Site aufgerufen, das Mobilteil zu registrieren.
+" Bitte registrieren Sie Ihr Mobilteil..."
+5. Dazu wählen Sie den Entsprechenden Punkt aus dem Menü Ihres Mobilteils aus.
+
+Im Falle eines W56H zB:
+
+1. OK-Taste
+2. Menue-Punkt "Einstellungen"
+3. Punkt "6.Registrieren"
+4. "Mobilteil registrieren"
+5. Basisstation ersetzen
+6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
+7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
 ### Yealink W80DM (W80DM-10)
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
