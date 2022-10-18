@@ -78,7 +78,8 @@ Im Falle eines W56H zB:
 6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
-Hinweis für Konfigurations-Änderungen nach Erst-Konfiguration:
+### Hinweis für Konfigurations-Änderungen nach Erst-Konfiguration:
+
 Falls im Laufe des Betriebs Änderungen an der Konfiguration der Nebenstellen ( DECT-Mobilteile ) vorgenommen werden sollen ( zB. Löschen und Hinzufügen von Nebenstellen  ( DECT-Mobilteile ) so gehen Sie bitte wie folgt vor:
 
 Um ungewollte Vertauschungen von SIP Usern und Dect Endgeräten zu vermeiden, muss folgendermaßen vorgegangen werden:
