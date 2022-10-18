@@ -85,7 +85,33 @@ Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprech
 
 ![W80DM-10](https://user-images.githubusercontent.com/99875491/195816308-371b8e1b-b56f-436e-b906-fa8d417f5410.png)
 
-Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station.
+Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station:
+
+1. Die Nebenstelle (Mobilteil) sollte nun in der Übersicht vorhanden sein. 
+    
+![Registrierung_Mobilteil_2](https://user-images.githubusercontent.com/99875491/187174245-8b336160-c308-48df-a170-3a97d932b634.jpeg)
+
+2. Klicken Sie auf das "Bearbeiten-Symbol"
+    
+![Registrierung_Mobilteil_3](https://user-images.githubusercontent.com/99875491/187174266-07776bac-8118-4b96-ad43-23d2529cb98c.jpeg)
+
+3. Tragen Sie unter "IPUI"(International Portable User Identity) die IPUI des Mobilteils ein und klicken Sie auf "Mobilteil registrieren starten"
+    ( Die IPUI Ihres Mobilteils können Sie folgendermaßen ermitteln: Beispiel W53H -> Menü (OK) / Status / Mobilteil)
+
+4. Starten Sie zeitnah die Mobilteil-Anmeldung ( siehe weiter unten)
+5. Wenn das Mobilteil erfolgreich an der Basisstation angemeldet wurde, erscheint es in der Übersicht:
+
+![Registrierung_Mobilteil_4](https://user-images.githubusercontent.com/99875491/187174295-ff6f4d6d-177d-4867-be4b-664aa2d2b025.jpeg)
+
+### Mobilteil anmelden ( Im Falle eines W53H )
+
+1. OK-Taste
+2. Menue-Punkt "Einstellungen"
+3. Punkt "6.Registrieren"
+4. "Mobilteil registrieren"
+5. Basisstation ersetzen
+6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
+7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
 ### Yealink W80DM (W80DM-30)
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
@@ -94,7 +120,33 @@ Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprech
 
 ![W80DM-30](https://user-images.githubusercontent.com/99875491/195816325-aee911dd-1490-4dc5-826b-80c3ef8b2c2b.png)
 
-Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station.
+Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station:
+
+1. Die Nebenstelle (Mobilteil) sollte nun in der Übersicht vorhanden sein. 
+    
+![Registrierung_Mobilteil_2](https://user-images.githubusercontent.com/99875491/187174245-8b336160-c308-48df-a170-3a97d932b634.jpeg)
+
+2. Klicken Sie auf das "Bearbeiten-Symbol"
+    
+![Registrierung_Mobilteil_3](https://user-images.githubusercontent.com/99875491/187174266-07776bac-8118-4b96-ad43-23d2529cb98c.jpeg)
+
+3. Tragen Sie unter "IPUI"(International Portable User Identity) die IPUI des Mobilteils ein und klicken Sie auf "Mobilteil registrieren starten"
+    ( Die IPUI Ihres Mobilteils können Sie folgendermaßen ermitteln: Beispiel W53H -> Menü (OK) / Status / Mobilteil)
+
+4. Starten Sie zeitnah die Mobilteil-Anmeldung ( siehe weiter unten)
+5. Wenn das Mobilteil erfolgreich an der Basisstation angemeldet wurde, erscheint es in der Übersicht:
+
+![Registrierung_Mobilteil_4](https://user-images.githubusercontent.com/99875491/187174295-ff6f4d6d-177d-4867-be4b-664aa2d2b025.jpeg)
+
+### Mobilteil anmelden ( Im Falle eines W53H )
+
+1. OK-Taste
+2. Menue-Punkt "Einstellungen"
+3. Punkt "6.Registrieren"
+4. "Mobilteil registrieren"
+5. Basisstation ersetzen
+6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
+7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
 
 *IN VORBEREITUNG: ### Snom M900 DECT-Basisstation*
