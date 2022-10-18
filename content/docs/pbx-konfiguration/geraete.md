@@ -62,7 +62,7 @@ Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprech
 
 ![W80DM-10](https://user-images.githubusercontent.com/99875491/195816308-371b8e1b-b56f-436e-b906-fa8d417f5410.png)
 
-Nach erfolgreicher Nummernzuweisung muss auf der W70B noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station.
+Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station.
 
 ### Yealink W80DM (W80DM-30)
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
@@ -71,7 +71,7 @@ Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprech
 
 ![W80DM-30](https://user-images.githubusercontent.com/99875491/195816325-aee911dd-1490-4dc5-826b-80c3ef8b2c2b.png)
 
-Nach erfolgreicher Nummernzuweisung muss auf der W70B noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station.
+Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station.
 
 
 *IN VORBEREITUNG: ### Snom M900 DECT-Basisstation*
