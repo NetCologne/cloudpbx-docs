@@ -174,9 +174,16 @@ Username und Password lauten beide "admin".
 6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
+## Yealink HD IP Conference Phone CP920
 
+### Zugangsdaten 
 
+### Konfiguration
 
+## Yealink HD IP Conference Phone CP965
 
+### Zugangsdaten 
+
+### Konfiguration
 
 
