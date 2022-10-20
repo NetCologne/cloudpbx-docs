@@ -233,7 +233,7 @@ Username und Password lauten beide "admin".
 7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
 8. Klicken Sie dann auf "Erweitert"
 
-![Erweitert_01](https://user-images.githubusercontent.com/99875491/196955889-275552ca-fb32-4f93-92e9-ecadf756ddeb.jpeg)
+![Erweitert_01](https://user-images.githubusercontent.com/99875491/196958328-97784b09-1f31-4133-8597-a43d2176a731.jpeg)
 
 9. Wählen Sie hier bei "Quelle Anrufer-ID" "PAI-VON"
 10. Wählen Sie hier unter RTP-Verschlüsselung (SRTP) "Obligatorisch" aus.
