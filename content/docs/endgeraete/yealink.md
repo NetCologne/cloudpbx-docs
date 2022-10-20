@@ -178,12 +178,63 @@ Username und Password lauten beide "admin".
 
 ### Zugangsdaten 
 
+Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
+
+![Zugangsdaten_920](https://user-images.githubusercontent.com/99875491/196953811-471560b6-56d5-493a-a66c-d03ed8da342a.jpeg)
+
+Username und Password lauten beide "admin".
+
 ### Konfiguration
+
+1. Begeben Sie sich zu dem Menüpunkt "Konto / Registrieren".
+
+![Registrieren_01](https://user-images.githubusercontent.com/99875491/196954324-f9439e8f-daf1-4663-9800-6cbb4c121351.jpeg)
+
+2. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Konferenz-Telefon einsetzen.
+3. Unter "Registrierterungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
+4. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
+5. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. 
+6. Unter "Transport" wählen Sie "TLS" aus.
+
+![Registrieren_02](https://user-images.githubusercontent.com/99875491/196954926-64741dfd-dca2-4e34-b67d-fd4a29093501.jpeg)
+
+7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
+8. Klicken Sie dann auf "Erweitert"
+
+![Erweitert_01](https://user-images.githubusercontent.com/99875491/196955107-dc81d8bd-f25a-4c39-a8c7-72883ba67dcc.jpeg)
+
+9. Wählen Sie hier bei "Quelle Anrufer-ID" "PAI-VON"
+10. Wählen Sie hier unter RTP-Verschlüsselung (SRTP) "Obligatorisch" aus.
+
 
 ## Yealink HD IP Conference Phone CP965
 
 ### Zugangsdaten 
+Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
+
+![Zugangsdaten_965](https://user-images.githubusercontent.com/99875491/196953845-cfb21eae-19cb-4c3a-b119-d3b6ad7b372b.jpeg)
+
+Username und Password lauten beide "admin".
 
 ### Konfiguration
 
+1. Begeben Sie sich zu dem Menüpunkt "Konto / Registrieren".
+
+![Registrieren_01](https://user-images.githubusercontent.com/99875491/196955829-94f881d3-d807-4789-9560-abf665040611.jpeg)
+
+2. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Konferenz-Telefon einsetzen.
+3. Unter "Registrierterungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
+4. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
+5. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. 
+6. Unter "Transport" wählen Sie "TLS" aus.
+
+![Registrieren_02](https://user-images.githubusercontent.com/99875491/196955857-c6fe9d9a-2ac6-46c4-88fd-60fac5e527ac.jpeg)
+
+7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
+8. Klicken Sie dann auf "Erweitert"
+
+![Erweitert_01](https://user-images.githubusercontent.com/99875491/196955889-275552ca-fb32-4f93-92e9-ecadf756ddeb.jpeg)
+
+9. Wählen Sie hier bei "Quelle Anrufer-ID" "PAI-VON"
+10. Wählen Sie hier unter RTP-Verschlüsselung (SRTP) "Obligatorisch" aus.
 
