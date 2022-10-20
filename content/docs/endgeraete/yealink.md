@@ -186,7 +186,7 @@ Username und Password lauten beide "admin".
 
 ### Konfiguration
 
-1. Begeben Sie sich zu dem Menüpunkt "Konto / Registrieren".
+1. Begeben Sie sich zu dem Menüpunkt "Konto / Registrieren"; Setzen Sie bitte den Leitungsstatus auf "aktiviert", damit sich nach Abschluss der Konfiguration Ihr Konferenztelefon automatisch am NetCologne-Cloud-PBX-Server registriert.
 
 ![Registrieren_01](https://user-images.githubusercontent.com/99875491/196954324-f9439e8f-daf1-4663-9800-6cbb4c121351.jpeg)
 
@@ -218,7 +218,7 @@ Username und Password lauten beide "admin".
 
 ### Konfiguration
 
-1. Begeben Sie sich zu dem Menüpunkt "Konto / Registrieren".
+1. Begeben Sie sich zu dem Menüpunkt "Konto / Registrieren". Setzen Sie bitte den Leitungsstatus auf "An", damit sich nach Abschluss der Konfiguration Ihr Konferenztelefon automatisch am NetCologne-Cloud-PBX-Server registriert.
 
 ![Registrieren_01](https://user-images.githubusercontent.com/99875491/196955829-94f881d3-d807-4789-9560-abf665040611.jpeg)
 
