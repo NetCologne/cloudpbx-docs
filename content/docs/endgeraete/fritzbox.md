@@ -40,14 +40,15 @@ Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihn
 
 ![Zugangsdaten](https://user-images.githubusercontent.com/98753538/179159885-5013b8ab-69a6-4352-a670-d2d94972e3d5.jpg)
 
-Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt *Transportprotokoll*. Hier wählen Sie bitte "UDP" <br>
+Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt *Transportprotokoll*. Hier wählen Sie bitte "TLS" <br>
 
-![1010_3_1](https://user-images.githubusercontent.com/99875491/178978075-33376f83-b9bb-4c07-aa89-c0fb8167f1c6.png)
+![Rufnummer_bearbeiten_TLS](https://user-images.githubusercontent.com/99875491/200543165-e6ad84d4-de28-4ade-82b7-884490b3137d.jpeg)
 
 <br>
 Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertragen. Damit dies funktioniert, setzen Sie bitte das Häkchen bei "Der Anbieter unterstützt verschlüsselte Telefonie..." und wählen unter *Media Protocol* "RTP/SAVP" aus : <br>
 
-![1010_3_2](https://user-images.githubusercontent.com/99875491/178978575-cfbd4553-8f5d-4c3b-be32-d6513e27d44b.png)
+![Rufnummer_bearbeiten_TLS_01](https://user-images.githubusercontent.com/99875491/200543224-dfc5a90b-376b-4de3-a95c-860b04958be6.jpeg)
+
 Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten und wählen "weiter". <br>
 
 ![Internetrufnummern](https://user-images.githubusercontent.com/98753538/179161233-736582f4-9a29-41f1-8432-34aff97e4602.jpg)
