@@ -34,7 +34,7 @@ Wählen Sie den Punkt "Neue Rufnummer" aus: <br>
 
 Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" die komplette Nummer und bei "Interne Rufnummer in der FritzBox**" die Nebenstelle ein. <br>
 
-![Neue_Rufnummer_02](https://user-images.githubusercontent.com/99875491/201092383-84d27a88-35ca-4e5c-acd0-4d91d0bf99cd.jpeg)
+![Neue_Rufnummer_02](https://user-images.githubusercontent.com/99875491/201096556-01796cb0-f850-4885-aca1-dc948f4463f6.jpeg)
 
 Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihnen von NetCologne mitgeteilt wurden. Gleiches gilt für die Domäne bei *Registrar* und *Proxy-Server*. <br>
 
