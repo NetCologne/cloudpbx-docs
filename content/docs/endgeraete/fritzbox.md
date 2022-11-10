@@ -28,7 +28,7 @@ Wählen Sie im Menue "Telefonie" den Unterpunkt "Eigene Rufnummern" aus: <br>
 
 ![Neue_Rufnummer_00](https://user-images.githubusercontent.com/99875491/201092217-89587ea6-82ed-4635-be3f-c40a24497ee6.jpeg)
 
-Wählen Sie unter Punkt "Neue Rufnummer" die folgende Option aus: <br>
+Wählen Sie den Punkt "Neue Rufnummer" aus: <br>
 
 ![Neue_Rufnummer_01](https://user-images.githubusercontent.com/99875491/201092297-b9667ad6-c995-4a15-b7d1-8fd56674cf60.jpeg)
 
