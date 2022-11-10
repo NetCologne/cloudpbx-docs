@@ -41,14 +41,14 @@ Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihn
 ![Neue_Rufnummer_03](https://user-images.githubusercontent.com/99875491/201092427-f4b21471-b3bb-4552-a5b5-a27df4bb702a.jpeg)
 <br>
 
-Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt  *Ortsvorwahl für ausgehende Gespräche einfügen* ( bitte deaktivieren ) und *Rufnummer für die Anmeldung verwenden* ( bitte aktivieren ) und * Anmeldung immer über eine Internetverbindung* ( bitte aktivieren ). 
+Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt  *Ortsvorwahl für ausgehende Gespräche einfügen* ( bitte deaktivieren ) und *Rufnummer für die Anmeldung verwenden* ( bitte aktivieren ) und *Anmeldung immer über eine Internetverbindung* ( bitte aktivieren ). 
 Bei *Transportprotokoll* wählen Sie bitte "TLS" <br>
 Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertragen. Damit dies funktioniert, setzen Sie bitte das Häkchen bei "Der Anbieter unterstützt verschlüsselte Telefonie..." und wählen unter *Media Protocol* "RTP/SAVP" aus : <br>
 Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten und wählen "weiter". <br>
 
 ![Neue_Rufnummer_04](https://user-images.githubusercontent.com/99875491/201093147-2b0b91fd-a875-452c-a4bc-f02927fe450a.jpeg)
 
-Im Anschluss daran werden Ihre Einrichtung-Daten geprüft und der Anschluss an der NetColgne-Cloud-PBX registriert. Falls die Registrierung fehlschlagen sollte ( "Die Prüfung der Telefonie war nicht erfolgreich ), überprüfen Sie bitte Ihre Eingaben.
+Im Anschluss daran werden Ihre Einrichtung-Daten geprüft und der Anschluss an der NetCologne-Cloud-PBX registriert. Falls die Registrierung fehlschlagen sollte ( "Die Prüfung der Telefonie war nicht erfolgreich ), überprüfen Sie bitte Ihre Eingaben.
 
 ![Neue_Rufnummer_05](https://user-images.githubusercontent.com/99875491/201092479-96a95773-a04a-441c-b140-c8df68e1ea66.jpeg)
 
