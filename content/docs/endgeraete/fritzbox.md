@@ -41,7 +41,8 @@ Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihn
 ![Neue_Rufnummer_03](https://user-images.githubusercontent.com/99875491/201092427-f4b21471-b3bb-4552-a5b5-a27df4bb702a.jpeg)
 <br>
 
-Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt  *Ortsvorwahl für ausgehende Gespräche einfügen* ( bitte deaktivieren ) und *Transportprotokoll*. Hier wählen Sie bitte "TLS" <br>
+Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt  *Ortsvorwahl für ausgehende Gespräche einfügen* ( bitte deaktivieren ) und *Rufnummer für die Anmeldung verwenden* ( bitte aktivieren ) und * Anmeldung immer über eine Internetverbindung* ( bitte aktivieren ). 
+Bei *Transportprotokoll* wählen Sie bitte "TLS" <br>
 Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertragen. Damit dies funktioniert, setzen Sie bitte das Häkchen bei "Der Anbieter unterstützt verschlüsselte Telefonie..." und wählen unter *Media Protocol* "RTP/SAVP" aus : <br>
 Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten und wählen "weiter". <br>
 
