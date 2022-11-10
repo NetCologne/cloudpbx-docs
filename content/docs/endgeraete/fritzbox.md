@@ -28,13 +28,9 @@ Wählen Sie im Menue "Telefonie" den Unterpunkt "Eigene Rufnummern" aus: <br>
 
 ![Neue_Rufnummer_00](https://user-images.githubusercontent.com/99875491/201092217-89587ea6-82ed-4635-be3f-c40a24497ee6.jpeg)
 
-![1000](https://user-images.githubusercontent.com/99875491/178975443-51f51fa3-9a63-4517-8e7e-aa5d19abc41f.png)
-
 Wählen Sie unter Punkt "Neue Rufnummer" die folgende Option aus: <br>
 
 ![Neue_Rufnummer_01](https://user-images.githubusercontent.com/99875491/201092297-b9667ad6-c995-4a15-b7d1-8fd56674cf60.jpeg)
-
-![Eigene Rufnummer](https://user-images.githubusercontent.com/98753538/179160233-07979018-da04-4197-8291-40006fe6101d.jpg)
 
 Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" die komplette Nummer und bei "Interne Rufnummer in der FritzBox**" die Nebenstelle ein. <br>
 
@@ -51,25 +47,9 @@ Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertra
 
 ![Neue_Rufnummer_05](https://user-images.githubusercontent.com/99875491/201092479-96a95773-a04a-441c-b140-c8df68e1ea66.jpeg)
 
-
-![1010_1](https://user-images.githubusercontent.com/99875491/178977016-6899a8bc-4782-45c8-9a16-00f7c75e9203.png)
-
-
-![Zugangsdaten](https://user-images.githubusercontent.com/98753538/179159885-5013b8ab-69a6-4352-a670-d2d94972e3d5.jpg)
-
-
-
-![Rufnummer_bearbeiten_TLS](https://user-images.githubusercontent.com/99875491/200543165-e6ad84d4-de28-4ade-82b7-884490b3137d.jpeg)
-
-
-
-![Rufnummer_bearbeiten_TLS_01](https://user-images.githubusercontent.com/99875491/200543224-dfc5a90b-376b-4de3-a95c-860b04958be6.jpeg)
-
 Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten und wählen "weiter". <br>
 
 ![Neue_Rufnummer_04](https://user-images.githubusercontent.com/99875491/201093147-2b0b91fd-a875-452c-a4bc-f02927fe450a.jpeg)
-
-![Internetrufnummern](https://user-images.githubusercontent.com/98753538/179161233-736582f4-9a29-41f1-8432-34aff97e4602.jpg)
 
 Im Anschluss daran werden Ihre Einrichtung-Daten geprüft und der Anschluss an der NetColgne-Cloud-PBX registriert. Falls die Registrierung fehlschlagen sollte ( "Die Prüfung der Telefonie war nicht erfolgreich ), überprüfen Sie bitte Ihre Eingaben.
 
