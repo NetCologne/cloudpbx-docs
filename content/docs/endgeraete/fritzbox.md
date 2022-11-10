@@ -34,24 +34,22 @@ Wählen Sie den Punkt "Neue Rufnummer" aus: <br>
 
 Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" die komplette Nummer und bei "Interne Rufnummer in der FritzBox**" die Nebenstelle ein. <br>
 
-Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihnen von NetCologne mitgeteilt wurden. Gleiches gilt für die Domäne bei *Registrar* und *Proxy-Server*. <br>
-
 ![Neue_Rufnummer_02](https://user-images.githubusercontent.com/99875491/201092383-84d27a88-35ca-4e5c-acd0-4d91d0bf99cd.jpeg)
 
-Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt  *Ortsvorwahl für ausgehende Gespräche einfügen* ( bitte deaktivieren ) und *Transportprotokoll*. Hier wählen Sie bitte "TLS" <br>
+Unter Zugangsdaten werden *Benutzername* und *Kennwort* eingetragen, wie sie Ihnen von NetCologne mitgeteilt wurden. Gleiches gilt für die Domäne bei *Registrar* und *Proxy-Server*. <br>
+
 ![Neue_Rufnummer_03](https://user-images.githubusercontent.com/99875491/201092427-f4b21471-b3bb-4552-a5b5-a27df4bb702a.jpeg)
 <br>
+
+Im Weiteren werden die Standard-Vorgaben aus der GUI verwendet, mit Ausnahme beim Punkt  *Ortsvorwahl für ausgehende Gespräche einfügen* ( bitte deaktivieren ) und *Transportprotokoll*. Hier wählen Sie bitte "TLS" <br>
 Grundsätzlich werden Ihre Telefonate bei NetCologne nur verschlüsselt übertragen. Damit dies funktioniert, setzen Sie bitte das Häkchen bei "Der Anbieter unterstützt verschlüsselte Telefonie..." und wählen unter *Media Protocol* "RTP/SAVP" aus : <br>
-
-![Neue_Rufnummer_04](https://user-images.githubusercontent.com/99875491/201092446-7f0b99a5-a057-41b6-bef2-1483f3e46349.jpeg)
-
-![Neue_Rufnummer_05](https://user-images.githubusercontent.com/99875491/201092479-96a95773-a04a-441c-b140-c8df68e1ea66.jpeg)
-
 Im Anschluss erhalten Sie eine Übersicht Ihrer Telefonie-Konfigurationsdaten und wählen "weiter". <br>
 
 ![Neue_Rufnummer_04](https://user-images.githubusercontent.com/99875491/201093147-2b0b91fd-a875-452c-a4bc-f02927fe450a.jpeg)
 
 Im Anschluss daran werden Ihre Einrichtung-Daten geprüft und der Anschluss an der NetColgne-Cloud-PBX registriert. Falls die Registrierung fehlschlagen sollte ( "Die Prüfung der Telefonie war nicht erfolgreich ), überprüfen Sie bitte Ihre Eingaben.
+
+![Neue_Rufnummer_05](https://user-images.githubusercontent.com/99875491/201092479-96a95773-a04a-441c-b140-c8df68e1ea66.jpeg)
 
 ### Telefoniegeräte
 
