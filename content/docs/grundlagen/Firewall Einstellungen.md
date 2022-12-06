@@ -20,8 +20,8 @@ Folgende Dienste bzw. Ports müssen freigeschaltet sein:
 * TCP-Port 1445<br>
 
 ### Für die Signalisierung
-* Die SIP Signalisierung erfolgt verschlüsselt über TLs auf<br> 
-  **UDP-Port 5061**
+* Die SIP Signalisierung erfolgt verschlüsselt über  
+  **TLS/TCP**
 * Die Mobile APP verwendet zusätzlich XMPP. Zu Nutzung mus der <br>
   **TCP Port 5222** <br>
   frei gegeben werden
@@ -29,5 +29,5 @@ Folgende Dienste bzw. Ports müssen freigeschaltet sein:
 #### Für die Übertragung der Sprachdaten
 Die Übertragung der Audio Daten erfolgt verschlüsselt per SRTP.
 Dazu müssen die <br>
-**UDP Ports zwischen 10000 und 50000** <br>
+**UDP Ports zwischen 5062 und 50000** <br>
 freigegeben werden<br>
