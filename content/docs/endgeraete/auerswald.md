@@ -27,7 +27,9 @@ Gehen Sie zuerst in das Menü "Identitäten". Dort werden die grundlegenden Eins
 ![image](https://user-images.githubusercontent.com/99875470/207901188-187f7b32-d5f5-4069-b142-9def68cdc51c.png)
 
 SIP-Benutzername: Hier wird der in der Cloud PBX für diesen Benutzer eingerichtete Name eingetragen.
+
 Passwort: Das Passwort des SIP-Benutzers wird hier eingetragen.
+
 Displayname: Zur Anzeige im Telefon kann hier ein beliebiger Name eingetragen werden.
 Authentifizierungsname: Der Authentifizierungsname besteht aus dem SIP-Benutzernamen und der Domäne der Cloud PBX.
 SIP-Registrar: Als Registrar wird die Domäne der Cloud PBX eingetragen.
