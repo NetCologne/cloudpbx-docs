@@ -77,3 +77,38 @@ Subscriptionversuche: Intervall in Sekunden: 180
 Registerversuche: festes Intervall
 
 Registerversuche: Intervall in Sekunden: 10
+
+In dem Reiter "Codecs" werden die zugelassenen Codecs für die Übertragung der Sprache eingestellt.
+
+![image](https://user-images.githubusercontent.com/99875470/208454052-5b221f93-947b-4b10-ae28-97c3d700a91a.png)
+
+Der Codec G.722 wird deaktiviert.
+
+Im Reiter "Registrar" wird die Domain des Registrars sowie der zugehörige Port und die Zeitspanne für die Registrierung eingetragen.
+
+![image](https://user-images.githubusercontent.com/99875470/208465107-dacca2f0-012d-4530-86a7-f525e81c53a6.png)
+
+SIP-Domain: Hier muss die Domain eingetragen werden, die beim Anlegen des Kunden vergeben wurde.
+
+Port: Für die Registrierung über eine verschlüsselte Verbindung muss hier 5061 eingetragen werden.
+
+Zeitspanne Registrierung: Für die Wiederholung der Registrierung wird eine zeitspanne von 30 Minuten empfohlen.
+
+Im Reiter "NAT" sind keine Änderungen erforderelich.
+
+![image](https://user-images.githubusercontent.com/99875470/208473318-c13edbc3-0c80-4e77-aa5a-1a8d02e75d2e.png)
+
+SIP NAT-Traversal und RTP NAT-Taversal bleiben auf "inaktiv" stehen.
+
+ICE-Methode: ICE wird nicht unterstützt und bleibt daher ausgeschaltet.
+
+![image](https://user-images.githubusercontent.com/99875470/208474204-273ca5e8-0899-4ad0-84d3-dd9a37985583.png)
+
+Der Modus für den Outbound Proxy wird auf "automatisch" eingestellt.
+
+Als URL wird die Domain eingetragen, die beim Anlegen des Kunden vergeben wurde.
+
+Port: 5061
+
+Die Felder für alternative URL und Port bleiben leer.
+
