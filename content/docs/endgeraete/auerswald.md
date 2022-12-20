@@ -15,12 +15,30 @@ Ab Werk ist die Netzwerkschnittstelle auf DHCP eingestellt, sodass das Telefon b
 Die Konfiguration kann sowohl am Telefon als auch über einen Browser am PC erfolgen. Wir empfehlen die Verwendung eines Browsers, da dieser Weg komfortabler ist.
 
 Über einen Browser greifen Sie mit http://ip-adresse auf die Benutzeroberfläche zu. Ab Werk sind die Anmeldedaten:
+
 Benutzer: admin
+
 Passwort: admin
 
 ![image](https://user-images.githubusercontent.com/99875470/207878135-e5b75b49-dd9d-4433-8b58-fc2f25334cc5.png)
 
 Aus Sicherheitsgründen sollten Sie das Passwort auf einen individuellen Wert ändern.
+
+Nach der Anmeldung prüfen Sie zuerst die Firmwareversion. Zur Verwendung mit der NetCologne Cloud PBX ist mindestens Version **2.4B** erforderlich.
+
+![image](https://user-images.githubusercontent.com/99875470/208611905-9291e44c-8db3-4d33-b9f7-37fd76258bc9.png)
+
+Auf der Homepage von Auerswald finden Sie Informationen über den aktuellen Firmwarestand unter: https://www.auerswald.de/de/support
+
+Für die COMfortel D-Serie wird außerhalb des regulären Update-Servers ein Firmwareupdate auf Version 2.4B bereitgestellt (Stand 12/2022). Die Details sind ebenfalls auf der Homepage von Auerswald zu finden: https://www.auerswald.de/de/ueber-uns/neuigkeiten/artikel/neu-firmwareupdate-24-fuer-die-comfortel-d-serie
+
+Ab Werk ist das Telefon auf den Standardserver für Firmwareupdates eingestellt. Um auf die zurzeit (Stand 12/2022) erforderliche Version 2.4B umzustellen, wird die Adresse https://update.auerswald.de/software/D-400_D-600/Release_2.4B als Update-Server-URL eingetragen.
+
+![image](https://user-images.githubusercontent.com/99875470/208618099-564dcb09-2881-4f60-86fc-f148dfa7af20.png)
+
+Das Update wird dann durch Klicken auf "Update starten" angestoßen. Folgen Sie den Hinweisen auf der Oberfläche.
+
+Nun kann die eigentliche Konfiguration des Telefons beginnen.
 
 Gehen Sie zuerst in das Menü "Identitäten". Dort werden die grundlegenden Einstellungen für den SIP-Benutzer vorgenommen. Öffnen Sie einen leeren Eintrag. Die folgende Darstellung zeigt eine bereits ausgefüllte Maske.
 
