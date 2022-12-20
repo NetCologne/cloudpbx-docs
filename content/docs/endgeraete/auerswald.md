@@ -68,7 +68,7 @@ Voicemail-Nummer: 2000 Das ist die interne Rufnummer für den Anrufbeantworter i
 
 Pick-Up-Code: \*99 Das ist die Kennziffer, um ein Gespräch heranzuholen. Im Zusammenhang mit einer Funktionstaste können damit Gespräche von einem anderen Telefon herangeholt werden.
 
-Wartemusik: Aktivieren Sie diesen Schalter um beim Halten einer Verbindung Wartemusik einzuspielen.
+Wartemusik: Aktivieren Sie diesen Schalter, um beim Halten einer Verbindung Wartemusik einzuspielen.
 
 IP-Version: IPv4
 
