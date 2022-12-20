@@ -24,7 +24,7 @@ Passwort: admin
 
 Aus Sicherheitsgründen sollten Sie das Passwort auf einen individuellen Wert ändern.
 
-Nach der Anmeldung prüfen Sie zuerst die Firmwareversion. Zur Verwendung mit der NetCologne Cloud PBX ist mindestens Version **2.4B** erforderlich. Im Menüpunkt "Dashboard" finden Sie die Übersicht über den Softwarestand:
+Nach der Anmeldung prüfen Sie zuerst die Firmwareversion. Zur Verwendung mit der NetCologne Cloud PBX ist mindestens Version **2.4B** erforderlich. Im Menüpunkt "Dashboard" werden Informationen u.a. zum Softwarestand angezeigt:
 
 ![image](https://user-images.githubusercontent.com/99875470/208611905-9291e44c-8db3-4d33-b9f7-37fd76258bc9.png)
 
