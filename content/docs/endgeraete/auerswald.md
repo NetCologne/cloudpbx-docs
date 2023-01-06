@@ -30,7 +30,7 @@ Nach der Anmeldung prüfen Sie zuerst die Firmwareversion. Zur Verwendung mit de
 
 Auf der Homepage von Auerswald finden Sie Informationen über den aktuellen Firmwarestand unter: https://www.auerswald.de/de/support
 
-Für die COMfortel D-Serie wird außerhalb des regulären Update-Servers ein Firmwareupdate auf Version 2.4B bereitgestellt (Stand 12/2022). Die Details sind ebenfalls auf der Homepage von Auerswald zu finden: https://www.auerswald.de/de/ueber-uns/neuigkeiten/artikel/neu-firmwareupdate-24-fuer-die-comfortel-d-serie
+Für die COMfortel D-Serie wird außerhalb des regulären Update-Servers ein Firmwareupdate auf Version 2.4B bereitgestellt (Stand 12//2022). Die Details sind ebenfalls auf der Homepage von Auerswald zu finden: https://www.auerswald.de/de/ueber-uns/neuigkeiten/artikel/neu-firmwareupdate-24-fuer-die-comfortel-d-serie
 
 Ab Werk ist das Telefon auf den Standardserver für Firmwareupdates eingestellt. Um auf die zurzeit (Stand 12/2022) erforderliche Version 2.4B umzustellen, wird die Adresse https://update.auerswald.de/software/D-400_D-600/Release_2.4B als Update-Server-URL eingetragen.
 
@@ -40,7 +40,11 @@ Das Update wird dann durch Klicken auf "Update starten" angestoßen. Folgen Sie 
 
 Nun kann die eigentliche Konfiguration des Telefons beginnen.
 
-Gehen Sie zuerst in das Menü "Identitäten". Dort werden die grundlegenden Einstellungen für den SIP-Benutzer vorgenommen. Öffnen Sie einen leeren Eintrag. Die folgende Darstellung zeigt eine bereits ausgefüllte Maske.
+Gehen Sie zuerst in das Menü "Netzwerk". Im Reiter "Topologie" muss der Schalter "Hostname prüfen" ausgeschaltet sein.
+
+![Netzwerk_Topologie](https://user-images.githubusercontent.com/99875470/210994671-35aeeb6f-34ff-4a26-9e95-3c622b016cf3.jpg)
+
+Gehen Sie nun in das Menü "Identitäten". Dort werden die grundlegenden Einstellungen für den SIP-Benutzer vorgenommen. Öffnen Sie einen leeren Eintrag. Die folgende Darstellung zeigt eine bereits ausgefüllte Maske.
 
 ![image](https://user-images.githubusercontent.com/99875470/207901188-187f7b32-d5f5-4069-b142-9def68cdc51c.png)
 
@@ -112,7 +116,7 @@ Port: Für die Registrierung über eine verschlüsselte Verbindung muss hier 506
 
 Zeitspanne Registrierung: Für die Wiederholung der Registrierung wird eine zeitspanne von 30 Minuten empfohlen.
 
-Im Reiter "NAT" sind keine Änderungen erforderelich.
+Im Reiter "NAT" sind keine Änderungen erforderlich.
 
 ![image](https://user-images.githubusercontent.com/99875470/208473318-c13edbc3-0c80-4e77-aa5a-1a8d02e75d2e.png)
 
