@@ -30,7 +30,7 @@ Nach der Anmeldung prüfen Sie zuerst die Firmwareversion. Zur Verwendung mit de
 
 Auf der Homepage von Auerswald finden Sie Informationen über den aktuellen Firmwarestand unter: https://www.auerswald.de/de/support
 
-Für die COMfortel D-Serie wird außerhalb des regulären Update-Servers ein Firmwareupdate auf Version 2.4B bereitgestellt (Stand 12//2022). Die Details sind ebenfalls auf der Homepage von Auerswald zu finden: https://www.auerswald.de/de/ueber-uns/neuigkeiten/artikel/neu-firmwareupdate-24-fuer-die-comfortel-d-serie
+Für die COMfortel D-Serie wird außerhalb des regulären Update-Servers ein Firmwareupdate auf Version 2.4B bereitgestellt (Stand 12\/2022). Die Details sind ebenfalls auf der Homepage von Auerswald zu finden: https://www.auerswald.de/de/ueber-uns/neuigkeiten/artikel/neu-firmwareupdate-24-fuer-die-comfortel-d-serie
 
 Ab Werk ist das Telefon auf den Standardserver für Firmwareupdates eingestellt. Um auf die zurzeit (Stand 12/2022) erforderliche Version 2.4B umzustellen, wird die Adresse https://update.auerswald.de/software/D-400_D-600/Release_2.4B als Update-Server-URL eingetragen.
 
