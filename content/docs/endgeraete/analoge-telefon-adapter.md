@@ -111,7 +111,8 @@ Bitte beachten Sie die Unterschiede bei der Einrichtung von Telefon und Faxgerä
 
 ![ATA Profile 1d](https://user-images.githubusercontent.com/98753538/152998051-436127e7-19e8-4b02-989f-059c88f43d0b.jpg)
 
-![ATA Profile 1e](https://user-images.githubusercontent.com/98753538/153001884-9cc66e53-7e67-4e8f-b5b6-5832479ad4e1.jpg)
+![ATA Profile 1g](https://user-images.githubusercontent.com/98753538/211316828-46e3cd03-3dd1-450d-83f8-09a9ae8992ea.jpg)
+
 
 Bitte beachten Sie die Unterschiede bei der Einrichtung von Telefon und Faxgerät:
 
