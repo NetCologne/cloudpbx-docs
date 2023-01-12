@@ -22,7 +22,7 @@ Folgende Dienste bzw. Ports müssen freigeschaltet sein:
 ### Für die Signalisierung
 * Die SIP Signalisierung erfolgt verschlüsselt über  
   **TLS/TCP**
-* Die Mobile APP verwendet zusätzlich XMPP. Zu Nutzung mus der <br>
+* Die Mobile APP verwendet zusätzlich XMPP. Zur Nutzung muss der <br>
   **TCP Port 5222** <br>
   frei gegeben werden
 
