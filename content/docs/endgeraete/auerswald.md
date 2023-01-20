@@ -10,7 +10,7 @@ toc: true
 
 In diesem Kapitel erhalten Sie eine Anleitung für die manuelle Konfiguration der Endgeräte von Auerswald. Am Beispiel des COMfortel D-400 werden die grundlegenden Einstellungen beschrieben.
 
-Zur Vorbereitung sollten Sie das TLS Root Zertifikat (isrgrootx1.pem) schon einmal von der Zertifizierungsstelle () herunter laden, damit Sie es später an der entsprechenden Stelle auf das Telefon laden können. Sie finden das Zertifikat zum Download unter: https://letsencrypt.org/certs/isrgrootx1.pem
+Zur Vorbereitung sollten Sie das TLS Root Zertifikat (isrgrootx1.pem) schon einmal von der Zertifizierungsstelle (Let's Encrypt) herunter laden, damit Sie es später an der entsprechenden Stelle auf das Telefon laden können. Sie finden das Zertifikat zum Download unter: https://letsencrypt.org/certs/isrgrootx1.pem
 
 Ab Werk ist die Netzwerkschnittstelle auf DHCP eingestellt, sodass das Telefon bei erster Inbetriebnahme unter der von Ihrem Router vergebenen IP-Adresse zu erreichen ist. Die IP-Adresse wird in der Anzeige des Telefons eingeblendet.
 
