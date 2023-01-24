@@ -79,3 +79,48 @@ Im Menue "Optionen" können die Kurzwahltasten angewählt werden:
 <br>  
 Zur Belegung zieht man den gewünschten Telefonbuch-Eintrag einfach auf das Kurzwahl-Feld:
 ![PhoneLite Konfiguration Kurz Kollege](https://user-images.githubusercontent.com/98753538/153849040-d45cd9ec-cdd1-4644-aba0-667edcf25be6.jpg)
+
+
+### Zoiper
+
+Für die Verwendung mit der Cloud PBX ist die kostenpflichtige Version erforderlich, da nur diese die notwendige Verschlüsselung mit TLS und SRTP unterstützt.
+
+Die aktuelle Version laden Sie am besten direkt vom Hersteller herunter: https://www.zoiper.com/en/voip-softphone/download/current
+Zur Installation des Clients folgen Sie der Anleitung des Herstellers.
+
+#### Konfiguration
+
+Die folgende Beschreibung führt Sie durch die grundlegende Konfiguration für die Cloud PBX. Nach dem Start des Clients erscheint zunächst ein Fenster mit leeren Feldern für die Anmeldedaten. Dort werden die Anmeldedaten für den Subscriber eingetragen. Exemplarisch wird hier der Subscriber "mulheim" in der Domäne firmaid.cloudpbx.netcologne.de verwendet.
+
+<img width="622" alt="02_Cloud-PBX_Start" src="https://user-images.githubusercontent.com/99875470/214311476-0834c659-fe79-4994-a26c-159af36de675.png">
+
+Username/Login: mulheim
+Passwort: Hier wird das Passwort des SIP-Benutzers eingetragen.
+
+Im folgenden Fenster wird als Hostname die URL der Cloud PBX eingetragen: firmaid.cloudpbx.netcologne.de
+
+<img width="683" alt="03_Cloud-PBX_Hostname" src="https://user-images.githubusercontent.com/99875470/214313961-c9fffa2d-0878-43f3-bf0e-d8b40ee59409.png">
+
+Auf der nächsten Seite muss das Häkchen für optionale Angaben gesetzt werden und Angaben zur Authentifizierung und zum outbound proxy eingetragen werden.
+
+Authentication username: mulheim@firmaid.cloudpbx.netcologne.de
+Outbound proxy: firmaid.cloudpbx.netcologne.de
+
+<img width="680" alt="05_Cloud-PBX_Authentication_Out-Proxy" src="https://user-images.githubusercontent.com/99875470/214316599-2a7ab341-70a5-44a2-ac68-05088a6129af.png">
+
+Im nächsten Schritt erkennt der SIP Client automatisch die Verschlüsselung über TLS.
+
+<img width="659" alt="06_Cloud-PBX_SIP-TLS" src="https://user-images.githubusercontent.com/99875470/214319317-e9cf571f-9ce4-4377-b64d-852fb9049076.png">
+
+Diese Seite muss mit klicken auf "Next" bestätigt werden.
+
+Die Grundeinstellungen wurden nun vorgenommen. Allerdings müssen noch ein paar Details angepasst werden.
+
+Durch Auswahl des neu angelegten Accounts erreichen Sie die Seite für die Einstellungen.
+
+<img width="628" alt="08_Cloud-PBX_Feinheiten_nachjustieren" src="https://user-images.githubusercontent.com/99875470/214320947-ddb794b4-c8b3-4284-9b5e-75e33550e442.png">
+
+Oben rechts schalten Sie mit "advanced" die erweiterten Einstellungen frei.
+
+<img width="627" alt="09_Cloud-PBX_Advanced" src="https://user-images.githubusercontent.com/99875470/214321755-e34b55a0-3664-4b6d-89d3-4e6b92b7d36f.png">
+
