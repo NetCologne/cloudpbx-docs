@@ -164,4 +164,37 @@ Für die Verschlüsselung ist kein Zertifikat erforderlich. Bei "SRTP key negoti
 
 Damit ist die Grundkonfiguration abgeschlossen.
 
+
 #### Telefonbuch
+
+An dieser Stelle werden nur die Einstellungen erläutert, die für die Statusanzeige erforderlich sind. Die allgemeine Bedienung des Telefonbuchs kann der Dokumentation des Herstellers entnommen werden.
+
+Wie oben bereits erwähnt, erfolgt die Statusanzeige (Busylamp Field) im Zusammenhang mit Einträgen im Telefonbuch. Das bedeutet, dass die Nebenstelle der Cloud PBX, deren Status der Teilnehmer sehen möchte, im Telefonbuch eingetragen sein muss.
+
+Am Beispiel des Teilnehmers "chorweiler" wird hier die Konfiguration dargestellt.
+
+<img width="429" alt="18_Cloud-PBX_contact" src="https://user-images.githubusercontent.com/99875470/214605449-f091ac25-87ba-44fd-8787-627720d985c6.png">
+
+Die ersten fünf Einträge enthalten Angaben zum Kontakt. Hier ist nur das Feld "First name" belegt.
+
+Um die Rufnummer bzw. den Benutzernamen des Kontaktes einzutragen, klicken Sie auf "Add an additional field" und wählen als "Field type" Phone aus und bestätigen mit "add".
+
+<img width="298" alt="19_Cloud-PBX_add_phone" src="https://user-images.githubusercontent.com/99875470/214609391-255fecb9-6aa4-4f8e-8203-7a69d3cfd4af.png">
+
+Im dem Kontakt erscheinen dann die weiteren Felder "Phone", "Dial account" und "Presence account".
+
+"Phone": Hier wird der Benutzername der gewünschten Nebenstelle eingetragen.
+
+"Dial account": Das ist der Account, der für abgehende Gespräche verwendet werden soll. Wenn in dem Zoiper Client nur ein Account eingerichtet ist, kann die Einstellung auf "Default account" bleiben. Andernfalls wählen Sie einen anderen Account aus dem Aufklappmenü aus.
+
+"Presence account": Hier wird "Conatact service account" ausgewählt.
+
+Beim Verlassen des Kontakt-Fensters das Speichern der Daten bestätigen.
+
+In der Benutzeroberfläche steht unter "Contacts" jetzt mindestens der Eintrag "chorweiler". Sobald die Nebenstelle "chorweiler" angerufen wird, wird das in der Benutzeroberfläche durch ein Glockensymbol an dem Kontakt dargestellt.
+
+<img width="302" alt="16_Cloud-PBX_BLF-ringing" src="https://user-images.githubusercontent.com/99875470/214611730-2f14ac16-582b-40f8-9da0-f41e6b2d3e50.png">
+
+Ein bestehndes Gespräch ist an dem Hörer-Symbol neben dem Kontakt erkennbar.
+
+<img width="302" alt="17_Cloud-PBX_BLF-speaking" src="https://user-images.githubusercontent.com/99875470/214612052-7e15a491-3d7f-4d3b-a263-0f0455c2a008.png">
