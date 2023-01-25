@@ -140,3 +140,13 @@ Unter "Number Rewriting" sorgt der Haken bei "Strip dial chars" dafür, dass die
 
 <img width="438" alt="11_Cloud-PBX_number_rewriting" src="https://user-images.githubusercontent.com/99875470/214571826-35e7cba6-9fbb-4039-83cc-1f9309b76589.png">
 
+In den Einstellungen für "Pre-configured Extensions" wird im Feld "Check voicemail" 2000 eingetragen. Damit wird das Brief-Symbol in der Benutzeroberfläche so eingestellt, dass mit einem Klick darauf der interne Anrufbeantworter abgefragt werden kann.
+
+Bei den "Compatibility modes" werden vornehmlich die Einstellungen für DTMF vorgenommen.
+
+"DTMF mode": Use DTMF RFC-2833
+
+"Send KPML (Cisco Unified Communications Manager)" muss aktiviert sein, damit bei der Abfrage des interenen Anrufbeantworters die Ziffern (DTMF) richtig übertragen werden. Andernfalls ist eine Navigation im Anrufbeantworter nicht möglich.
+
+<img width="431" alt="12_Cloud-PBX_pre-conf-ext_compat-modes" src="https://user-images.githubusercontent.com/99875470/214579241-84d6f555-0399-4017-a4b9-c76e428a0fb9.png">
+
