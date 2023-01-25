@@ -175,15 +175,15 @@ Am Beispiel des Teilnehmers "chorweiler" wird hier die Konfiguration dargestellt
 
 <img width="429" alt="18_Cloud-PBX_contact" src="https://user-images.githubusercontent.com/99875470/214605449-f091ac25-87ba-44fd-8787-627720d985c6.png">
 
-Die ersten fünf Einträge enthalten Angaben zum Kontakt. Hier ist nur das Feld "First name" belegt.
+Die ersten fünf Einträge enthalten Angaben zum Kontakt. Als Beispiel ist hier nur das Feld "First name" belegt. Grundsätzlich können die Felder nach Belieben ausgefüllt werden, da sie nur für die Anzeige in der Benutzeroberfläche relevant sind.
 
-Um die Rufnummer bzw. den Benutzernamen des Kontaktes einzutragen, klicken Sie auf "Add an additional field" und wählen als "Field type" Phone aus und bestätigen mit "add".
+Um die Rufnummer bzw. den Benutzernamen des Kontaktes einzutragen, klicken Sie auf "Add an additional field", wählen als "Field type" Phone aus und bestätigen mit "add".
 
 <img width="298" alt="19_Cloud-PBX_add_phone" src="https://user-images.githubusercontent.com/99875470/214609391-255fecb9-6aa4-4f8e-8203-7a69d3cfd4af.png">
 
 Im dem Kontakt erscheinen dann die weiteren Felder "Phone", "Dial account" und "Presence account".
 
-"Phone": Hier wird der Benutzername der gewünschten Nebenstelle eingetragen.
+"Phone": Hier wird der Benutzername der gewünschten Nebenstelle eingetragen (auf die richtige Schreibweise achten).
 
 "Dial account": Das ist der Account, der für abgehende Gespräche verwendet werden soll. Wenn in dem Zoiper Client nur ein Account eingerichtet ist, kann die Einstellung auf "Default account" bleiben. Andernfalls wählen Sie einen anderen Account aus dem Aufklappmenü aus.
 
