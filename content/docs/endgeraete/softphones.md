@@ -124,3 +124,11 @@ Oben rechts schalten Sie mit "advanced" die erweiterten Einstellungen frei.
 
 <img width="627" alt="09_Cloud-PBX_Advanced" src="https://user-images.githubusercontent.com/99875470/214321755-e34b55a0-3664-4b6d-89d3-4e6b92b7d36f.png">
 
+Im Abschnitt "Features" werden die gewünschten Leitungsmerkmale angehakt.
+
+<img width="550" alt="10_Cloud-PBX_Features" src="https://user-images.githubusercontent.com/99875470/214569579-c4e7f8f4-1db0-4610-9b38-fa8987aed09e.png">
+
+"Register on startup" sorgt dafür, dass sich der Client sofort beim Starten an der Cloud PBX registriert. Erst mit der Registrierung sind Gespräche möglich.
+"Subscribe presence" muss aktiviert werden, wenn Sie den Status anderer Teilnehmer der Cloud PBX in Ihrem Client angezeigt bekommen wollen. Voraussetzung dafür ist, dass die anderen Teilnehmer ihren Status veröffentlichen (publish presence). Der Status der anderen Teilnehmer wird im Telefonbuch angezeigt (siehe Abschnitt "Telefonbuch").
+"Publish presence" muss aktiviert werden, wenn Sie Ihren Status in der Cloud PBX bekannt geben wollen.
+"Use BLF" muss aktiviert sein, damit der Status eines Teilnehmers in der Cloud in Ihrem Telefonbuch angezeigt wird (siehe auch Abschnitt "Telefonbuch").
