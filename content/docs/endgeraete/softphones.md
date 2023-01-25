@@ -150,3 +150,18 @@ Bei den "Compatibility modes" werden vornehmlich die Einstellungen für DTMF vor
 
 <img width="431" alt="12_Cloud-PBX_pre-conf-ext_compat-modes" src="https://user-images.githubusercontent.com/99875470/214579241-84d6f555-0399-4017-a4b9-c76e428a0fb9.png">
 
+In dem nun folgenden Abschnitt "Network related" können die Einstellungen übernommen werden. Zur Sicherheit sollten Sie aber die Parameter mit dem Bild vergleichen.
+
+<img width="433" alt="13_Cloud-PBX_network-related" src="https://user-images.githubusercontent.com/99875470/214589492-22a247a6-5b62-48ce-aff8-d31c6fc2109f.png">
+
+Bei den "Audio codecs" sollten nur die wirklich notwendigen ausgewählt werden. Das Bild zeigt die empfohlene Auswahl.
+
+<img width="538" alt="14_Cloud-PBX_audio-codecs" src="https://user-images.githubusercontent.com/99875470/214590112-73a39f02-df4b-4627-a3a1-253c48c88e64.png">
+
+Für die Verschlüsselung ist kein Zertifikat erforderlich. Bei "SRTP key negotiation" muss "SDES" ausgewählt werden.
+
+<img width="434" alt="15_Cloud-PBX_encryption" src="https://user-images.githubusercontent.com/99875470/214590988-f4fe286a-bd6e-48ab-a0b8-b5b2fb0108c1.png">
+
+Damit ist die Grundkonfiguration abgeschlossen.
+
+#### Telefonbuch
