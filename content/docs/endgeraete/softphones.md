@@ -95,6 +95,7 @@ Die folgende Beschreibung führt Sie durch die grundlegende Konfiguration für d
 <img width="622" alt="02_Cloud-PBX_Start" src="https://user-images.githubusercontent.com/99875470/214311476-0834c659-fe79-4994-a26c-159af36de675.png">
 
 Username/Login: mulheim
+
 Passwort: Hier wird das Passwort des SIP-Benutzers eingetragen.
 
 Im folgenden Fenster wird als Hostname die URL der Cloud PBX eingetragen: firmaid.cloudpbx.netcologne.de
@@ -104,6 +105,7 @@ Im folgenden Fenster wird als Hostname die URL der Cloud PBX eingetragen: firmai
 Auf der nächsten Seite muss das Häkchen für optionale Angaben gesetzt werden und Angaben zur Authentifizierung und zum outbound proxy eingetragen werden.
 
 Authentication username: mulheim@firmaid.cloudpbx.netcologne.de
+
 Outbound proxy: firmaid.cloudpbx.netcologne.de
 
 <img width="680" alt="05_Cloud-PBX_Authentication_Out-Proxy" src="https://user-images.githubusercontent.com/99875470/214316599-2a7ab341-70a5-44a2-ac68-05088a6129af.png">
@@ -198,3 +200,54 @@ In der Benutzeroberfläche steht unter "Contacts" jetzt mindestens der Eintrag "
 Ein bestehndes Gespräch ist an dem Hörer-Symbol neben dem Kontakt erkennbar.
 
 <img width="302" alt="17_Cloud-PBX_BLF-speaking" src="https://user-images.githubusercontent.com/99875470/214612052-7e15a491-3d7f-4d3b-a263-0f0455c2a008.png">
+
+
+### Ninja Pro
+
+Für die Verwendung mit der Cloud PBX ist die kostenpflichtige Version erforderlich, da nur diese die notwendige Verschlüsselung mit TLS und SRTP unterstützt.
+
+Die aktuelle Version laden Sie am besten direkt vom Hersteller herunter: https://www.globaliptel.com/Contents/Products/Software/Ninja-Pro-(CTI).html
+Zur Installation des Clients folgen Sie der Anleitung des Herstellers.
+
+#### Konfiguration
+
+Die folgende Beschreibung führt Sie durch die grundlegende Konfiguration für die Cloud PBX. Dazu starten Sie zuerst den Ninja Client.
+
+<img width="192" alt="05_Konfig_GUI_mit_Pfeil" src="https://user-images.githubusercontent.com/99875470/215804545-3f80961a-91f8-49a0-bd63-1256e8d05d6b.png">
+
+Mit einem Klick auf das kleine Zahnrad (siehe Bild) öffnen Sie die Einstellungen.
+
+Wir beginnen mit dem Reiter "Proxy". Hier müssen die Angaben für den Proxy Server und die Anmeldedaten für den Subscriber eingetragen werden. Als Muster wird hier der Subscriber "mulheim" in der Domain "firmaid.cloudpbx.netcologne.de" verwendet.
+
+Proxy Server
+
+Aktiv: ja (Damit wird festgelegt, dass dieser Account aktiv sein soll und der sich der subscriber in der Cloud PBX registriert.)
+
+Proxy Bezeichnung: Hier können Sie nach Belieben eine Bezeichnung wählen. Sie dient lediglich der Verwaltung der Zugangsdaten.
+
+Domain/Realm: die für Ihre Cloud PBX festgelegte Domain, hier als Beispiel: firmaid.cloudpbx.netcologne.de
+
+Proxy Server: gleich der Domain, hier: firmaid.cloudpbx.netcologne.de
+
+SIP Port: 5061
+
+Reregistrierung: 300
+
+Outbound Proxy: gleich der Domain, hier: firmaid.cloudpbx.netcologne.de
+
+Outbound Proxy Port: 5061
+
+
+Anmeldedaten
+
+Angezeigter Name: Hier können Sie nach Belieben einen Namen wählen. Sinnvoll ist z.B. den Namen des Benutzers zu verwenden: mulheim
+
+Benutzername: Hier muss der Name eingetragen werden, mit dem der subscriber in der Cloud PBX angelegt wurde: mulheim
+
+Kennwort: das zum oben eingerichteten Benutzer vergebene Passwort
+
+Auth User: der vollständige Benutzer, bestehend aus dem oben eingerichteten Benutzernamen und der Domain: mulheim@firmaid.cloudpbx.netcologne.de
+
+Anonym: Diese Einstellung entscheidet darüber, ob der Teilnehmer immer anonym (mit unterdrückter Rufnummer) telefonieren soll.
+
+<img width="496" alt="06_Konfig_Proxy" src="https://user-images.githubusercontent.com/99875470/215814488-b64d98f3-54db-4234-bda4-c13a0929e176.png">
