@@ -204,7 +204,7 @@ Ein bestehndes Gespräch ist an dem Hörer-Symbol neben dem Kontakt erkennbar.
 
 ### Ninja Pro
 
-Für die Verwendung mit der Cloud PBX ist die kostenpflichtige Version erforderlich, da nur diese die notwendige Verschlüsselung mit TLS und SRTP unterstützt.
+Für die Verwendung mit der Cloud PBX ist die kostenpflichtige Version erforderlich, da nur diese die notwendige Verschlüsselung mit TLS und SRTP unterstützt. Ein positiver Nebeneffekt ist, dass der Client ein Plugin für Outlook enthält, welches bei der Installation automatisch installiert wird.
 
 Die aktuelle Version laden Sie am besten direkt vom Hersteller herunter: https://www.globaliptel.com/Contents/Products/Software/Ninja-Pro-(CTI).html
 Zur Installation des Clients folgen Sie der Anleitung des Herstellers.
@@ -251,3 +251,17 @@ Auth User: der vollständige Benutzer, bestehend aus dem oben eingerichteten Ben
 Anonym: Diese Einstellung entscheidet darüber, ob der Teilnehmer immer anonym (mit unterdrückter Rufnummer) telefonieren soll.
 
 <img width="496" alt="06_Konfig_Proxy" src="https://user-images.githubusercontent.com/99875470/215814488-b64d98f3-54db-4234-bda4-c13a0929e176.png">
+
+
+Anrufbeantworter
+
+Wenn Sie den Anrufbeantworter des Ninja Clients verwenden wollen, informieren Sie sich über die Bedienung bitte in der online bei Global IP verfügbaren Anleitung.
+
+Wenn Sie den internen Anrufbeantworter der Cloud PBX verwenden, erfolgt die Aktivierung durch Feature Codes. Die Beschreibung dazu finden Sie im Kapitel "Anrufbeantworter (Voicemail)" https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufbeantworter/.
+
+Um die Abfrage des internen Anrufbeantworters der Cloud PBX zu erleichtern, kann in diesem Reiter die Rufnummer zur Abfrage voreingestellt werden. In der Cloud PBX ist das die 2000.
+
+<img width="497" alt="07_Konfig_Anrufbeantworter" src="https://user-images.githubusercontent.com/99875470/216052862-472cbcba-483c-4ff3-ba07-93e055f71d24.png">
+
+
+
