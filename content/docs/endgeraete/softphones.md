@@ -264,4 +264,16 @@ Um die Abfrage des internen Anrufbeantworters der Cloud PBX zu erleichtern, kann
 <img width="497" alt="07_Konfig_Anrufbeantworter" src="https://user-images.githubusercontent.com/99875470/216052862-472cbcba-483c-4ff3-ba07-93e055f71d24.png">
 
 
+Presence
+
+Der Ninja Client kann innerhalb der Cloud PBX seinen Zustand anzeigen (Presence). Damit kann an anderen Nebenstellen z.B. angezeigt werden, ob die Nebenstelle gerade besetzt ist (Busy Lamp Field). In umgekehrter Richtung kann der Client auch den Zustand anderer Nebenstellen anzeigen, wenn diese ihren Zustand kundtun.
+
+Presence: Der Client teilt den eigenen Status mit, wenn "ja" ausgewählt wird.
+
+Besetztlampenfeld (BLF): "Ja" einstellen, um den Status anderer Nebenstellen anzuzeigen (siehe auch Abschnitt "Schnellwahl")
+
+Gültigkeitsspanne: 300
+
+<img width="497" alt="08_Konfig_Presence" src="https://user-images.githubusercontent.com/99875470/216058173-cbaa7d2b-30c6-479f-892a-660be6a26a35.png">
+
 
