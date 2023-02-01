@@ -277,3 +277,31 @@ Gültigkeitsspanne: 300
 <img width="497" alt="08_Konfig_Presence" src="https://user-images.githubusercontent.com/99875470/216058173-cbaa7d2b-30c6-479f-892a-660be6a26a35.png">
 
 
+Sicherheit
+
+In diesem Reiter wird die Verschlüsselung für SIP und SRTP eingestellt.
+
+Verschlüsselung/Sicherheit: SRTP/TLS
+
+Verschlüsselung aktiviert: ja
+
+TLS Port: 5061
+
+SAVP: ja
+
+<img width="493" alt="10_Konfig_Sicherheit" src="https://user-images.githubusercontent.com/99875470/216073341-4c3f30a0-f0d0-4327-9969-b897fbdf21cf.png">
+
+Wenn alle Einstellungen vorgenommen wurden und der Client den TLS-Handshake durchlaufen hat, wird auch das Zertifikat im entsprechenden Feld angezeigt.
+
+<img width="326" alt="10a_Konfig_Sicherheit" src="https://user-images.githubusercontent.com/99875470/216074133-b83ee4fc-e165-459e-a9a7-b917fdb33930.png">
+
+
+Erweitert
+
+Unter "Erweitert" werden nur Anpassungen bei den Audio Codecs und bei DTMF vorgenommen. Alle anderen Einstellungen bleiben auf ihren voreingestellten Werten.
+
+Audio Codecs: G711a, G711u, GSM, G729a, iLBC (nur die hier aufgeführten Codecx auswählen und in der dargestellten Reihenfolge anordnen)
+
+DTMF: Auto (erforderlich, damit im internen Anrufbeantworter der Cloud PBX navigiert werden kann)
+
+<img width="497" alt="11_Konfig_Erweitert" src="https://user-images.githubusercontent.com/99875470/216076028-4e52a38a-a98b-4a49-a950-1e7b46dffa71.png">
