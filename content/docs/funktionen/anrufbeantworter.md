@@ -19,7 +19,7 @@ Wenn Sie statt der „Nicht-verfügbar-Nachricht“ zur Begrüßung Ihren Namen,
 
 ### b) Besetzt-Nachricht
 Wenn Sie möchten, können Sie eine benutzerdefinierte Besetzt-Begrüßung aufzeichnen. Diese wird verwendet, wenn jemand Sie anruft und Sie gerade telefonieren. Wenn Sie nichts aufgezeichnet haben, gibt das System die gewählten Ziffern (des Anschlusses) mit dem Zusatz „ist besetzt“ wieder.
-Wenn Sie statt der „Besetzt-Begrüßung“ Ihren Namen, z.B. „Petra Schmitz“ aufgezeichnet haben, spielt das System diese Nachricht ab: „Petra Schneider ist besetzt.“ <br>
+Wenn Sie statt der „Besetzt-Begrüßung“ Ihren Namen, z.B. „Petra Schmitz“ aufgezeichnet haben, spielt das System diese Nachricht ab: „Petra Schmitz ist besetzt.“ <br>
 
 ### c) Vorübergehende Begrüßung
 Sie können auch eine temporäre Begrüßung aufzeichnen. Wenn diese vorhanden ist, wird sie anstelle Ihrer „Nicht-verfügbar- oder Besetzt-Begrüßung“ abgespielt. Dies kann zum Beispiel genutzt werden, wenn Sie in Urlaub fahren oder für eine Weile nicht im Büro sind und Anrufer informieren möchten, dass Sie in absehbarer Zeit nicht mit einem Rückruf rechnen können. <br>
