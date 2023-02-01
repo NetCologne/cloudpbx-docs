@@ -124,7 +124,7 @@ Bitte beachten Sie die Unterschiede bei der Einrichtung von Telefon und Faxgerä
 
 #### FXS Ports
 
-Bei den **User Settings** achten Sie bitte darauf, ob und welche Vervollständgungegn durch Ihren Browser gemacht werden. Der Einsatz von *Google Chrome* wird empfohlen. 
+Bei den **User Settings** achten Sie bitte darauf, ob und welche Vervollständigungen durch Ihren Browser gemacht werden. Der Einsatz von *Google Chrome* wird empfohlen. 
 
 ![ATA FXS Ports](https://user-images.githubusercontent.com/98753538/153131122-84c31339-ff01-4c23-97e7-615006551e4b.jpg)
 
