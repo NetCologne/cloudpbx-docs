@@ -310,4 +310,14 @@ Damit sind die Einstellungen für den SIP Proxy und den Benutzer, d.h. die Neben
 
 Vor Verwendung der "Busy Lamp Field" (BLF) sind noch Einstellungen im Menü "Schnellwahl" erforderlich.
 
+<img width="497" alt="15_Konfig_Schnellwahl_mit Markierung" src="https://user-images.githubusercontent.com/99875470/216563700-271c51ac-4282-4dcf-844d-e4cd3f10c7b9.png">
+
+Fensterposition: Wählen Sie aus dem Menü die für Sie passende Position des Schnellwahlfensters auf dem Monitor.
+
+Immer Anzeigen: Wählen Sie "ja", wenn das Schnellwahlfenster immer angezeigt werden soll. Alternativ können Sie das Fenster auch manuell mit der Funktionstaste F9 ein- und ausblenden.
+
+Bei Transfers anzeigen: Auch hier wählen Sie die für Sie angenehmste Einstellung aus.
+
+Immer im Vordergrund: Wenn Sie "ja" auswählen, bleibt das Fenster immer im Vordergurnd und überdeckt ggf. andere Fenster. Wählen Sie die für Sie günstigste Einstellung aus.
+
 
