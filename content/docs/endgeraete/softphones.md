@@ -320,4 +320,15 @@ Bei Transfers anzeigen: Auch hier wählen Sie die für Sie angenehmste Einstellu
 
 Immer im Vordergrund: Wenn Sie "ja" auswählen, bleibt das Fenster immer im Vordergurnd und überdeckt ggf. andere Fenster. Wählen Sie die für Sie günstigste Einstellung aus.
 
+Im folgenden Beispiel ist der Teilnehmer "chorweiler" in der Schnellwahl aufgeführt.
+
+<img width="213" alt="Ninja_Schnellwahlfeld" src="https://user-images.githubusercontent.com/99875470/216581414-28243395-dcd6-4f1a-8e59-2c584a8d97e1.png">
+
+Sobald dieser Teilnehmer angerufen wird, erscheint in der Liste ein orangenes Feld. Daneben wird die Nummer des Anrufers angezeigt.
+
+<img width="213" alt="16_Schnellwahl_ringing_geschwaerzt" src="https://user-images.githubusercontent.com/99875470/216582503-2dc99b8b-e885-47e8-9418-433b5556a1b3.png">
+
+Wenn der Teilnehmer das Gespräch annimmt, wechselt die Anzeige von orange zu rot und die Rufnummer des Anrufers verschwindet.
+
+<img width="213" alt="17_Schnellwahl_speaking" src="https://user-images.githubusercontent.com/99875470/216583054-60bb5f5e-9488-4592-b3fa-7e05903bcc5b.png">
 
