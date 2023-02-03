@@ -305,3 +305,9 @@ Audio Codecs: G711a, G711u, GSM, G729a, iLBC (nur die hier aufgeführten Codecx 
 DTMF: Auto (erforderlich, damit im internen Anrufbeantworter der Cloud PBX navigiert werden kann)
 
 <img width="497" alt="11_Konfig_Erweitert" src="https://user-images.githubusercontent.com/99875470/216076028-4e52a38a-a98b-4a49-a950-1e7b46dffa71.png">
+
+Damit sind die Einstellungen für den SIP Proxy und den Benutzer, d.h. die Nebenstelle der Cloud PBX, abgeschlossen.
+
+Vor Verwendung der "Busy Lamp Field" (BLF) sind noch Einstellungen im Menü "Schnellwahl" erforderlich.
+
+
