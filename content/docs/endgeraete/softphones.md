@@ -219,7 +219,7 @@ Mit einem Klick auf das kleine Zahnrad (siehe Bild) öffnen Sie die Einstellunge
 
 Wir beginnen mit dem Reiter "Proxy". Hier müssen die Angaben für den Proxy Server und die Anmeldedaten für den Subscriber eingetragen werden. Als Muster wird hier der Subscriber "mulheim" in der Domain "firmaid.cloudpbx.netcologne.de" verwendet.
 
-Proxy Server
+**Proxy Server**
 
 Aktiv: ja (Damit wird festgelegt, dass dieser Account aktiv sein soll und der sich der subscriber in der Cloud PBX registriert.)
 
@@ -238,7 +238,7 @@ Outbound Proxy: gleich der Domain, hier: firmaid.cloudpbx.netcologne.de
 Outbound Proxy Port: 5061
 
 
-Anmeldedaten
+**Anmeldedaten**
 
 Angezeigter Name: Hier können Sie nach Belieben einen Namen wählen. Sinnvoll ist z.B. den Namen des Benutzers zu verwenden: mulheim
 
@@ -253,7 +253,7 @@ Anonym: Diese Einstellung entscheidet darüber, ob der Teilnehmer immer anonym (
 <img width="496" alt="06_Konfig_Proxy" src="https://user-images.githubusercontent.com/99875470/215814488-b64d98f3-54db-4234-bda4-c13a0929e176.png">
 
 
-Anrufbeantworter
+**Anrufbeantworter**
 
 Wenn Sie den Anrufbeantworter des Ninja Clients verwenden wollen, informieren Sie sich über die Bedienung bitte in der online bei Global IP verfügbaren Anleitung.
 
@@ -264,7 +264,7 @@ Um die Abfrage des internen Anrufbeantworters der Cloud PBX zu erleichtern, kann
 <img width="497" alt="07_Konfig_Anrufbeantworter" src="https://user-images.githubusercontent.com/99875470/216052862-472cbcba-483c-4ff3-ba07-93e055f71d24.png">
 
 
-Presence
+**Presence**
 
 Der Ninja Client kann innerhalb der Cloud PBX seinen Zustand anzeigen (Presence). Damit kann an anderen Nebenstellen z.B. angezeigt werden, ob die Nebenstelle gerade besetzt ist (Busy Lamp Field). In umgekehrter Richtung kann der Client auch den Zustand anderer Nebenstellen anzeigen, wenn diese ihren Zustand kundtun.
 
@@ -277,7 +277,7 @@ Gültigkeitsspanne: 300
 <img width="497" alt="08_Konfig_Presence" src="https://user-images.githubusercontent.com/99875470/216058173-cbaa7d2b-30c6-479f-892a-660be6a26a35.png">
 
 
-Wählregeln
+**Wählregeln**
 
 Im Reiter Wählregeln wird das Präfix für "Gespräch heranholen" (pickup) eingetragen. Damit können Anrufe, die zu einem Teilnehmer, der in der Schnellwahl (siehe unten) eingetragen ist, per doppeltem Mausklick herangeholt werden. Details zur Bedienung finden Sie in der Hilfe des Ninja Clients.
 
@@ -286,7 +286,7 @@ PickUp Präfix: \*99\*
 <img width="496" alt="09_Konfig_Waehlregeln" src="https://user-images.githubusercontent.com/99875470/222443929-08320d6d-5dcd-4265-8e5c-274bc25650ee.png">
 
 
-Sicherheit
+**Sicherheit**
 
 In diesem Reiter wird die Verschlüsselung für SIP und SRTP eingestellt.
 
@@ -305,7 +305,7 @@ Wenn alle Einstellungen vorgenommen wurden und der Client den TLS-Handshake durc
 <img width="326" alt="10a_Konfig_Sicherheit" src="https://user-images.githubusercontent.com/99875470/216074133-b83ee4fc-e165-459e-a9a7-b917fdb33930.png">
 
 
-Erweitert
+**Erweitert**
 
 Unter "Erweitert" werden nur Anpassungen bei den Audio Codecs und bei DTMF vorgenommen. Alle anderen Einstellungen bleiben auf ihren voreingestellten Werten.
 
