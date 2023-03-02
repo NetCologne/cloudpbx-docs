@@ -318,7 +318,7 @@ Immer Anzeigen: Wählen Sie "ja", wenn das Schnellwahlfenster immer angezeigt we
 
 Bei Transfers anzeigen: Auch hier wählen Sie die für Sie angenehmste Einstellung aus.
 
-Immer im Vordergrund: Wenn Sie "ja" auswählen, bleibt das Fenster immer im Vordergurnd und überdeckt ggf. andere Fenster. Wählen Sie die für Sie günstigste Einstellung aus.
+Immer im Vordergrund: Wenn Sie "ja" auswählen, bleibt das Fenster immer im Vordergrund und überdeckt ggf. andere Fenster. Wählen Sie die für Sie günstigste Einstellung aus.
 
 Im folgenden Beispiel ist der Teilnehmer "chorweiler" in der Schnellwahl aufgeführt.
 
