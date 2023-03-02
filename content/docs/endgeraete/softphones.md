@@ -277,6 +277,15 @@ Gültigkeitsspanne: 300
 <img width="497" alt="08_Konfig_Presence" src="https://user-images.githubusercontent.com/99875470/216058173-cbaa7d2b-30c6-479f-892a-660be6a26a35.png">
 
 
+Wählregeln
+
+Im Reiter Wählregeln wird das Präfix für "Gespräch heranholen" (pickup) eingetragen. Damit können Anrufe, die zu einem Teilnehmer, der in der Schnellwahl (siehe unten) eingetragen ist, per doppeltem Mausklick herangeholt werden. Details zur Bedienung finden Sie in der Hilfe des Ninja Clients.
+
+PickUp Präfix: *99*
+
+<img width="496" alt="09_Konfig_Waehlregeln" src="https://user-images.githubusercontent.com/99875470/222443929-08320d6d-5dcd-4265-8e5c-274bc25650ee.png">
+
+
 Sicherheit
 
 In diesem Reiter wird die Verschlüsselung für SIP und SRTP eingestellt.
