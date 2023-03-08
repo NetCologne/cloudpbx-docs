@@ -52,6 +52,24 @@ muss entsprechend der dargestellten Passwort-Regeln.
 
 ### Konfiguration Mobilteil 
 
+![Mobilteile_Verwaltung_1](https://user-images.githubusercontent.com/99875491/223686097-0b4a3c69-ecfc-4979-a881-a8be7b29dc6c.jpg)
+
+![Mobilteile_Verwaltung_2](https://user-images.githubusercontent.com/99875491/223686138-e2a49c2b-002e-4c71-9f77-5266530f9da6.jpg)
+
+![Mobilteile_Verwaltung_3](https://user-images.githubusercontent.com/99875491/223686182-81c4953b-a68f-4ca7-8c7f-5ee56a9489d9.jpg)
+
+![Mobilteile_Verwaltung_4](https://user-images.githubusercontent.com/99875491/223686206-f76ce24e-54dd-4b62-adf2-8978ab0d8e4f.jpg)
+
+![Mobilteile_Verwaltung_5](https://user-images.githubusercontent.com/99875491/223686238-c029c9c0-5628-44bf-bb57-99575678b725.jpg)
+
+![Mobilteile_Verwaltung_6](https://user-images.githubusercontent.com/99875491/223686269-7c8bde46-fa6c-49e0-b8c2-045215ecb9a1.jpg)
+
+![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223686336-a27701d2-cafb-4e7c-8771-c4dfab46adf9.jpg)
 
 
 ### Mobilteil anmelden 
+
+![Mobilteile_Verwaltung_8](https://user-images.githubusercontent.com/99875491/223686396-c40456ab-4113-4fc7-95dc-abf374935a09.jpg)
+
+![Mobilteile_Verwaltung_9](https://user-images.githubusercontent.com/99875491/223686435-4130d94c-82be-414f-ae78-b44e7b5c7538.jpg)
+
