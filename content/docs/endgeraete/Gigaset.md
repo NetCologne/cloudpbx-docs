@@ -56,7 +56,7 @@ muss entsprechend der dargestellten Passwort-Regeln.
 
 ![Mobilteile_Verwaltung_2](https://user-images.githubusercontent.com/99875491/223686138-e2a49c2b-002e-4c71-9f77-5266530f9da6.jpg)
 
-![Mobilteile_Verwaltung_3](https://user-images.githubusercontent.com/99875491/223686182-81c4953b-a68f-4ca7-8c7f-5ee56a9489d9.jpg)
+![Mobilteile_Verwaltung_3](https://user-images.githubusercontent.com/99875491/223688339-b0aea619-ffff-4ee2-ac84-609a145342e3.jpg)
 
 ![Mobilteile_Verwaltung_4](https://user-images.githubusercontent.com/99875491/223686206-f76ce24e-54dd-4b62-adf2-8978ab0d8e4f.jpg)
 
