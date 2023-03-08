@@ -52,7 +52,20 @@ muss entsprechend der dargestellten Passwort-Regeln.
 
 ### Konfiguration Mobilteil 
 
+16. Klicken sie nun auf Mobilteile und Navigieren sie zum Punkt Verwaltung
+17. Um ein Mobilteil hinzuzufügen, klicken sie auf „Hinzufügen“
+
 ![Mobilteile_Verwaltung_1](https://user-images.githubusercontent.com/99875491/223686097-0b4a3c69-ecfc-4979-a881-a8be7b29dc6c.jpg)
+
+18. Tragen Sie bitte unter "IPUI" die IPUI ihres Mobilteiles ein. Um die IPUI anzeigen zu lassen, drücken sie auf dem Handset auf Menü. 
+Während das Menü angezeigt wird '*#06#' eingeben, dann erscheint zuoberst die IPEI (IPUI).
+19. Tragen Sie dann unter "Persönliche Providerdaten" die Daten Ihres SIP-Accounts ein, welche Sie von NetCologne erhalten haben
+ Tragen Sie unter „Anmeldename“ den SIP Usernamen ein
+ Tragen Sie unter Anmeldepasswort das SIP Passwort ein
+ Wiederholen Sie die Eingabe des Benutzernamens unter „Benutzername“
+ Geben Sie den angezeigten Namen ein. Der Name kann frei gewählt werden
+ Wählen Sie bei Voip-Provider das eben eigerichtete Profil aus (unter 4. festgelegt)
+ Klicken Sie auf "Sichern", um die Anmelde-Daten zu speichern.
 
 ![Mobilteile_Verwaltung_2](https://user-images.githubusercontent.com/99875491/223686138-e2a49c2b-002e-4c71-9f77-5266530f9da6.jpg)
 
