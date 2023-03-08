@@ -14,7 +14,7 @@ In diesem Kapitel erhalten Sie eine Anleitung für die manuelle Konfiguration de
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
 
-![PW_Aendern_Regel](https://user-images.githubusercontent.com/99875491/223677469-1875d022-eb2d-489e-a81e-4a537eb9bb3b.jpg)
+![PW_Aendern_Regel](https://user-images.githubusercontent.com/99875491/223705005-0f615291-8dac-4abc-ad11-d1071340c51e.jpg)
 
 Username und Password lauten im Auslieferungs-Zustand beide "admin". Bitte beachten Sie, dass beim erstmaligem Zugriff das Passwort geändert werden 
 muss entsprechend der dargestellten Passwort-Regeln.
@@ -25,14 +25,14 @@ muss entsprechend der dargestellten Passwort-Regeln.
 2. Wählen sie „Provider- oder PBX-Profile aus
 3. Klicken sie auf IP1 um die Leitung zu bearbeiten
 
-![Provider_oder_PBX_Profil_1](https://user-images.githubusercontent.com/99875491/223679646-3b803763-4cc8-451a-99a5-dc147e948057.jpg)
+![Provider_oder_PBX_Profil_1](https://user-images.githubusercontent.com/99875491/223705089-178acdc5-2912-41d6-b81e-109ce3e1cea7.jpg)
 
 4. Eintragen des Profilnamens ( frei wählbar )
 5. Eintragen der Domain
 6. Eintragen der Proxy Serveradresse (identisch mit Domain) – Serverport auf 5061 ändern
 7. Transportprotokoll auf TLS setzen, SRTP auswählen
 
-![Provider_oder_PBX_Profil_2](https://user-images.githubusercontent.com/99875491/223679667-181d03d3-9104-407a-b96f-43eda7628e7f.jpg)
+![Provider_oder_PBX_Profil_2](https://user-images.githubusercontent.com/99875491/223705158-eee8e38d-30cf-43b2-ad9d-ab5edbf881b4.jpg)
 
 8. Für DNS Abfrage SRV + A auswählen
 9. Outbound Proxymode auf „Immer“ setzen
@@ -40,12 +40,12 @@ muss entsprechend der dargestellten Passwort-Regeln.
 11. Outbound Proxyport auf 5061
 12. SIP Subsribe für MWI auf Ja
 
-![Provider_oder_PBX_Profil_3](https://user-images.githubusercontent.com/99875491/223679681-449dc688-bad4-4c2f-98ed-769db94c6ad6.jpg)
+![Provider_oder_PBX_Profil_3](https://user-images.githubusercontent.com/99875491/223705235-35c21a35-0db7-4b2a-a319-566df24399ce.jpg)
 
 13. Hier keine Änderungen vornehmen; Standardwerte übernehmen
 
-![Provider_oder_PBX_Profil_4](https://user-images.githubusercontent.com/99875491/223679698-4f1df498-52cb-4c79-918e-b25f0572b9f6.jpg)
-![Provider_oder_PBX_Profil_5](https://user-images.githubusercontent.com/99875491/223679712-42b171b8-8ab2-4886-94c0-cfbd33717f36.jpg)
+![Provider_oder_PBX_Profil_4](https://user-images.githubusercontent.com/99875491/223705288-aaea1e2f-0a65-4caf-82f5-bc52969f3a9a.jpg)
+![Provider_oder_PBX_Profil_5](https://user-images.githubusercontent.com/99875491/223705309-bff6c850-06a4-4d28-ace0-99f8e3dde70d.jpg)
 
 14. Unter "Signalisierungsoptionen für "Halten" im Session Description Protocol (SDP) bitte "nur Senden" wählen
 15. Einstellungen sichern
@@ -55,7 +55,7 @@ muss entsprechend der dargestellten Passwort-Regeln.
 16. Klicken sie nun auf Mobilteile und Navigieren sie zum Punkt Verwaltung
 17. Um ein Mobilteil hinzuzufügen, klicken sie auf „Hinzufügen“
 
-![Mobilteile_Verwaltung_1](https://user-images.githubusercontent.com/99875491/223686097-0b4a3c69-ecfc-4979-a881-a8be7b29dc6c.jpg)
+![Mobilteile_Verwaltung_1](https://user-images.githubusercontent.com/99875491/223705372-722acd8d-3a2f-46ca-818c-d89e8e654f12.jpg)
 
 18. Tragen Sie bitte unter "IPUI" die IPUI ihres Mobilteiles ein. Um die IPUI anzeigen zu lassen, drücken sie auf dem Handset auf Menü. 
 Während das Menü angezeigt wird '*#06#' eingeben, dann erscheint zuoberst die IPEI (IPUI).
@@ -66,22 +66,21 @@ Während das Menü angezeigt wird '*#06#' eingeben, dann erscheint zuoberst die 
 23. Geben Sie den angezeigten Namen ein. Der Name kann frei gewählt werden
 24. Wählen Sie bei Voip-Provider das eben eigerichtete Profil aus (unter 4. festgelegt)
 
-![Mobilteile_Verwaltung_2](https://user-images.githubusercontent.com/99875491/223686138-e2a49c2b-002e-4c71-9f77-5266530f9da6.jpg)
+![Mobilteile_Verwaltung_2](https://user-images.githubusercontent.com/99875491/223705414-b9863011-dc05-4472-b1b0-f99f84a67101.jpg)
  
  Hier bitte Standard-Werte übernehmen.
 
-![Mobilteile_Verwaltung_3](https://user-images.githubusercontent.com/99875491/223688339-b0aea619-ffff-4ee2-ac84-609a145342e3.jpg)
+![Mobilteile_Verwaltung_3](https://user-images.githubusercontent.com/99875491/223705462-53ca6bd4-254c-4451-bf71-c7f561a4110c.jpg)
 
 Hier bitte ebenfalls Standard-Werte übernehmen.
 
-![Mobilteile_Verwaltung_4](https://user-images.githubusercontent.com/99875491/223686206-f76ce24e-54dd-4b62-adf2-8978ab0d8e4f.jpg)
-
-![Mobilteile_Verwaltung_5](https://user-images.githubusercontent.com/99875491/223686238-c029c9c0-5628-44bf-bb57-99575678b725.jpg)
+![Mobilteile_Verwaltung_4](https://user-images.githubusercontent.com/99875491/223705516-d0381d04-00f3-4522-915e-7dbdc91da12f.jpg)
+![Mobilteile_Verwaltung_5](https://user-images.githubusercontent.com/99875491/223705536-6dbe72c8-677f-4f0e-bbab-92ae8cc90f04.jpg)
 
 Klicken Sie auf "Sichern", um die Anmelde-Daten zu speichern.
 Nun sehen Sie den Status Ihres eingerichteten Mobilteils ( Nicht angemeldet )
 
-![Mobilteile_Verwaltung_6](https://user-images.githubusercontent.com/99875491/223686269-7c8bde46-fa6c-49e0-b8c2-045215ecb9a1.jpg)
+![Mobilteile_Verwaltung_6](https://user-images.githubusercontent.com/99875491/223705619-14272aaa-ff25-4ac4-a1fa-9d72e17dd7cd.jpg)
 
 ### Mobilteil anmelden 
 
@@ -89,12 +88,13 @@ Nun sehen Sie den Status Ihres eingerichteten Mobilteils ( Nicht angemeldet )
 27. Wählen Sie unter RegStatus "Zur Anmeldung" aus.
 28. Klicken Sie dann auf "Anmeldung starten"
 
-![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223686336-a27701d2-cafb-4e7c-8771-c4dfab46adf9.jpg)
-![Mobilteile_Verwaltung_8](https://user-images.githubusercontent.com/99875491/223686396-c40456ab-4113-4fc7-95dc-abf374935a09.jpg)
+![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223705721-b0c97193-2a74-4310-a642-4bfbd07a65ee.jpg)
+![Mobilteile_Verwaltung_8](https://user-images.githubusercontent.com/99875491/223705739-6997157c-716a-420b-8d87-42cfe539574e.jpg)
 
-29. Wählen Sie im Menü ihres Mobilteils den Punkt "Mobilteil anmelden" anmelden aus. Es wird nun die PIN abgefragt. Falls Sie diese im Einrichtungsprozess nicht geändert haben, ist sie i.d.R. "0000".
+29. Wählen Sie im Menü ihres Mobilteils den Punkt "Mobilteil anmelden" anmelden aus. Es wird nun die PIN abgefragt. Falls Sie 
+diese im Einrichtungsprozess nicht geändert haben, ist sie i.d.R. "0000".
 
-![Mobilteile_Verwaltung_9](https://user-images.githubusercontent.com/99875491/223686435-4130d94c-82be-414f-ae78-b44e7b5c7538.jpg)
+![Mobilteile_Verwaltung_9](https://user-images.githubusercontent.com/99875491/223705788-c3387b53-a2b7-4cd4-ad0a-37d62cba5132.jpg)
 
 Die erfolgreiche Anmeldung können Sie überprüfen, indem Sie unter "Mobilteile -> Verwaltung" den Status des/der Mobilteile anzeigen lassen.
 Bei erfolgreicher Anmeldung ist der Status "Angemeldet". Damit ist gleichzeitig der jeweilige SIP-Account erfolgreich an der Cloud-PBX registriert.
