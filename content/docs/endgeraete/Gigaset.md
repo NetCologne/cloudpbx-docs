@@ -14,7 +14,7 @@ In diesem Kapitel erhalten Sie eine Anleitung für die manuelle Konfiguration de
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
 
-[PW_Aendern_Regel](https://user-images.githubusercontent.com/99875491/223677469-1875d022-eb2d-489e-a81e-4a537eb9bb3b.jpg)
+![PW_Aendern_Regel](https://user-images.githubusercontent.com/99875491/223677469-1875d022-eb2d-489e-a81e-4a537eb9bb3b.jpg)
 
 Username und Password lauten im Auslieferungs-Zustand beide "admin". Bitte beachten Sie, dass beim erstmaligem Zugriff das Passwort geändert werden 
 muss entsprechend der dargestellten Passwort-Regeln.
@@ -42,7 +42,7 @@ muss entsprechend der dargestellten Passwort-Regeln.
 
 ![Provider_oder_PBX_Profil_3](https://user-images.githubusercontent.com/99875491/223679681-449dc688-bad4-4c2f-98ed-769db94c6ad6.jpg)
 
-13. Hier keine Änderungen vornehmen; Satndardwerte übernehmen
+13. Hier keine Änderungen vornehmen; Standardwerte übernehmen
 
 ![Provider_oder_PBX_Profil_4](https://user-images.githubusercontent.com/99875491/223679698-4f1df498-52cb-4c79-918e-b25f0572b9f6.jpg)
 ![Provider_oder_PBX_Profil_5](https://user-images.githubusercontent.com/99875491/223679712-42b171b8-8ab2-4886-94c0-cfbd33717f36.jpg)
