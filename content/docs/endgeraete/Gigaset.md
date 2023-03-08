@@ -60,28 +60,44 @@ muss entsprechend der dargestellten Passwort-Regeln.
 18. Tragen Sie bitte unter "IPUI" die IPUI ihres Mobilteiles ein. Um die IPUI anzeigen zu lassen, drücken sie auf dem Handset auf Menü. 
 Während das Menü angezeigt wird '*#06#' eingeben, dann erscheint zuoberst die IPEI (IPUI).
 19. Tragen Sie dann unter "Persönliche Providerdaten" die Daten Ihres SIP-Accounts ein, welche Sie von NetCologne erhalten haben
- Tragen Sie unter „Anmeldename“ den SIP Usernamen ein
- Tragen Sie unter Anmeldepasswort das SIP Passwort ein
- Wiederholen Sie die Eingabe des Benutzernamens unter „Benutzername“
- Geben Sie den angezeigten Namen ein. Der Name kann frei gewählt werden
- Wählen Sie bei Voip-Provider das eben eigerichtete Profil aus (unter 4. festgelegt)
- Klicken Sie auf "Sichern", um die Anmelde-Daten zu speichern.
+20. Tragen Sie unter „Anmeldename“ den SIP Usernamen ein
+21. Tragen Sie unter Anmeldepasswort das SIP Passwort ein
+22. Wiederholen Sie die Eingabe des Benutzernamens unter „Benutzername“
+23. Geben Sie den angezeigten Namen ein. Der Name kann frei gewählt werden
+24. Wählen Sie bei Voip-Provider das eben eigerichtete Profil aus (unter 4. festgelegt)
 
 ![Mobilteile_Verwaltung_2](https://user-images.githubusercontent.com/99875491/223686138-e2a49c2b-002e-4c71-9f77-5266530f9da6.jpg)
+ 
+ Hier bitte Standard-Werte übernehmen.
 
 ![Mobilteile_Verwaltung_3](https://user-images.githubusercontent.com/99875491/223688339-b0aea619-ffff-4ee2-ac84-609a145342e3.jpg)
 
+Hier bitte ebenfalls Standard-Werte übernehmen.
+
 ![Mobilteile_Verwaltung_4](https://user-images.githubusercontent.com/99875491/223686206-f76ce24e-54dd-4b62-adf2-8978ab0d8e4f.jpg)
 
+25. Klicken Sie auf "Sichern", um die Anmelde-Daten zu speichern.
+
 ![Mobilteile_Verwaltung_5](https://user-images.githubusercontent.com/99875491/223686238-c029c9c0-5628-44bf-bb57-99575678b725.jpg)
+
+Nun sehen Sie den Status Ihres eingerichteten Mobilteils ( Nicht angemeldet )
 
 ![Mobilteile_Verwaltung_6](https://user-images.githubusercontent.com/99875491/223686269-7c8bde46-fa6c-49e0-b8c2-045215ecb9a1.jpg)
 
 ### Mobilteil anmelden 
 
-![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223686336-a27701d2-cafb-4e7c-8771-c4dfab46adf9.jpg)
+26. Wählen Sie im nächsten Schritt das soeben eingerichtet Mobilteil aus ( Bearbeiten )
+27. Wählen Sie unter RegStatus "Zur Anmeldung" aus.
+28. Klicken Sie dann auf "Anmeldung starten"
 
+![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223686336-a27701d2-cafb-4e7c-8771-c4dfab46adf9.jpg)
 ![Mobilteile_Verwaltung_8](https://user-images.githubusercontent.com/99875491/223686396-c40456ab-4113-4fc7-95dc-abf374935a09.jpg)
 
+29. Wählen Sie im Menü ihres Mobilteils den Punkt "Mobilteil anmelden" anmelden aus. Es wird nun die PIN abgefragt. Falls Sie diese im Einrichtungsprozess nicht geändert haben, ist sie i.d.R. "0000".
+
 ![Mobilteile_Verwaltung_9](https://user-images.githubusercontent.com/99875491/223686435-4130d94c-82be-414f-ae78-b44e7b5c7538.jpg)
+
+Die erfolgreiche Anmeldung können Sie überprüfen, indem Sie unter "Mobilteile -> Verwaltung" den Status des/der Mobilteile anzeigen lassen.
+Bei erfolgreicher Anmeldung ist der Status "Angemeldet". Damit ist gleichzeitig der jeweilige SIP-Account erfolgreich an der Cloud-PBX registriert.
+
 
