@@ -16,7 +16,7 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 
 ![PW_Aendern_Regel](https://user-images.githubusercontent.com/99875491/223705005-0f615291-8dac-4abc-ad11-d1071340c51e.jpg)
 
-Username und Password lauten im Auslieferungs-Zustand beide "admin". Bitte beachten Sie, dass beim erstmaligem Zugriff das Passwort geändert werden 
+Username und Passwort lauten im Auslieferungs-Zustand beide "admin". Bitte beachten Sie, dass beim erstmaligem Zugriff das Passwort geändert werden 
 muss entsprechend der dargestellten Passwort-Regeln.
 
 ### Konfiguration Basis-Sataion
@@ -61,7 +61,7 @@ muss entsprechend der dargestellten Passwort-Regeln.
 Während das Menü angezeigt wird '*#06#' eingeben, dann erscheint zuoberst die IPEI (IPUI).
 19. Tragen Sie dann unter "Persönliche Providerdaten" die Daten Ihres SIP-Accounts ein, welche Sie von NetCologne erhalten haben
 20. Tragen Sie unter „Anmeldename“ den SIP Usernamen ein
-21. Tragen Sie unter Anmeldepasswort das SIP Passwort ein
+21. Tragen Sie unter "Anmeldepasswort" das SIP Passwort ein
 22. Wiederholen Sie die Eingabe des Benutzernamens unter „Benutzername“
 23. Geben Sie den angezeigten Namen ein. Der Name kann frei gewählt werden
 24. Wählen Sie bei Voip-Provider das eben eigerichtete Profil aus (unter 4. festgelegt)
@@ -91,7 +91,7 @@ Nun sehen Sie den Status Ihres eingerichteten Mobilteils ( Nicht angemeldet )
 ![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223705721-b0c97193-2a74-4310-a642-4bfbd07a65ee.jpg)
 ![Mobilteile_Verwaltung_8](https://user-images.githubusercontent.com/99875491/223705739-6997157c-716a-420b-8d87-42cfe539574e.jpg)
 
-29. Wählen Sie im Menü ihres Mobilteils den Punkt "Mobilteil anmelden" anmelden aus. Es wird nun die PIN abgefragt. Falls Sie 
+29. Wählen Sie im Menü ihres Mobilteils den Punkt "Mobilteil anmelden" aus. Es wird nun die PIN abgefragt. Falls Sie 
 diese im Einrichtungsprozess nicht geändert haben, ist sie i.d.R. "0000".
 
 ![Mobilteile_Verwaltung_9](https://user-images.githubusercontent.com/99875491/223705788-c3387b53-a2b7-4cd4-ad0a-37d62cba5132.jpg)
