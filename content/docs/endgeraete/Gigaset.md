@@ -27,7 +27,7 @@ muss entsprechend der dargestellten Passwort-Regeln.
 
 ![Provider_oder_PBX_Profil_1](https://user-images.githubusercontent.com/99875491/223679646-3b803763-4cc8-451a-99a5-dc147e948057.jpg)
 
-4. Eintragen des Profilnamens
+4. Eintragen des Profilnamens ( frei wählbar )
 5. Eintragen der Domain
 6. Eintragen der Proxy Serveradresse (identisch mit Domain) – Serverport auf 5061 ändern
 7. Transportprotokoll auf TLS setzen, SRTP auswählen
@@ -76,10 +76,9 @@ Hier bitte ebenfalls Standard-Werte übernehmen.
 
 ![Mobilteile_Verwaltung_4](https://user-images.githubusercontent.com/99875491/223686206-f76ce24e-54dd-4b62-adf2-8978ab0d8e4f.jpg)
 
-25. Klicken Sie auf "Sichern", um die Anmelde-Daten zu speichern.
-
 ![Mobilteile_Verwaltung_5](https://user-images.githubusercontent.com/99875491/223686238-c029c9c0-5628-44bf-bb57-99575678b725.jpg)
 
+Klicken Sie auf "Sichern", um die Anmelde-Daten zu speichern.
 Nun sehen Sie den Status Ihres eingerichteten Mobilteils ( Nicht angemeldet )
 
 ![Mobilteile_Verwaltung_6](https://user-images.githubusercontent.com/99875491/223686269-7c8bde46-fa6c-49e0-b8c2-045215ecb9a1.jpg)
