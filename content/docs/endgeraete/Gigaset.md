@@ -32,7 +32,7 @@ muss entsprechend der dargestellten Passwort-Regeln.
 6. Eintragen der Proxy Serveradresse (identisch mit Domain) – Serverport auf 5061 ändern
 7. Transportprotokoll auf TLS setzen, SRTP auswählen
 
-![Provider_oder_PBX_Profil_2](https://user-images.githubusercontent.com/99875491/223705158-eee8e38d-30cf-43b2-ad9d-ab5edbf881b4.jpg)
+![Provider_oder_PBX_Profil_2](https://user-images.githubusercontent.com/99875491/223706265-46051314-323d-4c43-86ff-908115c4c373.jpg)
 
 8. Für DNS Abfrage SRV + A auswählen
 9. Outbound Proxymode auf „Immer“ setzen
