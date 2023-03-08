@@ -89,7 +89,7 @@ Nun sehen Sie den Status Ihres eingerichteten Mobilteils ( Nicht angemeldet )
 28. Klicken Sie dann auf "Anmeldung starten"
 
 ![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223705721-b0c97193-2a74-4310-a642-4bfbd07a65ee.jpg)
-![Mobilteile_Verwaltung_8](https://user-images.githubusercontent.com/99875491/223716500-5fcb30c4-c6f0-4679-a4a6-bcb6d63d98b5.jpg)
+![Mobilteile_Verwaltung_8](https://user-images.githubusercontent.com/99875491/223717235-286450b7-8d9b-4915-b1a0-8ae222defd1f.jpg)
 
 29. Wählen Sie im Menü ihres Mobilteils den Punkt "Mobilteil anmelden" aus. Es wird nun die PIN abgefragt. Falls Sie 
 diese im Einrichtungsprozess nicht geändert haben, ist sie i.d.R. "0000".
