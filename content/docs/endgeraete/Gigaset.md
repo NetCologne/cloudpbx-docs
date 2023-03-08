@@ -64,10 +64,9 @@ muss entsprechend der dargestellten Passwort-Regeln.
 
 ![Mobilteile_Verwaltung_6](https://user-images.githubusercontent.com/99875491/223686269-7c8bde46-fa6c-49e0-b8c2-045215ecb9a1.jpg)
 
-![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223686336-a27701d2-cafb-4e7c-8771-c4dfab46adf9.jpg)
-
-
 ### Mobilteil anmelden 
+
+![Mobilteile_Verwaltung_7](https://user-images.githubusercontent.com/99875491/223686336-a27701d2-cafb-4e7c-8771-c4dfab46adf9.jpg)
 
 ![Mobilteile_Verwaltung_8](https://user-images.githubusercontent.com/99875491/223686396-c40456ab-4113-4fc7-95dc-abf374935a09.jpg)
 
