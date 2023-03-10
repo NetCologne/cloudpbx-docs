@@ -19,7 +19,7 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 Username und Passwort lauten im Auslieferungs-Zustand beide "admin". Bitte beachten Sie, dass beim erstmaligem Zugriff das Passwort geändert werden 
 muss entsprechend der dargestellten Passwort-Regeln.
 
-### Konfiguration Basis-Sataion
+### Konfiguration Basis-Station
 
 1. Navigieren sie zu „Einstellungen“
 2. Wählen sie „Provider- oder PBX-Profile aus
