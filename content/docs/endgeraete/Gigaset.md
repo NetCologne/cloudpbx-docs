@@ -50,6 +50,12 @@ muss entsprechend der dargestellten Passwort-Regeln.
 14. Unter "Signalisierungsoptionen für "Halten" im Session Description Protocol (SDP) bitte "nur Senden" wählen
 15. Einstellungen sichern
 
+Navigieren Sie nun zu "Einstellungen - System - Sicherheit"
+Bei "Alle Zertifikate akzeptieren" aktivieren Sie "Ja".
+
+![Sicherheit_alle_Zertifikate_akzeptieren](https://user-images.githubusercontent.com/99875470/231780781-d54e6cd9-ec2f-48f8-aeb1-7f35bdbcf1a7.jpg)
+
+
 ### Konfiguration Mobilteil 
 
 16. Klicken sie nun auf Mobilteile und Navigieren sie zum Punkt Verwaltung
