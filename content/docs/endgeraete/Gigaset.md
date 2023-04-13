@@ -10,6 +10,9 @@ toc: true
 
 In diesem Kapitel erhalten Sie eine Anleitung für die manuelle Konfiguration der IP-DECT Basis-Station Gigaset N670.
 
+Die folgende Konfiguration wurde mit der Firmware-Version V2.36.0 (V2.36.0+build.732061a) getestet. Achten Sie unbedingt darauf, mindestens diese Version oder aktueller zu verwenden.
+
+
 ### Zugangsdaten 
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
