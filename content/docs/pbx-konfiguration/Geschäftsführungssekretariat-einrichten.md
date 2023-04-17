@@ -31,4 +31,4 @@ Beim betreffenden Subscriber rechts auf den Punkt *Einstellungen* klicken und da
 
 ![GF-Sekretärin weiterleiten](https://user-images.githubusercontent.com/98753538/232430441-8acbebae-441b-40a9-8272-5d2ac3c85fca.jpg)
 
-Mit dem Klick auf die Taste *Save* werden die Einstellungen gespeichert und aktiviert.
+Mit dem Klick auf *Save* werden die Einstellungen gespeichert und aktiviert.
