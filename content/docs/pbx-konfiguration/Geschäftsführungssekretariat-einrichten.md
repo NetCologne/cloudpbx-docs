@@ -18,7 +18,7 @@ Im Beispiel ist *porz* der Geschäftsführer. Das *Sekretariat* hat die Rufnumme
 
 Nun diesem die Rufnummer des Mitarbeiters (Sekretär/in) zuweisen und die Konfiguration bestätigen.
 
-![GF-Sekretärin hinzufügen](https://user-images.githubusercontent.com/98753538/232427913-03ae65f2-639d-49ee-b3b1-0ee25523744d.jpg)
+![GF-Sekretärin hinzufügen](https://user-images.githubusercontent.com/98753538/232438884-e6149b06-112e-4c77-b6b8-e1d0c56ebda6.jpg)
 
 ## 2. Konfiguration durch Weiterleitung aktivieren
 
