@@ -35,9 +35,9 @@ Die beiden Passwörter können aus Sicherheitsgründen nur beim Anlegen eingeseh
 * Gruppen können hier (6) konfiguriet werden. <br>
 * Sound-Set (7): Hier können Sie Ihre eigenen Töne oder Melodien im wav-Format hochladen und der Nebenstelle zuweisen. <br>
 
-Im Beispiel wird die Nebenstelle mit der Durchwahl "10" für den User "Zollstock" eingerichtet:
+Im Beispiel wird die Nebenstelle mit der Durchwahl "0" für den User "Zollstock" eingerichtet:
 
-![neu_seat hinzufügen3](https://user-images.githubusercontent.com/98753538/234777561-80edf872-8886-4648-a71b-dbe8e882b87d.jpg)
+![neu_seat hinzufügen3](https://user-images.githubusercontent.com/98753538/234779142-f90019a9-7a45-49b5-a3ef-30b7f9576b56.jpg)
 
 Das Web-Passwort wird benötigt, wenn der User der Nebenstelle per Web-Interface seine Nebenstelle konfigurieren können soll – also Anrufweiterschaltungen, Kurzwahlen etc. einrichten können soll.
 
