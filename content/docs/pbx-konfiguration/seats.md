@@ -59,4 +59,4 @@ Klickt man die Nebenstelle an, können links unter Preferences (1) und rechts un
 <br>
 Bei Preferencen/Einstellungen kann eine oder mehrere Alias-Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, innsofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
 <br>
-Unter CLI (Calling Line Identification) erfolgt die Konfiguration der abgehend signaliserten Rufnummern. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein.
+Unter CLI (Calling Line Identification) erfolgt die Konfiguration der abgehend signalisierten Rufnummern. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein.
