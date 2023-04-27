@@ -16,9 +16,11 @@ Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das Telefonmodell au
 Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
 
 ### Snom D7-Serie
+
 ![cloudpbx_Gerät1 hinzufügen](https://user-images.githubusercontent.com/98753538/157050069-16510561-363d-4d15-842b-838dbd7b46aa.jpg)
 
 Im nächsten Schritt konfigurieren Sie die Telefone. Sie legen also fest, welche Nebenstelle auf welchem Telefon klingeln soll und welche Nebenstellen per BusyLampField (BLF) überwacht werden sollen. Klicken Sie dafür auf das Gerät und richten bei der entsprechenden Lampe/Taste den Teilnehmer ein:
+
 ![cloudpbx_Teilnehmer einrichten1](https://user-images.githubusercontent.com/98753538/157249202-096b60c3-3ec4-49b8-a22c-d85b0278d1b9.jpg)
 
 Weitere Funktionen für die Tastenbelegung sind Kurzwahl, Forward oder Transfer.
@@ -27,6 +29,7 @@ Weitere Funktionen für die Tastenbelegung sind Kurzwahl, Forward oder Transfer.
 
 
 ### Yealink T5-Serie
+
 ![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
 
 Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" (BLF) belegt werden: 
@@ -43,6 +46,7 @@ Weitere Funktionen für die Tastenbelegung sind *Kurzwahl, Forward oder Transfer
 
 
 ### Yealink W60B
+
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
 
 ![cloudpbx yealinkW60B](https://user-images.githubusercontent.com/98753538/159929245-d66ec338-1a73-42dc-9967-5330f1423112.jpg)
@@ -113,6 +117,7 @@ Sollen Nebenstellen ergänzt werden, sollte ein Factory Reset nicht notwendig se
 Wenn in der Web Ansicht des W70B die Diagonale (wie oben zu sehen) unter Eingehende bzw. Ausgehende Leitungen nicht mehr durchgängig ist, ist mindestens ein Factory Reset erforderlich. Die Provisionierung ist vorher auf etwaige Lücken zu prüfen.
 
 ### Yealink W80DM (W80DM-10)
+
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
 
 Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprechende Nebenstelle zu:
@@ -136,6 +141,7 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 5. Wenn das Mobilteil erfolgreich an der Basisstation angemeldet wurde, erscheint es in der Übersicht:
 
 ![Registrierung_Mobilteil_4](https://user-images.githubusercontent.com/99875491/187174295-ff6f4d6d-177d-4867-be4b-664aa2d2b025.jpeg)
+
 
 ### Mobilteil anmelden ( Im Falle eines W53H )
 
