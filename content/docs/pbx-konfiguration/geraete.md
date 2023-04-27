@@ -21,6 +21,11 @@ Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
 Im nächsten Schritt konfigurieren Sie die Telefone. Sie legen also fest, welche Nebenstelle auf welchem Telefon klingeln soll und welche Nebenstellen per BusyLampField (BLF) überwacht werden sollen. Klicken Sie dafür auf das Gerät und richten bei der entsprechenden Lampe/Taste den Teilnehmer ein:
 ![cloudpbx_Teilnehmer einrichten1](https://user-images.githubusercontent.com/98753538/157249202-096b60c3-3ec4-49b8-a22c-d85b0278d1b9.jpg)
 
+Weitere Funktionen für die Tastenbelegung sind Kurzwahl, Forward oder Transfer.
+
+![Neue Tasten2](https://user-images.githubusercontent.com/98753538/234840253-484f59f6-3a4e-4e79-9f4a-df0a22b3ec41.jpg)
+
+
 ### Yealink T5-Serie
 ![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
 
