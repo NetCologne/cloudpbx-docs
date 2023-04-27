@@ -29,23 +29,34 @@ Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" 
 * Web-Password (3b), <br>
 * SIP Username (4a) sowie das <br>
 * SIP Password (4b) hinzu. <br>
+
 Der Display Name kann unabhängig von Web Username und SIP Username vergeben und z.B. im Falle eines Mitarbeiterwechsels auch aktualisiert werden, ohne dass die Nebenstelle neu eingerichtet werden muss. <br>
+
 Die beiden Passwörter können aus Sicherheitsgründen nur beim Anlegen eingesehen werden, d.h. entweder jetzt notieren oder später neu vergeben. <br>
+
 * Ist der Kunde Eigentümer einer weitereren Nummer und hat er diese bei Auftragserteilung der NetCologne mitgeteilt, kann diese unter "Alias-Nummer" (5) ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. <br>
 * Gruppen können hier (6) konfiguriet werden. <br>
 * Sound-Set (7): Hier können Sie Ihre eigenen Töne oder Melodien im wav-Format hochladen und der Nebenstelle zuweisen. <br>
 
 Im Beispiel wird die Nebenstelle mit der Durchwahl "0" für den User "Zollstock" eingerichtet:
-
+<br>
 ![neu_seat hinzufügen3](https://user-images.githubusercontent.com/98753538/234779142-f90019a9-7a45-49b5-a3ef-30b7f9576b56.jpg)
-
+<br>
 Das Web-Passwort wird benötigt, wenn der User der Nebenstelle per Web-Interface seine Nebenstelle konfigurieren können soll – also Anrufweiterschaltungen, Kurzwahlen etc. einrichten können soll.
 
 Das SIP Passwort ist erforderlich, wenn Endgeräte – also Telefone oder Sip Clients etc. – manuell provisioniert werden sollen. Grundsätzlich kann sowohl der Administrator als auch der User die entsprechenden Passwörter ändern und genau dabei auch wieder einsehen. 
-
+<br>
 Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wurden bereit 6 Nebenstellen konfiguriert. 
-
+<br>
 ![cloudpbx_seat hinzufügen3](https://user-images.githubusercontent.com/98753538/157044723-2df6568d-81a5-48e2-bec1-7db413f34a1d.jpg)
+<br>
 
 ## Konfiguration der angezeigten Nummer
 
+Klickt man die Nebenstelle an, können links unter Preferences (1) und rechts unter Call Forwards (2) weitere Einstellungen vorgenommen werden können. <br>
+<br>
+![neu_seat Anzeige1](https://user-images.githubusercontent.com/98753538/234797602-12a7b7d3-a062-4f5b-9207-f2c5752c8034.jpg)
+<br>
+Bei Preferencen/Einstellungen kann eine oder mehrere Alias-Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, innsofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
+<br>
+Unter CLI (Calling Line Identification) erfolgt die Konfiguration der abgehend signaliserten Rufnummern. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein.
