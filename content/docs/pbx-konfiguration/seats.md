@@ -55,8 +55,9 @@ Der folgende Screenshot zeigt, wie die Passwörter geändert werden – hier wur
 
 Klickt man die Nebenstelle an, können links unter Preferences (1) und rechts unter Call Forwards (2) weitere Einstellungen vorgenommen werden können. <br>
 <br>
-![neu_seat Anzeige1](https://user-images.githubusercontent.com/98753538/234797602-12a7b7d3-a062-4f5b-9207-f2c5752c8034.jpg)
+![neu_seat Anzeige2](https://user-images.githubusercontent.com/98753538/234835421-d3c311b6-04ca-4d27-992e-0c0e50da39bf.jpg)
 <br>
-Bei Preferencen/Einstellungen kann eine oder mehrere Alias-Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, insofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
+Bei Preferencen/Einstellungen kann unter CLI (Calling Line Identification) die abgehend signalisierte Rufnummer konfiguriert werden. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein. <br>
+ <br>
+Beim darüberliegenden Punkt kann eine oder mehrere Alias-Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, insofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
 <br>
-Unter CLI (Calling Line Identification) erfolgt die Konfiguration der abgehend signalisierten Rufnummern. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein.
