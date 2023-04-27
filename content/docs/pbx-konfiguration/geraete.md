@@ -32,6 +32,11 @@ So sieht z.B. die "Zentrale", welcher Kollege gerade angerufen wird oder kann ei
 
 ![cloudpbx_busylampfield1](https://user-images.githubusercontent.com/98753538/157256356-a871d273-04d9-4c8c-844e-6dc818de1f0c.jpg)
 
+Weitere Funktionen für die Tastenbelegung sind *Kurzwahl, Forward oder Transfer*.
+
+![Neue_Tasten](https://user-images.githubusercontent.com/98753538/234839231-0bb97cbc-eb29-4d51-be63-e7ee1c95fc9f.jpg)
+
+
 ### Yealink W60B
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
 
