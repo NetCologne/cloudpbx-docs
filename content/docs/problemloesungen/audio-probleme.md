@@ -15,7 +15,6 @@ Falls Sie den Grund suchen, warum die Audio-Qualität Ihrer Verbindung zu wünsc
 Ist die Sprachqualität immer noch beeinträchtigt, sollten Sie die Geschwindigkeit Ihrer Internetverbindung prüfen. Schnell und einfach geht das unter http://speedtest.netcologne.de/. Die Website setzt einen "Ping" ab und testet, wie schnell Ihre Internetverbindung antwortet. Je schneller, desto besser. Führen Sie diesen Test einmal durch, während Sie telefonieren und einmal, wenn Sie nicht telefonieren.
 
 Haben Sie dann immer noch keine zufriedenstellende Audio-Qualität, hilft Ihnen unser Support-Team gern weiter. Halten Sie für dieses Gespräch bitte folgende Daten bereit und seien Sie so präzise, wie es geht:
-![2](https://github.com/NetCologne/cloudpbx-docs/assets/20154956/6cffc7ec-76ed-471c-9d6a-2b42dd3e298f)
 
 Datum und Uhrzeit des Anrufs
 Angerufene Rufnummer
