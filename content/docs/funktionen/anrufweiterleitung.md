@@ -16,10 +16,15 @@ Klicken Sie zunächst auf den Menuepunkt *Anrufeinstellungen [1]*, dann auf *Ruf
 
 ![Rufumleitung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/bb66bcac-d34b-42fa-b0f3-f324a124e9cd.jpg)
 
+![Rufumleitung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a4cef919-4982-4590-8b70-73e6da3686c6)
+
+![Rufumleitung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/5860df88-7215-4734-b5fb-334a7686e74c)
+
 Nun wählen Sie den Status Ihrer Nebenstelle aus, bei dem die Rufumleitung erfolgen soll: *Wenn verfügbar*, *Wenn nicht verfügbar* oder *Wenn besetzt*.
 
 ![Rufumleitung Bedingung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/412be6f2-8d17-4215-8574-00e9435c3ccf)
 
+![Rufumleitung Bedingung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/75510c2a-33cb-43ea-b9cc-23af79ac0484)
 
 
 
