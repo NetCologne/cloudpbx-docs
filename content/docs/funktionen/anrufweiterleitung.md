@@ -12,12 +12,13 @@ Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe autom
 
 ## 1. Einrichtung über das Web-Interface (Anwender)
 
-Klicken Sie zunächst auf den Menuepunkt *Anrufeinstellungen [1]*, dann auf *Rufumleitung [2]* und bei *+ RUFUMLEITUNG HINZUFÜGEN [3]*. 
+Klicken Sie zunächst auf den Menuepunkt *Anrufeinstellungen [1]*, dann auf *Rufumleitung [2]* und bei *+ RUFUMLEITUNG HINZUFÜGEN [3]*. Wählen Sie dann den Status Ihrer Nebenstelle aus, bei dem die Rufumleitung erfolgen soll: *Wenn verfügbar*, *Wenn nicht verfügbar* (Nebenstelle ist nicht registrtiert) oder *Wenn besetzt*.
 
-![Rufumleitung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/bb66bcac-d34b-42fa-b0f3-f324a124e9cd.jpg)
+![Rufumleitung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/73a1a309-348f-4e53-ac0a-9a4ebe0d4b79)
 
+Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer, ein Datum oder einen bestimmten Zeitraum bezieht, hinzufügen. 
 
-Nun wählen Sie den Status Ihrer Nebenstelle aus, bei dem die Rufumleitung erfolgen soll: *Wenn verfügbar*, *Wenn nicht verfügbar* oder *Wenn besetzt*.
+![Rufumleitung Bedingung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3317b435-7e18-445d-b396-18b0528c9449)
 
 
 
