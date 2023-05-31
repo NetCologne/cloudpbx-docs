@@ -20,6 +20,24 @@ Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer,
 
 ![Rufumleitung Bedingung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3317b435-7e18-445d-b396-18b0528c9449)
 
+Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen, und die alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
+
+![Rufumleitung Anruf von](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3e72d0de-48b4-4943-b531-5b962b91eceb)
+
+Sie können auch eine zeitliche Bedingung wie ein Datum oder einen Zeitraum definieren, an/in dem ankommende Rufe umgeleitet werden sollen. 
+
+![Rufumleitung Zeitraum](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/73ecfe62-0b1e-4ae5-a347-d9543fdc6774)
+
+Auch *Bürozeiten* sind möglich.
+
+![Rufumleitung Bürozeiten](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/2eea4060-f4ec-443f-8377-973c38e14ac7)
+
+### Ziele der Rufumleitung
+
+Abschließend geben Sie ein, wohin die Rufe umgeleitet werden sollen. hier gibt es ebenfalls eine Vielzahl an Möglichkeiten:
+
+![Rufumleitung Ziel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/9b461847-515c-49cf-84a3-33b7ed20f336)
+
 
 
 
