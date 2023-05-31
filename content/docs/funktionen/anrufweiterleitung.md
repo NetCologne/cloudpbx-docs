@@ -46,7 +46,7 @@ Auch ist es möglich eine weitere Umleitung (hier zum Anrufbeantworter) hinzuzuf
 
 ### Rufumleitung Beispiel
 
-Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz klingelt (hier: 5 Sekunden) und dann die Umleitung zu  einem Anrufbeantworter erfolgt, wo der Anrufer eine Nachricht hinterlassen kann. in der anderen Zeit wird (nach kurzem Klingeln) zu einer Ansage mit den Bürozeiten umgeleitet:
+Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz klingelt (hier: 5 Sekunden) und dann die Umleitung zu  einem Anrufbeantworter erfolgt, wo der Anrufer eine Nachricht hinterlassen kann. In der anderen Zeit wird (nach kurzem Klingeln) zu einer Ansage mit den Bürozeiten umgeleitet:
 
 ![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
 
