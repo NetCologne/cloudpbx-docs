@@ -34,12 +34,21 @@ Auch *Bürozeiten* sind möglich.
 
 ### Ziele der Rufumleitung
 
-Abschließend geben Sie ein, wohin die Rufe umgeleitet werden sollen. hier gibt es ebenfalls eine Vielzahl an Möglichkeiten:
+Durch Klicken auf die drei grünen Punkte (rechts oben) gelangen sie zu einem weiteren Menue und wählen aus zwölf Zielen aus, wohin die Rufe umgeleitet werden sollen:
 
 ![Rufumleitung Ziel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/9b461847-515c-49cf-84a3-33b7ed20f336)
 
+Die angeführten Möglichkeiten sind größtenteils selbsterklärend. Am Ende gibt es noch Schalter zum Deaktivieren und Löschen der Rufumleitung. Beliebte Anwendungen sind die Weiterleitung zu einer (bestimmmten) Rufnummer, einem Anrufbeantworter, an das Anrufmenü oder zur Bürostundenansage. Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu einer weiteren Nummer eingerichtet. Dabei kann die Klingelzeit vorm Umleiten gesetzt werden.
 
+![Rufumleitung Zeit](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/46bd8a2d-7563-4796-a581-7fd31c6c2e68)
 
+Auch ist es möglich eine weitere Umleitung (hier zum Anrufbeantworter) hinzuzufüngen. Hat man sich "verklickt" kann man diese mit den drei Punkten rechts (unten) entfernen.
+
+### Rufumleitung Beispiel
+
+Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz klingelt (hier: 5 Sekunden) und dann die Umleitung zu  einem Anrufbeantworter erfolgt, wo der Anrufer eine Nachricht hinterlassen kann. in der anderen Zeit wird (nach kurzem Klingeln) zu einer Ansage mit den Bürozeiten umgeleitet:
+
+![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
 
 
 ## 2. Einrichtung am Endgerät (Anwender)
