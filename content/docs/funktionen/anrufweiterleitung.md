@@ -20,7 +20,7 @@ Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer,
 
 ![Rufumleitung Bedingung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3317b435-7e18-445d-b396-18b0528c9449)
 
-Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen, und die alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
+Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen, und alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
 
 ![Rufumleitung Anruf von](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3e72d0de-48b4-4943-b531-5b962b91eceb)
 
