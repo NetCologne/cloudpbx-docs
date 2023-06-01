@@ -166,6 +166,6 @@ Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne
 
 Standardmäßig werden Rufumleitungen (Call-Forward) beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich unter *Kunden-Details* -> *Einstellungen* -> *Cloud PBX*
 
-![Rufumleitung Admin2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/2bb9e947-3ed6-4136-8975-b83cf168f3c3)
+![Rufumleitung Ignore Hunting](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/60486160-9feb-439c-9c4c-43ede7e103dc)
 
 Wenn Sie dennoch eine Rufumleitung bei einem Gruppen-Teilnehmer (Subscriber) einrichten möchten, klicken Sie auf *Edit* und entfernen das Häkchen im Feld *Value*. 
