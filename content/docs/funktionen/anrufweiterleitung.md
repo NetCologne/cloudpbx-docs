@@ -67,6 +67,14 @@ Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über 
 
 ## 3. Einrichtung über das Web-Interface (Admin)
 
+Um einen Rufumleitung einzurichten, steht dem Admin die Menuepunkte *Anrufeinstellungen*, *Rufumleitung* *+ RUFUMLEITUNG HINZUFÜGEN* der gleiche Weg zur Verfügung:
+
+![Rufumleitung Admin](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/0f640e3f-ae72-459b-9c80-faf23340a0e8)
+
+Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
+
+![Rufumleitung Admin2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/34a9798b-c80d-4464-b62c-c89c238bb781)
+
 ### a) Anrufweiterleitung Subscriber
 
 Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *Subscriber [2]* und bei der betreffenden Nebenstelle (hier zollstock) auf *Einstellungen [3]*. 
