@@ -161,3 +161,11 @@ Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neu
 ![Call Forward Destination Sets](https://user-images.githubusercontent.com/98753538/163390656-591fcc5b-a774-449f-8fb1-b27d4001a473.jpg)
 
 Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view) zeigt Ihnen, ob das Set aktiv ist bzw. nicht. Per Mausklick auf "Remove" (6a) löschen Sie ein Set genauso einfach, wie Sie ein neues per Klick auf "Add destination/time sets" (6b) wieder hinzufügen können. Mit dem Button "Simple View" (7) gelangen Sie zurück zur "einfachen" Ansicht. Vergessen Sie nicht die Änderungen mit SAVE (8) zu speichern.
+
+## 4. Besonderheit: Call-Forward in der PBX-Gruppe
+
+Standardmäßig werden Rufumleitungen (Call-Forward) beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich unter *Kunden-Details* -> *Einstellungen* -> *Cloud PBX*
+
+![Rufumleitung Admin2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/2bb9e947-3ed6-4136-8975-b83cf168f3c3)
+
+Wenn Sie dennoch eine Rufumleitung bei einem Gruppen-Teilnehmer (Subscriber) einrichten möchten, klicken Sie auf *Edit* und entfernen das Häkchen im Feld *Value*. 
