@@ -67,9 +67,11 @@ Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über 
 
 ## 3. Einrichtung über das Web-Interface (Admin)
 
-Um einen Rufumleitung einzurichten, steht dem Admin die Menuepunkte *Anrufeinstellungen*, *Rufumleitung* *+ RUFUMLEITUNG HINZUFÜGEN* der gleiche Weg zur Verfügung:
+Um einen Rufumleitung einzurichten, geht der Admin zum Punkt PBX-Konfiguration und wählt der die entsprechende Nebenstelle [1] (im Bild Kalk) oder Gruppe [2] aus kann dann rechts bei *Call Forwards* mit *+ RUFUMLEITUNG HINZUFÜGEN* diese einrichten:
 
-![Rufumleitung Admin](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/0f640e3f-ae72-459b-9c80-faf23340a0e8)
+![Rufumleitung Admin3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/4aeed0e7-7bbf-4d6e-8eea-b6b899d4080c)
+
+Er hat dabei die gleichen Einstellungsmöglichkeiten wie der Anwender [Einrichtung Call Forward](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#1-einrichtung-%C3%BCber-das-web-interface-anwender)
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
 
