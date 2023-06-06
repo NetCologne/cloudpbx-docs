@@ -62,4 +62,4 @@ Bei Preferencen/Einstellungen kann unter CLI (Calling Line Identification) die a
 Beim darüberliegenden Punkt kann eine oder mehrere Alias-Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, insofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
 <br>
 
-Rechts unter Call Forwards (2) kann man ein [Anrufweiterleitung]https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/ konfigurieren.
+Rechts unter Call Forwards (2) kann man ein [Anrufweiterleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) konfigurieren.
