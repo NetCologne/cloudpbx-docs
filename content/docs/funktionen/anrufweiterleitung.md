@@ -176,7 +176,7 @@ Wird dennoch gewümscht, dass die Rufumleitung (Call-Forward) bei einem bestimmt
 
 ![Rufumleitung Subscriber](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/1fc78c90-5618-4500-a81f-6d56db7f9d7e)
 
-Bei den *Einstellungen* den Unterpinkt *Cloud PBX* öffnen.
+Bei den *Einstellungen* den Unterpunkt *Cloud PBX* öffnen.
 
  ![Rufumleitung Subscriber Cloud PBX](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a6afcd6f-990e-4ab9-85a7-b7ccfac78dc2)
 
