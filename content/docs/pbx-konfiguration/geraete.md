@@ -92,19 +92,17 @@ Im Falle eines W56H zB:
 6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
-#### 2.3.2 Hinweis für Konfigurations-Änderungen nach Erst-Konfiguration :
+#### 2.3.2 Änderungen nach Erst-Konfiguration
 
-Falls im Laufe des Betriebs Änderungen an der Konfiguration der Nebenstellen ( DECT-Mobilteile ) vorgenommen werden sollen ( zB. Löschen und Hinzufügen von Nebenstellen  ( DECT-Mobilteile ) so gehen Sie bitte wie folgt vor:
-
-Um ungewollte Vertauschungen von SIP Usern und Dect Endgeräten zu vermeiden, muss folgendermaßen vorgegangen werden:
+Falls im Laufe des Betriebs Änderungen an der Konfiguration der Nebenstellen (DECT-Mobilteile) vorgenommen werden sollen (z.B. Löschen und Hinzufügen von Nebenstellen (DECT-Mobilteile), so gehen Sie bitte wie beschrieben vor. Vermeiden Sie dabei ungewollte Vertauschungen von SIP Usern und DECT-Endgeräten:
 
 1.Schritt: Lückenlose Provisionierung der Nebenstellen im WebInterface der CloudPBX:
 
 ![grafik](https://user-images.githubusercontent.com/99875491/196387496-83f9ceaa-3d2c-494d-bb91-a88e9248f777.png)
 
-Das heißt die Ports müssen der Reihe nach belegt werden (hier also 1 – 3)
+Das heißt, die Ports müssen der Reihe nach belegt werden (hier also 1 – 3)
 
-2.Schritt: Factory Reset des W70B – damit ist sicher gestellt, dass es zu keinen Vertauschungen kommt und in der GUI des W70B sieht das so aus:
+2.Schritt: Factory Reset des W70B – damit ist sicher gestellt, dass es zu keinen Vertauschungen kommt. In der GUI des W70B sieht das so aus:
 
 ![W70_Doku](https://user-images.githubusercontent.com/99875491/196388088-f344b0a3-4892-4f76-b1c3-a02c071a332c.png)
 
