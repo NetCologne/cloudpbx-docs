@@ -14,6 +14,7 @@ Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Tele
 Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". <br>
 Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das Telefonmodell aus. <br>
 Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
+<br>
 Bei den Geräten können Sie auch manuelle Konfigurationen im Web Interface der Endgeräte vornehmen, die über das Autoprovisioning hinausgehen. Um zu verhindern, dass diese Anpassungen bei der Autoprovisionierung des Gerätes verloren gehen, können sie diese Änderungen gegen Überschreiben schützen. Schauen Sie dazu unter [Kundenspezifische Einstellungen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/geraete/#kundenspezifische-einstellungen). <br>
 **Achtung:** Aktuell ist dieses Feature nur bei Yealink Endgeräten verfügbar
 
