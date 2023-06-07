@@ -14,6 +14,7 @@ Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Tele
 Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". <br>
 Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das Telefonmodell aus. <br>
 Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
+Bei den Geräten können Sie auch manuelle Konfigurationen vornehmen, die über das Autoprovisioning hinausgehen. Um zu verhindern, dass diese Anpassungen durch die Standardeinstellungen (z.B. beim factory reset) überschrieben werden, schauen sie bei [Kundenspezifische Einstellungen]().
 
 ### 1.1 Snom D7-Serie
 
@@ -221,3 +222,17 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 *Sind die angemeldeten Handsets noch nicht sichtbar, ist gegebenenfalls im Menüpunkt "Home/Status" ein Reboot der DECT-Basisstation sinnvoll.*
 
 ![Cloudpbx_einrichten_snom_dect_reboot](https://user-images.githubusercontent.com/98753538/157691428-c41043ce-f043-4586-ac25-4365ba70e299.jpg)
+
+### Kundenspezifische Einstellungen
+
+Als Admin können Sie den Punkt *Kunden-Details* auswählen. Klicken Sie anschließend auf *PBX-Geräte* (Pfeil links). Beim betreffenden Endgerät (hier Yealink) können Sie dann die *Einstellungen* (Pfeil rechts) konfigurieren:
+
+![Einstellungen](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/db9348de-98cf-44cf-a13e-ef2538021916)
+
+Um die manuelle Konfiguration vor dem Überschreiben durch die Standardeinstellungen zu schützen, öffnen Sie das Menue *CPBX Device Administration* und wählen den Punkt *User config priority over provisioning* und setzen das Häkchen (siehe bild):
+
+![user config priority](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/80ee2a5c-745a-47a3-9b3f-36ff9cdf7d94)
+
+Per Reboot (stündlich oder manuell) gelangt die geänderte Einstellung auf das Endgerät/Telefon. Danach kann dieses manuell angepasst werden.
+
+
