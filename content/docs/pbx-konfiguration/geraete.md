@@ -14,7 +14,7 @@ Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Tele
 Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". <br>
 Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das Telefonmodell aus. <br>
 Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
-Bei den Geräten können Sie auch manuelle Konfigurationen vornehmen, die über das Autoprovisioning hinausgehen. Um zu verhindern, dass diese Anpassungen durch die Standardeinstellungen (z.B. beim factory reset) überschrieben werden, schauen sie bei [Kundenspezifische Einstellungen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/geraete/#kundenspezifische-einstellungen).
+Bei den Geräten können Sie auch manuelle Konfigurationen vornehmen, die über das Autoprovisioning hinausgehen. Um zu verhindern, dass diese Anpassungen durch die Standardeinstellungen (z.B. beim factory reset) überschrieben werden, schauen Sie bei [Kundenspezifische Einstellungen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/geraete/#kundenspezifische-einstellungen).
 
 ### 1.1 Snom D7-Serie
 
@@ -229,7 +229,7 @@ Als Admin können Sie den Punkt *Kunden-Details* auswählen. Klicken Sie anschli
 
 ![Einstellungen](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/db9348de-98cf-44cf-a13e-ef2538021916)
 
-Um die manuelle Konfiguration vor dem Überschreiben durch die Standardeinstellungen zu schützen, öffnen Sie das Menue *CPBX Device Administration* und wählen den Punkt *User config priority over provisioning* und setzen das Häkchen (siehe bild):
+Um die manuelle Konfiguration vor dem Überschreiben durch die Standardeinstellungen zu schützen, öffnen Sie das Menue *CPBX Device Administration*, wählen den Punkt *User config priority over provisioning* und setzen das Häkchen (siehe Bild):
 
 ![user config priority](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/80ee2a5c-745a-47a3-9b3f-36ff9cdf7d94)
 
