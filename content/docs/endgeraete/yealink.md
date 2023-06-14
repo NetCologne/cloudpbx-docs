@@ -48,7 +48,7 @@ Username und Password lauten beide "admin".
 4. Im ersten Schritt der Einrichtung wählen Sie das betreffende Konto im oberen Reiter aus.
 5. Aktivieren Sie die Leitung mit Auswahl von "An".
 6. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Telefon einsetzen.
-7. Unter "Registrierterungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
+7. Unter "Registrierungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
 8. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
 9. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
 10. Unter "Transport" wählen Sie "TLS" aus.
