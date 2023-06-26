@@ -63,3 +63,25 @@ Gleiches gilt für die Konfiguration der Faxeinstellungen, die Sie unter "Fax Fe
 ![Fax Admin Kundendetails3](https://user-images.githubusercontent.com/98753538/162376679-b5146278-36fb-496b-b624-8fd720e549ad.jpg)
 
 Auch hier können Sie die "Fax2Mail and Sendfax-Funktionen" an- und ausschalten, indem bei *Active* ein Häkchen gesetzt wird (yes) oder eben nicht (no).
+
+
+### Mail2Fax
+
+Mit dieser Funktion werden E-Mails als Fax versendet. Damit sie genutzt werden kann, muss der Administrator unter *Kundendetails* für die entsprechende Nebenstelle das Feature aktivieren.
+
+![mail2fax_details2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/e5aa3353-9e4e-4aa1-a33b-3b8f63b51104)
+
+
+Die Fax2Mail- und die Mail2Fax-Funktion müssen aktiviert werden. => Setzen Sie in beiden Feldern "Active" den Wert "yes" [1]
+
+Aktivieren Sie einen Secret Key (aktuell ist dieser mandatory!), hier "1_2_3_4_5_6" [2]
+
+Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne ein und die Mailadresse, die darüber informiert werden soll [3].
+
+
+
+
+
+
+
+
