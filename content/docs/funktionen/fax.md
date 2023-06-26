@@ -89,7 +89,7 @@ Mit den o. a. Einstellungen sähe dann eine E-Mail, die ein PDF Dokument über d
 
 ![mail2fax_email2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/20a679f8-8bbf-4420-9944-1197c7b2fbc5)
 
-Vor dem Secret Key müssen Sie eine **Leerzeile** eingeben. Eine einfache Nachricht senden Sie bitte im "Nur Text"-Format, da *html nicht akzeptiert* wird. Sie können auch ein vorhandenes Text-Dokument faxen, wenn es im *.pdf-Format* gespeichert wurde.
+Vor dem Secret Key müssen Sie eine **Leerzeile** eingeben. Eine einfache Nachricht senden Sie bitte im **"Nur Text"-Format**, da **html nicht akzeptiert** wird. Sie können auch ein vorhandenes Text-Dokument faxen, wenn es im **.pdf-Format** gespeichert wurde.
 
 
 
