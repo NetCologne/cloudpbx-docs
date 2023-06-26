@@ -67,16 +67,30 @@ Auch hier können Sie die "Fax2Mail and Sendfax-Funktionen" an- und ausschalten,
 
 ### Mail2Fax
 
-Mit dieser Funktion werden E-Mails als Fax versendet. Damit sie genutzt werden kann, muss der Administrator unter *Kundendetails* für die entsprechende Nebenstelle das Feature aktivieren.
+Mit dieser Funktion können E-Mails als Fax versendet werden. Zuvor muss der Administrator unter *Kundendetails* für die entsprechende Nebenstelle das Feature aktivieren und einige Einstellungen vornehmen:
 
 ![mail2fax_details2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/e5aa3353-9e4e-4aa1-a33b-3b8f63b51104)
-
 
 Die Fax2Mail- und die Mail2Fax-Funktion müssen aktiviert werden. => Setzen Sie in beiden Feldern "Active" den Wert "yes" [1]
 
 Aktivieren Sie einen Secret Key (aktuell ist dieser mandatory!), hier "1_2_3_4_5_6" [2]
 
-Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne ein und die Mailadresse, die darüber informiert werden soll [3].
+Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne ein und die Mailadresse, die dazu informiert werden soll [3].
+
+Unabhängig von Punkt [3] muss die ACL (Access Control List) definiert werden:
+
+![edit acl](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a84317be-6584-4bf3-98a0-d1c0e1cf4923)
+
+Hier tragen Sie Berechtigungen zum Faxversandt ein. Neben einer oder mehreren E-Mailadressen, können die IP-Adresse (oder Bereich) des Absenders sowie zulässige Zielrufnummern eingetragen werden. Mit der Zeichenkombination ".*" sind beliebige Nummern möglich. Bitte beachten Sie das Häkchen bei "Use Regex".
+
+Mit diesen Einstellungen kann man nun E-Mails an den Faxserver senden, der diese dann als Fax verschickt.
+
+Mit den o. a. Einstellungen sähe dann eine E-Mail, die ein PDF Dokument über die *faxnebenstelle* an eine Zielrufnummer faxt, so aus:
+
+![mail2fax_email2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/20a679f8-8bbf-4420-9944-1197c7b2fbc5)
+
+Vor dem Secret Key müssen Sie eine **Leerzeile** eingeben. Eine einfache Nachricht senden Sie bitte im "Nur Text"-Format, da *html nicht akzeptiert* wird. Sie können auch ein vorhandenes Text-Dokument faxen, wenn es im *.pdf-Format* gespeichert wurde.
+
 
 
 
