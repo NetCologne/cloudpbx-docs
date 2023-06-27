@@ -77,7 +77,7 @@ Aktivieren Sie einen Secret Key (aktuell ist dieser mandatory!), hier "1_2_3_4_5
 
 Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne ein und die Mailadresse, die dazu informiert werden soll [3].
 
-Unabhängig von Punkt [4] muss die ACL (Access Control List) definiert werden:
+Unabhängig davon muss Punkt [4], die ACL (Access Control List), definiert werden:
 
 ![edit acl](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a84317be-6584-4bf3-98a0-d1c0e1cf4923)
 
