@@ -87,7 +87,7 @@ Mit diesen Einstellungen kann man nun E-Mails an den Faxserver senden, der diese
 
 Mit den o. a. Einstellungen sähe dann eine E-Mail, die ein PDF Dokument über die *faxnebenstelle* an eine Zielrufnummer faxt, so aus:
 
-![mail2fax_email2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/20a679f8-8bbf-4420-9944-1197c7b2fbc5)
+![mail2fax_email3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/cb886fcf-4b53-4061-a2b8-e8fedfb9dac2)
 
 Vor dem Secret Key müssen Sie eine **Leerzeile** eingeben. Eine einfache Nachricht senden Sie bitte im **"Nur Text"-Format**, da **html nicht akzeptiert** wird. Sie können auch ein vorhandenes Text-Dokument faxen, wenn es im **.pdf-Format** gespeichert wurde.
 
