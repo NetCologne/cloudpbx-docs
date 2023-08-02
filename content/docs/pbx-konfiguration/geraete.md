@@ -209,7 +209,7 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 
 ![Cloudpbx_einrichten_snom_dect_fritzbox](https://user-images.githubusercontent.com/98753538/157690228-f65b389b-9384-42ec-acd8-79b36f1ba638.jpg)
 
-*So gelangen Sie zum Web-Interface Ihrer Snom M900. Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechenden Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
+*So gelangen Sie zum Web-Interface Ihrer Snom M900. Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechende Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
 
 ![Cloudpbx_einrichten_snom_dect_endgeräte3](https://user-images.githubusercontent.com/98753538/157692195-9bae9037-8950-4312-8380-033f61c84253.jpg)
 
