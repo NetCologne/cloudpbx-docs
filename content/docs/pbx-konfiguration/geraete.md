@@ -205,7 +205,7 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 
 *IN VORBEREITUNG: #### Anmeldung der Snom-Mobilteile (Handsets)*
 
-*Im Fritzbox-Meü -> Heimnetz -> Netzwerk kann man unter "Netzwerkverbindungen" die IP-Adresse der DECT-Basisstation einsehen bzw. diese auswählen:*
+*Im Fritzbox-Menü -> Heimnetz -> Netzwerk kann man unter "Netzwerkverbindungen" die IP-Adresse der DECT-Basisstation einsehen bzw. diese auswählen:*
 
 ![Cloudpbx_einrichten_snom_dect_fritzbox](https://user-images.githubusercontent.com/98753538/157690228-f65b389b-9384-42ec-acd8-79b36f1ba638.jpg)
 
