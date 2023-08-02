@@ -9,4 +9,4 @@ toc: true
 ---
 Zurzeit kann das zentrale Telefonbuch nur von Endgeräten des Herstellers "Yealink" verwendet werden.
 
-Die Anleitung ist in Kürze hier zu finden.
+Die Anleitung ist in Kürze hier zu finden!
