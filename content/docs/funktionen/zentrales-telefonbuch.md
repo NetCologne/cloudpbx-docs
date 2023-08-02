@@ -1,5 +1,5 @@
 ---
-title: "zentrales Telefonbuch"
+title: "Zentrales Telefonbuch"
 date: 2023-08-02T08:54:22+00:00
 menu:
   docs:
