@@ -36,11 +36,11 @@ In dem Feld für den Namen darf kein Komma verwendet werden, da es intern schon 
 Um eine größere Anzahl von Einträgen vorzunehmen, bietet sich das Hochladen einer CSV-Datei an. Dabei ist folgendes Format zu verwenden:<br>
 Name, Rufnummer
 
-Als Trennzeichen wird das Komma verwendet. Daher darf es nicht im Namensfeld verwendet werden. Die Rufnummer muss immer im internationalen Format, beginnend mit „+“, eingetragen werden.
-Beispiel:
-Mustername1, +492214711
-Mustername2, +492214712
-Mustername3, +4922122299764
+Als Trennzeichen wird das Komma verwendet. Daher darf es nicht im Namensfeld verwendet werden. Die Rufnummer muss immer im internationalen Format, beginnend mit „+“, eingetragen werden.<br>
+Beispiel:<br>
+Mustername1, +492214711<br>
+Mustername2, +492214712<br>
+Mustername3, +4922122299764<br>
 
 Beim Hochladen muss dann die gewünschte Datei ausgewählt werden. Außerdem muss festgelegt werden, ob die vorhandenen Daten im Telefonbuch gelöscht werden sollen. In diesem Fall ist der Haken bei „Purge existing“ zu setzen.
 
