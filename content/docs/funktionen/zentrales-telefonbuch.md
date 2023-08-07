@@ -14,7 +14,7 @@ Im Endgerät können dann noch zwei Parameter nach Kundenwunsch angepasst werden
 
 ![Yealink_T53W_Verzeichnis-Ext_TelBuch_ein](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/9e2bfa8b-a21c-4460-b954-7d9fc5b45d6c)
 
-Der Schalter „Suche nach eingehendem/ausgehendem…“ steuert die Anzeige des Namens im Display des Telefons. Wenn der Schalter auf „ein“ steht, wird bei einem kommenden Anruf der Name zusätzlich zur Rufnummer des Anrufers im Display angezeigt, sofern ein zugehöriger Eintrag im Telefonbuch existiert. Bleibt der Schalter auf „aus“, wird lediglich die Rufnummer des Anrufers angezeigt. Voraussetzung ist, dass der Anrufer seine Rufnummer nicht unterdrückt.
+Der Schalter „Suche nach eingehendem/ausgehendem…“ steuert die Anzeige des Namens im Display des Telefons. Wenn der Schalter auf „ein“ steht, wird bei einem kommenden Anruf der Name zusätzlich zur Rufnummer des Anrufers im Display angezeigt, sofern ein zugehöriger Eintrag im Telefonbuch existiert. Bleibt der Schalter auf „aus“, wird lediglich die Rufnummer des Anrufers angezeigt. Voraussetzung ist, dass der Anrufer seine Rufnummer nicht unterdrückt.<br>
 Der Parameter „Update-Zeitintervall (Sekunden)“ legt fest, in welchem Abstand das Telefon das Telefonbuch mit dem Server abgleicht. Das kürzeste einstellbare Intervall sind 3600 Sekunden.
 
 Über das Menü des Telefonbuchs am Endgerät kann der Benutzer den Abgleich auch manuell initiieren.
@@ -33,7 +33,7 @@ In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weit
 
 In dem Feld für den Namen darf kein Komma verwendet werden, da es intern schon als Trennzeichen verwendet wird.
 
-Um eine größere Anzahl von Einträgen vorzunehmen, bietet sich das Hochladen einer CSV-Datei an. Dabei ist folgendes Format zu verwenden:
+Um eine größere Anzahl von Einträgen vorzunehmen, bietet sich das Hochladen einer CSV-Datei an. Dabei ist folgendes Format zu verwenden:<br>
 Name, Rufnummer
 
 Als Trennzeichen wird das Komma verwendet. Daher darf es nicht im Namensfeld verwendet werden. Die Rufnummer muss immer im internationalen Format, beginnend mit „+“, eingetragen werden.
