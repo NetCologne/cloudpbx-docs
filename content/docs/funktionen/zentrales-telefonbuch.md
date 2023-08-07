@@ -36,7 +36,8 @@ In dem Feld für den Namen darf kein Komma verwendet werden, da es intern schon 
 Um eine größere Anzahl von Einträgen vorzunehmen, bietet sich das Hochladen einer CSV-Datei an. Dabei ist folgendes Format zu verwenden:<br>
 Name, Rufnummer
 
-Als Trennzeichen wird das Komma verwendet. Daher darf es nicht im Namensfeld verwendet werden. Die Rufnummer muss immer im internationalen Format, beginnend mit „+“, eingetragen werden.<br>
+Als Trennzeichen wird das Komma verwendet. Daher darf es nicht im Namensfeld verwendet werden.<br>
+Die Rufnummer muss immer im internationalen Format, beginnend mit „+“, eingetragen werden.<br>
 Beispiel:<br>
 Mustername1, +492214711<br>
 Mustername2, +492214712<br>
