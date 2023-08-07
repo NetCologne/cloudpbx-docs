@@ -8,6 +8,46 @@ weight: 418
 toc: true
 ---
 
-Zurzeit kann das zentrale Telefonbuch nur von Endgeräten des Herstellers "Yealink" verwendet werden.
+Zurzeit unterstützen ausschließlich die Endgeräte von Yealink das zentrale Telefonbuch. Dabei ist wichtig, dass die Geräte entsprechend der Anleitung unter PBX-Konfiguration eingerichtet wurden.
 
-Die Anleitung ist in Kürze hier zu finden!
+Im Endgerät können dann noch zwei Parameter nach Kundenwunsch angepasst werden. Dazu wird hier exemplarisch die Benutzeroberfläche des Yealink T53W dargestellt.
+
+![Yealink_T53W_Verzeichnis-Ext_TelBuch_ein](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/9e2bfa8b-a21c-4460-b954-7d9fc5b45d6c)
+
+Der Schalter „Suche nach eingehendem/ausgehendem…“ steuert die Anzeige des Namens im Display des Telefons. Wenn der Schalter auf „ein“ steht, wird bei einem kommenden Anruf der Name zusätzlich zur Rufnummer des Anrufers im Display angezeigt, sofern ein zugehöriger Eintrag im Telefonbuch existiert. Bleibt der Schalter auf „aus“, wird lediglich die Rufnummer des Anrufers angezeigt. Voraussetzung ist, dass der Anrufer seine Rufnummer nicht unterdrückt.
+Der Parameter „Update-Zeitintervall (Sekunden)“ legt fest, in welchem Abstand das Telefon das Telefonbuch mit dem Server abgleicht. Das kürzeste einstellbare Intervall sind 3600 Sekunden.
+
+Über das Menü des Telefonbuchs am Endgerät kann der Benutzer den Abgleich auch manuell initiieren.
+
+Einträge und Änderungen im zentralen Telefonbuch können nur vom Administrator durchgeführt werden. Es gibt zwei Möglichkeiten, die Telefonbucheinträge zu bearbeiten:
+1.	Einträge manuell durchführen
+2.	Einträge per CSV-Datei hochladen
+
+Name und Telefonnummer können manuell über die GUI der Cloud PBX eingetragen werden. Diese Methode ist für wenige Einträge bzw. Änderungen sinnvoll. Der Administrator wählt im Menü den Eintrag "Kunden-Details" und dann "Telefonbuch".
+
+![phonebook_1entry_fuer_Doku](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/f7d4e00b-031b-46ad-904a-6c8d1cf32836)
+
+In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weitere Einträge können durch Klick auf "Telefonbucheintrag erstellen" vorgenommen werden.
+
+![phonebook_manueller_Eintrag_Mustername2](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/0194309f-17af-45d4-8e87-bf2cb554cf62)
+
+In dem Feld für den Namen darf kein Komma verwendet werden, da es intern schon als Trennzeichen verwendet wird.
+
+Um eine größere Anzahl von Einträgen vorzunehmen, bietet sich das Hochladen einer CSV-Datei an. Dabei ist folgendes Format zu verwenden:
+Name, Rufnummer
+
+Als Trennzeichen wird das Komma verwendet. Daher darf es nicht im Namensfeld verwendet werden. Die Rufnummer muss immer im internationalen Format, beginnend mit „+“, eingetragen werden.
+Beispiel:
+Mustername1, +492214711
+Mustername2, +492214712
+Mustername3, +4922122299764
+
+Beim Hochladen muss dann die gewünschte Datei ausgewählt werden. Außerdem muss festgelegt werden, ob die vorhandenen Daten im Telefonbuch gelöscht werden sollen. In diesem Fall ist der Haken bei „Purge existing“ zu setzen.
+
+![csv-upload_mit_Datei_u_Haken](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/3ca782a0-db19-4476-9714-d549d85a452a)
+
+Wird der Haken nicht gesetzt, werden die Zeilen aus der CSV-Datei zusätzlich in das Telefonbuch eingetragen. Diese Methode eignet sich sehr gut, um eine größere Anzahl zusätzlicher Rufnummern einzutragen.
+
+Befinden sich bereits Einträge in dem Telefonbuch, so empfiehlt es sich, diese zunächst als CSV-Datei herunterzuladen und so eine Datensicherung zu erstellen. Eine Kopie dieser Datei kann dann bearbeitet und anschließend wieder hochgeladen werden.
+
+Nebenstellen, die zur Cloud PBX gehören, werden im Telefonbuch des Endgerätes immer angezeigt. Sie können nicht entfernt werden. In der zentralen Liste werden sie nicht aufgeführt.
