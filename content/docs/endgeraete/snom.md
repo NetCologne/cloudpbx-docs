@@ -39,7 +39,8 @@ In der gegenwärtigen Version (v2022 12.0 ) lassen Sie bitte die Felder für Use
 ### Konfiguration
 
 
-![Snom_D865_05](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/eb680225-250b-4445-9d56-53f29426668a)
+![Snom_D865_05](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/7d666f7d-b749-4c0f-b072-1d5b55a879bb)
+
 
 Begeben Sie sich zu dem Menüpunkt “Identities / + Add Identity”. 
 
