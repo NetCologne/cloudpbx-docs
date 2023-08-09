@@ -16,3 +16,38 @@ Um Ihnen Bedienung und Einrichtung zu erleichtern zeigen wir Ihnen nun die Taste
 Für die leichtere Bedienung ist es gut zu wissen, wie die Tastenbelegung eingestellt ist.
 
 Manche snom Geräte haben andere oder mehr Funktionstasten als andere. Fehlt an Ihrem Gerät eine Funktionstaste, zum Beispiel die Halten-Taste, können Sie die kontextsensitiven Display-Tasten nutzen. Lesen Sie mehr dazu unter Funktionen.
+
+## Snom D865 - IP-Tischtelefon 
+
+Schließen Sie zuallererst Ihr Snom D865 IP-Tischtelefon am Stromnetz und an Ihr Netzwerk an.
+
+Empfehlung: Sie haben die Möglichkeit, Ihr Snom D865 IP-Tischtelefon automatisch über das NetCologne 
+Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
+
+Hier wird beschrieben, wie Sie das Gerät manuell einrichten können.
+
+Zugangsdaten
+
+Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, 
+wobei die IP Adresse im lokalen Router ausgelesen werden kann:
+
+Snom_D865_01.jpg
+
+In der gegenwärtigen Version (v2022 12.0 ) lassen Sie bitte die Felder für Username und Password FREI.
+
+Konfiguration
+
+Snom_D865_05.jpg
+
+Begeben Sie sich zu dem Menüpunkt “Identities / + Add Identity”. 
+
+Unter "Account" tragen Sie bitte Ihren SIP-User-Account ein und unter "Password" Ihr SIP-Password.
+Unter Registrar tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein.
+Unter Outbound Proxy tragen Sie bitte "firmaid.cloudpbx.netcologne.de;transport=tls" ein
+Die anderen Parameter bleiben auf den voreingestellten Default-Werten.
+
+
+Snom_D865_07.jpg
+
+Wählen Sie den Menuepunkt "RTP" aus und stellen Sie sicher, dass der 
+Parameter "RTP Encryption" auf ON steht und dass unter RTP/SAVP "mandatory" ausgewählt ist.
