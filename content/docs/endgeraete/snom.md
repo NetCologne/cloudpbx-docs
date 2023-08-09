@@ -26,16 +26,18 @@ Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
 
 Hier wird beschrieben, wie Sie das Gerät manuell einrichten können.
 
-Zugangsdaten
+### Zugangsdaten
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, 
 wobei die IP Adresse im lokalen Router ausgelesen werden kann:
+
 
 ![Snom_D865_01](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f94d6776-dd08-4d0e-b53e-c15842eaa1c0)
 
 In der gegenwärtigen Version (v2022 12.0 ) lassen Sie bitte die Felder für Username und Password FREI.
 
-Konfiguration
+### Konfiguration
+
 
 ![Snom_D865_05](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/eb680225-250b-4445-9d56-53f29426668a)
 
@@ -46,7 +48,9 @@ Unter Registrar tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein.
 Unter Outbound Proxy tragen Sie bitte "firmaid.cloudpbx.netcologne.de;transport=tls" ein
 Die anderen Parameter bleiben auf den voreingestellten Default-Werten.
 
+
 ![Snom_D865_07](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/dc0e0390-3a10-482d-9302-2ae450673a51)
+
 
 Wählen Sie den Menuepunkt "RTP" aus und stellen Sie sicher, dass der 
 Parameter "RTP Encryption" auf ON steht und dass unter RTP/SAVP "mandatory" ausgewählt ist.
