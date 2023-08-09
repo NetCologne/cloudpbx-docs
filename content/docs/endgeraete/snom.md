@@ -50,7 +50,9 @@ Unter Outbound Proxy tragen Sie bitte "firmaid.cloudpbx.netcologne.de;transport=
 Die anderen Parameter bleiben auf den voreingestellten Default-Werten.
 
 
+
 ![Snom_D865_07](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/dc0e0390-3a10-482d-9302-2ae450673a51)
+
 
 
 Wählen Sie den Menuepunkt "RTP" aus und stellen Sie sicher, dass der 
