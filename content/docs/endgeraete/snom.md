@@ -30,16 +30,14 @@ Zugangsdaten
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, 
 wobei die IP Adresse im lokalen Router ausgelesen werden kann:
-![Snom_D865_01](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f94d6776-dd08-4d0e-b53e-c15842eaa1c0)
 
-Snom_D865_01.jpg
+![Snom_D865_01](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f94d6776-dd08-4d0e-b53e-c15842eaa1c0)
 
 In der gegenwärtigen Version (v2022 12.0 ) lassen Sie bitte die Felder für Username und Password FREI.
 
 Konfiguration
-![Snom_D865_05](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/eb680225-250b-4445-9d56-53f29426668a)
 
-Snom_D865_05.jpg
+![Snom_D865_05](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/eb680225-250b-4445-9d56-53f29426668a)
 
 Begeben Sie sich zu dem Menüpunkt “Identities / + Add Identity”. 
 
@@ -49,8 +47,6 @@ Unter Outbound Proxy tragen Sie bitte "firmaid.cloudpbx.netcologne.de;transport=
 Die anderen Parameter bleiben auf den voreingestellten Default-Werten.
 
 ![Snom_D865_07](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/dc0e0390-3a10-482d-9302-2ae450673a51)
-
-Snom_D865_07.jpg
 
 Wählen Sie den Menuepunkt "RTP" aus und stellen Sie sicher, dass der 
 Parameter "RTP Encryption" auf ON steht und dass unter RTP/SAVP "mandatory" ausgewählt ist.
