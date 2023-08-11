@@ -76,9 +76,9 @@ Während das Menü angezeigt wird '*#06#' eingeben, dann erscheint zuoberst die 
 23. Geben Sie den angezeigten Namen ein. Der Name kann frei gewählt werden
 24. Wählen Sie bei Voip-Provider das eben eigerichtete Profil aus (unter 4. festgelegt)
 
-![Mobilteile_Verwaltung_2](https://user-images.githubusercontent.com/99875491/223705414-b9863011-dc05-4472-b1b0-f99f84a67101.jpg)
+![Konfig_Mobilteil_2_neu](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/c5e0bc2b-07fd-4aa7-bb45-0891fc60363d)
  
- Hier bitte Standard-Werte übernehmen.
+Hier bitte Standard-Werte übernehmen.
 
 ![Mobilteile_Verwaltung_3](https://user-images.githubusercontent.com/99875491/223705462-53ca6bd4-254c-4451-bf71-c7f561a4110c.jpg)
 
