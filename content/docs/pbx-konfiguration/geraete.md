@@ -38,7 +38,7 @@ Im nächsten Schritt konfigurieren Sie die Telefone. Sie legen also fest, welche
 
 ![SNOM_D865_Geräte_01](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f18b0030-cbc0-46a4-8449-68af81d0cf8e)
 
-Weitere Funktionen für die Tastenbelegung sind Kurzwahl, Forward oder Transfer.
+Weitere Funktionen für die Tastenbelegung sind Besetztlampenfeld ( BLF ), Kurzwahl, Forward .
 
 ![SNOM_D865_Geräte_02](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f122c6e1-9f70-4557-94a6-e21ef1a5f827)
 
