@@ -10,8 +10,6 @@ toc: true
 
 In diesem Kapitel erhalten Sie eine Anleitung für die manuelle Konfiguration der Endgeräte von Auerswald. Am Beispiel des COMfortel D-400 werden die grundlegenden Einstellungen beschrieben.
 
-Zur Vorbereitung sollten Sie das TLS Root Zertifikat (isrgrootx1.pem) schon einmal von der Zertifizierungsstelle (Let's Encrypt) herunter laden, damit Sie es später an der entsprechenden Stelle auf das Telefon laden können. Sie finden das Zertifikat zum Download unter: https://letsencrypt.org/certs/isrgrootx1.pem
-
 Ab Werk ist die Netzwerkschnittstelle auf DHCP eingestellt, sodass das Telefon bei erster Inbetriebnahme unter der von Ihrem Router vergebenen IP-Adresse zu erreichen ist. Die IP-Adresse wird in der Anzeige des Telefons eingeblendet.
 
 Die Konfiguration kann sowohl am Telefon als auch über einen Browser am PC erfolgen. Wir empfehlen die Verwendung eines Browsers, da dieser Weg komfortabler ist.
@@ -26,19 +24,17 @@ Passwort: admin
 
 Aus Sicherheitsgründen sollten Sie das Passwort auf einen individuellen Wert ändern.
 
-Nach der Anmeldung prüfen Sie zuerst die Firmwareversion. Zur Verwendung mit der NetCologne Cloud PBX ist mindestens Version **2.4B** erforderlich. Im Menüpunkt "Dashboard" werden Informationen u.a. zum Softwarestand angezeigt:
+Nach der Anmeldung prüfen Sie zuerst die Firmwareversion. Zur Verwendung mit der NetCologne Cloud PBX ist mindestens Version **2.4B-00004** erforderlich. Im Menüpunkt "Dashboard" werden Informationen u.a. zum Softwarestand angezeigt, hier zum Beispiel 2.6B-00000:
 
-![image](https://user-images.githubusercontent.com/99875470/208611905-9291e44c-8db3-4d33-b9f7-37fd76258bc9.png)
+![Dashboard](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/f643f4c7-b823-43e5-b681-dfa055f58a57)
 
 Auf der Homepage von Auerswald finden Sie Informationen über den aktuellen Firmwarestand unter: https://www.auerswald.de/de/support
 
-Für die COMfortel D-Serie wird außerhalb des regulären Update-Servers ein Firmwareupdate auf Version 2.4B bereitgestellt (Stand 12/2022). Die Details sind ebenfalls auf der Homepage von Auerswald zu finden: https://www.auerswald.de/de/ueber-uns/neuigkeiten/artikel/neu-firmwareupdate-24-fuer-die-comfortel-d-serie
+Vor der eigentlichen Inbetriebnahme sollten Sie das Telefon auf den aktuellen Softwarestand bringen, mindestens auf die o.g. Version 2.4B-00004.
 
-Ab Werk ist das Telefon auf den Standardserver für Firmwareupdates eingestellt. Um auf die zurzeit (Stand 12/2022) erforderliche Version 2.4B umzustellen, wird die Adresse https://update.auerswald.de/software/D-400_D-600/Release_2.4B als Update-Server-URL eingetragen.
+![Update](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/e65b566c-1471-424c-ba57-ec7b33293f61)
 
-![image](https://user-images.githubusercontent.com/99875470/208618099-564dcb09-2881-4f60-86fc-f148dfa7af20.png)
-
-Das Update wird dann durch Klicken auf "Update starten" angestoßen. Folgen Sie den Hinweisen auf der Oberfläche.
+Ab Werk ist schon die richtige Adresse des Update-Servers eingetragen: https://update.auerswald.de. Das Update wird dann durch Klicken auf "Update starten" angestoßen. Folgen Sie den Hinweisen auf der Oberfläche.
 
 Nun kann die eigentliche Konfiguration des Telefons beginnen.
 
@@ -82,9 +78,9 @@ SRTP: Hier muss "Vorgeschrieben" ausgewählt werden, da die Nutzdaten (Sprache) 
 
 SIPS: Die Verschlüsselung für die Signalisierung muss eingeschaltet sein.
 
-![image](https://user-images.githubusercontent.com/99875470/213660441-3bb7ec90-e1ff-4b87-8bd9-4ca830153cae.png)
+![Ident_erweiterte_Einstell_2_ohne_root-cert](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/f8c04820-2291-4ee9-8dc2-2c412d322e51)
 
-Zertifikat: Hier muss die Datei "isrgrootx1.pem", die Sie zu Beginn von der Zertifizierungsstelle heruntergeladen haben, auf das Telefon geladen werden.
+Zertifikat: Hier braucht kein Zertifikat hochgeladen werden.
 
 Session Timer: einschalten
 
