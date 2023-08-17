@@ -32,15 +32,15 @@ Weitere Funktionen für die Tastenbelegung sind Kurzwahl, Forward oder Transfer.
 
 ### 1.2 Snom D8-Serie
 
-
+![SNOM_D865_Geräte_00](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/345e968f-ecd7-47e6-b6b8-9985a1284f2b)
 
 Im nächsten Schritt konfigurieren Sie die Telefone. Sie legen also fest, welche Nebenstelle auf welchem Telefon klingeln soll und welche Nebenstellen per BusyLampField (BLF) überwacht werden sollen. Klicken Sie dafür auf das Gerät und richten bei der entsprechenden Lampe/Taste den Teilnehmer ein:
 
-
+![SNOM_D865_Geräte_01](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f18b0030-cbc0-46a4-8449-68af81d0cf8e)
 
 Weitere Funktionen für die Tastenbelegung sind Kurzwahl, Forward oder Transfer.
 
-
+![SNOM_D865_Geräte_02](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f122c6e1-9f70-4557-94a6-e21ef1a5f827)
 
 ### 2.1 Yealink T5-Serie
 
