@@ -26,7 +26,7 @@ Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
 
 Hier wird beschrieben, wie Sie das Gerät manuell einrichten können.
 
-### Zugangsdaten
+### Zugangsdaten ( Variante 1 )
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, 
 wobei die IP Adresse im lokalen Router ausgelesen werden kann:
@@ -57,3 +57,30 @@ Die anderen Parameter bleiben auf den voreingestellten Default-Werten.
 
 Wählen Sie den Menuepunkt "RTP" aus und stellen Sie sicher, dass der 
 Parameter "RTP Encryption" auf ON steht und dass unter RTP/SAVP "mandatory" ausgewählt ist.
+
+### Zugangsdaten ( Variante 2 )
+
+Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse:3112 ( also mit Portangabe ) 
+wobei die IP Adresse im lokalen Router ausgelesen werden kann:
+
+
+
+
+Username : admin und Password : adminpass.
+
+### Konfiguration
+
+![Snom_D865_01_Port_3112_Identity](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/cb70dd25-28f3-4b5a-84d2-e27d0b73b748)
+
+Begeben Sie sich zu dem Menüpunkt “Setup/Identity 1 ". 
+
+Unter "Account" tragen Sie bitte Ihren SIP-User-Account ein und unter "Password" Ihr SIP-Password.
+Unter Registrar tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein.
+Unter Outbound Proxy tragen Sie bitte "firmaid.cloudpbx.netcologne.de;transport=tls" ein
+Die anderen Parameter bleiben auf den voreingestellten Default-Werten.
+
+![Snom_D865_02_Port_3112_SRTP](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/46e456f7-e400-4df4-93e6-ecfe3a6d2796)
+
+Wählen Sie den TAB "RTP" aus und stellen Sie sicher, dass der 
+Parameter "RTP Encryption" auf ON steht und dass unter RTP/SAVP "mandatory" ausgewählt ist.
+
