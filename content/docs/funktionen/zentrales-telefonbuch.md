@@ -19,9 +19,9 @@ Der Parameter „Update-Zeitintervall (Sekunden)“ legt fest, in welchem Abstan
 
 Über das Menü des Telefonbuchs am Endgerät kann der Benutzer den Abgleich auch manuell initiieren. Über die Taste "Directory" wird die Liste der externen Telefonbücher aufgerufen. Standardmäßig ist das Telefonbuch der Cloud PBX enthalten. Falls mehrere Telefonbücher angezeigt werden, muss das zentrale Telefonbuch der Cloud mit den Pfeiltasten markiert werden. Dann wird über die Taste "Aktu" (aktualisieren) das aktuelle Telefonbuch in das Telefon heruntergeladen.
 
-Einträge und Änderungen im zentralen Telefonbuch können nur vom Administrator durchgeführt werden. Es gibt zwei Möglichkeiten, die Telefonbucheinträge zu bearbeiten:
-1.	Einträge manuell durchführen
-2.	Einträge per CSV-Datei hochladen
+Einträge und Änderungen im zentralen Telefonbuch können nur vom Administrator durchgeführt werden. Es gibt zwei Möglichkeiten, die Telefonbucheinträge zu bearbeiten:<br>
+1.	Einträge manuell durchführen<br>
+2.	Einträge per CSV-Datei hochladen<br>
 
 Name und Telefonnummer können manuell über die GUI der Cloud PBX eingetragen werden. Diese Methode ist für wenige Einträge bzw. Änderungen sinnvoll. Der Administrator wählt im Menü den Eintrag "Kunden-Details" und dann "Telefonbuch".
 
