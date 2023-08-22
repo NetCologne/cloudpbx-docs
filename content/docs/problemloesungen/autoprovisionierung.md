@@ -15,5 +15,5 @@ Falls Sie bereits ein Telefon über die Weboberfläche für die Autoprovisionier
 
 ## Geraet meldet sich nicht beim NetCologne Provisioningserver
 Ist dies der Fall können sie manuell den Provisioningserver direkt in der Benutzeroberfläche des Telefons eintragen:
-Bei der **Yealink T4'er Serie ** tragen sie unter "Setting -> Automatische Einrichtung -> Server URI" folgende URL ein: https://phones.cloudpbx.netcologne.de:1444/device/autoprov/config/
-Bei der **Yealink T5'er Serie ** tragen sie unter "Einstellungen -> Autoprovisioning -> Server URL" folgende URL ein: https://phones.cloudpbx.netcologne.de:1444/device/autoprov/config/
+Bei der **Yealink T4'er Serie** tragen sie unter "Setting -> Automatische Einrichtung -> Server URI" folgende URL ein: https://phones.cloudpbx.netcologne.de:1444/device/autoprov/config/\br
+Bei der **Yealink T5'er Serie** tragen sie unter "Einstellungen -> Autoprovisioning -> Server URL" folgende URL ein: https://phones.cloudpbx.netcologne.de:1444/device/autoprov/config/\b
