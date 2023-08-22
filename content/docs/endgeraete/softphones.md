@@ -209,7 +209,7 @@ Um Pick-up zu ermöglichen, muss im entsprechenden Telefonbucheintrag ein zusät
 
 Klicken Sie auf Add um das Fenster zu schließen.
 
-Nun tragen Sie als Ziel die *99*chorweiler ein.
+Nun tragen Sie als Ziel die \*99\*chorweiler ein.
 
 <img width="800" alt="Cloud-PBX_add_pick-up_2a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/c73a4533-f052-4f7c-a5f4-fd1b2ad4c559">
 
