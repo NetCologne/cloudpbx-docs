@@ -71,7 +71,8 @@ Username : admin und Password : adminpass.
 
 ### Konfiguration
 
-![Snom_D865_01_Port_3112_Identity](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/cb70dd25-28f3-4b5a-84d2-e27d0b73b748)
+![Snom_D865_01_Port_3112_Identity](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/cb13acdd-8903-4d79-b2eb-23f61762b4c3)
+
 
 Begeben Sie sich zu dem Menüpunkt “Setup/Identity 1 ". 
 
