@@ -38,9 +38,11 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 
 Username und Password lauten beide "admin".
 
-![NC_Doku_Konto_Registrieren_03](https://user-images.githubusercontent.com/99875491/169790420-1c3212da-9da1-4103-81f8-684dacdbbf87.jpg)
+![NC_Doku_Konto_Registrieren_03](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/e3959192-c1ff-443b-826f-f26569121b64)
 
-![NC_Doku_Konto_Registrieren_02](https://user-images.githubusercontent.com/99875491/169790505-ac107f95-6d75-4cb3-b895-47b47a7060fe.jpg)
+
+![NC_Doku_Konto_Registrieren_02](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/30e1ccb2-72ae-4dd7-afaa-e41214398aee)
+
 
 
 1. Begeben Sie sich zu dem Menüpunkt "Konto".
