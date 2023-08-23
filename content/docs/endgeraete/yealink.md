@@ -111,17 +111,17 @@ Username und Password lauten beide "admin".
 1. Begeben Sie sich zu dem Menüpunkt "Handset & Account".
 2. Wählen Sie nun den Punkt "SIP-Servereinstellungen" aus.
 3. Im ersten Schritt der Einrichtung klicken Sie bitte auf das Bearbeitungs-Symbol rechts in der Tabelle. 
-   Es öffnet sich folgende Eingabe-Maske: 
+   Es öffnet sich folgende Eingabe-Maske:
+   
+![SIP_Server_Einstellungen_1](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/0a2cc63e-5710-4422-a290-19f35ec917f0)
+![SIP_Server_Einstellungen_2](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/d0858bbe-ebf0-4d60-b8a5-ae3fc05505d1)
 
-![SIP_Server_Einstellungen_1](https://user-images.githubusercontent.com/99875491/187174069-36c4621e-5f1b-49fb-bc6c-cb0e21b92b0f.jpeg)
-![SIP_Server_Einstellungen_2](https://user-images.githubusercontent.com/99875491/187174090-811d5566-3ac0-46b0-a3b9-fb36b977137f.jpeg)
-
-4. Unter "Name der Vorlage" vergeben Sie bitte eine Bezeichnung Ihrer Wahl.
-5. Bei "Server Host" tragen Sie bitte die Server-URL, welche Ihnen von NetCologne mitgeteilt wurde, ein. 
-6. Unter "Transport" wählen Sie "TLS" aus.
-7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte den Proxy-Server, welcher Ihnen von NetCologne mitgeteilt wurde, ein. Unter "Port" muss "5061" stehen.
-8. Falls Sie bisher noch keine Yealink DECT IP Basisstation W80B angeschlossen haben, müssen Sie dies im nächsten Schritt nachholen.
-9. Die angeschlossene(n) Basis-Statione(n) sehen Sie unter Punkt "Registrieren Basis-Station"
+5. Unter "Name der Vorlage" vergeben Sie bitte eine Bezeichnung Ihrer Wahl.
+6. Bei "Server Host" tragen Sie bitte die Server-URL, welche Ihnen von NetCologne mitgeteilt wurde, ein. 
+7. Unter "Transport" wählen Sie "TLS" aus.
+8. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte den Proxy-Server, welcher Ihnen von NetCologne mitgeteilt wurde, ein. Unter "Port" muss "5061" stehen.
+9. Falls Sie bisher noch keine Yealink DECT IP Basisstation W80B angeschlossen haben, müssen Sie dies im nächsten Schritt nachholen.
+10. Die angeschlossene(n) Basis-Statione(n) sehen Sie unter Punkt "Registrieren Basis-Station"
    
 ![Registrieren_Basis_Station](https://user-images.githubusercontent.com/99875491/187176771-82f43a3a-ec23-418e-bb66-d864330141e4.jpeg)
 
