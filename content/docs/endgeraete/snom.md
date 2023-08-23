@@ -45,8 +45,9 @@ In der gegenwärtigen Version (v2022 12.0 ) lassen Sie bitte die Felder für Use
 Begeben Sie sich zu dem Menüpunkt “Identities / + Add Identity”. 
 
 Unter "Account" tragen Sie bitte Ihren SIP-User-Account ein und unter "Password" Ihr SIP-Password.
-Unter Registrar tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein.
-Unter Outbound Proxy tragen Sie bitte "firmaid.cloudpbx.netcologne.de;transport=tls" ein
+Unter Registrar tragen Sie bitte die Ihnen von NetCologne mitgeteilten Daten für Registrar ein.
+Unter Outbound Proxy tragen Sie bitte ebenfalls die Ihnen von NetCologne mitgeteilten Daten für Registrar ein
+mit der Erweiterung ";transport=tls"
 Die anderen Parameter bleiben auf den voreingestellten Default-Werten.
 
 
@@ -75,8 +76,9 @@ Username : admin und Password : adminpass.
 Begeben Sie sich zu dem Menüpunkt “Setup/Identity 1 ". 
 
 Unter "Account" tragen Sie bitte Ihren SIP-User-Account ein und unter "Password" Ihr SIP-Password.
-Unter Registrar tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein.
-Unter Outbound Proxy tragen Sie bitte "firmaid.cloudpbx.netcologne.de;transport=tls" ein
+Unter Registrar tragen Sie bitte die Ihnen von NetCologne mitgeteilten Daten für Registrar ein.
+Unter Outbound Proxy tragen Sie bitte ebenfalls die Ihnen von NetCologne mitgeteilten Daten für Registrar ein
+mit der Erweiterung ";transport=tls"
 Die anderen Parameter bleiben auf den voreingestellten Default-Werten.
 
 ![Snom_D865_02_Port_3112_SRTP](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/46e456f7-e400-4df4-93e6-ecfe3a6d2796)
