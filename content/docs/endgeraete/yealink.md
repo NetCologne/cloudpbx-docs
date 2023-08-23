@@ -190,7 +190,7 @@ Username und Password lauten beide "admin".
 
 1. Begeben Sie sich zu dem Menüpunkt "Konto / Registrieren"; Setzen Sie bitte den Leitungsstatus auf "aktiviert", damit sich nach Abschluss der Konfiguration Ihr Konferenztelefon automatisch am NetCologne-Cloud-PBX-Server registriert.
 
-![Registrieren_01](https://user-images.githubusercontent.com/99875491/196954324-f9439e8f-daf1-4663-9800-6cbb4c121351.jpeg)
+![Registrieren_01](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/c9e454bf-badc-436e-9349-5fde2f32467f)
 
 2. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Konferenz-Telefon einsetzen.
 3. Unter "Registrierterungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
@@ -198,7 +198,7 @@ Username und Password lauten beide "admin".
 5. Bei "Server Host" tragen Sie bitte die Server-URL, welche Ihnen von NetCologne mitgeteilt wurde, ein. 
 6. Unter "Transport" wählen Sie "TLS" aus.
 
-![Registrieren_02](https://user-images.githubusercontent.com/99875491/196954926-64741dfd-dca2-4e34-b67d-fd4a29093501.jpeg)
+![Registrieren_02](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/63bd7bd8-5bc2-4fd6-893a-aa772a34fb48)
 
 7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte den Proxy-Server, welcher Ihnen von NetCologne mitgeteilt wurde, ein. Unter "Port" muss "5061" stehen.
 8. Klicken Sie dann auf "Erweitert"
