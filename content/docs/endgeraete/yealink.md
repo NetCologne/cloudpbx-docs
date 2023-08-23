@@ -50,10 +50,10 @@ Username und Password lauten beide "admin".
 6. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Telefon einsetzen.
 7. Unter "Registrierungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
 8. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
-9. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
+9. Bei "Server Host" tragen Sie bitte die Server-URL, welche Ihnen von NetCologne mitgeteilt wurde, ein. Unter "Port" muss "5061" stehen.
 10. Unter "Transport" wählen Sie "TLS" aus.
 11. Bitte aktivieren Sie den "Outbound Proxy Server", indem Sie in dem Reiter den Punkt "An" auswählen.
-12. Beim Punkt "Ausgehender Proxy Server 1" tragen Sie bitten Ihren Proxy Server ein: “firmaid.cloudpbx.netcologne.de“. 
+12. Beim Punkt "Ausgehender Proxy Server 1" tragen Sie bitten Ihren Proxy Server ein welcher Ihnen von NetCologne mitgeteilt wurde. 
 Unter "Port" muss "5061" stehen.
 12. Stellen Sie sicher, dass "NAT" auf "Deaktiviert" gestellt wird.
 15. Mit Klick auf "Bestätigen" ist die Konfiguration abgeschlossen. 
@@ -115,9 +115,9 @@ Username und Password lauten beide "admin".
 ![SIP_Server_Einstellungen_2](https://user-images.githubusercontent.com/99875491/187174090-811d5566-3ac0-46b0-a3b9-fb36b977137f.jpeg)
 
 4. Unter "Name der Vorlage" vergeben Sie bitte eine Bezeichnung Ihrer Wahl.
-5. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. 
+5. Bei "Server Host" tragen Sie bitte die Server-URL, welche Ihnen von NetCologne mitgeteilt wurde, ein. 
 6. Unter "Transport" wählen Sie "TLS" aus.
-7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
+7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte den Proxy-Server, welcher Ihnen von NetCologne mitgeteilt wurde, ein. Unter "Port" muss "5061" stehen.
 8. Falls Sie bisher noch keine Yealink DECT IP Basisstation W80B angeschlossen haben, müssen Sie dies im nächsten Schritt nachholen.
 9. Die angeschlossene(n) Basis-Statione(n) sehen Sie unter Punkt "Registrieren Basis-Station"
    
@@ -193,12 +193,12 @@ Username und Password lauten beide "admin".
 2. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Konferenz-Telefon einsetzen.
 3. Unter "Registrierterungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
 4. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
-5. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. 
+5. Bei "Server Host" tragen Sie bitte die Server-URL, welche Ihnen von NetCologne mitgeteilt wurde, ein. 
 6. Unter "Transport" wählen Sie "TLS" aus.
 
 ![Registrieren_02](https://user-images.githubusercontent.com/99875491/196954926-64741dfd-dca2-4e34-b67d-fd4a29093501.jpeg)
 
-7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
+7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte den Proxy-Server, welcher Ihnen von NetCologne mitgeteilt wurde, ein. Unter "Port" muss "5061" stehen.
 8. Klicken Sie dann auf "Erweitert"
 
 ![Erweitert_01](https://user-images.githubusercontent.com/99875491/196955107-dc81d8bd-f25a-4c39-a8c7-72883ba67dcc.jpeg)
@@ -225,12 +225,12 @@ Username und Password lauten beide "admin".
 2. Unter "Label" und "Anzeigename" können Sie einen selbst gewählte Namen für Ihr Konferenz-Telefon einsetzen.
 3. Unter "Registrierterungsname" und "Benutzernamen" setzen Sie den SIP-Benutzernamen ein. Diesen erhalten Sie nach Anlegen des Telefons im Kundenkonto.
 4. Das SIP-Passwort finden Sie ebenfalls in Ihren SIP-Benutzerdaten.
-5. Bei "Server Host" tragen Sie bitte die Server-URL "firmaid.cloudpbx.netcologne.de" ein. 
+5. Bei "Server Host" tragen Sie bitte die Server-URL, welche Ihnen von NetCologne mitgeteilt wurde, ein. 
 6. Unter "Transport" wählen Sie "TLS" aus.
 
 ![Registrieren_02](https://user-images.githubusercontent.com/99875491/196955857-c6fe9d9a-2ac6-46c4-88fd-60fac5e527ac.jpeg)
 
-7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte "firmaid.cloudpbx.netcologne.de" ein. Unter "Port" muss "5061" stehen.
+7. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte den Proxy-Server, welcher Ihnen von NetCologne mitgeteilt wurde, ein. Unter "Port" muss "5061" stehen.
 8. Klicken Sie dann auf "Erweitert"
 
 ![Erweitert_01](https://user-images.githubusercontent.com/99875491/196958328-97784b09-1f31-4133-8597-a43d2176a731.jpeg)
