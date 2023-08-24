@@ -90,7 +90,7 @@ Zur Installation des Clients folgen Sie der Anleitung des Herstellers.
 
 #### Konfiguration
 
-Die folgende Beschreibung führt Sie durch die grundlegende Konfiguration für die Cloud PBX. Nach dem Start des Clients erscheint zunächst ein Fenster mit leeren Feldern für die Anmeldedaten. Dort werden die Anmeldedaten für den Subscriber eingetragen. Exemplarisch wird hier der Subscriber "mulheim" in der Domäne firmaid.cloudpbx.netcologne.de verwendet.
+Die folgende Beschreibung führt Sie durch die grundlegende Konfiguration für die Cloud PBX. Nach dem Start des Clients erscheint zunächst ein Fenster mit leeren Feldern für die Anmeldedaten. Dort werden die Anmeldedaten für den Subscriber eingetragen. Exemplarisch wird hier der Subscriber "mulheim" in der Domäne xxx.cloudpbx.netcologne.de verwendet.
 
 <img width="622" alt="02_Cloud-PBX_Start" src="https://user-images.githubusercontent.com/99875470/214311476-0834c659-fe79-4994-a26c-159af36de675.png">
 
@@ -98,17 +98,17 @@ Username/Login: mulheim
 
 Passwort: Hier wird das Passwort des SIP-Benutzers eingetragen.
 
-Im folgenden Fenster wird als Hostname die URL der Cloud PBX eingetragen: firmaid.cloudpbx.netcologne.de
+Im folgenden Fenster wird als Hostname die URL der Cloud PBX eingetragen: xxx.cloudpbx.netcologne.de
 
-<img width="683" alt="03_Cloud-PBX_Hostname" src="https://user-images.githubusercontent.com/99875470/214313961-c9fffa2d-0878-43f3-bf0e-d8b40ee59409.png">
+<img width="683" alt="03_Cloud-PBX_Hostname_a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/fa0c64a2-b437-42a6-adfc-77026e718ec7">
 
 Auf der nächsten Seite muss das Häkchen für optionale Angaben gesetzt werden und Angaben zur Authentifizierung und zum outbound proxy eingetragen werden.
 
-Authentication username: mulheim@firmaid.cloudpbx.netcologne.de
+Authentication username: mulheim@xxx.cloudpbx.netcologne.de
 
-Outbound proxy: firmaid.cloudpbx.netcologne.de
+Outbound proxy: xxx.cloudpbx.netcologne.de
 
-<img width="680" alt="05_Cloud-PBX_Authentication_Out-Proxy" src="https://user-images.githubusercontent.com/99875470/214316599-2a7ab341-70a5-44a2-ac68-05088a6129af.png">
+<img width="680" alt="05_Cloud-PBX_Authentication_Out-Proxy_a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/d430b022-1778-4fb9-a6f4-94ed6bcc83b7">
 
 Im nächsten Schritt erkennt der SIP Client automatisch die Verschlüsselung über TLS.
 
@@ -120,11 +120,11 @@ Die Grundeinstellungen wurden nun vorgenommen. Allerdings müssen noch ein paar 
 
 Durch Auswahl des neu angelegten Accounts erreichen Sie die Seite für die Einstellungen.
 
-<img width="628" alt="08_Cloud-PBX_Feinheiten_nachjustieren" src="https://user-images.githubusercontent.com/99875470/214320947-ddb794b4-c8b3-4284-9b5e-75e33550e442.png">
+<img width="628" alt="08_Cloud-PBX_Feinheiten_nachjustieren_a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/6d796ad7-1cc9-4cef-8958-1decf7565af4">
 
 Oben rechts schalten Sie mit "advanced" die erweiterten Einstellungen frei.
 
-<img width="627" alt="09_Cloud-PBX_Advanced" src="https://user-images.githubusercontent.com/99875470/214321755-e34b55a0-3664-4b6d-89d3-4e6b92b7d36f.png">
+<img width="627" alt="09_Cloud-PBX_Advanced_a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/04dae346-fa60-4820-a812-f14a6fb99edd">
 
 Im Abschnitt "Features" werden die gewünschten Leitungsmerkmale angehakt.
 
@@ -195,11 +195,11 @@ Beim Verlassen des Kontakt-Fensters das Speichern der Daten bestätigen.
 
 In der Benutzeroberfläche steht unter "Contacts" jetzt mindestens der Eintrag "chorweiler". Sobald die Nebenstelle "chorweiler" angerufen wird, wird das in der Benutzeroberfläche durch ein Glockensymbol an dem Kontakt dargestellt.
 
-<img width="302" alt="16_Cloud-PBX_BLF-ringing" src="https://user-images.githubusercontent.com/99875470/214611730-2f14ac16-582b-40f8-9da0-f41e6b2d3e50.png">
+<img width="302" alt="16_Cloud-PBX_BLF-ringing_a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/01f03270-2675-453b-bf4c-bd38eaae24e2">
 
 Ein bestehndes Gespräch ist an dem Hörer-Symbol neben dem Kontakt erkennbar.
 
-<img width="302" alt="17_Cloud-PBX_BLF-speaking" src="https://user-images.githubusercontent.com/99875470/214612052-7e15a491-3d7f-4d3b-a263-0f0455c2a008.png">
+<img width="302" alt="17_Cloud-PBX_BLF-speaking_a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/ef73b3c4-abc8-48f7-963e-f581f9f1a690">
 
 #### Pick-up
 
@@ -211,7 +211,7 @@ Klicken Sie auf Add um das Fenster zu schließen.
 
 Nun tragen Sie als Ziel \*99\*chorweiler ein.
 
-<img width="800" alt="Cloud-PBX_add_pick-up_2a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/c73a4533-f052-4f7c-a5f4-fd1b2ad4c559">
+<img width="800" alt="Cloud-PBX_add_pick-up_2b" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/0bdf373e-e58d-45f0-a88b-ede80b284c04">
 
 Beim Verlassen des Kontakt-Fensters das Speichern der Daten bestätigen. 
 
