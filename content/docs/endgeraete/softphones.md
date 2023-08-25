@@ -96,7 +96,7 @@ Die folgende Beschreibung führt Sie durch die grundlegende Konfiguration für d
 
 Username/Login: mulheim
 
-Passwort: Hier wird das Passwort des SIP-Benutzers eingetragen.
+Passwort: Hier wird das Passwort des SIP-Benutzers eingetragen. Klicken Sie dann auf "Login".
 
 Im folgenden Fenster wird als Hostname die URL der Cloud PBX eingetragen: xxx.cloudpbx.netcologne.de
 
