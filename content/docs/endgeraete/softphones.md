@@ -55,7 +55,7 @@ Um die Inhalte zu schützen bzw. sicher zu verschlüsseln, wird im Reiter "Netzw
 ![PhoneLite Konfiguration Netzwerk](https://user-images.githubusercontent.com/98753538/153848648-7e632f41-637a-4e9e-9981-62e29ab2c0cd.jpg)
 <br>
 <br>  
-Im Reiter muss der Codec "G.711 A-Law" ausgewählt werden. Weitere Codecs sind optional. Wichtig auch die Häkchen bei SRTP und SAVP:
+Im Reiter "Codecs" muss der Codec "G.711 A-Law" ausgewählt werden. Weitere Codecs sind optional. Wichtig auch die Häkchen bei SRTP und SAVP:
 ![PhoneLite Konfiguration Codecs](https://user-images.githubusercontent.com/98753538/153848681-538cc078-55c7-4d99-a235-6ea1dedfa2ad.jpg)
 <br>
 <br>  
