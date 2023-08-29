@@ -226,7 +226,7 @@ Prüfen Sie bitte zuerst die Version der installierten Firmware, da erst ab Firm
 
 ![Home_Status](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/6a4d5350-2c70-4195-be7d-77671ee6ebbe)
 
-Falls Ihre M900-Basis-Station noch nicht über mindestens diesen Firware-Stand verfügt, machen Sie einen Firmware-Update, wie folgt beschrieben:
+Falls Ihre M900-Basis-Station noch nicht über mindestens diesen Firmware-Stand verfügt, machen Sie einen Firmware-Update, wie folgt beschrieben:
 
 ![Firnware_Update](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/ba0ddf13-01ac-4d92-a059-2840d17e5332)
 
