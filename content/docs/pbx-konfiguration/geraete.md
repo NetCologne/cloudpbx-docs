@@ -220,7 +220,20 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 
 ![Cloudpbx_einrichten_snom_dect_fritzbox](https://user-images.githubusercontent.com/98753538/157690228-f65b389b-9384-42ec-acd8-79b36f1ba638.jpg)
 
-*So gelangen Sie zum Web-Interface Ihrer Snom M900. Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechende Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
+*So gelangen Sie zum Web-Interface Ihrer Snom M900. 
+
+Prüfen Sie bitte zuerst die Version der installierten Firmware, da erst ab Firmware-Stand 06.70/B0202 die verschlüsselte Übertragung unterstützt wird.
+
+![Home_Status](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/6a4d5350-2c70-4195-be7d-77671ee6ebbe)
+
+Falls Ihre M900-Basis-Station noch nicht über mindestens diesen Firware-Stand verfügt, machen Sie einen Firmware-Update, wie folgt beschrieben:
+
+![Firnware_Update](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/c813e024-b0df-4fc7-b892-4832fdbb9916)
+
+Achten Sie bitte darauf, dass sich die Mobilteile während des Updates in der Ladeschale befinden, da der Update-Prozess pro Mobilteil-Typ ca. 30 Minuten beträgt.
+( gleiche Typen werden parallel upgedated, unterschiedliche Typen nacheinander )
+
+Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechende Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
 
 ![Cloudpbx_einrichten_snom_dect_endgeräte3](https://user-images.githubusercontent.com/98753538/157692195-9bae9037-8950-4312-8380-033f61c84253.jpg)
 
