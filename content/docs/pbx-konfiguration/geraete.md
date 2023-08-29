@@ -228,7 +228,8 @@ Prüfen Sie bitte zuerst die Version der installierten Firmware, da erst ab Firm
 
 Falls Ihre M900-Basis-Station noch nicht über mindestens diesen Firware-Stand verfügt, machen Sie einen Firmware-Update, wie folgt beschrieben:
 
-![Firnware_Update](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/c813e024-b0df-4fc7-b892-4832fdbb9916)
+![Firnware_Update](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/ba0ddf13-01ac-4d92-a059-2840d17e5332)
+
 
 Achten Sie bitte darauf, dass sich die Mobilteile während des Updates in der Ladeschale befinden, da der Update-Prozess pro Mobilteil-Typ ca. 30 Minuten beträgt.
 ( gleiche Typen werden parallel upgedated, unterschiedliche Typen nacheinander )
