@@ -234,7 +234,7 @@ Achten Sie bitte darauf, dass sich die Mobilteile während des Updates in der La
 ( gleiche Typen werden parallel upgedated, unterschiedliche Typen nacheinander )
 
 Nach dem Einschalten bzw dem erfolgreichen Firmware-Update können Sie unter "Extensions" die eingerichteten / Provisionierten
-Nebenstellen Ihere Cloud-PBX nebst zugehörigem User und ggf. Display-Namen sehen. 
+Nebenstellen Ihrer Cloud-PBX nebst zugehörigem User und ggf. Display-Namen sehen. 
 
 ![Mobilteil_Status_unregistriert](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/a35a7598-db80-4812-b7e6-0d8aaf081180)
 
@@ -243,7 +243,7 @@ Hier haben Sie 2 Möglichkeiten:
 
 1. Ohne Nutzung der IPEI ( Reihenfolge exact aufsteigend laut Liste in der Extension-Übersicht )
 ( vorteilhaft bei der Ersteinrichtung, weil schneller )
-2. Mit Nutzung der IPEI ( hier können Sie gezielt ohne Beachtung der Reihenfolge einzelne Mobilteile anmelden )
+3. Mit Nutzung der IPEI ( hier können Sie gezielt ohne Beachtung der Reihenfolge einzelne Mobilteile anmelden )
 ( bei Konfigurationsänderungen im laufenden Betrieb )
 
 IPEI = International Portable Equipement Identifier   
