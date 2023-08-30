@@ -230,7 +230,6 @@ Falls Ihre M900-Basis-Station noch nicht über mindestens diesen Firmware-Stand 
 
 ![Firnware_Update](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/ba0ddf13-01ac-4d92-a059-2840d17e5332)
 
-
 Achten Sie bitte darauf, dass sich die Mobilteile während des Updates in der Ladeschale befinden, da der Update-Prozess pro Mobilteil-Typ ca. 30 Minuten beträgt.
 ( gleiche Typen werden parallel upgedated, unterschiedliche Typen nacheinander )
 
@@ -277,15 +276,23 @@ Zeitnah anschliessend gehen Sie auf dem Mobilteil zu "Connectivity" -> "Register
 + -->
 ![Handheld hinzufügen](https://user-images.githubusercontent.com/98753538/157691802-be0a428d-e6e9-49a4-b753-b00f016dbb6b.jpg)
 
-Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechende Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
+Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere nach dem selben Schema hinzufügen. 
+
+<!-- +
+Dafür wählen Sie das entsprechende Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
 
 ![Cloudpbx_einrichten_snom_dect_endgeräte3](https://user-images.githubusercontent.com/98753538/157692195-9bae9037-8950-4312-8380-033f61c84253.jpg)
++ -->
 
-*Abschließend aktualisieren Sie im Web-Interface die Ansicht "Extension" und sehen alle registrierten Mobilteile:*
+Abschließend aktualisieren Sie im Web-Interface die Ansicht "Extension" und sehen alle registrierten Mobilteile:
 
+![Mobilteil_Status_registriert](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/116c299a-9640-43f1-9ae3-debf2f006167)
+
+<!-- +
 ![Cloudpbx_einrichten_snom_dect_endgeräte4](https://user-images.githubusercontent.com/98753538/157692597-70050298-c579-4109-b648-41ad36701c50.jpg)
++ -->
 
-*Sind die angemeldeten Handsets noch nicht sichtbar, ist gegebenenfalls im Menüpunkt "Home/Status" ein Reboot der DECT-Basisstation sinnvoll.*
+Sind die angemeldeten Handsets noch nicht sichtbar, ist gegebenenfalls im Menüpunkt "Home/Status" ein Reboot der DECT-Basisstation sinnvoll.
 
 ![Cloudpbx_einrichten_snom_dect_reboot](https://user-images.githubusercontent.com/98753538/157691428-c41043ce-f043-4586-ac25-4365ba70e299.jpg)
 
