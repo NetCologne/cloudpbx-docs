@@ -234,13 +234,51 @@ Falls Ihre M900-Basis-Station noch nicht über mindestens diesen Firmware-Stand 
 Achten Sie bitte darauf, dass sich die Mobilteile während des Updates in der Ladeschale befinden, da der Update-Prozess pro Mobilteil-Typ ca. 30 Minuten beträgt.
 ( gleiche Typen werden parallel upgedated, unterschiedliche Typen nacheinander )
 
-Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechende Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
+Nach dem Einschalten bzw dem erfolgreichen Firmware-Update können Sie unter "Extensions" die eingerichteten / Provisionierten
+Nebenstellen Ihere Cloud-PBX nebst zugehörigem User und ggf. Display-Namen sehen. 
 
-![Cloudpbx_einrichten_snom_dect_endgeräte3](https://user-images.githubusercontent.com/98753538/157692195-9bae9037-8950-4312-8380-033f61c84253.jpg)
+![Mobilteil_Status_unregistriert](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/a35a7598-db80-4812-b7e6-0d8aaf081180)
 
+Die Zuordnung der eingerichteten Nebenstellen zu den jeweiligen DECT-Mobilteilen wird im nächsten Schritt erfolgen.
+Hier haben Sie 2 Möglichkeiten:
+
+1. Ohne Nutzung der IPEI ( Reihenfolge exact aufsteigend laut Liste in der Extension-Übersicht )
+( vorteilhaft bei der Ersteinrichtung, weil schneller )
+2. Mit Nutzung der IPEI ( hier können Sie gezielt ohne Beachtung der Reihenfolge einzelne Mobilteile anmelden )
+( bei Konfigurationsänderungen im laufenden Betrieb )
+
+IPEI = International Portable Equipement Identifier   
+
+Variante 1 : Sie benötigen nur das zu registrierende Mobilteil. 
+Gehen Sie zu "Connectivity" -> "Register" -> "Empty" -> Select -> Access Code ( hier 7666 ) -> OK
+Daraufhin wird das Mobilteil auf den ersten freien User in der Extension-Liste registriert.
+Sie können mit allen weiteren Mobilteilen ebenso verfahren.
+
+Variante 2 : Sie benötigen Zugriff auf die GUI der M900-Basis-Station und sie müssen die IPEI(s) der zu registrierenden Mobilteile vorher auslesen.
+
+Auslesen der IPEI des Mobilteils:
+Menue -> Einstellungen -> Status -> Herunterscrollen, bis die IPEI erscheint ( die IPEI besteht aus 10 Zeichen )
+
+Gehen Sie nun in der GUI unter Extensions in der Spalte "IPEI" auf die Reihe von großen "F's" in der Zeile der Nebenstelle, deren Mobilteil 
+Sie nun registrieren möchten.
+
+![Mobilteil_anmelden_variante_2_001](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/a01d0dc0-021b-4e98-a68e-92260d7aa744)
+
+Es öffnet sich das Untermenue " Handset ". Hier tragen Sie die IPEI des zu registrierenden Mobilteils ein und drücken "Save".
+
+![Mobilteil_anmelden_variante_2_002](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/dd84f099-4713-4579-90c3-6cfe746d3bf4)
+
+In der Tabelle "Extensions" sehen Sie nun, dass die IPEI dem Benutzer zugeordnet wurde. Um das Mobilteil zu registrieren, 
+klicken Sie auf das Kästchen linkst der Spalte Idx und dann auf Register Handsets.
+
+Zeitnah anschliessend gehen Sie auf dem Mobilteil zu "Connectivity" -> "Register" -> "Empty" -> Select -> Access Code ( hier 7666 ) -> OK
 *Parallel dazu wählen Sie im Handset/Mobilteil den Punkt "Connectivity", dann "Register", tragen hier den Access-Code ein und bestätigen diesen mit "OK".*
 
 ![Handheld hinzufügen](https://user-images.githubusercontent.com/98753538/157691802-be0a428d-e6e9-49a4-b753-b00f016dbb6b.jpg)
+
+Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechende Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
+
+![Cloudpbx_einrichten_snom_dect_endgeräte3](https://user-images.githubusercontent.com/98753538/157692195-9bae9037-8950-4312-8380-033f61c84253.jpg)
 
 *Abschließend aktualisieren Sie im Web-Interface die Ansicht "Extension" und sehen alle registrierten Mobilteile:*
 
