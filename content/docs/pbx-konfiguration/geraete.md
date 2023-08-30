@@ -268,7 +268,7 @@ Es öffnet sich das Untermenue " Handset ". Hier tragen Sie die IPEI des zu regi
 ![Mobilteil_anmelden_variante_2_002](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/dd84f099-4713-4579-90c3-6cfe746d3bf4)
 
 In der Tabelle "Extensions" sehen Sie nun, dass die IPEI dem Benutzer zugeordnet wurde. Um das Mobilteil zu registrieren, 
-klicken Sie auf das Kästchen linkst der Spalte Idx und dann auf Register Handsets.
+klicken Sie auf das Kästchen links der Spalte Idx und dann auf Register Handsets.
 
 Zeitnah anschliessend gehen Sie auf dem Mobilteil zu "Connectivity" -> "Register" -> "Empty" -> Select -> Access Code ( hier 7666 ) -> OK
 <!-- +
