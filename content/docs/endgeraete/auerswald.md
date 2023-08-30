@@ -60,7 +60,7 @@ Klingelton: Aus dem Drop-Down-Menü kann der gewünschte Klingelton ausgewählt 
 
 Schalten Sie nun auf den Reiter "Erweiterte Einstellungen" um.
 
-![image](https://user-images.githubusercontent.com/99875470/207905502-3b9e4840-84c8-402d-98e9-584a11874e0a.png)
+![Ident_erweiterte_Einstell_1](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/c5a7bb67-dcea-49b4-9df3-4156fb2b78e9)
 
 Fallback für: Dieser SIP-Benutzer kann als Fallback für einen anderen vorhandenen Benutzer verwendet werden. Details siehe Anleitung von Auerswald oder Onlinehilfe.
 
