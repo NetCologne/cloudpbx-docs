@@ -272,8 +272,9 @@ In der Tabelle "Extensions" sehen Sie nun, dass die IPEI dem Benutzer zugeordnet
 klicken Sie auf das Kästchen linkst der Spalte Idx und dann auf Register Handsets.
 
 Zeitnah anschliessend gehen Sie auf dem Mobilteil zu "Connectivity" -> "Register" -> "Empty" -> Select -> Access Code ( hier 7666 ) -> OK
+<!-- +
 *Parallel dazu wählen Sie im Handset/Mobilteil den Punkt "Connectivity", dann "Register", tragen hier den Access-Code ein und bestätigen diesen mit "OK".*
-
++ -->
 ![Handheld hinzufügen](https://user-images.githubusercontent.com/98753538/157691802-be0a428d-e6e9-49a4-b753-b00f016dbb6b.jpg)
 
 Im Menüpunkt "Extensions" können Sie die verbundenen Mobilteile einsehen und weitere hinzufügen. Dafür wählen Sie das entsprechende Gerät mit einem Häkchen aus und klicken auf "Register Handset(s)". Daraufhin wird Ihnen im oberen Bereich der Access-Code (AC), hier "7666" angezeigt.*
