@@ -202,7 +202,7 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 
 
 ### 3.1 Snom M900 DECT-Basisstation
-Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen. Die M900 bietet neben einem integrierten DECT-Manager auch eine DECT- und LAN-Synchronisierung. Der SIP-Transport kann neben UDP auch mittels TCP oder TLS erfolgen. Mit "Seamless Handover" ist der nahtlose Wechsel von einer Basisstation zur nächsten möglich.*
+Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen. Die M900 bietet neben einem integrierten DECT-Manager auch eine DECT- und LAN-Synchronisierung. Der SIP-Transport kann neben UDP auch mittels TCP oder TLS erfolgen. Mit "Seamless Handover" ist der nahtlose Wechsel von einer Basisstation zur nächsten möglich.
 
 ![cloudpbx_Gerät3 hinzufügen](https://user-images.githubusercontent.com/98753538/157050358-01266501-cc69-4e7a-b46f-cf0dddebf921.jpg)
 
@@ -213,8 +213,6 @@ Kompatible Mobilteile sind M25, M65, M70, M80, M85, M90. Jedes DECT-Telefon muss
 Bei der SNOM-Basisstation können bis zu 19 Teilnehmer eingerichtet werden. Im Beispiel sind es zwei:
 
 ![cloudpbx_Teilnehmer einrichten5](https://user-images.githubusercontent.com/98753538/157256005-95ef62fb-dcec-42a6-915e-8888618f1e67.jpg)
-
-#### Anmeldung der Snom-Mobilteile (Handsets)
 
 Im Fritzbox-Menü -> Heimnetz -> Netzwerk kann man unter "Netzwerkverbindungen" die IP-Adresse der DECT-Basisstation einsehen bzw. diese auswählen:
 
@@ -237,6 +235,8 @@ Nach dem Einschalten bzw dem erfolgreichen Firmware-Update können Sie unter "Ex
 Nebenstellen Ihrer Cloud-PBX nebst zugehörigem User und ggf. Display-Namen sehen. 
 
 ![Mobilteil_Status_unregistriert](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/a35a7598-db80-4812-b7e6-0d8aaf081180)
+
+#### Anmeldung der Snom-Mobilteile (Handsets)
 
 Die Zuordnung der eingerichteten Nebenstellen zu den jeweiligen DECT-Mobilteilen wird im nächsten Schritt erfolgen.
 Hier haben Sie 2 Möglichkeiten:
