@@ -201,26 +201,26 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
 
-### *3.1 In Vorbereitung (nicht aktiv): Snom M900 DECT-Basisstation*
-*Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen. Die M900 bietet neben einem integrierten DECT-Manager auch eine DECT- und LAN-Synchronisierung. Der SIP-Transport kann neben UDP auch mittels TCP oder TLS erfolgen. Mit "Seamless Handover" ist der nahtlose Wechsel von einer Basisstation zur nächsten möglich.*
+### 3.1 Snom M900 DECT-Basisstation
+Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen. Die M900 bietet neben einem integrierten DECT-Manager auch eine DECT- und LAN-Synchronisierung. Der SIP-Transport kann neben UDP auch mittels TCP oder TLS erfolgen. Mit "Seamless Handover" ist der nahtlose Wechsel von einer Basisstation zur nächsten möglich.*
 
 ![cloudpbx_Gerät3 hinzufügen](https://user-images.githubusercontent.com/98753538/157050358-01266501-cc69-4e7a-b46f-cf0dddebf921.jpg)
 
-*Kompatible Mobilteile sind M25, M65, M70, M80, M85, M90. Jedes DECT-Telefon muss der Basisstation zugewiesen werden.*
+Kompatible Mobilteile sind M25, M65, M70, M80, M85, M90. Jedes DECT-Telefon muss der Basisstation zugewiesen werden.
 
 ![cloudpbx_Teilnehmer einrichten2](https://user-images.githubusercontent.com/98753538/157249871-a15e2c1a-8ee4-4af3-995e-a4dde92cd579.jpg)
 
-*Bei der SNOM-Basisstation können bis zu 19 Teilnehmer eingerichtet werden. Im Beispiel sind es zwei:*
+Bei der SNOM-Basisstation können bis zu 19 Teilnehmer eingerichtet werden. Im Beispiel sind es zwei:
 
 ![cloudpbx_Teilnehmer einrichten5](https://user-images.githubusercontent.com/98753538/157256005-95ef62fb-dcec-42a6-915e-8888618f1e67.jpg)
 
-*IN VORBEREITUNG: #### Anmeldung der Snom-Mobilteile (Handsets)*
+#### Anmeldung der Snom-Mobilteile (Handsets)
 
-*Im Fritzbox-Menü -> Heimnetz -> Netzwerk kann man unter "Netzwerkverbindungen" die IP-Adresse der DECT-Basisstation einsehen bzw. diese auswählen:*
+Im Fritzbox-Menü -> Heimnetz -> Netzwerk kann man unter "Netzwerkverbindungen" die IP-Adresse der DECT-Basisstation einsehen bzw. diese auswählen:
 
 ![Cloudpbx_einrichten_snom_dect_fritzbox](https://user-images.githubusercontent.com/98753538/157690228-f65b389b-9384-42ec-acd8-79b36f1ba638.jpg)
 
-*So gelangen Sie zum Web-Interface Ihrer Snom M900. 
+So gelangen Sie zum Web-Interface Ihrer Snom M900. 
 
 Prüfen Sie bitte zuerst die Version der installierten Firmware, da erst ab Firmware-Stand 06.70/B0202 die verschlüsselte Übertragung unterstützt wird.
 
