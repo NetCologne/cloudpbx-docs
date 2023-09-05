@@ -220,7 +220,7 @@ Im Fritzbox-Menü -> Heimnetz -> Netzwerk kann man unter "Netzwerkverbindungen" 
 
 So gelangen Sie zum Web-Interface Ihrer Snom M900. 
 
-Prüfen Sie bitte zuerst die Version der installierten Firmware, da erst ab Firmware-Stand 06.70/B0202 die verschlüsselte Übertragung unterstützt wird.
+Prüfen Sie bitte zuerst die Version der installierten Firmware, da erst ab **Firmware-Stand 06.70/B0202** die verschlüsselte Übertragung unterstützt wird.
 
 ![Home_Status](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/6a4d5350-2c70-4195-be7d-77671ee6ebbe)
 
