@@ -231,12 +231,6 @@ Falls Ihre M900-Basis-Station noch nicht über mindestens diesen Firmware-Stand 
 Achten Sie bitte darauf, dass sich die Mobilteile während des Updates in der Ladeschale befinden, da der Update-Prozess pro Mobilteil-Typ ca. 30 Minuten beträgt.
 ( gleiche Typen werden parallel upgedated, unterschiedliche Typen nacheinander )
 
-Nach erfolgreichem Firmware-Update machen Sie bitte noch folgende Änderung in den Management-Einstellungen:
-An der markierten Stelle steht im Auslieferungszustand **{mac}.htm**. Dies muss geändert werden auf **{mac}.xml** ( siehe Bild )
-Scrollen Sie dann nach unten und drücken "Speichern und Neustart".
-
-![Management_htm-xml](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/9ddd6f57-1b63-4971-92a8-164b16f62a4f)
-
 Nach dem Einschalten bzw dem erfolgreichen Firmware-Update können Sie unter "Extensions" die eingerichteten / Provisionierten
 Nebenstellen Ihrer Cloud-PBX nebst zugehörigem User und ggf. Display-Namen sehen. 
 
