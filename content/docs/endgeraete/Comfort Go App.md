@@ -79,11 +79,13 @@ Ihre Comfort-Go-App ist aktiv und Sie (B) erhalten einen Anruf von A. Drücken S
 
 ![Weiterleitung 1](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/97ef19f8-ac8c-4055-a32c-119066590580)
 
-Anschließend klicken Sie auf den "+ Button" (Hinzufügen). Nun können Sie das Ziel (C) entweder aus den Kontakten auswählen oder rechts oben zur Tastatur wechseln und die Rufnummer wählen. Im Beispiel wird der Kontakt "kalk" ausgewählt. Die zugehörge Nummer ist anschließend per Fingerdruck zu bestätigen.
+Anschließend klicken Sie auf den "+ Button" (Hinzufügen). Nun können Sie das Ziel C entweder aus den Kontakten auswählen oder rechts oben zur Tastatur wechseln und die Rufnummer wählen. Im Beispiel wird der Kontakt "kalk" ausgewählt. Die zugehörge Nummer ist anschließend per Fingerdruck zu bestätigen.
 
 ![Weiterleitung 2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/baa1910d-c303-42b0-85e8-c13b102bb075)
 
-Anschließend klingelt es beim Ziel "kalk". Sobald der Anruf entgegengenommen wurde, können der Anrufer A und das Ziel C durch Drücken des Buttons "Transferieren" verbunden werden. Alternativ kann mit "Zusammenführen" eine Konferenz (A+B+C) initiiert werden. Mit dem Button "kSwap" kann zwischen A und C hin und her geschaltet werden.
+Anschließend klingelt es beim Ziel "kalk". Sobald der Anruf entgegengenommen wurde, können der Anrufer A und das Ziel C durch Drücken des Buttons "Transferieren" verbunden werden. 
+
+Alternativ kann mit "Zusammenführen" eine Konferenz (A+B+C) initiiert werden. Mit dem Button "kSwap" kann zwischen A und C hin und her geschaltet werden.
 
 ![Weiterleitung 3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/624dc7fa-ddb8-45e9-9910-0a249995c91d)
 
