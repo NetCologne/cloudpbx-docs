@@ -22,7 +22,9 @@ Ihre Vorteile im Überblick:
 * hören Sie von unterwegs Ihren NetCologne Anrufbeantworter ab<br>
 <br>
 
-## Comfort Go bei Google Play (Android)
+## Installation
+
+### Comfort Go bei Google Play (Android)
 
 Für Android (ab 4.2) können Sie die App unter [Google Play](https://play.google.com/store/apps/details?id=de.netcologne.hometogo&hl=de&gl=US) herunterladen und installieren.
 
@@ -45,7 +47,7 @@ Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ih
 ![Funktionen](https://user-images.githubusercontent.com/98753538/169236252-fdb10320-1c51-4f78-a547-f32a13f180c1.jpg)<br>
 <br>
 
-## Comfort Go im App Store (iOS)
+### Comfort Go im App Store (iOS)
 
 Für iOS (ab 13.0) finden sie die App im [App Store](https://apps.apple.com/de/app/comfort-go-ihre-sip-festnetznummer-f%C3%BCr-unterwegs/id1047120037). Nach der Installation erlauben Sie den Kamerazugriff, um den QR-Code von der zugehörigen Nebenstelle scannen zu können.
 
@@ -66,3 +68,34 @@ Anschließend werden Sie um die üblichen Zugriffsberechtigungen (Kontakte, Mikr
 Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ihrer Cloud-PBX telefonieren, d.h. für abgehende Telefonaten ist die Amtsholung "0" erforderlich. Wenn Sie Ihre Kontakte direkt anrufen möchten, müssen deren Nummern mit "+49" eingetragen sein. Falls Sie angerufen werden, ist mit der Taste "Transfer" die Weiterleitung zu anderen Nebenstellen möglich.
 
 ![iOS Funktionen](https://user-images.githubusercontent.com/98753538/169789156-eb121fa9-3bf4-4411-84ea-06d9d9bda438.jpg)
+
+## PBX-Funktionen
+
+Mit der Comfort-Go-App können Sie nicht nur telefonieren, sondern verfügen über weitere Cloud-PBX-Funktionen - ähnlich wie bei einer kleinen TK-Anlage.
+
+### Anrufweiterleitung (Comfort Go aktiv)
+
+Ihre Comfort-Go-App ist aktiv und Sie (B) erhalten einen Anruf von A. Drücken Sie nun die Taste "Halten":
+
+![Weiterleitung 1](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/97ef19f8-ac8c-4055-a32c-119066590580)
+
+Anschließend klicken Sie auf den "+ Button" (Hinzufügen). Nun können Sie das Ziel (C) entweder aus den Kontakten auswählen oder rechts oben zur Tastatur wechseln und die Rufnummer wählen. Im Beispiel wird der Kontakt "kalk" ausgewählt. Die zugehörge Nummer ist anschließend per Fingerdruck zu bestätigen.
+
+![Weiterleitung 2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/baa1910d-c303-42b0-85e8-c13b102bb075)
+
+Anschließend klingelt es beim Ziel "kalk". Sobald der Anruf entgegengenommen wurde, können der Anrufer A und das Ziel C durch Drücken des Buttons "Transferieren" verbunden werden. Alternativ kann mit "Zusammenführen" eine Konferenz (A+B+C) initiiert werden. Mit dem Button "kSwap" kann zwischen A und C hin und her geschaltet werden.
+
+![Weiterleitung 3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/624dc7fa-ddb8-45e9-9910-0a249995c91d)
+
+Haben Sie den Call "tranferiert", ist die Verbindung für Sie beendet. Im Display erscheint:
+
+![Bild 7](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/cd34623a-fa69-4b82-869b-328f8905025e)
+
+
+
+
+
+
+
+
+
