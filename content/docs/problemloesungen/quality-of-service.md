@@ -1,5 +1,5 @@
 ---
-title: "Quality of Service"
+title: "Quality-of-Service"
 date: 2023-09-19T18:39:22+00:00
 menu:
   docs:
