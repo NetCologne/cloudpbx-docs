@@ -73,7 +73,7 @@ Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ih
 
 Mit der Comfort-Go-App können Sie nicht nur telefonieren, sondern verfügen über weitere Cloud-PBX-Funktionen - ähnlich wie bei einer kleinen TK-Anlage.
 
-### Anrufweiterleitung (Comfort Go aktiv)
+### Anrufweiterleitung (Comfort Go aktiv) - aktuell nur für IOS
 
 Ihre Comfort-Go-App ist aktiv und Sie (B) erhalten einen Anruf von A. Drücken Sie nun die Taste "Halten":
 
