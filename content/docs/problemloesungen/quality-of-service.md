@@ -33,7 +33,7 @@ Die aktiven Regeln kann man mit folgendem Kommando anzeigen lassen:
 
 Get-NetQosPolicy
 
-Da es ohne weitere Parameter aufgerufen wurde, werden alle aktiven Regeln angezeigt, in diesem Beispiel:
+Da es ohne weitere Parameter aufgerufen wurde, werden alle aktiven Regeln angezeigt. In diesem Beispiel:
 
 Name : voice_udp
 Owner : Group Policy (Machine) 
