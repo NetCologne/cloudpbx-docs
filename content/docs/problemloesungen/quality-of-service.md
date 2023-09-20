@@ -1,6 +1,6 @@
 ---
 title: "Quality-of-Service"
-date: 2023-09-19T18:39:22+00:00
+date: 2022-01-20T00:11:22+00:00
 menu:
   docs:
     parent: "problemloesungen"
