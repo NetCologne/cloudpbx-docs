@@ -18,10 +18,10 @@ In der Regel ist die priorisierte Behandlung der UDP Pakete wichtig, da sie für
 
 New-NetQosPolicy -Name voice_udp -DSCPAction 56 -IPDstPrefixMatchCondition 195.14.195.150 -IPProtocolMatchCondition UDP
 
-voice_udp: frei wählbarer Name der Policy
-DSCPAction 56: Differentiated Service Codepoint: 56 entspricht dem Class Selector 7 (CS7), der in der Regel für VoIP verwendet wird
-IPDstPrefixMatchCondition 195.14.195.150: Ziel-IP-Adresse, für die die entsprechenden Pakete klassifiziert werden sollen
-IPProtocolMatchCondition UDP: es sollen nur die UDP Pakete klassifiziert werden
+voice_udp: frei wählbarer Name der Policy<br>
+DSCPAction 56: Differentiated Service Codepoint: 56 entspricht dem Class Selector 7 (CS7), der in der Regel für VoIP verwendet wird<br>
+IPDstPrefixMatchCondition 195.14.195.150: Ziel-IP-Adresse, für die die entsprechenden Pakete klassifiziert werden sollen<br>
+IPProtocolMatchCondition UDP: es sollen nur die UDP Pakete klassifiziert werden<br>
 
 Sollen auch die SIP-Nachrichten klassifiziert werden, so muss zusätzlich eine Regel für die TCP Pakete eingerichtet werden:
 
@@ -35,20 +35,20 @@ Get-NetQosPolicy
 
 Da es ohne weitere Parameter aufgerufen wurde, werden alle aktiven Regeln angezeigt. In diesem Beispiel:
 
-Name : voice_udp
-Owner : Group Policy (Machine) 
-NetworkProfile : All 
-Precedence : 127 
-JobObject : 
-IPProtocol : UDP 
-IPDstPrefix : 195.14.195.150 
-DSCPValue : 56 
+Name : voice_udp<br>
+Owner : Group Policy (Machine)<br>
+NetworkProfile : All<br>
+Precedence : 127<br>
+JobObject : <br>
+IPProtocol : UDP<br>
+IPDstPrefix : 195.14.195.150<br>
+DSCPValue : 56<br>
   
-Name : voice_sip 
-Owner : Group Policy (Machine) 
-NetworkProfile : All 
-Precedence : 127 
-JobObject : 
-IPProtocol : TCP 
-IPDstPrefix : 195.14.195.150 
+Name : voice_sip<br>
+Owner : Group Policy (Machine)<br>
+NetworkProfile : All<br>
+Precedence : 127<br>
+JobObject :<br>
+IPProtocol : TCP<br>
+IPDstPrefix : 195.14.195.150<br>
 DSCPValue : 56
