@@ -99,7 +99,7 @@ Die Comfort-Go-App ist nicht aktiviert und Ihr Smartphone im Stand-By-Modus. Wen
 
 ![Weiterleitung 4](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/467f8fdc-6bdd-4258-9739-445e6fb914bb)
 
-Auf dem Display erscheint die Tastatur, Sie wählen die Nummer des Ziel C und nach Drücken des grünen Buttons erfolgt der Gesprächsaufbau (Verbinde ...).
+Auf dem Display erscheint die Tastatur, Sie wählen die Nummer des Ziels C und nach Drücken des grünen Buttons erfolgt der Gesprächsaufbau (Verbinde ...).
 
 ![Weiterleitung 5](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/eadd5f3a-86f9-456f-a79f-eaa3c70a20a2)
 
