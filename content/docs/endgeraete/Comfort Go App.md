@@ -93,6 +93,21 @@ Haben Sie den Call "tranferiert", ist die Verbindung für Sie beendet. Im Displa
 
 ![Bild 7](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/cd34623a-fa69-4b82-869b-328f8905025e)
 
+### Anrufweiterleitung (Comfort Go inaktiv) - aktuell nur für IOS
+
+Die Comfort-Go-App ist nicht aktiviert und Ihr Smartphone im Stand-By-Modus. Wenn Sie (B) nun einen Anruf von A erhalten, können Sie diesen durch Wischen in Pfeilrichtung annehmen. Wünschen Sie weiteren Funtktionen (Weiterleitung, 3er-Konferenz), ziehen Sie den Comfort-Go-Button nach unten und entsperren den Bildschirm per Code-Eingabe.
+
+![Weiterleitung 4](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/467f8fdc-6bdd-4258-9739-445e6fb914bb)
+
+Auf dem Display erscheint die Tastatur, Sie wählen die Nummer des Ziel C und nach Drücken des grünen Buttons erfolgt der Gesprächsaufbau (Verbinde ...).
+
+![Weiterleitung 5](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/eadd5f3a-86f9-456f-a79f-eaa3c70a20a2)
+
+Sobald das Ziel den Anruf entgegengenommen hat, erhalten Sie eine "On-Hold-Meldung" und können durch Drücken der Taste "Transferieren" den Anrufer A mit dem Ziel C verbinden. Damit endet für Sie der Anruf (Aufgelegt).
+
+![Weiterleitung 6](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/593107f5-93d8-46be-9776-2562d5ae58ec)
+
+
 
 
 
