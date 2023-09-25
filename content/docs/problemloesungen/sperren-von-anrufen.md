@@ -18,17 +18,20 @@ Unter Call Blockings können Sie den Modus (Black- oder Whitelist) einstellen un
 
 ## Call Blocking per Blacklist
 
-Das ist die Default-Einstellung, d.h. beim Block Mode ist KEIN Häkchen (roter Pfeil) gesetzt. Die bei der Block List eingetragenen Rufnummern oder Rufnummernbereiche werden geblockt. Als Beipiel sind dies die Ortsnetze Düsseldorf (49211*) und Bonn (49228*).
+Das ist die Default-Einstellung, d.h. beim Block Mode ist KEIN Häkchen (roter Pfeil) gesetzt. Die bei der Block List eingetragenen Rufnummern oder Rufnummernbereiche werden geblockt. Im Beispiel sind dies die Ortsnetze Düsseldorf (49211*) und Bonn (49228*).
 
 ![Call_Blocking_3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/f78dd4df-11a2-4ae0-a0a5-af9252687f0c)
 
-## Call Blocking per Whitelilst
+## Call Blocking per Whitelist
 
-Beim Block Mode ist das Häkchen (roter Pfeil) gesetzt und es werden nur die in der Block List eingetragenen Rufnummern(bereiche) NICHT blockiert. Im Beispiel sind die Rufnummern aus Deutschland (beginnend mit 49).
+Beim Block Mode ist das Häkchen (roter Pfeil) gesetzt und es werden nur die in der Block List eingetragenen Rufnummern(bereiche) NICHT blockiert. Im Beispiel sind dies alle Rufnummern aus Deutschland (beginnend mit 49).
 
 ![Call_Blocking_4](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/9b2af1d4-7ab3-4e94-83ff-ff775a60b517)
 
-## Sperre von externen Anrufen
+## Call Blocking von externen Anrufen
+
+Ist es gewünscht, dass eine bestimmte Nebenstelle (z.B. das Wartezimmer) nur von den anderen Nebenstellen der Cloud-PBX erreichbar ist, dann setzten Sie im Feld „Block Mode for inbound calls“ das Häkchen (-> Aktivierung Whitelist). Anschließend tragen Sie bei der „Block List for inbound calls“ die anderen Rufnummern Ihrer TK-Anlage ein. Das Fragezeichen steht für eine beliebige Ziffer. Die TK-Anlage im Beispiel hat also die Stammnummer 4922126152 mit zwei- und dreistelligen Durchwahlen.
 
 ![Call_Blocking_5](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/de5772cf-08fd-41c7-9988-6d4461a5aebd)
 
+Ergebnis: Die internen Anrufe (der Whitelist) werden durchgelassen und alle Calls von außerhalb werden mit SIP Cause 403 "Blocked by Callee" ausgelöst.
