@@ -1,0 +1,20 @@
+---
+title: "Sperren von Anrufen"
+date: 2023-09-25T00:10:41+00:00
+menu:
+  docs:
+    parent: "problemloesungen"
+weight: 601
+toc: true
+---
+
+Wenn Sie wünschen, das eine Nebenstelle von bestimmten Rufnnumern nicht erreicht werden darf oder nur von bestimmten Rufnummern erreicht werden soll, können entsprechende Call Blockings konfigurieren.
+
+
+## Blacklist
+
+
+## Whitelilst
+
+
+## Sperre von externen Anrufen
