@@ -8,7 +8,7 @@ weight: 601
 toc: true
 ---
 
-Wenn Sie wünschen, dass eine Nebenstelle von bestimmten Rufnummern nicht erreicht werden darf oder nur von bestimmten Rufnummern erreicht werden soll, können entsprechende Call Blockings konfigurieren.
+Wenn Sie wünschen, dass eine Nebenstelle von bestimmten Rufnummern nicht erreicht werden darf oder nur von bestimmten Rufnummern erreicht werden soll, können Sie entsprechende Call Blockings konfigurieren.
 
 
 ## Blacklist
