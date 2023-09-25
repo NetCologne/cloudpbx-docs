@@ -1,0 +1,12 @@
+---
+title: "Sperre von externen Anrufen"
+date: 2023-09-25T10:13:00+00:00
+menu:
+  docs:
+    parent: "problemlösungen"
+weight: 418
+toc: true
+---
+
+Wenn Sie wünschen, dass eine Nebenstelle nicht "von extern" angerufen werden kann, können Sie diese blockieren.
+
