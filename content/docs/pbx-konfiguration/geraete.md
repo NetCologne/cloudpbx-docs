@@ -42,7 +42,7 @@ Weitere Funktionen für die Tastenbelegung sind Besetztlampenfeld ( BLF ), Kurzw
 
 ![SNOM_D865_Geräte_02](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f122c6e1-9f70-4557-94a6-e21ef1a5f827)
 
-### 2.1 Yealink T5-Serie
+### 2.1 Yealink T5/T4-Serie
 
 ![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
 
