@@ -14,7 +14,7 @@ Mit Ihrer Cloud PBX können Sie sich das klassische Faxgerät sparen. Die Faxfun
 
 ### Faxservice einrichten
 
-Klicken Sie zunächst im Menüpunkt *Faxeinstellungen* auf +ZIELRUFNUMMER HINZUFÜGEN (1), geben die Ziel-E-Mail-Adresse (2) und den gewünschten Dateityp (3) an, in dem das Fax als E-Mail gesendet werden soll. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht. Danach Sie mit ✓ ZIEL ERSTELLEN (5). <br>
+Klicken Sie zunächst im Menüpunkt *Faxeinstellungen* auf +ZIELRUFNUMMER HINZUFÜGEN (1), geben die Ziel-E-Mail-Adresse (2) und den gewünschten Dateityp (3) an, in dem das Fax als E-Mail gesendet werden soll. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht. Danach bestätigen Sie mit ✓ ZIEL ERSTELLEN (5). <br>
 Wichtig: Aktiveren Sie die Faxfunktion (6) und beachten den nächsten Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung).
 
 ![Fax Einstellungen1](https://user-images.githubusercontent.com/98753538/162148734-0797682a-2dcd-47d3-8f7d-92c813024b72.jpg)
