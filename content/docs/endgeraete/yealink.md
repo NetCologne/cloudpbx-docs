@@ -240,3 +240,52 @@ Username und Password lauten beide "admin".
 9. Wählen Sie hier bei "Quelle Anrufer-ID" "PAI-VON"
 10. Wählen Sie hier unter RTP-Verschlüsselung (SRTP) "Obligatorisch" aus.
 
+## Yealink EXP50 Erweiterungs-Modul
+
+Das Yealink EXP50 Erweiterungs-Modul verfügt über ein 10,9cm Farb-Display und ist mit den Yealink SIP-T5-Reihe Business Media Telefonen kompatibel.
+20 zweifarbige LED-Tasten über 3 Seiten bieten 60 programmierbare Tasten. Wenn mehr Tasten benötigt werden, können für insgesamt 180  programmierbare Tasten, 
+bis zu 3 EXP50 Erweiterungs-Module durch Daisy Chaining miteinander verkabelt werden.
+
+Tasten können für verschiedene Funktionen wie unter anderem Kurzwahl, BLF / BLA, Rufumleitung und Rufweiterleitung 
+programmiert werden. Das Yealink EXP50 Erweiterungs-Modul wurde entwickelt um ein hohes Volumen von gleichzeitigen 
+Anrufen verwalten zu können, einen mühelosen Überblick über Anrufe zu haben und um Ihre Produktivität extrem zu steigern.
+
+Kompatible Geräte
+
+    Yealink SIP-T56A
+    Yealink SIP-T58V
+    Yealink SIP-T58A
+    Yealink SIP-T53
+    Yealink SIP-T53W
+    Yealink SIP-T54W
+    Yealink SIP-T57W
+
+Ansicht des Gerätes:
+
+Bild
+
+Ansicht des montierten Gerätes ( Yealink T57W + EXP50 )
+
+Bild
+
+Montieren Sie zunächst das Erweiterungsmodul an das bereits bestehende und konfigurierte Basisgerät entsprechend
+dem mitgelieferten Quick Start Guide. Im Anschluss wird beschrieben, wie Sie das EXP50 konfigurieren können.
+
+### Zugangsdaten
+
+Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse 
+im lokalen Router ausgelesen werden kann:
+
+Bild
+
+Username lautet “admin”, Password lautet “adminpass”.
+
+### Konfiguration
+
+Bild
+
+1. Wählen Sie im linken Frame unter "Dsskey" den Punkt "Ext-Taste" aus.
+2. Auf der nun dargestellten Seite können Sie die Tasten des EXP50 den von Ihnenn gewünschten Funktionen zuordnen:
+zB. BLF / Kurzwahl / Rufweiterleitung / Pick-Up / Übergeben/Transfer etc.
+Übernommen werden die Daten mit Klick auf "Bestätitigen". Damit ist die Konfiguration angeschlossen. 
+Sie kannn jedoch jederzeit angepasst oder verändert werden.
