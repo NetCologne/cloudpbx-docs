@@ -252,13 +252,7 @@ Anrufen verwalten zu können, einen mühelosen Überblick über Anrufe zu haben 
 
 Kompatible Geräte
 
-Yealink SIP-T56A
-Yealink SIP-T58V
-Yealink SIP-T58A
-Yealink SIP-T53
-Yealink SIP-T53W
-Yealink SIP-T54W
-Yealink SIP-T57W
+Yealink SIP-T56A / SIP-T58V / SIP-T58A / SIP-T53 / SIP-T53W / SIP-T54W / SIP-T57W
 
 Ansicht des Gerätes:
 
