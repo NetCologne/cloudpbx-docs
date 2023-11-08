@@ -256,11 +256,11 @@ Yealink SIP-T56A / SIP-T58V / SIP-T58A / SIP-T53 / SIP-T53W / SIP-T54W / SIP-T57
 
 Ansicht des Gerätes:
 
-Bild
+![EPX50](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/2a99b1db-cffe-4e4e-8316-62ff720a2978)
 
 Ansicht des montierten Gerätes ( Yealink T57W + EXP50 )
 
-Bild
+![T57_EXP50](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/c608ba8a-e26c-4ad0-a6eb-23bb97ed2bd3)
 
 Montieren Sie zunächst das Erweiterungsmodul an das bereits bestehende und konfigurierte Basisgerät entsprechend
 dem mitgelieferten Quick Start Guide. Im Anschluss wird beschrieben, wie Sie das EXP50 konfigurieren können.
@@ -270,13 +270,13 @@ dem mitgelieferten Quick Start Guide. Im Anschluss wird beschrieben, wie Sie das
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse 
 im lokalen Router ausgelesen werden kann:
 
-Bild
+![Yealink_T57_Login](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/ff740e0c-de91-405d-bc77-351453897363)
 
 Username lautet “admin”, Password lautet “adminpass”.
 
 ### Konfiguration
 
-Bild
+![EXP50_T57_DSS_Key_Konfig](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/fdea3339-76fc-41a6-8473-d80d2ca28216)
 
 1. Wählen Sie im linken Frame unter "Dsskey" den Punkt "Ext-Taste" aus.
 2. Auf der nun dargestellten Seite können Sie die Tasten des EXP50 den von Ihnenn gewünschten Funktionen zuordnen:
