@@ -279,7 +279,7 @@ Username lautet “admin”, Password lautet “adminpass”.
 ![EXP50_T57_DSS_Key_Konfig](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/886c25c4-6856-43a1-8039-156199596aea)
 
 1. Wählen Sie im linken Frame unter "Dsskey" den Punkt "Ext-Taste" aus.
-2. Auf der nun dargestellten Seite können Sie die Tasten des EXP50 den von Ihnenn gewünschten Funktionen zuordnen:
+2. Auf der nun dargestellten Seite können Sie die Tasten des EXP50 den von Ihnen gewünschten Funktionen zuordnen:
 zB. BLF / Kurzwahl / Rufweiterleitung / Pick-Up / Übergeben/Transfer etc.
-Übernommen werden die Daten mit Klick auf "Bestätitigen". Damit ist die Konfiguration angeschlossen. 
+Übernommen werden die Daten mit Klick auf "Bestätitigen". Damit ist die Konfiguration abgeschlossen. 
 Sie kannn jedoch jederzeit angepasst oder verändert werden.
