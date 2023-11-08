@@ -256,7 +256,7 @@ Yealink SIP-T56A / SIP-T58V / SIP-T58A / SIP-T53 / SIP-T53W / SIP-T54W / SIP-T57
 
 Ansicht des Gerätes:
 
-![EPX50](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/2a99b1db-cffe-4e4e-8316-62ff720a2978)
+![EPX50](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/e6493966-cb7b-4dfa-8e8b-25893c61ceca)
 
 Ansicht des montierten Gerätes ( Yealink T57W + EXP50 )
 
@@ -276,7 +276,7 @@ Username lautet “admin”, Password lautet “adminpass”.
 
 ### Konfiguration
 
-![EXP50_T57_DSS_Key_Konfig](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/fdea3339-76fc-41a6-8473-d80d2ca28216)
+![EXP50_T57_DSS_Key_Konfig](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/886c25c4-6856-43a1-8039-156199596aea)
 
 1. Wählen Sie im linken Frame unter "Dsskey" den Punkt "Ext-Taste" aus.
 2. Auf der nun dargestellten Seite können Sie die Tasten des EXP50 den von Ihnenn gewünschten Funktionen zuordnen:
