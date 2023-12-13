@@ -89,7 +89,7 @@ Alternativ kann mit "Zusammenführen" eine Konferenz (A+B+C) initiiert werden. M
 
 ![Weiterleitung 3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/624dc7fa-ddb8-45e9-9910-0a249995c91d)
 
-Haben Sie den Call "tranferiert", ist die Verbindung für Sie beendet. Im Display erscheint:
+Haben Sie den Call "transferiert", ist die Verbindung für Sie beendet. Im Display erscheint:
 
 ![Bild 7](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/cd34623a-fa69-4b82-869b-328f8905025e)
 
