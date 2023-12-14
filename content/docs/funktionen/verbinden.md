@@ -14,9 +14,11 @@ toc: true
 * Sie wollen Rücksprache halten, dazu drücken Sie die "Halten"-Taste
 * Sie Wählen die Nummer, mit der Sie Rücksprache halten möchten:
 * Das geht auf 2 Arten:
+  
 1. Sie haben die Nummer bereits auf einer BLF-Taste:
 Dann können Sie diese als Zieltaste verwenden und drücken.
-2. Sie wählen direkt die Nummer, mit der Sie Rücksprache halten möchten. Beenden Sie die Wahl mit der "Häkchen"-Taste
+
+* Sie wählen direkt die Nummer, mit der Sie Rücksprache halten möchten. Beenden Sie die Wahl mit der "Häkchen"-Taste
 * Ihr Rücksprache-Ziel nimmt ab, Sie halten Rücksprache und können nun Verbinden, indem Sie die "Weiterleitungs-Taste" drücken und auflegen.
 * Ihr Anrufer ist nun mit Ihrem Rücksprache-Ziel verbunden.
 * Hinweis: Ein Verbinden zum einem externen Ziel ( also zB. einer Mobilfunk-Nummer oder Festnetz-Nummer ) ist nicht möglich
