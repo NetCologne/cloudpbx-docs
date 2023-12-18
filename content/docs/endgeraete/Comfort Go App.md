@@ -93,7 +93,7 @@ Haben Sie den Call "transferiert", ist die Verbindung für Sie beendet. Im Displ
 
 ![Bild 7](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/cd34623a-fa69-4b82-869b-328f8905025e)
 
-### Weiterleiten mit Rückfrage (Comfort Go inaktiv) - aktuell nur für IOS
+### Weiterleiten mit Rückfrage (Comfort Go inaktiv) für IOS
 
 Die Comfort-Go-App ist nicht aktiviert und Ihr Smartphone im Stand-By-Modus. Wenn Sie (B) nun einen Anruf von A erhalten, können Sie diesen durch Wischen in Pfeilrichtung annehmen. Wünschen Sie weitere Funtktionen (Weiterleitung, 3er-Konferenz), ziehen Sie den Comfort-Go-Button nach unten und entsperren den Bildschirm per Code-Eingabe.
 
@@ -108,11 +108,15 @@ Sobald das Ziel den Anruf entgegengenommen hat, erhalten Sie eine "On-Hold-Meldu
 ![Weiterleitung 6](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/593107f5-93d8-46be-9776-2562d5ae58ec)
 
 
+### Weiterleiten mit Rückfrage (Comfort Go inaktiv) für Android
 
+Die Comfort-Go-App ist nicht aktiviert und Ihr Smartphone im Stand-By-Modus. Wenn Sie (B) nun einen Anruf von A erhalten, können Sie diesen durch Wischen in Pfeilrichtung annehmen. Um nun eine Rückfrage einzuleiten, drücken Sie auf "Hinzufügen". Es öffnet sich ein Fenster, in dem Sie entweder die gewünschte Rufnummer eintippen oder Sie wählen aus den darüber angezeigten Favoriten das Ziel aus.
 
+![weiterleitung_a_01](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/ff52f59d-1dc6-4f79-bf25-0e5afc0f61a3)
 
+In diesem Beispiel wird das Ziel "kalk" aus den Favoriten ausgewählt. Dazu tippen Sie auf das Hörersymbol neben den Eintrag "kalk".
 
+Sobald der Teilnehmer "kalk" den Anruf entgegengenommen hat, können Sie mit ihm sprechen und z.B. die Übergabe des Anrufers (A) angkündigen. Durch Tippen auf "Transferieren" übergeben Sie das Gespräch an den Teilnehmer "kalk". Für Sie endet damit der Anruf.
 
-
-
+![weiterleitung_a_02](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/cf6995a9-12d1-46bb-b1e6-898efc7e1def)
 
