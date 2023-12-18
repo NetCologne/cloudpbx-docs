@@ -111,7 +111,8 @@ Bitte beachten Sie die Unterschiede bei der Einrichtung von Telefon und Faxgerä
 
 ![ATA Profile 1d](https://user-images.githubusercontent.com/98753538/152998051-436127e7-19e8-4b02-989f-059c88f43d0b.jpg)
 
-![ATA Profile 1g](https://user-images.githubusercontent.com/98753538/211316828-46e3cd03-3dd1-450d-83f8-09a9ae8992ea.jpg)
+![ATA Profile 1g_neu_T38](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/7db57da9-86c6-4222-aa24-6999cb1897c9)
+
 
 
 Bitte beachten Sie die Unterschiede bei der Einrichtung von Telefon und Faxgerät:
