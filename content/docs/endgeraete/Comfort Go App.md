@@ -73,7 +73,7 @@ Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ih
 
 Mit der Comfort-Go-App können Sie nicht nur telefonieren, sondern verfügen über weitere Cloud-PBX-Funktionen - ähnlich wie bei einer kleinen TK-Anlage.
 
-### Weiterleiten mit Rückfrage (Comfort Go aktiv) - aktuell nur für IOS
+### Weiterleiten mit Rückfrage (Comfort Go aktiv) - für IOS
 
 Ihre Comfort-Go-App ist aktiv und Sie (B) erhalten einen Anruf von A. Drücken Sie nun die Taste "Halten":
 
@@ -110,6 +110,7 @@ Sobald das Ziel den Anruf entgegengenommen hat, erhalten Sie eine "On-Hold-Meldu
 
 ### Weiterleiten mit Rückfrage (Comfort Go inaktiv) für Android
 
+Diese Funktion steht ab Version 2.2.1 zur Verfügung.
 Die Comfort-Go-App ist nicht aktiviert und Ihr Smartphone im Stand-By-Modus. Wenn Sie (B) nun einen Anruf von A erhalten, können Sie diesen durch Wischen in Pfeilrichtung annehmen. Um nun eine Rückfrage einzuleiten, drücken Sie auf "Hinzufügen". Es öffnet sich ein Fenster, in dem Sie entweder die gewünschte Rufnummer eintippen oder Sie wählen aus den darüber angezeigten Favoriten das Ziel aus.
 
 ![weiterleitung_a_01](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/ff52f59d-1dc6-4f79-bf25-0e5afc0f61a3)
