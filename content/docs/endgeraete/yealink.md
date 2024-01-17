@@ -11,6 +11,7 @@ toc: true
 Hier geben wir Ihnen eine Einführung zu Ihrem Yealink VoIP Telefon. Im ersten Schritt machen Sie sich mit der Tastenbelegung Ihres Telefons vertraut und bekommen dann eine Schritt-für-Schritt-Anleitung zur Einrichtung Ihres Telefons.
 
 Wichtiger Hinweis:
+
 Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Firmware-Version 96.86.0.75 aus. Zu dieser Version liegen keine Releasenotes vor. Auch ist sie nicht auf der Homepage von Yealink zu finden.
 Bei dieser Version werden die Einstellungen für TLS nicht automatisch provisioniert. Dies muss nachträglich manuell über die GUI des Telefons erfolgen. Bei einem Neustart des Telefons bleibt die Einstellung erhalten. Nach dem Zurücksetzen auf Werkseinstellungen muss die Einstellung allerdings wieder manuell nachgetragen werden.
 
