@@ -126,7 +126,7 @@ Username und Password lauten beide "admin".
 7. Unter "Transport" wählen Sie "TLS" aus.
 8. Unter "Ausgehender Proxy-Server 1" tragen Sie bitte den Proxy-Server, welcher Ihnen von NetCologne mitgeteilt wurde, ein. Unter "Port" muss "5061" stehen.
 9. Falls Sie bisher noch keine Yealink DECT IP Basisstation W80B angeschlossen haben, müssen Sie dies im nächsten Schritt nachholen.
-10. Die angeschlossene(n) Basis-Statione(n) sehen Sie unter Punkt "Registrieren Basis-Station"
+10. Die angeschlossene(n) Basis-Station(en) sehen Sie unter Punkt "Registrieren Basis-Station"
    
 ![Registrieren_Basis_Station](https://user-images.githubusercontent.com/99875491/187176771-82f43a3a-ec23-418e-bb66-d864330141e4.jpeg)
 
