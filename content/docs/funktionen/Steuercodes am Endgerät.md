@@ -12,9 +12,9 @@ Mit Hilfe von Steuercodes können Funktionen der Telefonanlage über jedes Endge
 
 ### Rückrufe
 
- zum letzten Anrufer:      **\*74*** [ ]
+ zum letzten Anrufer:      **\*74*** <br>
 
- zum letzten Angerufenen:  **\*95*** [ ]
+ zum letzten Angerufenen:  **\*95*** <br>
 
 
 ### Anrufweiterleitung in CloudPBX
@@ -39,10 +39,10 @@ Weiterleitung (Ständig, Besetzt, Nichtmelden) im Telefon zu: **\*56*49ONKZStamm
 
 ### Sonstiges
 
- Rufnummernunterdrückung: **\*31*Ziel**
+ Rufnummernunterdrückung: **\*31*Ziel**<br>
  
- Pickup: **\*99*Ziel** (Ziel entweder Nebenstellennummer oder SIP User)
+ Pickup: **\*99*Ziel** (Ziel entweder Nebenstellennummer oder SIP User)<br>
  
- Parken eines Anrufes: **\*97*Slot** (Slot ist Nummer zwischen 1 und 9)
+ Parken eines Anrufes: **\*97*Slot** (Slot ist Nummer zwischen 1 und 9)<br>
  
- Wiederholen geparkten Anrufes: **\*98*Slot** (von jedem Telefon der CPBX aus möglich - also zum Beispiel zum Übergeben eines Anrufes von der App zum Tischtelefon)
+ Wiederholen geparkten Anrufes: **\*98*Slot** (von jedem Telefon der CPBX aus möglich - also zum Beispiel zum Übergeben eines Anrufes von der App zum Tischtelefon)<br>
