@@ -12,8 +12,10 @@ Mit Hilfe von Steuercodes können Funktionen der Telefonanlage über jedes Endge
 
 ### Rückrufe
 
-zum letzten Anrufer:      **\*74***
-zum letzten Angerufenen:  **\*95***
+ zum letzten Anrufer:      **\*74***
+
+ zum letzten Angerufenen:  **\*95***
+
 
 ### Anrufweiterleitung in CloudPBX
 
@@ -29,9 +31,11 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 
 Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
 
+
 ### Weiterleitung zur Voicebox durch Weiterleitung auf dem Telefon:
 
 Weiterleitung (Ständig, Besetzt, Nichtmelden) im Telefon zu: **\*56*49ONKZStammnummerNST** (z. B. *56*49221888878010) Abschaltung durch Deakt Weiterleitung
+
 
 ### Sonstiges
 
