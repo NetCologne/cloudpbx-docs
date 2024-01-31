@@ -12,9 +12,9 @@ Mit Hilfe von Steuercodes können Funktionen der Telefonanlage über jedes Endge
 
 ### Rückrufe
 
- zum letzten Anrufer:      **\*74*** <br>
+ zum letzten Anrufer:      __*74*__ <br>
 
- zum letzten Angerufenen:  **\*95*** <br>
+ zum letzten Angerufenen:  __*95*__ <br>
 
 
 ### Anrufweiterleitung in CloudPBX
