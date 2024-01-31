@@ -36,6 +36,9 @@ Weiterleitung (Ständig, Besetzt, Nichtmelden) im Telefon zu: **\*56*49ONKZStamm
 ### Sonstiges
 
  Rufnummernunterdrückung: **\*31*Ziel**
+ 
  Pickup: **\*99*Ziel** (Ziel entweder Nebenstellennummer oder SIP User)
-  Parken eines Anrufes: **\*97*Slot** (Slot ist Nummer zwischen 1 und 9)
+ 
+ Parken eines Anrufes: **\*97*Slot** (Slot ist Nummer zwischen 1 und 9)
+ 
  Wiederholen geparkten Anrufes: **\*98*Slot** (von jedem Telefon der CPBX aus möglich - also zum Beispiel zum Übergeben eines Anrufes von der App zum Tischtelefon)
