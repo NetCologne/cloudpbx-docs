@@ -8,4 +8,35 @@ weight: 402
 toc: true
 ---
 
+Mit Hilfe von Steuercodes können Funktionen der Telefonanlage über jedes Endgerät auch direkt angesteuert werden. Hier eine Übersicht:
 
+### Rückrufe
+
+zum letzten Anrufer:      **\*74***
+zum letzten Angerufenen:  **\*95***
+
+### Anrufweiterleitung in CloudPBX
+
+Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
+
+*Call Forward Unconditional:* Einrichtung der Rufumleitung durch Wahl von **\*72*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
+
+*Call Forward on Busy:* Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #90*.
+
+*Call Forward on Timeout:* Einrichtung der Rufumleitung nach Zeit durch Wahl von **\*92*30*Zielrunfummer** (hier also nach 30 Sekunden) – *Deaktivierung durch Wahl von #92*.
+
+*Call Forward on Not Available:* Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93*Zielrufnummer** - *Deaktivierung durch Wahl von #93*.
+
+Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
+
+### Weiterleitung zur Voicebox durch Weiterleitung auf dem Telefon:
+
+Weiterleitung (Ständig, Besetzt, Nichtmelden) im Telefon zu: **\*56*49ONKZStammnummerNST** (z. B. *56*49221888878010) Abschaltung durch Deakt Weiterleitung
+
+### Rufnummernunterdrückung: *31*Ziel
+
+### Pickup: *99*Ziel (Ziel entweder Nebenstellennummer oder SIP User)
+
+### Parken:
+ Parken eines Anrufes: **\*97*Slot (Slot ist Nummer zwischen 1 und 9)**
+ Wiederholen geparkten Anrufes: **\*98*Slot** (von jedem Telefon der CPBX aus möglich - also zum Beispiel zum Übergeben eines Anrufes von der App zum Tischtelefon)
