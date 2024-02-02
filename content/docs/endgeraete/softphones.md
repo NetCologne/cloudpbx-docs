@@ -40,23 +40,23 @@ toc: true
 
 ### Übersicht der Leistungsmerkmale
 
-| Leistungsmerkmal  | Zoiper5 | PhonerLite |
-| ------------- | ------------- | ------------- |
-| TLS  | nur kostenpfl. Version  | ja |
-| SRTP | nur kostenpfl. Version  | ja |
-| Anklopfen  | ja  | ja |
-| Besetztlampenfeld (BLF)  | mit Telefonbucheintrag  | nein |
-| Kurzwahl  | nein  | ja |
-| nicht Stören (DND)  | über Einstellung "Autoreject"  | ja |
-| Wahlwiederholung  | über Anrufliste  | ja |
-| Heranholen (Pick-up) | workaround über Eintrag in Telefonbuch  | nein |
-| IPv6  | manuelle Konfiguration in config.xml  | ja |
-| DTMF RFC-2833  | ja  |   |
-| Übergabe ohne Rückfrage  | ja  |   |
-| Übergabe mit Rückfrage  | ja  | ja |
-| Rückfrage/Makeln  | ja  |   |
-| Anzeige des Anrufers aus TB  |    | ja |
-| Statistik  | nein  | QoS aus laufendem Gespräch |
+| Leistungsmerkmal  | Zoiper5 | PhonerLite | Ninja Pro (kostenpflichtig) |
+| ------------- | ------------- | ------------- | ------------- |
+| TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  |
+| SRTP | nur kostenpfl. Version  | ja | nur kostenpfl. Version  |
+| Anklopfen  | ja  | ja | ja |
+| Besetztlampenfeld (BLF)  | mit Telefonbucheintrag  | nein | mit Schnellwahl |
+| Kurzwahl  | nein  | ja | ja |
+| nicht Stören (DND)  | über Einstellung "Autoreject"  | ja | ja |
+| Wahlwiederholung  | über Anrufliste  | ja | ja |
+| Heranholen (Pick-up) | workaround über Eintrag in Telefonbuch  | nein | über Schnellwahlfenster |
+| IPv6  | manuelle Konfiguration in config.xml  | ja |  |
+| DTMF RFC-2833  | ja  |   | ja |
+| Übergabe ohne Rückfrage  | ja  |   | ja |
+| Übergabe mit Rückfrage  | ja  | ja |  |
+| Rückfrage/Makeln  | ja  |   |  |
+| Anzeige des Anrufers aus TB  |    | ja | ja |
+| Statistik  | nein  | QoS aus laufendem Gespräch | nein |
 
 ### PhonerLite
 
