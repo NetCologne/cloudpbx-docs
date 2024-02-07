@@ -287,4 +287,4 @@ Username lautet “admin”, Password lautet “adminpass”.
 2. Auf der nun dargestellten Seite können Sie die Tasten des EXP50 den von Ihnen gewünschten Funktionen zuordnen:
 zB. BLF / Kurzwahl / Rufweiterleitung / Pick-Up / Übergeben/Transfer etc.
 Übernommen werden die Daten mit Klick auf "Bestätitigen". Damit ist die Konfiguration abgeschlossen. 
-Sie kannn jedoch jederzeit angepasst oder verändert werden.
+Sie kann jedoch jederzeit angepasst oder verändert werden.
