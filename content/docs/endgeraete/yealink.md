@@ -288,3 +288,27 @@ Username lautet “admin”, Password lautet “adminpass”.
 zB. BLF / Kurzwahl / Rufweiterleitung / Pick-Up / Übergeben/Transfer etc.
 Übernommen werden die Daten mit Klick auf "Bestätitigen". Damit ist die Konfiguration abgeschlossen. 
 Sie kann jedoch jederzeit angepasst oder verändert werden.
+
+
+## Anleitung zum Entfernen eines Brandings
+
+Gelegentlich kann es vorkommen, dass Endgeräte aus einer vorherigen Verwendung übernommen werden sollen. Wenn diese Geräte
+auf einen bestimmten Hersteller "gebranded", d.h. mit einer speziellen Firmware ausgestattet sind, muss zuerst das Branding
+durch Aufspielen einer Lizenzdatei entfernt werden. Anschließend kann die Standardfirmware in der aktuellen Version installiert werden.
+
+Um die notwendige Lizenz zu bekommen, wenden Sie sich bitte an Ihren Ansprechpartner bei NetCologne. Dazu halten Sie bitte die MAC-Adressen der
+betroffenen Endgeräte bereit.
+
+Wenn Sie die erforderlichen Lizenzdateien bekommen haben sind folgende Schritte durchzuführen (hier am Beispiel eines SIP-T46S dargestellt):
+
+Melden Sie sich über einen Browser auf der Bedieneroberfläche des entsprechenden Telefons an.
+
+Im Menü "Sicherheit" wählen Sie den Eintrag "Lizenz".
+
+![licence_importieren](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/03aa96a4-160b-4586-b094-08086e88f149)
+
+Laden Sie die zur Verfügung gestellte Lizenzdatei hoch.
+
+Anschließend können Sie im Menü "Einstellungen" unter "Upgrade" die aktuelle neutrale Firmware installieren. Auf der Homepage https://www.yealink.com/ erhalten Sie die Firmware.
+
+![fw-update](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/db9f60ac-3dec-49c4-86d1-bc5ac3b08471)
