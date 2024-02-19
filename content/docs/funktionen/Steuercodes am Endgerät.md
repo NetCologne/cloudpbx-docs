@@ -34,7 +34,9 @@ Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über 
 
 ### Weiterleitung zur Voicebox im TELEFON:
 
-Weiterleitung (Ständig, Besetzt, Nichtmelden) im Telefon zu: **\*56*49ONKZStammnummerNST** (z. B. *56*49221888878010) Abschaltung durch Deaktivieren der Weiterleitung
+Weiterleitung (Ständig, Besetzt, Nichtmelden) im Telefon zu: **\*56*NST** (z. B. *56*12 für die Nebenstelle mit Durchwahl 12)<br>
+Abschaltung durch Deaktivieren der Weiterleitung<br>
+In vielen Endgeräten (z.B. Yealink) kann auch eine Zielwahltaste mit diesem Steuercode belegt werden. Das macht die Aktivierung und Deaktivierung der Weiterleitung komfortabler, da dann jeweils nur ein Tastendruck genügt.
 
 
 ### Sonstiges
