@@ -44,6 +44,9 @@ Weitere Funktionen für die Tastenbelegung sind Besetztlampenfeld ( BLF ), Kurzw
 
 ### 2.1 Yealink T5/T4-Serie
 
+>💡**Hinweis**  
+> Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Firmware-Version **96.86.0.75** aus. Zu dieser Version liegen keine Releasenotes vor. Auch ist sie nicht auf der Homepage von Yealink zu finden. Bei dieser Version werden die Einstellungen für TLS nicht automatisch provisioniert. Dies muss nachträglich manuell über die GUI des Telefons erfolgen. Bei einem Neustart des Telefons bleibt die Einstellung erhalten. Nach dem Zurücksetzen auf Werkseinstellungen muss die Einstellung allerdings wieder manuell nachgetragen werden.
+
 ![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
 
 Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" (BLF) belegt werden: 
