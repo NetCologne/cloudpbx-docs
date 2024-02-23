@@ -14,8 +14,8 @@ Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Fir
 
 Empfehlung: Sie haben die Möglichkeit, Ihr Yealink VoIP Telefon automatisch über das NetCologne Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
 
-> [!TIP]  
-> test
+**NOTE:**  
+test
 
 Gehen Sie zu Manuelle Konfiguration wenn Sie das Gerät lieber manuell einrichten wollen.
 
