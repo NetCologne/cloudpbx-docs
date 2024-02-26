@@ -78,7 +78,7 @@ Dem zugehörigen Handset, z.B. Yealink 56H, wird dann die Nebenstelle automatisc
 <br>
 
 ### 2.3 Yealink W70B
-Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
+Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll um und bildet damit die Brücke zwischen Internet-Anschluss und Ihren DECT-Telefonen.
 
 Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprechende Nebenstelle zu:
 
