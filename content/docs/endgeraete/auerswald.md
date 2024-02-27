@@ -10,6 +10,10 @@ toc: true
 
 In diesem Kapitel erhalten Sie eine Anleitung für die manuelle Konfiguration der Endgeräte von Auerswald. Am Beispiel des COMfortel D-400 werden die grundlegenden Einstellungen beschrieben.
 
+<body>
+  <marquee>Laufzeilentest</marquee>
+</body>
+
 Ab Werk ist die Netzwerkschnittstelle auf DHCP eingestellt, sodass das Telefon bei erster Inbetriebnahme unter der von Ihrem Router vergebenen IP-Adresse zu erreichen ist. Die IP-Adresse wird in der Anzeige des Telefons eingeblendet.
 
 Die Konfiguration kann sowohl am Telefon als auch über einen Browser am PC erfolgen. Wir empfehlen die Verwendung eines Browsers, da dieser Weg komfortabler ist.
