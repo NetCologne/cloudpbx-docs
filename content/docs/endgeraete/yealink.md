@@ -15,7 +15,8 @@ Hier geben wir Ihnen eine Einführung zu Ihrem Yealink VoIP Telefon. Im ersten S
 > SIP-Server 1 -> Transport: TLS<br>
 > Ausgehenden Proxy-Server aktivieren: An<br>
 > Ausgehender Proxy-Server 1: **kunde**.cloudpbx.netcologne.de Port: **5061**<br><br>
->Bei einem Neustart des Telefons bleibt die Einstellung erhalten. Nach dem Zurücksetzen auf Werkseinstellungen muss die Einstellung allerdings wieder manuell nachgetragen werden.<br>
+> ![Konto_TLS_outbound-prxy_manuell](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/4bcd426f-690b-4f52-b20f-05f589fe7dd2)<br>
+> Bei einem Neustart des Telefons bleibt die Einstellung erhalten. Nach dem Zurücksetzen auf Werkseinstellungen muss die Einstellung allerdings wieder manuell nachgetragen werden.<br>
 
 Empfehlung: Sie haben die Möglichkeit, Ihr Yealink VoIP Telefon automatisch über das NetCologne Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
 
