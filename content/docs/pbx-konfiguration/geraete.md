@@ -45,7 +45,7 @@ Weitere Funktionen für die Tastenbelegung sind Besetztlampenfeld ( BLF ), Kurzw
 ### 2.1 Yealink T5/T4-Serie
 
 >💡**Hinweis**  
->Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Firmware-Version **96.86.0.75** aus. Zu dieser Version liegen keine Releasenotes vor. Auch ist sie nicht auf der Homepage von Yealink zu finden. Bei dieser Version werden die Einstellungen für TLS und den Outbound-Proxy nicht automatisch provisioniert. Dies muss nachträglich manuell über die GUI unter Konto->Registrieren des Telefons erfolgen:<br><br>
+>Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Firmware-Version **96.86.0.75** aus. Zu dieser Version liegen keine Releasenotes vor. Auch ist sie nicht auf der Homepage von Yealink zu finden. Bei dieser Version werden die Einstellungen für TLS, Outbound-Proxy und Port nicht automatisch provisioniert. Entweder installieren Sie die vorherige Version **96.86.0.70** oder ergänzen die Parameter manuell über die GUI unter Konto->Registrieren des Telefons:<br><br>
 > SIP-Server 1 -> Transport: TLS<br>
 > Ausgehenden Proxy-Server aktivieren: An<br>
 > Ausgehender Proxy-Server 1: **kunde**.cloudpbx.netcologne.de Port: **5061**<br><br>
