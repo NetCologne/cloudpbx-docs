@@ -11,7 +11,11 @@ toc: true
 Hier geben wir Ihnen eine Einführung zu Ihrem Yealink VoIP Telefon. Im ersten Schritt machen Sie sich mit der Tastenbelegung Ihres Telefons vertraut und bekommen dann eine Schritt-für-Schritt-Anleitung zur Einrichtung Ihres Telefons.
 
 >💡**Hinweis**  
-> Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Firmware-Version **96.86.0.75** aus. Zu dieser Version liegen keine Releasenotes vor. Auch ist sie nicht auf der Homepage von Yealink zu finden. Bei dieser Version werden die Einstellungen für TLS nicht automatisch provisioniert. Dies muss nachträglich manuell über die GUI des Telefons erfolgen. Bei einem Neustart des Telefons bleibt die Einstellung erhalten. Nach dem Zurücksetzen auf Werkseinstellungen muss die Einstellung allerdings wieder manuell nachgetragen werden.
+>Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Firmware-Version **96.86.0.75** aus. Zu dieser Version liegen keine Releasenotes vor. Auch ist sie nicht auf der Homepage von Yealink zu finden. Bei dieser Version werden die Einstellungen für TLS, Outbound-Proxy und Port nicht automatisch provisioniert. Entweder installieren Sie die vorherige Version **96.86.0.70** oder ergänzen die Parameter manuell über die GUI unter Konto->Registrieren des Telefons:<br><br>
+> SIP-Server 1 -> Transport: TLS<br>
+> Ausgehenden Proxy-Server aktivieren: An<br>
+> Ausgehender Proxy-Server 1: **kunde**.cloudpbx.netcologne.de Port: **5061**<br><br>
+>Bei einem Neustart des Telefons bleibt die Einstellung erhalten. Nach dem Zurücksetzen auf Werkseinstellungen muss die Einstellung allerdings wieder manuell nachgetragen werden.<br>
 
 Empfehlung: Sie haben die Möglichkeit, Ihr Yealink VoIP Telefon automatisch über das NetCologne Cloud PBX einzurichten. Lesen Sie dazu die Hilfe Automatische Konfiguration.
 
