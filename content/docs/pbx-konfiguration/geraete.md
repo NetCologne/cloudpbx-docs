@@ -49,7 +49,7 @@ Weitere Funktionen für die Tastenbelegung sind Besetztlampenfeld ( BLF ), Kurzw
 > SIP-Server 1 -> Transport: TLS<br>
 > Ausgehenden Proxy-Server aktivieren: An<br>
 > Ausgehender Proxy-Server 1: **kunde**.cloudpbx.netcologne.de Port: **5061**<br><br>
-> ![Konto_TLS_outbound-prxy_manuell](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/4bcd426f-690b-4f52-b20f-05f589fe7dd2)<br>
+> ![Konto_TLS_outbound-prxy_manuell](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/9646f2bd-5579-48c5-9027-05c9479a3a90)<br>
 > Bei einem Neustart des Telefons bleibt die Einstellung erhalten. Nach dem Zurücksetzen auf Werkseinstellungen muss die Einstellung allerdings wieder manuell nachgetragen werden.<br>
 
 ![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
