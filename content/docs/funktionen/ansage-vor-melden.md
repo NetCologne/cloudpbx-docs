@@ -16,7 +16,7 @@ Wenn eine „Ansage vor Melden“ oder ein individueller RingBackTone gewünscht
 
 ![PBX-Group_Preferences](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/01c87513-b100-4720-b194-1d3b89588a67)
 
-Anschließend muss das Soundset konfiguriert werden („PBX- Konfiguration -> Sound Sets -> early media“). Hier muss „accounce_before_call_setup“ und der „ringback_tone“ konfiguriert werden. Für beide Ansagen muss eine Audio-Datei bereitgestellt werden, selbst wenn keine Ansage vor Melden gewünscht ist (dann muss hier eine Datei mit 1 Sekunde Stille geladen werden) oder nach der Ansage vor Melden der Standard Ringbacktone gewünscht ist (dann muss hier eine Audio-Datei mit dem Standard Ringbacktone eingespielt werden).
+Anschließend muss das Soundset konfiguriert werden („PBX- Konfiguration -> Sound Sets -> early media“). Hier muss „announce_before_call_setup“ und der „ringback_tone“ konfiguriert werden. Für beide Ansagen muss eine Audio-Datei bereitgestellt werden, selbst wenn keine Ansage vor Melden gewünscht ist (dann muss hier eine Datei mit 1 Sekunde Stille geladen werden) oder nach der Ansage vor Melden der Standard Ringbacktone gewünscht ist (dann muss hier eine Audio-Datei mit dem Standard Ringbacktone eingespielt werden).
 
 ![PBX_Sound-Sets](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/312a5385-a9ce-407c-9454-38c19dca1e40)
 
