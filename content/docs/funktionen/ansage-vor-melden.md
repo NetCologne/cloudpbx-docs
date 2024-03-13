@@ -12,7 +12,7 @@ toc: true
 
 Um in der Cloud-PBX eine „Ansage vor Melden“ zu realisieren, wird der individuelle Freizeichenton (RingBackTone) verwendet.
 
-Wenn eine „Ansage vor Melden“ oder ein individueller RingBackTone gewünscht ist, muss im ersten Schritt das Feature für die Nebenstelle oder die Gruppe aktiviert werden. Dies geschieht unter „Kunden Details -> Group/Subscriber -> Preferences _> Applications“:
+Wenn eine „Ansage vor Melden“ oder ein individueller RingBackTone gewünscht ist, muss im ersten Schritt das Feature für die Nebenstelle oder die Gruppe aktiviert werden. Dies geschieht unter „Kunden Details -> Group/Subscriber -> Preferences -> Applications“:
 
 ![PBX-Group_Preferences](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/01c87513-b100-4720-b194-1d3b89588a67)
 
