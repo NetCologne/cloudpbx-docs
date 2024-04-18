@@ -12,6 +12,7 @@ toc: true
 
 | Leistungsmerkmal  | Zoiper5 | PhonerLite | Ninja Pro (kostenpflichtig) |
 | ------------- | ------------- | ------------- | ------------- |
+| Betriebssysteme | Windows | Windows | Windows |
 | TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  |
 | SRTP | nur kostenpfl. Version  | ja | nur kostenpfl. Version  |
 | Anklopfen  | ja  | ja | ja |
