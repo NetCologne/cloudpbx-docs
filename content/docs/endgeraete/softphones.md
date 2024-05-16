@@ -10,9 +10,11 @@ toc: true
 
 ## Übersicht der Softphones und ihrer Leistungsmerkmale
 
-| Leistungsmerkmal  | Zoiper5 | PhonerLite | Ninja Pro (kostenpflichtig) |
+| Leistungsmerkmal  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) |
 | ------------- | ------------- | ------------- | ------------- |
+| Homepage | https://www.zoiper.com | http://phonerlite.de | https://www.globaliptel.com |
 | Betriebssysteme | Windows, Linux, Mac, Android, iOS | Windows | Windows |
+| CTI Möglichkeit | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI |
 | TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  |
 | SRTP | nur kostenpfl. Version  | ja | nur kostenpfl. Version  |
 | Anklopfen  | ja  | ja | ja |
