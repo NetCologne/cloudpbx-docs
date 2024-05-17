@@ -17,7 +17,7 @@ Im Unterpunkt Sounds-Sets (1) werden alle Sprachansagen vorgestellt. Sie können
 Im Bild sehen Sie die Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation einer [Anrufwarteschlange](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufwarteschlangen-einrichten/) benötigen:
 
 1. **pbx queue_greeting** “Alle Leitungen sind zur Zeit belegt. Ihr Anruf wird gereiht.” 
-2. **pbx queue_full** “Alle Leitungen sind zu Zeit belegt. Bitte versuchen Sie es später erneut.”
+2. **pbx queue_full** “Alle Leitungen sind zur Zeit belegt. Bitte versuchen Sie es später erneut.”
 3. **pbx queue_prefix** “Sie befinden sich zur Zeit an Position…”
 4. **pbx queue_suffix** “…der Warteschlange. Bitte legen Sie nicht auf.”
 5. **pbx queue_waiting_music** Musik, die dem Anrufer das Warten *versüßen* soll.
