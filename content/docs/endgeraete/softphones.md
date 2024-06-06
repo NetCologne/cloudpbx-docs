@@ -33,10 +33,6 @@ toc: true
 
 
 ## Android
-### Linphone
-
-<img src="https://user-images.githubusercontent.com/20154956/150996682-d127c94f-254a-4f78-ac10-1998d8009568.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/150996721-180fcd0b-4120-416c-b44d-5435efb54aac.png" height="600" />
 
 ### Baresip+
 
