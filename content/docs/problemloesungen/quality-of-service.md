@@ -14,6 +14,8 @@ Auf der Netzseite sind die notwendigen Klassifizierungen in Richtung Kunde in de
 
 Für das Einrichten und Bearbeiten von Policies stellt Microsoft die "Windows PowerShell ISE" zur Verfügung. Diese muss mit Administratorrechten gestartet werden.
 
+![Win_PowerShell_02](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/b3ed22ae-53e9-410c-abb2-e65e48fccefb)
+
 In der Regel ist die priorisierte Behandlung der UDP Pakete wichtig, da sie für eine verlustlose Übertragung der Sprache bzw. Nutzdaten erforderlich ist. Mit folgendem Kommando wird eine Policy für UDP zum Server der Cloud PBX eingerichtet:
 
 New-NetQosPolicy -Name voice_udp -DSCPAction 56 -IPDstPrefixMatchCondition 195.14.195.150 -IPProtocolMatchCondition UDP
