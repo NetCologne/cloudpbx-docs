@@ -1,6 +1,6 @@
 ---
 title: "Verwendung von Namen für Gruppen"
-date: 2024-06-10T08:22:22+00:00
+date: 2024-06-20T08:22:22+00:00
 menu:
   docs:
     parent: "problemloesungen"
