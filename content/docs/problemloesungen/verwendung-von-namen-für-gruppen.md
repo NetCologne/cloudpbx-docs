@@ -8,5 +8,4 @@ weight: 604
 toc: true
 ---
 
-## Verewndung von Namen für Gruppen
 Beim Anlegen einer Gruppe ist darauf zu achten, dass für den Gruppennamen nur Kleinbuchstaben verwendet werden. Leer- und Sonderzeichen sowie Ziffern führen zu unerwünschtem Fehlverhalten, das das System die Namen intern anders darstellt.
