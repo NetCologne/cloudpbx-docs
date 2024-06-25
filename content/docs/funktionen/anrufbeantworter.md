@@ -118,7 +118,7 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
 * ... die '\*'-Taste, wenn Sie Hilfe wünschen.“ <br>
 * ... die '#'-Taste, um das System zu verlassen.“ <br>
 
-## 3.	Aktivierung mittels Anrufweiterleitung (Call-Forward) über das 
+## 3.	Aktivierung mittels Anrufweiterleitung (Call-Forward) in der CloudPBX über das 
 
 ### a.)	Web-Interface
 Klicken Sie zunächst auf den Menüpunkt Kunden-Details, dann auf Subscriber und bei der betreffenden Nebenstelle oder Gruppe auf Einstellungen. Öffnen Sie nun das Menü Call-Forwards und entscheiden, bei welcher Bedingung die Anrufweiterleitung greifen soll: <br>
@@ -144,7 +144,25 @@ Call Forward on Timeout: Einrichtung der Rufumleitung nach Zeit durch Wahl von *
 Call Forward on Not Available: Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93\*2000** - Deaktivierung durch Wahl von **#93**. <br>
 Die Deaktivierung aller eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**. <br>
 
-## 4.	Information über neue Nachrichten
+## 4.	Aktivierung mittels Weiterleitung (Call-Forward) im Telefon
+
+Wichtig: Das Telefon muss registriert (online) sein. Nun können Sie eine Funktionstaste mit der Weiterleitung zur Voicebox (Anrufbeantworter) belegen, die ständig, im Besetzt-Fall oder bei Nichtmelden den Anrufer dorthin vermittelt, im Bild ist dies die Taste 8
+
+![Neue_Tasten 1](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/b211d3a7-aada-496f-90e6-e3169078382d)
+
+Wählen Sie anschließend die Funktion "Weiterleitung" (entspricht Call Forward)
+
+![Neue_Tasten 2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/64310c8b-61bf-4d3e-8f55-de578d2d0de8)
+
+Anschließend aktivieren Sie die Funktion "Benutzerdefinierte Nummer verwenden), tragen unter Nummer ***56*NST**  (z. B. *56*10 für die Nebenstelle mit Durchwahl 10) ein und klicken auf SPEICHERN. Durch Belegung der Funktionstast mit diesem Steuercode können Sie komfortabel per Tastendruck die Weiterleitung aktivieren oder abschalten. Im Display Ihres Gerätes sehen Sie die entsprechende Belegung
+
+![Neue_Tasten 5](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/4532c887-b053-41c2-8943-dfcb704577ca)
+
+Außerdem wird der aktuelle Status (Weiterleitung zur Voicemail aktiv / inaktiv) angezeigt:
+
+![Neue_Tasten 6](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/e928d301-de8a-487f-8f3b-095af0adba30)
+
+## 5.	Information über neue Nachrichten
 
 Hat Ihnen jemand eine/mehrere Nachricht/en hinterlassen, bekommen Sie das auf zwei Wegen mitgeteilt:
 
@@ -161,7 +179,7 @@ Hinterlässt ein Anrufer eine Nachricht, erhalten sie anschließend eine solche 
 
 ![Message Mail](https://user-images.githubusercontent.com/98753538/194005152-ad047f85-3613-4b73-9bfd-14a324d37b53.jpg)
 
-## 5.	Abhören der Nachrichten
+## 6.	Abhören der Nachrichten
 
 Zum Abhören der Nachrichten stehen Ihnen mehrere Möglichkeiten zur Verfügung:
 
