@@ -144,6 +144,7 @@ Call Forward on Timeout: Einrichtung der Rufumleitung nach Zeit durch Wahl von *
 Call Forward on Not Available: Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93\*2000** - Deaktivierung durch Wahl von **#93**. <br>
 Die Deaktivierung aller eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**. <br>
 
+
 ## 4.	Aktivierung mittels Weiterleitung (Call-Forward) im Telefon
 
 Wichtig: Das Telefon muss registriert (online) sein. Nun können Sie eine Funktionstaste mit der Weiterleitung zur Voicebox (Anrufbeantworter) belegen, die ständig, im Besetzt-Fall oder bei Nichtmelden den Anrufer dorthin vermittelt, im Bild ist dies die Taste 8
@@ -154,13 +155,18 @@ Wählen Sie anschließend die Funktion "Weiterleitung" (entspricht Call Forward)
 
 ![Neue_Tasten 2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/64310c8b-61bf-4d3e-8f55-de578d2d0de8)
 
-Anschließend aktivieren Sie die Funktion "Benutzerdefinierte Nummer verwenden), tragen unter Nummer ***56*NST**  (z. B. *56*10 für die Nebenstelle mit Durchwahl 10) ein und klicken auf SPEICHERN. Durch Belegung der Funktionstast mit diesem Steuercode können Sie komfortabel per Tastendruck die Weiterleitung aktivieren oder abschalten. Im Display Ihres Gerätes sehen Sie die entsprechende Belegung
+Anschließend aktivieren Sie die Funktion "Benutzerdefinierte Nummer verwenden), tragen unter Nummer ***56*NST**  (z. B. *56*10 für die Nebenstelle mit Durchwahl 10) ein und klicken auf SPEICHERN. 
+
+![Neue_Tasten 4b](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/693ebc04-0127-4e17-b077-0c78c558d460)
+
+Durch Belegung der Funktionstaste mit diesem Steuercode können Sie komfortabel per Tastendruck die Weiterleitung aktivieren oder abschalten. Im Display Ihres Gerätes sehen Sie die entsprechende Belegung
 
 ![Neue_Tasten 5](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/4532c887-b053-41c2-8943-dfcb704577ca)
 
 Außerdem wird der aktuelle Status (Weiterleitung zur Voicemail aktiv / inaktiv) angezeigt:
 
 ![Neue_Tasten 6](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/e928d301-de8a-487f-8f3b-095af0adba30)
+
 
 ## 5.	Information über neue Nachrichten
 
