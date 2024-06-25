@@ -155,7 +155,7 @@ Wählen Sie anschließend die Funktion "Weiterleitung" (entspricht Call Forward)
 
 ![Neue_Tasten 2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/64310c8b-61bf-4d3e-8f55-de578d2d0de8)
 
-Anschließend aktivieren Sie die Funktion "Benutzerdefinierte Nummer verwenden), tragen unter Nummer ***56*NST**  (z. B. *56*10 für die Nebenstelle mit Durchwahl 10) ein und klicken auf SPEICHERN. 
+Anschließend aktivieren Sie die Funktion "Benutzerdefinierte Nummer verwenden), tragen unter Nummer __\*56*__NST  (z.B. __\*56*10__ für die Nebenstelle mit Durchwahl 10) ein und klicken auf SPEICHERN. 
 
 ![Neue_Tasten 4b](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/693ebc04-0127-4e17-b077-0c78c558d460)
 
@@ -166,6 +166,9 @@ Durch Belegung der Funktionstaste mit diesem Steuercode können Sie komfortabel 
 Außerdem wird der aktuelle Status (Weiterleitung zur Voicemail aktiv / inaktiv) angezeigt:
 
 ![Neue_Tasten 6](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/e928d301-de8a-487f-8f3b-095af0adba30)
+
+Weitere Informationen zu Steuercodes finden Sie unter 
+
 
 
 ## 5.	Information über neue Nachrichten
