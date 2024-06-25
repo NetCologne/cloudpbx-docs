@@ -66,6 +66,10 @@ Weitere Funktionen für die Tastenbelegung sind *Kurzwahl, Forward oder Transfer
 
 ![Neue_Tasten](https://user-images.githubusercontent.com/98753538/234839231-0bb97cbc-eb29-4d51-be63-e7ee1c95fc9f.jpg)
 
+Der englische Begriff *Forward* entspricht im Deutschen einer statisch konfigurierten *Weiterleitung*, während *Transfer* ein spontanes *Weiterleiten* per Knopfdruck anbietet.
+
+![Belegungsmöglichkeiten Kurzwahltasten D](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/7aba311c-c46d-47df-8994-60f94de1ff5a)
+
 
 ### 2.2 Yealink W60B
 
