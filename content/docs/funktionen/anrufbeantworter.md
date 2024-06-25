@@ -147,7 +147,7 @@ Die Deaktivierung aller eingerichteten Anrufweiterschaltungen erfolgt über den 
 
 ## 4.	Aktivierung mittels Weiterleitung (Call-Forward) im Telefon
 
-Wichtig: Das Telefon muss registriert (online) sein. Nun können Sie eine Funktionstaste mit der Weiterleitung zur Voicebox (Anrufbeantworter) belegen, die ständig, im Besetzt-Fall oder bei Nichtmelden den Anrufer dorthin vermittelt, im Bild ist dies die Taste 8
+Wichtig: Das Telefon muss registriert (online) sein. Nun können Sie eine Funktionstaste mit der Weiterleitung zur Voicebox (Anrufbeantworter) belegen, die - nach Aktivierung - alle Anrufer dorthin vermittelt, im Bild ist dies die Taste 8
 
 ![Neue_Tasten 1](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/b211d3a7-aada-496f-90e6-e3169078382d)
 
@@ -166,9 +166,6 @@ Durch Belegung der Funktionstaste mit diesem Steuercode können Sie komfortabel 
 Außerdem wird der aktuelle Status (Weiterleitung zur Voicemail aktiv / inaktiv) angezeigt:
 
 ![Neue_Tasten 6](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/e928d301-de8a-487f-8f3b-095af0adba30)
-
-Andere Möglichkeiten per Ziffernkombination Anrufe weiterzuleiten, finden Sie unter [Steuercodes am Endgerät](https://cloudpbx-doku.netcologne.de/docs/funktionen/steuercodes-am-endger%C3%A4t/).
-
 
 
 ## 5.	Information über neue Nachrichten
