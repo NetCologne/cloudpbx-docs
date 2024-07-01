@@ -11,9 +11,9 @@ toc: true
 ## Verwendung von Namen für Gruppen
 Der Gruppenname darf aus Großbuschstaben, Kleinbuchstaben, Ziffern, Bindestrich und Unterstrich bestehen.
 
-Beispiele:
-Testgruppe
-TestGruppe
-Testgruppe-2
-Testgruppe_2
+Beispiele:<br>
+Testgruppe<br>
+TestGruppe<br>
+Testgruppe-2<br>
+Testgruppe_2<br>
 Test-Gruppe
