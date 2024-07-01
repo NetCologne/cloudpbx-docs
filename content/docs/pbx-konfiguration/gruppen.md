@@ -15,7 +15,7 @@ Sollen bei Anwahl mehrere Nebenstellen gleichzeitig oder nacheinander angesproch
 klicken Sie bitte im Punkt “PBX-Konfiguration” auf
 
 * Gruppen (1) und fügen <br>
-* Gruppenname (2, nur Kleinbuchstaben, keine Leer- oder Sonderzeichen. Ausnahmen siehe: [Verwendung von Namen für Gruppen](https://cloudpbx-doku.netcologne.de/docs/problemloesungen/verwendung-von-namen-f%C3%BCr-gruppen) ) und die <br>
+* Gruppenname (2, nur Klein- und Großbuchstaben, Bindestrich, Unterstrich) und die <br>
 * Durchwahl (3) hinzu. <br>
 * Ist der Kunde Eigentümer einer weitereren Nummer und hat er diese bei Auftragserteilung der NetCologne mitgeteilt, kann diese unter “Alias-Nummer” (4) ausgewählt und zugewiesen werden. Die Gruppe ist dann ebenfalls unter der Alias-Nummer erreichbar. <br>
 * Unter Seats (5) werden die in der Gruppe teilnehmenden Nebenstellen hinzugefügt. <br>
