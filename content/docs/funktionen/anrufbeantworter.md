@@ -55,13 +55,14 @@ Mit den Punkten 5 bis 8 konfigurieren Sie die unterschiedlichen Ansagen, die Anr
 „Nicht-verfügbar- oder Abwesenheitsanzeige“ (5), <br>
 Ansage bei „Besetzt“ (6) und  <br>
 die Temporäre Ansage (7). Ist diese konfiguriert, setzt sie die anderen Ansagen außer Kraft. <br>
-Außer dem können Sie Ihren Namen aufsprechen (8). Dann hören ihn Anrufe anstatt Ihrer Telefonnummer. <br>
+Außerdem können Sie Ihren Namen aufsprechen (8). Dann hören ihn Anrufer anstatt Ihrer Telefonnummer. <br>
 
 Zur Erzeugung einer elektronischen Ansage im wav-Format gehen Sie bitte folgendermaßen vor:  <br>
 Suchen Sie im Internet mit "text to speech german kostenlos". Bei den Ergebnissen finden Sie leicht einen (kostenlosen) Text-zu-Sprache-Generator wie z.B. ttsfree, freetts oder ttsmp3. Dort können Sie Ihren gewünschten Ansagetext eingeben, wählen die Sprache und Stimme für die Ausgabe und erzeugen so eine mp3-Datei. Um diese in der Cloud-PBX verwenden zu können, ist noch eine Wandlung ins WAV-Format erforderlich. Entsprechende Konverter sind im Internet mit "mp3 wav converter" ebenfalls leicht zu finden. Wichtig: In Mono und nach a-Law konvertieren. <br>
 Sie können die elektronischen Ansagen im Menü „Anrufeinstellungen“ unter „Anrufbeantworter“ hochladen und wieder zurücksetzen:  <br>
 
-![Anrufbeantworter2](https://user-images.githubusercontent.com/98753538/193989527-bb699548-7a4c-41aa-a9b2-d5da3c99fdb2.jpg)
+![Anrufbeantworter2](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/f085e914-42ef-4780-8565-d7fb89560ac5)
+
 
 Zur Erinnerung: Wenn Sie als Administrator angemeldet sind, steht Ihnen der (zusätzliche) Menüpunkt „Kunden-Details“ zur Verfügung. Auch von hier aus gelangen Sie zu den „Subscribern“ und können dort „Einstellungen“ und den Menüpunkt „Voicemail and Voicebox“ auswählen bzw. öffen:  <br>
 
