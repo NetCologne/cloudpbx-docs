@@ -17,3 +17,6 @@ TestGruppe<br>
 Testgruppe-2<br>
 Testgruppe_2<br>
 Test-Gruppe
+
+
+Wir empfehlen, andere Sonderzeichen nicht im Gruppennamen zu verwenden, da sie bei der internen Verarbeitung geändert oder entfernt werden und es so zu unerwünschtem Fehlverhalten kommen kann.
