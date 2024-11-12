@@ -9,18 +9,18 @@
   width: calc(100vw - 3rem);
   max-width: calc(400px - 3rem);
   z-index: $zindex-dropdown;
-  
+
   @include media-breakpoint-up(md) {
-      right: -2rem;
+    right: -2rem;
   }
-  
+
   @include media-breakpoint-up(lg) {
-      right: 0;
+    right: 0;
   }
 }
 
 #suggestions a {
-  display: block;
+  display: flex;
   text-decoration: none;
   padding: 0.75rem;
   margin: 0 0.5rem;
@@ -52,12 +52,23 @@
   font-size: $font-size-base;
 }
 
+/* Kategorie-Text */
 #suggestions span:first-child {
+  flex-basis: 30%;            /* Dynamische Breite: Belegt 30% des Platzes */
+  padding-right: 1rem;
+  border-right: 1px solid $gray-200;
+  text-align: right;
+  white-space: nowrap;        /* Verhindert Zeilenumbruch */
+  overflow: hidden;           /* Verhindert Überlaufen des Texts */
+  text-overflow: ellipsis;    /* Zeigt "..." an, wenn Text zu lang ist */
   font-weight: $headings-font-weight;
   color: $black;
 }
 
+/* Inhalts-Text */
 #suggestions span:nth-child(2) {
+  flex-grow: 1;               /* Füllt den restlichen Platz */
+  padding-left: 1rem;
   color: $gray-700;
 }
 
@@ -71,15 +82,17 @@
   }
 
   #suggestions span:first-child {
-    width: 9rem;
+    flex-basis: 30%;          /* Alternativ kannst du hier eine andere Breite wählen */
     padding-right: 1rem;
     border-right: 1px solid $gray-200;
-    display: inline-block;
     text-align: right;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   #suggestions span:nth-child(2) {
-    width: 19rem;
+    flex-grow: 1;
     padding-left: 1rem;
   }
 }
