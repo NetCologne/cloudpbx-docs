@@ -10,26 +10,26 @@ toc: true
 
 ## Übersicht der Softphones und ihrer Leistungsmerkmale
 
-| Leistungsmerkmal  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) |
-| ------------- | ------------- | ------------- | ------------- |
-| Homepage | https://www.zoiper.com | http://phonerlite.de | https://www.globaliptel.com |
-| Betriebssysteme | Windows, Linux, Mac, Android, iOS | Windows | Windows |
-| CTI Möglichkeit | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI |
-| TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  |
-| SRTP | nur kostenpfl. Version  | ja | nur kostenpfl. Version  |
-| Anklopfen  | ja  | ja | ja |
-| Besetztlampenfeld (BLF)  | mit Telefonbucheintrag  | nein | mit Schnellwahl |
-| Kurzwahl  | nein  | ja | ja |
-| nicht Stören (DND)  | über Einstellung "Autoreject"  | ja | ja |
-| Wahlwiederholung  | über Anrufliste  | ja | ja |
-| Heranholen (Pick-up) | workaround über Eintrag in Telefonbuch  | nein | über Schnellwahlfenster |
-| IPv6  | manuelle Konfiguration in config.xml  | ja |  |
-| DTMF RFC-2833  | ja  |   | ja |
-| Übergabe ohne Rückfrage  | ja  |   | ja |
-| Übergabe mit Rückfrage  | ja  | ja |  |
-| Rückfrage/Makeln  | ja  |   |  |
-| Anzeige des Anrufers aus TB  |    | ja | ja |
-| Statistik  | nein  | QoS aus laufendem Gespräch | nein |
+| Leistungsmerkmal  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Homepage | https://www.zoiper.com | http://phonerlite.de | https://www.globaliptel.com | https://ip-softphone.de |
+| Betriebssysteme | Windows, Linux, Mac, Android, iOS | Windows | Windows | Windows |
+| CTI Möglichkeit | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
+| TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
+| SRTP | nur kostenpfl. Version  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
+| Anklopfen  | ja  | ja | ja | ja |
+| Besetztlampenfeld (BLF)  | mit Telefonbucheintrag | nein | mit Schnellwahl | mit Telefonbucheintrag |
+| Kurzwahl  | nein  | ja | ja | ja |
+| nicht Stören (DND)  | über Einstellung "Autoreject"  | ja | ja | ja |
+| Wahlwiederholung  | über Anrufliste  | ja | ja | ja | ja |
+| Heranholen (Pick-up) | workaround über Eintrag in Telefonbuch  | nein | über Schnellwahlfenster | |
+| IPv6  | manuelle Konfiguration in config.xml  | ja |  | nein |
+| DTMF RFC-2833  | ja  |   | ja | nein |
+| Übergabe ohne Rückfrage  | ja  |   | ja | nur kostenpfl. Version  |
+| Übergabe mit Rückfrage  | ja  | ja |  | nur kostenpfl. Version  |
+| Rückfrage/Makeln  | ja  |   |  | nur kostenpfl. Version  |
+| Anzeige des Anrufers aus TB  |    | ja | ja | ja |
+| Statistik  | nein  | QoS aus laufendem Gespräch | nein | nein |
 
 
 ## Android
