@@ -25,11 +25,12 @@ toc: true
 | Heranholen (Pick-up) | workaround über Eintrag in Telefonbuch  | nein | über Schnellwahlfenster | |
 | IPv6  | manuelle Konfiguration in config.xml  | ja |  | nein |
 | DTMF RFC-2833  | ja  |   | ja | nein |
-| Übergabe ohne Rückfrage  | ja  |   | ja | nur kostenpfl. Version  |
-| Übergabe mit Rückfrage  | ja  | ja |  | nur kostenpfl. Version  |
-| Rückfrage/Makeln  | ja  |   |  | nur kostenpfl. Version  |
+| Übergabe ohne Rückfrage  | ja  |   | ja | nur kostenpfl. Version |
+| Übergabe mit Rückfrage  | ja  | ja |  | nur kostenpfl. Version |
+| Rückfrage/Makeln  | ja  |   |  | nur kostenpfl. Version |
 | Anzeige des Anrufers aus TB  |    | ja | ja | ja |
 | Statistik  | nein  | QoS aus laufendem Gespräch | nein | nein |
+| Gespräch aufzeichnen | nein | ja | ja | nur kostenpfl. Version |
 
 
 ## Android
