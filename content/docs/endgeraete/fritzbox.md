@@ -32,7 +32,7 @@ Wählen Sie den Punkt "Neue Rufnummer" aus: <br>
 
 ![Neue_Rufnummer_01](https://user-images.githubusercontent.com/99875491/201092297-b9667ad6-c995-4a15-b7d1-8fd56674cf60.jpeg)
 
-Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" die komplette Nummer und bei "Interne Rufnummer in der FritzBox**" die Nebenstelle ein. <br>
+Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" den SIP Usernamen und bei "Interne Rufnummer in der FritzBox**" die Nebenstelle ein. <br>
 
 ![Neue_Rufnummer_02](https://user-images.githubusercontent.com/99875491/201096556-01796cb0-f850-4885-aca1-dc948f4463f6.jpeg)
 
