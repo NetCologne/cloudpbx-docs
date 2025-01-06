@@ -36,7 +36,7 @@ Tragen Sie im Anschluss unter dem Punkt "Rufnummer für die Anmeldung*" den SIP 
 
 ![Neue_Rufnummer_02](https://user-images.githubusercontent.com/99875491/201096556-01796cb0-f850-4885-aca1-dc948f4463f6.jpeg)
 
-Unter Zugangsdaten werden *SIP Username* und *Kennwort* eingetragen, wie in der CloudPBX konfiguriert. Bei *Registrar* und *Proxy-Server* werden die Ihnen von NetCologne zugeteilt Domain eingetragen (xxx.cloudpbx.netcologne.de). <br>
+Unter Zugangsdaten tragen sie bitte als *Benutzername* und *Authentifizierungsname* den SIP Usernamen und als *Kennwort* das SIP Kennwort ein, wie in der CloudPBX konfiguriert. Bei *Registrar* und *Proxy-Server* werden die Ihnen von NetCologne zugeteilt Domain eingetragen (xxx.cloudpbx.netcologne.de). <br>
 
 ![Neue_Rufnummer_03](https://user-images.githubusercontent.com/99875491/201092427-f4b21471-b3bb-4552-a5b5-a27df4bb702a.jpeg)
 <br>
