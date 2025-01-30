@@ -29,5 +29,5 @@ Folgende Dienste bzw. Ports müssen freigeschaltet sein:
 #### Für die Übertragung der Sprachdaten
 Die Übertragung der Audio Daten erfolgt verschlüsselt per SRTP.
 Dazu müssen die <br>
-**UDP Ports zwischen 5062 und 50000** <br>
+**UDP Ports zwischen 5062 und 51000** <br>
 freigegeben werden<br>
