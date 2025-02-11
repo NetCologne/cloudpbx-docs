@@ -69,3 +69,14 @@ Dazu rufen Sie die folgende Übersicht auf: <br>
 
 Wenn dort unter Telefonie die von Ihnen eingerichteten Rufnummern als "aktiv" dargestellt werden, war die Einrichtung/Registrierung erfolgreich. <br>
 Falls nicht, überprüfen Sie bitte die eingegeben Daten und ändern/korrigieren sie ggf.. <br>
+
+### Anzahl paralleler Gespräche
+
+Die Anzahl paralleler Gespräche ist durch die technischen Eigenschaften der FritzBox beschränkt. Diese sind vom Modell der FritzBox abhängig, sodass hier auf die Wissensdatenbank von AVM verwiesen wird.
+Bitte beachten Sie, dass Sie auf der Seite das Modell der FritzBox in dem Menü oben rechts auswählen müssen (siehe Abbildung), um die gültigen Angaben anzeigen zu lassen.
+
+![AVM_Wissensdatenbank](https://github.com/user-attachments/assets/10660ce0-c829-4ec4-8297-a4f03cec02b6)
+
+Verknüpfung zur Wissensdatenbank (hier für die 7490):
+
+https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7490/421_Maximale-Anzahl-Gesprache-uber-die-FRITZ-Box/
