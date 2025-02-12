@@ -9,7 +9,7 @@ toc: true
 ---
 
 ## Übersicht der Softphones und ihrer Leistungsmerkmale
-<table style="width: 70%; border-collapse: collapse;">
+<table style="width: 55%; border-collapse: collapse;">
 </table>
 
 | Leistungsmerkmal  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
