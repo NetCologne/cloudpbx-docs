@@ -11,27 +11,27 @@ toc: true
 ## Übersicht der Softphones und ihrer Leistungsmerkmale
 
 
-| <div style="width:100px">Leistungsmerkmal</div>  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
-| <div style="width:100px">-------------</div> | ------------- | ------------- | ------------- | ------------- |
-| <div style="width:100px">Homepage</div> | https://www.zoiper.com| http://phonerlite.de | https://www.globaliptel.com | https://ip-softphone.de |
-| <div style="width:100px">Betriebssysteme</div> | Windows, Linux, Mac, Android, iOS | Windows | Windows | Windows |
-| <div style="width:100px">CTI Möglichkeit</div> | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
-| <div style="width:100px">TLS</div>  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
-| <div style="width:100px">SRTP</div> | nur kostenpfl. Version | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
-| <div style="width:100px">Anklopfen</div>  |ja | ja | ja | ja |
-| <div style="width:100px">Besetztlampenfeld (BLF)</div>  | <mit Telefonbucheintrag| nein | mit Schnellwahl | mit Telefonbucheintrag |
-| <div style="width:100px">Kurzwahl</div>  | nein | ja | ja | ja |
-| <div style="width:100px">nicht Stören (DND)</div> | über Einstellung "Autoreject"  | ja | ja | ja |
-| <div style="width:100px">Wahlwiederholung</div>  | über Anrufliste  | ja | ja | ja | ja |
-| <div style="width:100px">Heranholen (Pick-up)</div> | workaround über Eintrag in Telefonbuch | nein | über Schnellwahlfenster | |
-| <div style="width:100px">IPv6</div>  | manuelle Konfiguration in config.xml  | ja |  | nein |
-| <div style="width:100px">DTMF RFC-2833</div>  | ja  |   | ja | nein |
-| <div style="width:100px">Übergabe ohne Rückfrage</div>  | ja</div>  |   | ja | nur kostenpfl. Version |
-| <div style="width:100px">Übergabe mit Rückfrage</div>  | ja | ja |  | nur kostenpfl. Version |
-| <div style="width:100px">Rückfrage/Makeln</div>  | ja  |   |  | nur kostenpfl. Version |
-| <div style="width:100px">Anzeige des Anrufers aus TB</div>  |    | ja | ja | ja |
-| <div style="width:100px">Statistik</div>  | nein  | QoS aus laufendem Gespräch | nein | nein |
-| <div style="width:100px">Gespräch aufzeichnen</div> | nein | ja | ja | nur kostenpfl. Version |
+| Leistungsmerkmal  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Homepage | https://www.zoiper.com| http://phonerlite.de | https://www.globaliptel.com | https://ip-softphone.de |
+| Betriebssysteme | Windows, Linux, Mac, Android, iOS | Windows | Windows | Windows |
+| CTI Möglichkeit | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
+| TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
+| SRTP | nur kostenpfl. Version | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
+| Anklopfen  |ja | ja | ja | ja |
+| Besetztlampenfeld (BLF)  | <mit Telefonbucheintrag| nein | mit Schnellwahl | mit Telefonbucheintrag |
+| Kurzwahl  | nein | ja | ja | ja |
+| nicht Stören (DND) | über Einstellung "Autoreject"  | ja | ja | ja |
+| Wahlwiederholung  | über Anrufliste  | ja | ja | ja | ja |
+| Heranholen (Pick-up) | workaround über Eintrag in Telefonbuch | nein | über Schnellwahlfenster | |
+| IPv6  | manuelle Konfiguration in config.xml  | ja |  | nein |
+| DTMF RFC-2833  | ja  |   | ja | nein |
+| Übergabe ohne Rückfrage  | ja  |   | ja | nur kostenpfl. Version |
+| Übergabe mit Rückfrage  | ja | ja |  | nur kostenpfl. Version |
+| Rückfrage/Makeln  | ja  |   |  | nur kostenpfl. Version |
+| Anzeige des Anrufers aus TB  |    | ja | ja | ja |
+| Statistik  | nein  | QoS aus laufendem Gespräch | nein | nein |
+| Gespräch aufzeichnen | nein | ja | ja | nur kostenpfl. Version |
 
 
 ## Android
