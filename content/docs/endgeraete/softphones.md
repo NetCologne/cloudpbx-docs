@@ -13,7 +13,6 @@ toc: true
 
 | Leistungsmerkmal  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Homepage | https://www.zoiper.com| http://phonerlite.de | https://www.globaliptel.com | https://ip-softphone.de |
 | Betriebssysteme | Windows, Linux, Mac, Android, iOS | Windows | Windows | Windows |
 | CTI Möglichkeit | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
 | TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
