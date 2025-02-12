@@ -18,8 +18,8 @@ toc: true
 | CTI Möglichkeit | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
 | TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
 | SRTP | nur kostenpfl. Version | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
-| Anklopfen  |ja | ja | ja | ja |
-| Besetztlampenfeld (BLF)  | <mit Telefonbucheintrag| nein | mit Schnellwahl | mit Telefonbucheintrag |
+| Anklopfen  | ja | ja | ja | ja |
+| Besetztlampenfeld (BLF)  | mit Telefonbucheintrag | nein | mit Schnellwahl | mit Telefonbucheintrag |
 | Kurzwahl  | nein | ja | ja | ja |
 | nicht Stören (DND) | über Einstellung "Autoreject"  | ja | ja | ja |
 | Wahlwiederholung  | über Anrufliste  | ja | ja | ja | ja |
