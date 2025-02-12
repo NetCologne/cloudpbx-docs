@@ -11,7 +11,7 @@ toc: true
 ## Übersicht der Softphones und ihrer Leistungsmerkmale
 
 
-| Leistungsmerkmal  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
+| <div style="width:20px">property</div>Leistungsmerkmal  | Zoiper5 (kostenpflichtig) | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Homepage | https://www.zoiper.com | http://phonerlite.de | https://www.globaliptel.com | https://ip-softphone.de |
 | Betriebssysteme | Windows, Linux, Mac, Android, iOS | Windows | Windows | Windows |
