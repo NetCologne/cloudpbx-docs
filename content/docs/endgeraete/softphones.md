@@ -11,27 +11,27 @@ toc: true
 ## Übersicht der Softphones und ihrer Leistungsmerkmale
 
 
-| <div style="width:20px">Leistungsmerkmal</div>  | <div style="width:20px">Zoiper5 (kostenpflichtig)</div> | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
-| <div style="width:20px">-------------</div> | <div style="width:20px">-------------</div> | ------------- | ------------- | ------------- |
-| <div style="width:20px">Homepage</div> | <div style="width:20px">https://www.zoiper.com</div> | http://phonerlite.de | https://www.globaliptel.com | https://ip-softphone.de |
-| <div style="width:20px">Betriebssysteme</div> | <div style="width:20px">Windows, Linux, Mac, Android, iOS</div> | Windows | Windows | Windows |
-| <div style="width:20px">CTI Möglichkeit</div> | <div style="width:20px">Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list</div> | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
-| <div style="width:20px">TLS</div>  | <div style="width:20px">nur kostenpfl. Version</div>  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
-| <div style="width:20px">SRTP</div> | <div style="width:20px">nur kostenpfl. Version</div>  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
-| <div style="width:20px">Anklopfen</div>  | <div style="width:20px">ja</div>  | ja | ja | ja |
-| <div style="width:20px">Besetztlampenfeld (BLF)</div>  | <div style="width:20px">mit Telefonbucheintrag</div> | nein | mit Schnellwahl | mit Telefonbucheintrag |
-| <div style="width:20px">Kurzwahl</div>  | <div style="width:20px">nein</div>  | ja | ja | ja |
-| <div style="width:20px">nicht Stören (DND)</div>  | <div style="width:20px">über Einstellung "Autoreject"</div>  | ja | ja | ja |
-| <div style="width:20px">Wahlwiederholung</div>  | <div style="width:20px">über Anrufliste</div>  | ja | ja | ja | ja |
-| <div style="width:20px">Heranholen (Pick-up)</div> | <div style="width:20px">workaround über Eintrag in Telefonbuch</div>  | nein | über Schnellwahlfenster | |
-| <div style="width:20px">IPv6</div>  | <div style="width:20px">manuelle Konfiguration in config.xml</div>  | ja |  | nein |
-| <div style="width:20px">DTMF RFC-2833</div>  | <div style="width:20px">ja</div>  |   | ja | nein |
-| <div style="width:20px">Übergabe ohne Rückfrage</div>  | <div style="width:20px">ja</div>  |   | ja | nur kostenpfl. Version |
-| <div style="width:20px">Übergabe mit Rückfrage</div>  | <div style="width:20px">ja</div>  | ja |  | nur kostenpfl. Version |
-| <div style="width:20px">Rückfrage/Makeln</div>  | <div style="width:20px">ja</div>  |   |  | nur kostenpfl. Version |
-| <div style="width:20px">Anzeige des Anrufers aus TB</div>  | <div style="width:20px">   | ja | ja | ja |
-| <div style="width:20px">Statistik</div>  | <div style="width:20px">nein  | QoS aus laufendem Gespräch | nein | nein |
-| <div style="width:20px">Gespräch aufzeichnen</div> | <div style="width:20px">nein | ja | ja | nur kostenpfl. Version |
+| <div style="width:100px">Leistungsmerkmal</div>  | <div style="width:100px">Zoiper5 (kostenpflichtig)</div> | PhonerLite | Ninja Pro (kostenpflichtig) | IP-SOFTPHONE |
+| <div style="width:100px">-------------</div> | <div style="width:100px">-------------</div> | ------------- | ------------- | ------------- |
+| <div style="width:100px">Homepage</div> | <div style="width:100px">https://www.zoiper.com</div> | http://phonerlite.de | https://www.globaliptel.com | https://ip-softphone.de |
+| <div style="width:100px">Betriebssysteme</div> | <div style="width:100px">Windows, Linux, Mac, Android, iOS</div> | Windows | Windows | Windows |
+| <div style="width:100px">CTI Möglichkeit</div> | <div style="width:100px">Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list</div> | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
+| <div style="width:100px">TLS</div>  | <div style="width:100px">nur kostenpfl. Version</div>  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
+| <div style="width:100px">SRTP</div> | <div style="width:100px">nur kostenpfl. Version</div>  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
+| <div style="width:100px">Anklopfen</div>  | <div style="width:100px">ja</div>  | ja | ja | ja |
+| <div style="width:100px">Besetztlampenfeld (BLF)</div>  | <div style="width:100px">mit Telefonbucheintrag</div> | nein | mit Schnellwahl | mit Telefonbucheintrag |
+| <div style="width:100px">Kurzwahl</div>  | <div style="width:100px">nein</div>  | ja | ja | ja |
+| <div style="width:100px">nicht Stören (DND)</div>  | <div style="width:100px">über Einstellung "Autoreject"</div>  | ja | ja | ja |
+| <div style="width:100px">Wahlwiederholung</div>  | <div style="width:100px">über Anrufliste</div>  | ja | ja | ja | ja |
+| <div style="width:100px">Heranholen (Pick-up)</div> | <div style="width:100px">workaround über Eintrag in Telefonbuch</div>  | nein | über Schnellwahlfenster | |
+| <div style="width:100px">IPv6</div>  | <div style="width:100px">manuelle Konfiguration in config.xml</div>  | ja |  | nein |
+| <div style="width:100px">DTMF RFC-2833</div>  | <div style="width:100px">ja</div>  |   | ja | nein |
+| <div style="width:100px">Übergabe ohne Rückfrage</div>  | <div style="width:100px">ja</div>  |   | ja | nur kostenpfl. Version |
+| <div style="width:100px">Übergabe mit Rückfrage</div>  | <div style="width:100px">ja</div>  | ja |  | nur kostenpfl. Version |
+| <div style="width:100px">Rückfrage/Makeln</div>  | <div style="width:100px">ja</div>  |   |  | nur kostenpfl. Version |
+| <div style="width:100px">Anzeige des Anrufers aus TB</div>  | <div style="width:100px">   | ja | ja | ja |
+| <div style="width:100px">Statistik</div>  | <div style="width:100px">nein  | QoS aus laufendem Gespräch | nein | nein |
+| <div style="width:100px">Gespräch aufzeichnen</div> | <div style="width:100px">nein | ja | ja | nur kostenpfl. Version |
 
 
 ## Android
