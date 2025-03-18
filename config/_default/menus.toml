@@ -10,7 +10,7 @@
   url = "/docs/grundlagen/"
 
 [[docs]]
-  name = "PBX-Konfiguration"
+  name = "PBX-Konfiguration (Admin)"
   weight = 20
   identifier = "pbx-konfiguration"
   url = "/docs/pbx-konfiguration/"
