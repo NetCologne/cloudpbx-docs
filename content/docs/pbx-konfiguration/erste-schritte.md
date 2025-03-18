@@ -32,7 +32,7 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard lie
 
 Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
 
-### 1. Seats = Nebenstellen <br>
+### 1. Nebenstellen <br>
 Damit Sie telefonieren können, müssen Sie zunächst *Nebenstellen* einrichten. Erst ab dem Zeitpunkt der Einrichtung der Nebenstellen entstehen Kosten für die jeweilige Rufnummer. Hier die Beschreibung, wie Sie eine [Nebenstelle einrichten](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/seats/). <br>
 Es ist hilfreich, wenn Sie sich vorher den Verwendungszweck der Nebenstelle überlegen: Soll die Nummer einem *Telefon* zugewiesen werden oder handelt es sich um eine *Voice- oder Faxbox*? Oder soll hinter der Nummer ein Anrufmenü geschaltet werden? Mehrere Nebenstellen können in einer *Gruppe* zusammengefasst werden. Außerdem werden viele Sonderfunktionen wie *Anrufmenü, Faxserver oder Voiceboxen* über *Anrufweiterschaltungen* realisiert. Die *Anrufweiterschaltung* und damit die Aktivierung der entsprechenden Funktion kann durch den Besitzer der Nebenstelle oder durch den Administrator, dann aber über den Menüpunkt "Kundendetails", aktiviert werden. <br>
 Von allen diesen Überlegungen hängt dann die weiteren Konfiguration ab. <br> 
@@ -49,7 +49,7 @@ Falls bei ihrem Gerät keine *Autoprovisionierung* möglich ist, schauen sie unt
 *Anrufwarteschlangen* sorgen dafür, dass auch bei besetzter Nebenstelle Anrufe nicht abgewiesen und stattdessen in eine Warteschlange eingereiht werden.
 Der Anrufer erhält eine Begrüssungsansage und eine Information, an welcher Stelle der Warteschlange er sich befindet. Details zur Konfiguration finden Sie unter [Anrufwarteschlangen einrichten](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufwarteschlangen-einrichten/). <br>
 
-### 5. SoundSets <br>
+### 5. Sound-Sets <br>
 Die *Soundsets* sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die *Wartemusik* anpassen oder *"OutOfOffice" Ansagen* definieren. Wie Sie bei der Konfiguration vorgehen, steht hier: [Soundsets](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sound-sets/). <br>
 Achtung: *Individuelle Ansagen* für die Voicebox werden hier nicht bereitgestellt. Diese sollen durch den Besitzer der Nebenstelle definiert werden. Dazu ist der Loging auf dem direkten Nebenstellenaccount erforderlich. Alternativ kann der Administrator diese Einstellungen auch über den Menüpunkt "Kundendetails" vornehmen. 
 
@@ -58,3 +58,8 @@ Achtung: *Individuelle Ansagen* für die Voicebox werden hier nicht bereitgestel
 
 ### 7. Anrufmenü (AutoAttendant) <br>
 Hier können Sie ein bis zu 10-stufiges *Anrufmenü* konfigurieren. Sie legen die Ziele fest, die den einzelnen Auswahlpunkten entsprechen sollen. Ziele können *Gruppen, Nebenstellen, Voiceboxen, Mobilnummern* oder auch weitere *Anrufmenüs* sein. Wie Sie bei der Konfiguration vorgehen, ist hier beschrieben: [Anrufmenü](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufmenue/). <br>
+
+### 8. Telefonbuch des Kunden <br>
+
+
+### 9. Kundenpräferenzen <br>
