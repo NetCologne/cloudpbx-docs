@@ -13,9 +13,14 @@ An dieser Stelle werden die Funktionen für den ganzen Kunden konfuguriert. Wich
 
 ### 1. Anrufweiterleitung ignorieren <br>
 
+Standardmäßig ist dieser Punkt aktiviert. Er bewirkt, dass die Anrufweiterleitung von Gruppenmitgliedern ignoriert werden. Beispiel: Ein Mitglied einer Gruppe hat die Weiterleitung auf sein Handy eingerichtet. Nun wird die Zentrale (-0) angerufen und jeder der Gruppe kann den Anruf entgegennehmen. Soll die Weiterleitung aufs HAndy dennoch Beachtung finden, so kann das "Ignorieren" hier ausgeschaltet werden.
+
 ### 2. Ansage vor Melden <br>
+
+Sollen Anrufern vor dem Melden eine Begrüßung, die Öffnungszeiten oder andere Informationen angesagt werden, wird #Ansage vor Melden# hier aktiviert. Die Einrichtung erfolgt unter [Ansage vor Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-vor-melden/).
 
 ### 3. Ansage nach Melden <br>
 
+Hier wird "Ansage nach MElden" konfiguriert. Die Konfiguration ist unter [Ansage nach Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-nach-melden/ beschrieben).
 
 
