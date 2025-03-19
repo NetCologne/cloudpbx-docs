@@ -8,7 +8,8 @@ weight: 513
 toc: true
 ---
 
-„Ansage nach Melden“ - Under Contruction
+Wenn eine „Ansage nach Melden“ gewünscht ist, muss im ersten Schritt das Feature für die Nebenstelle oder die Gruppe aktiviert werden. Dies geschieht per Schiebeschalter unter „PBX-Konfiguration -> Kundenpräferenzen:
 
 ![cloudpbx_konfiguration_Ansage_N_M](https://github.com/user-attachments/assets/ce1d0c98-169a-4dd3-a0e0-0b87ede02813)
 
+UNDER CONSTRUCTION
