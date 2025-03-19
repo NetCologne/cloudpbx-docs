@@ -21,6 +21,6 @@ Sollen Anrufern vor dem Melden eine Begrüßung, die Öffnungszeiten oder andere
 
 ### 3. Ansage nach Melden <br>
 
-Hier wird *Ansage nach Melden* konfiguriert. Die Konfiguration ist unter [Ansage nach Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-nach-melden/) beschrieben.
+Hier wird *Ansage nach Melden* aktiviert. Die Konfiguration ist unter [Ansage nach Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-nach-melden/) beschrieben.
 
 
