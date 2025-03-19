@@ -64,3 +64,5 @@ Hier können Sie ein bis zu 10-stufiges *Anrufmenü* konfigurieren. Sie legen di
 Unter [Telefonbuch des Kunden](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/telefonbuch-des-kunden/) können Sie Ihre persönlichen und geschäftlichen Kontakte auflisten. Sie können Kontakte hinzufügen, bearbeiten und löschen, sowie Kontaktlisten im .csv-Format exportieren und importieren.
 
 ### 9. Kundenpräferenzen <br>
+Werden vor oder nach dem Melden Ansagen gewünscht oder soll eine Anrufweiterschaltung auf den Anschlüssen einer Gruppe ignoriert werden, dann erfolgt die Konfiguration unter https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/kundenpraeferenzen/.
+
