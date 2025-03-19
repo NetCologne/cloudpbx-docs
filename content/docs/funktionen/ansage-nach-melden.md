@@ -9,3 +9,6 @@ toc: true
 ---
 
 „Ansage nach Melden“ - Under Contruction
+
+![cloudpbx_konfiguration_Ansage_N_M](https://github.com/user-attachments/assets/ce1d0c98-169a-4dd3-a0e0-0b87ede02813)
+
