@@ -4,7 +4,7 @@ date: 2023-08-02T08:54:22+00:00
 menu:
   docs:
     parent: "funktionen"
-weight: 418
+weight: 495
 toc: true
 ---
 
