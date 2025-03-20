@@ -12,9 +12,16 @@ toc: true
 
 Im Unterpunkt Sounds-Sets (1) werden alle Sprachansagen vorgestellt. Sie können entweder ein komplett neues Soundset hinzufügen oder im vorhandenen die einzelnen Ansagen modifizieren. Klicken Sie dazu auf *firmaidSoundSet* (2).
 
-![cloudpbx soundsetB](https://user-images.githubusercontent.com/98753538/159233155-18e931f4-ddc0-423d-9abf-255d3611fcbe.jpg)
+![Soundsets Übersicht](https://github.com/user-attachments/assets/962393ae-90a2-4f15-8425-82418a098418)
 
-Im Bild sehen Sie die Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation einer [Anrufwarteschlange](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufwarteschlangen-einrichten/) benötigen:
+Im Bild markiert sehen Sie die Soundsets für folgende Anwendungen: pbx, music_on_hold, conference, custom_announcement und early_media
+
+### 1. pbx
+Hier können Sie alle Ziffern und Ziele auswählen/konfigurieren, die Sie für das Anrufmenü (Auto-Attendant) benötigen. Weiterhin finden Sie hier die Ansagen für die Geschäftszeiten und die Warteschlange
+
+![Soundsets pbx](https://github.com/user-attachments/assets/4673481f-0a83-4800-9047-0c3a5d29ca6d)
+
+Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation einer [Anrufwarteschlange](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufwarteschlangen-einrichten/) benötigen:
 
 1. **pbx queue_greeting** “Alle Leitungen sind zur Zeit belegt. Ihr Anruf wird gereiht.” 
 2. **pbx queue_full** “Alle Leitungen sind zur Zeit belegt. Bitte versuchen Sie es später erneut.”
@@ -32,3 +39,13 @@ Die Tabelle unten zeigt die unterschiedlichen Fälle der Anrufweiterleitung, wie
 ![cloudpbx soundsetG](https://user-images.githubusercontent.com/98753538/159278277-d6dcb79c-e292-484f-bcb0-3d0ad3f8dd20.jpg)
 
 Beim "Advanced View" (6) sind weitere Konfigurationen, wie z.B. die Eingabe von Zeiten (7), Ursprüngen und Zielen möglich, bei denen die *Out-of-Office-Ansage* gespielt werden soll. Bestätigen Sie Ihre Auswahl mit "Save" (8).
+
+### 2. - 5. music_on_hold, conference, custom_announcement und early_media
+
+![Soundsets moh und andere](https://github.com/user-attachments/assets/c362231f-2a99-45b1-a5e8-9cb5b2cdfda9)
+
+Unter *music_on_hold (2)* können Sie die Musik für die Warteschlange auswählen. Beim Menüpunkt *conference (3)* können alle Ansagen, die Sie für eine Konferenz benötigen, ablegen. Unter dem vierten Punkt *custom_annoucements* werden kundenspezifische Ansagen, wie z.B. "Bitte sprechen Sie Ihren Rezeptwunsch auf die Voicebox" abgelegt bzw. ausgewählt. Wenn Sie Ansagen vor oder nach dem Melden konfigurieren oder einen kundenspezifischen Ringback-Ton wünsche, dann können Sie diese unter *early_media (5)* konfigurieren bzw. ablegen.
+
+
+
+
