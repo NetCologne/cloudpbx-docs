@@ -10,62 +10,7 @@ toc: true
 
 Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe automatisch erhöhen, indem sie diese an andere Ziele weiterleiten. Nutzen Sie dazu die Funktion *Anrufweiterleitung / Call-Forward*. Diese können Sie für jede Nebenstelle/Rufnummer individuell einstellen. Dies ist auf mehreren Wegen möglich:
 
-## 1. Einrichtung über das Web-Interface (Anwender)
-
-Klicken Sie zunächst auf den Menuepunkt *Anrufeinstellungen [1]*, dann auf *Rufumleitung [2]* und bei *+ RUFUMLEITUNG HINZUFÜGEN [3]*. Wählen Sie dann den Status Ihrer Nebenstelle aus, bei dem die Rufumleitung erfolgen soll: *Wenn verfügbar*, *Wenn nicht verfügbar* (Nebenstelle ist nicht registrtiert) oder *Wenn besetzt*.
-
-![Rufumleitung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/73a1a309-348f-4e53-ac0a-9a4ebe0d4b79)
-
-Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer, ein Datum oder einen bestimmten Zeitraum bezieht, hinzufügen. 
-
-![Rufumleitung Bedingung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3317b435-7e18-445d-b396-18b0528c9449)
-
-Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen, und alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
-
-![Rufumleitung Anruf von](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3e72d0de-48b4-4943-b531-5b962b91eceb)
-
-Sie können auch eine zeitliche Bedingung wie ein Datum oder einen Zeitraum definieren, an/in dem ankommende Rufe umgeleitet werden sollen. 
-
-![Rufumleitung Zeitraum](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/73ecfe62-0b1e-4ae5-a347-d9543fdc6774)
-
-Auch *Bürozeiten* sind möglich.
-
-![Rufumleitung Bürozeiten](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/2eea4060-f4ec-443f-8377-973c38e14ac7)
-
-### Ziele der Rufumleitung
-
-Durch Klicken auf die drei grünen Punkte (rechts oben) gelangen sie zu einem weiteren Menue und wählen aus zwölf Zielen aus, wohin die Rufe umgeleitet werden sollen:
-
-![Rufumleitung Ziel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/9b461847-515c-49cf-84a3-33b7ed20f336)
-
-Die angeführten Möglichkeiten sind größtenteils selbsterklärend. Am Ende gibt es noch Schalter zum Deaktivieren und Löschen der Rufumleitung. Beliebte Anwendungen sind die Weiterleitung zu einer (bestimmmten) Rufnummer, einem Anrufbeantworter, an das Anrufmenü oder zur Bürostundenansage. Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu einer weiteren Nummer eingerichtet. Dabei kann die Klingelzeit vorm Umleiten gesetzt werden.
-
-![Rufumleitung Zeit](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/46bd8a2d-7563-4796-a581-7fd31c6c2e68)
-
-Auch ist es möglich eine weitere Umleitung (hier zum Anrufbeantworter) hinzuzufüngen. Hat man sich "verklickt" kann man diese mit den drei Punkten rechts (unten) entfernen.
-
-### Rufumleitung Beispiel
-
-Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz klingelt (hier: 5 Sekunden) und dann die Umleitung zu  einem Anrufbeantworter erfolgt, wo der Anrufer eine Nachricht hinterlassen kann. In der anderen Zeit wird (nach kurzem Klingeln) zu einer Ansage mit den Bürozeiten umgeleitet:
-
-![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
-
-
-## 2. Einrichtung am Endgerät (Anwender)
-
-Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
-
-*Call Forward Unconditional:* Einrichtung der Rufumleitung durch Wahl von **\*72*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
-
-*Call Forward on Busy:* Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #90*.
-
-*Call Forward on Timeout:* Einrichtung der Rufumleitung nach Zeit durch Wahl von **\*92*30*Zielrunfummer** (hier also nach 30 Sekunden) – *Deaktivierung durch Wahl von #92*.
-
-*Call Forward on Not Available:* Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93*Zielrufnummer** - *Deaktivierung durch Wahl von #93*.
-
-Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
-
-## 3. Einrichtung über das Web-Interface (Admin)
+## 1. Einrichtung über das Web-Interface (Admin)
 
 Um einen Rufumleitung einzurichten, geht der Admin zum Punkt PBX-Konfiguration und wählt die entsprechende *Nebenstelle [1]* (im Bild Kalk) oder *Gruppe [2]* aus kann dann rechts bei *Call Forwards* mit *+ RUFUMLEITUNG HINZUFÜGEN* diese einrichten:
 
@@ -163,6 +108,61 @@ Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neu
 ![Call Forward Destination Sets](https://user-images.githubusercontent.com/98753538/163390656-591fcc5b-a774-449f-8fb1-b27d4001a473.jpg)
 
 Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view) zeigt Ihnen, ob das Set aktiv ist bzw. nicht. Per Mausklick auf "Remove" (6a) löschen Sie ein Set genauso einfach, wie Sie ein neues per Klick auf "Add destination/time sets" (6b) wieder hinzufügen können. Mit dem Button "Simple View" (7) gelangen Sie zurück zur "einfachen" Ansicht. Vergessen Sie nicht die Änderungen mit SAVE (8) zu speichern.
+
+## 2. Einrichtung über das Web-Interface (Anwender)
+
+Klicken Sie zunächst auf den Menuepunkt *Anrufeinstellungen [1]*, dann auf *Rufumleitung [2]* und bei *+ RUFUMLEITUNG HINZUFÜGEN [3]*. Wählen Sie dann den Status Ihrer Nebenstelle aus, bei dem die Rufumleitung erfolgen soll: *Wenn verfügbar*, *Wenn nicht verfügbar* (Nebenstelle ist nicht registrtiert) oder *Wenn besetzt*.
+
+![Rufumleitung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/73a1a309-348f-4e53-ac0a-9a4ebe0d4b79)
+
+Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer, ein Datum oder einen bestimmten Zeitraum bezieht, hinzufügen. 
+
+![Rufumleitung Bedingung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3317b435-7e18-445d-b396-18b0528c9449)
+
+Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen, und alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
+
+![Rufumleitung Anruf von](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/3e72d0de-48b4-4943-b531-5b962b91eceb)
+
+Sie können auch eine zeitliche Bedingung wie ein Datum oder einen Zeitraum definieren, an/in dem ankommende Rufe umgeleitet werden sollen. 
+
+![Rufumleitung Zeitraum](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/73ecfe62-0b1e-4ae5-a347-d9543fdc6774)
+
+Auch *Bürozeiten* sind möglich.
+
+![Rufumleitung Bürozeiten](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/2eea4060-f4ec-443f-8377-973c38e14ac7)
+
+### Ziele der Rufumleitung
+
+Durch Klicken auf die drei grünen Punkte (rechts oben) gelangen sie zu einem weiteren Menue und wählen aus zwölf Zielen aus, wohin die Rufe umgeleitet werden sollen:
+
+![Rufumleitung Ziel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/9b461847-515c-49cf-84a3-33b7ed20f336)
+
+Die angeführten Möglichkeiten sind größtenteils selbsterklärend. Am Ende gibt es noch Schalter zum Deaktivieren und Löschen der Rufumleitung. Beliebte Anwendungen sind die Weiterleitung zu einer (bestimmmten) Rufnummer, einem Anrufbeantworter, an das Anrufmenü oder zur Bürostundenansage. Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu einer weiteren Nummer eingerichtet. Dabei kann die Klingelzeit vorm Umleiten gesetzt werden.
+
+![Rufumleitung Zeit](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/46bd8a2d-7563-4796-a581-7fd31c6c2e68)
+
+Auch ist es möglich eine weitere Umleitung (hier zum Anrufbeantworter) hinzuzufüngen. Hat man sich "verklickt" kann man diese mit den drei Punkten rechts (unten) entfernen.
+
+### Rufumleitung Beispiel
+
+Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz klingelt (hier: 5 Sekunden) und dann die Umleitung zu  einem Anrufbeantworter erfolgt, wo der Anrufer eine Nachricht hinterlassen kann. In der anderen Zeit wird (nach kurzem Klingeln) zu einer Ansage mit den Bürozeiten umgeleitet:
+
+![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
+
+
+## 3. Einrichtung am Endgerät (Anwender)
+
+Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
+
+*Call Forward Unconditional:* Einrichtung der Rufumleitung durch Wahl von **\*72*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
+
+*Call Forward on Busy:* Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #90*.
+
+*Call Forward on Timeout:* Einrichtung der Rufumleitung nach Zeit durch Wahl von **\*92*30*Zielrunfummer** (hier also nach 30 Sekunden) – *Deaktivierung durch Wahl von #92*.
+
+*Call Forward on Not Available:* Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93*Zielrufnummer** - *Deaktivierung durch Wahl von #93*.
+
+Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
 
 ## 4. Besonderheit: Call-Forward in der PBX-Gruppe
 
