@@ -16,9 +16,14 @@ Um eine Rufumleitung einzurichten, geht der Admin innerhalb der PBX-Konfiguratio
 
 ![Admin Anrufweiterleitung1](https://github.com/user-attachments/assets/66bcd02e-da5f-4434-abb2-79cdd3e570e2)
 
-Nun mit *+ RUFUMLEITUNG HINZUFÜGEN* klicken und aus den Bedingungen "Wenn verfügbar", "Wenn nicht verfügbar" oder "Wenn besetzt" auswählen:
+Nun mit *+ RUFUMLEITUNG HINZUFÜGEN* klicken und aus den Grundvoraussetzungen "Wenn verfügbar", "Wenn nicht verfügbar" oder "Wenn besetzt" auswählen:
 
 ![Admin Anrufweiterleitung2](https://github.com/user-attachments/assets/3ac238a2-ddcb-4912-852a-433575e93697)
+
+Durch Klicken auf *Bedingung* kann zum Bespiel festgelegt werden, für welche Anrufer, an welchem Datum oder an welchen Wochentagen die Rufumleitung erfolgen soll: 
+
+![Admin Anrufweiterleitung3](https://github.com/user-attachments/assets/cbed256c-8afc-4378-ba2f-3989d1f2cb88)
+
 
 
 
