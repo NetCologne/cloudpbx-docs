@@ -16,9 +16,12 @@ Um eine Rufumleitung einzurichten, geht der Admin innerhalb der PBX-Konfiguratio
 
 ![Admin Anrufweiterleitung1](https://github.com/user-attachments/assets/66bcd02e-da5f-4434-abb2-79cdd3e570e2)
 
+Nun mit *+ RUFUMLEITUNG HINZUFÜGEN* klicken und aus den Bedingungen "Wenn verfügbar", "Wenn nicht verfügbar" oder "Wenn besetzt" auswählen:
+
+![Admin Anrufweiterleitung2](https://github.com/user-attachments/assets/3ac238a2-ddcb-4912-852a-433575e93697)
 
 
-wählt dort aus und kann dann rechts bei *Call Forwards* mit *+ RUFUMLEITUNG HINZUFÜGEN* diese einrichten:
+
 Er hat dabei die gleichen Einstellungsmöglichkeiten wie der Anwender [Einrichtung Call Forward](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#1-einrichtung-%C3%BCber-das-web-interface-anwender)
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
