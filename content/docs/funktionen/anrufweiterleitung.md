@@ -20,11 +20,13 @@ Nun mit *+ RUFUMLEITUNG HINZUFÜGEN* klicken und aus den Grundvoraussetzungen "W
 
 ![Admin Anrufweiterleitung2](https://github.com/user-attachments/assets/3ac238a2-ddcb-4912-852a-433575e93697)
 
-Durch Klicken auf *Bedingung* kann zum Bespiel festgelegt werden, für welche Anrufer, an welchem Datum oder an welchen Wochentagen die Rufumleitung erfolgen soll: 
+Durch Klicken auf *Bedingung* kann festgelegt werden, für welche Anrufer, an welchem Datum/Zeitraum oder an welchen Wochentagen/Bürozeiten die Rufumleitung erfolgen soll: 
 
 ![Admin Anrufweiterleitung3](https://github.com/user-attachments/assets/cbed256c-8afc-4378-ba2f-3989d1f2cb88)
 
+Im Beispiel soll die Rufumleitung erfolgen, wenn die Nebenstelle "nicht verfügbar" und Samstag oder Sonnatg ist. Im Standardfall wird an eine einzutragende Rufnummer umgeleitet. Durch Klick auf das Drei-Punkte-Symbol (roter Pfeil) öffnet sich das Menü mit sämtlichen Möglichkeiten der Rufumleitung:
 
+![Admin Anrufweiterleitung4](https://github.com/user-attachments/assets/4aaf600c-8fa5-447f-b2b9-434af6e798df)
 
 
 Er hat dabei die gleichen Einstellungsmöglichkeiten wie der Anwender [Einrichtung Call Forward](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#1-einrichtung-%C3%BCber-das-web-interface-anwender)
