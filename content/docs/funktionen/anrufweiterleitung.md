@@ -12,10 +12,13 @@ Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe autom
 
 ## 1. Einrichtung über das Web-Interface (Admin)
 
-Um einen Rufumleitung einzurichten, geht der Admin zum Punkt PBX-Konfiguration und wählt die entsprechende *Nebenstelle [1]* (im Bild Kalk) oder *Gruppe [2]* aus kann dann rechts bei *Call Forwards* mit *+ RUFUMLEITUNG HINZUFÜGEN* diese einrichten:
+Um eine Rufumleitung einzurichten, geht der Admin innerhalb der PBX-Konfiguration zum Unterpunk *Nebenstelle [1]* oder *Gruppe [2]* und trifft dort seine Auswahl - hier *Nebenstelle kalk*. Dann klickt man auf den Reiter *Rufumleitungen* (roter Pfeil):
 
-![Rufumleitung Admin3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/4aeed0e7-7bbf-4d6e-8eea-b6b899d4080c)
+![Admin Anrufweiterleitung1](https://github.com/user-attachments/assets/66bcd02e-da5f-4434-abb2-79cdd3e570e2)
 
+
+
+wählt dort aus und kann dann rechts bei *Call Forwards* mit *+ RUFUMLEITUNG HINZUFÜGEN* diese einrichten:
 Er hat dabei die gleichen Einstellungsmöglichkeiten wie der Anwender [Einrichtung Call Forward](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#1-einrichtung-%C3%BCber-das-web-interface-anwender)
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
