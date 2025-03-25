@@ -10,19 +10,20 @@ toc: true
 
 Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe automatisch erhöhen, indem sie diese an andere Ziele weiterleiten. Nutzen Sie dazu die Funktion *Rufumleitung(en)*. Diese können Sie für jede Nebenstelle/Rufnummer oder Gruppe individuell einstellen. Dies ist auf mehreren Wegen möglich:
 
-## 1. Einrichtung über das Web-Interface (Admin)
+### 1. Einrichtung über das Web-Interface (Admin)
 
 Um eine Rufumleitung einzurichten, wählt der **Admin** innerhalb der PBX-Konfiguration den Unterpunk *Nebenstelle [1]* oder *Gruppe [2]* und trifft dort seine Auswahl - hier *Nebenstelle kalk*. Dann klickt er auf den Reiter *Rufumleitungen* (roter Pfeil):
 
 ![Rufumleitung1](https://github.com/user-attachments/assets/9a882997-a0f4-4e7a-8f9b-8f6bcea4f4da)
 
-## 2. Einrichtung über das Web-Interface (Anwender)
+### 2. Einrichtung über das Web-Interface (Anwender)
 
 Klicken Sie im Menü der Nebenstelle (hier Kalk) auf den Punkt *Anrufeinstellungen* und dann auf *Rufumleitung* (roter Pfeil)
 
 ![Rufumleitung8](https://github.com/user-attachments/assets/2e9be969-ce4a-4f26-a9c9-a12af3257211)
 
-### RUFUMLEITUNG
+
+## RUFUMLEITUNG
 
 Nun *+ RUFUMLEITUNG HINZUFÜGEN* klicken und den Status der Nebenstelle auswählen, bei dem die Rufumleitung erfolgen soll:<br>
 *Wenn verfügbar*, *Wenn nicht verfügbar (Nebenstelle ist nicht registrtiert)* oder *Wenn besetzt*:
@@ -41,9 +42,8 @@ Auch *Bürozeiten* sind möglich.
 
 ![Rufumleitung5](https://github.com/user-attachments/assets/eda771fc-aada-4fbf-841b-00e626464dad)
 
- 
 
-### Ziele der Rufumleitung
+## Ziele der Rufumleitung
 
 Im Standardfall wird an eine einzutragende Rufnummer umgeleitet. Durch Klick auf das Drei-Punkte-Symbol (roter Pfeil) öffnet sich das Menü mit sämtlichen Möglichkeiten der Rufumleitung:
 
@@ -72,7 +72,7 @@ Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu eine
 
 Auch ist es möglich eine weitere Umleitung (hier zum Anrufbeantworter) hinzuzufüngen. Hat man sich “verklickt” kann man die Fehlkonfiguration mit den drei Punkten rechts (unten) entfernen.
 
-## Konfiguration unter Kundendetails ##
+### Konfiguration unter Kundendetails
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
 
