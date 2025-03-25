@@ -34,26 +34,27 @@ Auch *Bürozeiten* sind möglich.
 
 ![Rufumleitung5](https://github.com/user-attachments/assets/eda771fc-aada-4fbf-841b-00e626464dad)
 
-Im Beispiel soll die Rufumleitung erfolgen, wenn die Nebenstelle "nicht verfügbar" und Samstag oder Sonntag ist. Im Standardfall wird an eine einzutragende Rufnummer umgeleitet. 
+ 
 
 ### Ziele der Rufumleitung
 
+Im folgenden Beispiel soll die Rufumleitung erfolgen, wenn die Nebenstelle "nicht verfügbar" und Samstag oder Sonntag ist. Im Standardfall wird an eine einzutragende Rufnummer umgeleitet.
 Durch Klick auf das Drei-Punkte-Symbol (roter Pfeil) öffnet sich das Menü mit sämtlichen Möglichkeiten der Rufumleitung:
 
 ![Rufumleitung6](https://github.com/user-attachments/assets/cfe5a15d-1319-44c3-95d3-68ffac54122f)
 
-Die angeführten Möglichkeiten sind größtenteils selbsterklärend:
-* An Rufnummer weiterleiten
-* An Anrufbeantworter weiterleiten
-* Zu Konferenz weiterleiten
-* Zu Fax2Mail weiterleiten
-* Weiterleiten an Geschäftsführungssekretariat
-* Weiterleiten zur individuellen Ansage
-* Weiterleitung an das Anrufmenü
-* Weiterleitung zur Bürostundenansage
-* Weiterleitung an Calling Card
-* Weiterleiten zu Call Through
-* Weiterleitung an lokalen Teilnehmer
+Die angeführten Möglichkeiten sind größtenteils selbsterklärend: <br>
+* An Rufnummer weiterleiten <br>
+* An Anrufbeantworter weiterleiten <br>
+* Zu Konferenz weiterleiten <br>
+* Zu Fax2Mail weiterleiten <br>
+* Weiterleiten an Geschäftsführungssekretariat <br>
+* Weiterleiten zur individuellen Ansage <br>
+* Weiterleitung an das Anrufmenü <br>
+* Weiterleitung zur Bürostundenansage <br>
+* Weiterleitung an Calling Card <br>
+* Weiterleiten zu Call Through <br>
+* Weiterleitung an lokalen Teilnehmer <br>
 
 Am Ende gibt es noch je einen Schalter zum Deaktivieren und Löschen der Rufumleitung. 
 
