@@ -45,14 +45,14 @@ Im Standardfall wird an eine einzutragende Rufnummer umgeleitet. Durch Klick auf
 In diesem Beispiel erfolgt die Rufumleitung, wenn die Nebenstelle "nicht verfügbar" und Samstag oder Sonntag ist.
 
 Die angeführten Möglichkeiten sind weitgehend selbsterklärend: <br>
-* An Rufnummer weiterleiten - Weiterleitung zu einer konkreten Rufnummer, die so eingetragen wird, wie man sie wählen würde, d.h. mit “0”, fall eine “Amtsholung” erforderlich ist. <br>
-* An Anrufbeantworter weiterleiten - Der Anrufer erhält eine Ansage und kann dem Empfänger eine Audionachricht hinterlassen. <br>
-* Zu Konferenz weiterleiten - Wird hierhin weitergeleitet, werden die Anrufer in einer Konferenz zusammengeschaltet, um gleichzeitig mit drei, vier oder mehr Personen sprechen zu können. <br>
-* Zu Fax2Mail weiterleiten - Eine Nebenstelle wird als Fax genutzt und ankommende Calls (besser: Faxe) werden dorthin geleitet und als E-Mail ausgegeben. Sehen Sie hierzu auch [FAX](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/). <br>
-* Weiterleiten an Geschäftsführungssekretariat <br>
-* Weiterleiten zur individuellen Ansage - Hier kann auf eine individuelle kundenspezifische Ansage weitergeleitet werden. <br>
-* Weiterleitung an das Anrufmenü (engl: Auto Attendant) - Anrufer werden zu einem Anrufmenü weitergeleitet, das die Funktion einer automatische Telefonzentrale übernimmt. Die Details stehen unter [Anrufmenü](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufmenue/). <br>
-* Weiterleitung zur Bürostundenansage - Hier bekommen Anrufer die Geschäfts-/Öffnungszeiten mitgeteilt, d.h. es sollte immer außerhalb dieser Zeiten dorthin weitergeleitet werden. <br>
+**An Rufnummer weiterleiten** - Weiterleitung zu einer konkreten Rufnummer, die so eingetragen wird, wie man sie wählen würde, d.h. mit “0”, fall eine “Amtsholung” erforderlich ist. <br>
+**An Anrufbeantworter weiterleiten** - Der Anrufer erhält eine Ansage und kann dem Empfänger eine Audionachricht hinterlassen. <br>
+**Zu Konferenz weiterleiten** - Wird hierhin weitergeleitet, werden die Anrufer in einer Konferenz zusammengeschaltet, um gleichzeitig mit drei, vier oder mehr Personen sprechen zu können. <br>
+**Zu Fax2Mail weiterleiten** - Eine Nebenstelle wird als Fax genutzt und ankommende Calls (besser: Faxe) werden dorthin geleitet und als E-Mail ausgegeben. Sehen Sie hierzu auch [FAX](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/). <br>
+**Weiterleiten an Geschäftsführungssekretariat** <br>
+**Weiterleiten zur individuellen Ansage** - Hier kann auf eine individuelle kundenspezifische Ansage weitergeleitet werden. <br>
+**Weiterleitung an das Anrufmenü** (engl: Auto Attendant) - Anrufer werden zu einem Anrufmenü weitergeleitet, das die Funktion einer automatische Telefonzentrale übernimmt. Die Details stehen unter [Anrufmenü](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufmenue/). <br>
+**Weiterleitung zur Bürostundenansage** - Hier bekommen Anrufer die Geschäfts-/Öffnungszeiten mitgeteilt, d.h. es sollte immer außerhalb dieser Zeiten dorthin weitergeleitet werden. <br>
 * Weiterleitung an Calling Card <br>
 * Weiterleiten zu Call Through <br>
 * Weiterleitung an lokalen Teilnehmer <br>
