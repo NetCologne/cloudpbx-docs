@@ -14,22 +14,57 @@ Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe autom
 
 Um eine Rufumleitung einzurichten, geht der Admin innerhalb der PBX-Konfiguration zum Unterpunk *Nebenstelle [1]* oder *Gruppe [2]* und trifft dort seine Auswahl - hier *Nebenstelle kalk*. Dann klickt man auf den Reiter *Rufumleitungen* (roter Pfeil):
 
-![Admin Anrufweiterleitung1](https://github.com/user-attachments/assets/66bcd02e-da5f-4434-abb2-79cdd3e570e2)
+![Rufumleitung1](https://github.com/user-attachments/assets/9a882997-a0f4-4e7a-8f9b-8f6bcea4f4da)
 
-Nun mit *+ RUFUMLEITUNG HINZUFÜGEN* klicken und aus den Grundvoraussetzungen "Wenn verfügbar", "Wenn nicht verfügbar" oder "Wenn besetzt" auswählen:
+### RUFUMLEITUNG
 
-![Admin Anrufweiterleitung2](https://github.com/user-attachments/assets/3ac238a2-ddcb-4912-852a-433575e93697)
+Nun *+ RUFUMLEITUNG HINZUFÜGEN* klicken und den Status der Nebenstelle auswählen, bei dem die Rufumleitung erfolgen soll: *Wenn verfügbar*, *Wenn nicht verfügbar (Nebenstelle ist nicht registrtiert)* oder *Wenn besetzt*:
 
-Durch Klicken auf *Bedingung* kann festgelegt werden, für welche Anrufer, an welchem Datum/Zeitraum oder an welchen Wochentagen/Bürozeiten die Rufumleitung erfolgen soll: 
+![Rufumleitung2](https://github.com/user-attachments/assets/0b69de97-6432-498a-b64e-9c05185bdec0)
 
-![Admin Anrufweiterleitung3](https://github.com/user-attachments/assets/cbed256c-8afc-4378-ba2f-3989d1f2cb88)
+Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer, ein Datum oder einen bestimmten Zeitraum bezieht, hinzufügen. Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen, und alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
 
-Im Beispiel soll die Rufumleitung erfolgen, wenn die Nebenstelle "nicht verfügbar" und Samstag oder Sonnatg ist. Im Standardfall wird an eine einzutragende Rufnummer umgeleitet. Durch Klick auf das Drei-Punkte-Symbol (roter Pfeil) öffnet sich das Menü mit sämtlichen Möglichkeiten der Rufumleitung:
+![Rufumleitung3](https://github.com/user-attachments/assets/9cdac053-bc3d-437d-be2e-c523739144bc)
 
-![Admin Anrufweiterleitung4](https://github.com/user-attachments/assets/4aaf600c-8fa5-447f-b2b9-434af6e798df)
+Sie können auch eine zeitliche Bedingung wie ein Datum oder einen Zeitraum definieren, an/in dem ankommende Rufe umgeleitet werden sollen.
+
+![Rufumleitung4](https://github.com/user-attachments/assets/44d0bc17-948e-45c1-a86e-a8fe30f8b798)
+
+Auch *Bürozeiten* sind möglich.
+
+![Rufumleitung5](https://github.com/user-attachments/assets/eda771fc-aada-4fbf-841b-00e626464dad)
+
+Im Beispiel soll die Rufumleitung erfolgen, wenn die Nebenstelle "nicht verfügbar" und Samstag oder Sonntag ist. Im Standardfall wird an eine einzutragende Rufnummer umgeleitet. 
+
+### Ziele der Rufumleitung
+
+Durch Klick auf das Drei-Punkte-Symbol (roter Pfeil) öffnet sich das Menü mit sämtlichen Möglichkeiten der Rufumleitung:
+
+![Rufumleitung6](https://github.com/user-attachments/assets/cfe5a15d-1319-44c3-95d3-68ffac54122f)
+
+Die angeführten Möglichkeiten sind größtenteils selbsterklärend:
+* An Rufnummer weiterleiten
+* An Anrufbeantworter weiterleiten
+* Zu Konferenz weiterleiten
+* Zu Fax2Mail weiterleiten
+* Weiterleiten an Geschäftsführungssekretariat
+* Weiterleiten zur individuellen Ansage
+* Weiterleitung an das Anrufmenü
+* Weiterleitung zur Bürostundenansage
+* Weiterleitung an Calling Card
+* Weiterleiten zu Call Through
+* Weiterleitung an lokalen Teilnehmer
+
+Am Ende gibt es noch je einen Schalter zum Deaktivieren und Löschen der Rufumleitung. 
+
+Beliebte Anwendungen sind die Weiterleitung zu einer (bestimmmten) **Rufnummer**, einem **Anrufbeantworter**, an das **Anrufmenü** oder zur **Bürostundenansage**. 
+Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu einer weiteren Nummer eingerichtet. Dabei kann die Klingelzeit vorm Umleiten gesetzt werden.
+
+![Rufumleitung7](https://github.com/user-attachments/assets/0a2f7d00-cd35-45ee-ae8c-3c622ad01d32)
+
+Auch ist es möglich eine weitere Umleitung (hier zum Anrufbeantworter) hinzuzufüngen. Hat man sich “verklickt” kann man die Fehlkonfiguration mit den drei Punkten rechts (unten) entfernen.
 
 
-Er hat dabei die gleichen Einstellungsmöglichkeiten wie der Anwender [Einrichtung Call Forward](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#1-einrichtung-%C3%BCber-das-web-interface-anwender)
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
 
