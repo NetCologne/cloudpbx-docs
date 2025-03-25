@@ -80,7 +80,7 @@ Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz 
 ![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
 
 
-### Konfiguration unter Kundendetails
+## Konfiguration unter Kundendetails
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
 
