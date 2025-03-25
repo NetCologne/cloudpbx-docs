@@ -39,12 +39,12 @@ Auch *Bürozeiten* sind möglich.
 
 ### Ziele der Rufumleitung
 
-Im folgenden Beispiel soll die Rufumleitung erfolgen, wenn die Nebenstelle "nicht verfügbar" und Samstag oder Sonntag ist. Im Standardfall wird an eine einzutragende Rufnummer umgeleitet.
-Durch Klick auf das Drei-Punkte-Symbol (roter Pfeil) öffnet sich das Menü mit sämtlichen Möglichkeiten der Rufumleitung:
+Im Standardfall wird an eine einzutragende Rufnummer umgeleitet. Durch Klick auf das Drei-Punkte-Symbol (roter Pfeil) öffnet sich das Menü mit sämtlichen Möglichkeiten der Rufumleitung:
 
 ![Rufumleitung6](https://github.com/user-attachments/assets/cfe5a15d-1319-44c3-95d3-68ffac54122f)
+In diesem Beispiel erfolgt die Rufumleitung, wenn die Nebenstelle "nicht verfügbar" und Samstag oder Sonntag ist.
 
-Die angeführten Möglichkeiten sind größtenteils selbsterklärend: <br>
+Die angeführten Möglichkeiten sind weitgehend selbsterklärend: <br>
 * An Rufnummer weiterleiten <br>
 * An Anrufbeantworter weiterleiten <br>
 * Zu Konferenz weiterleiten <br>
