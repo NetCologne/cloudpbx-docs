@@ -20,7 +20,7 @@ Um eine Rufumleitung einzurichten, wählt der **Admin** innerhalb der PBX-Konfig
 
 Klicken Sie im Menü der Nebenstelle (hier Kalk) auf den Punkt *Anrufeinstellungen* und dann auf *Rufumleitung* (roter Pfeil)
 
-![Rufumleitung](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/73a1a309-348f-4e53-ac0a-9a4ebe0d4b79)
+![Rufumleitung8](https://github.com/user-attachments/assets/2e9be969-ce4a-4f26-a9c9-a12af3257211)
 
 ### RUFUMLEITUNG
 
