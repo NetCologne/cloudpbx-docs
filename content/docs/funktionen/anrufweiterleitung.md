@@ -23,7 +23,7 @@ Nun *+ RUFUMLEITUNG HINZUFÜGEN* klicken und den Status der Nebenstelle auswähl
 
 ![Rufumleitung2](https://github.com/user-attachments/assets/0b69de97-6432-498a-b64e-9c05185bdec0)
 
-Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer, ein Datum oder einen bestimmten Zeitraum bezieht, hinzufügen. Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen, und alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
+Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer, ein Datum oder einen bestimmten Zeitraum bezieht, hinzufügen. Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen und alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
 
 ![Rufumleitung3](https://github.com/user-attachments/assets/9cdac053-bc3d-437d-be2e-c523739144bc)
 
