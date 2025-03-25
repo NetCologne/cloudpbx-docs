@@ -8,13 +8,14 @@ weight: 470
 toc: true
 ---
 
-Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe automatisch erhöhen, indem sie diese an andere Ziele weiterleiten. Nutzen Sie dazu die Funktion *Anrufweiterleitung / Call-Forward*. Diese können Sie für jede Nebenstelle/Rufnummer individuell einstellen. Dies ist auf mehreren Wegen möglich:
+Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe automatisch erhöhen, indem sie diese an andere Ziele weiterleiten. Nutzen Sie dazu die Funktion *Rufumleitung(en)*. Diese können Sie für jede Nebenstelle/Rufnummer oder Gruppe individuell einstellen. Dies ist auf mehreren Wegen möglich:
 
 ## 1. Einrichtung über das Web-Interface (Admin)
 
-Um eine Rufumleitung einzurichten, geht der Admin innerhalb der PBX-Konfiguration zum Unterpunk *Nebenstelle [1]* oder *Gruppe [2]* und trifft dort seine Auswahl - hier *Nebenstelle kalk*. Dann klickt man auf den Reiter *Rufumleitungen* (roter Pfeil):
+Um eine Rufumleitung einzurichten, geht der **Admin** innerhalb der PBX-Konfiguration zum Unterpunk *Nebenstelle [1]* oder *Gruppe [2]* und trifft dort seine Auswahl - hier *Nebenstelle kalk*. Dann klickt man auf den Reiter *Rufumleitungen* (roter Pfeil):
 
 ![Rufumleitung1](https://github.com/user-attachments/assets/9a882997-a0f4-4e7a-8f9b-8f6bcea4f4da)
+
 
 ### RUFUMLEITUNG
 
