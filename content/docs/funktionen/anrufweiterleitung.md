@@ -173,7 +173,7 @@ Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neu
 Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view) zeigt Ihnen, ob das Set aktiv ist bzw. nicht. Per Mausklick auf "Remove" (6a) löschen Sie ein Set genauso einfach, wie Sie ein neues per Klick auf "Add destination/time sets" (6b) wieder hinzufügen können. Mit dem Button "Simple View" (7) gelangen Sie zurück zur "einfachen" Ansicht. Vergessen Sie nicht die Änderungen mit SAVE (8) zu speichern.
 
 
-## 3. Einrichtung am Endgerät (Anwender)
+### 3. Einrichtung am Endgerät (Anwender)
 
 Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
 
@@ -188,7 +188,7 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
 
 
-## 4. Besonderheit: Call-Forward in der PBX-Gruppe
+### 4. Besonderheit: Call-Forward in der PBX-Gruppe
 
 Standardmäßig werden Rufumleitungen (Call-Forward) beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich unter *Kunden-Details* -> *Einstellungen* -> *Cloud PBX*
 
