@@ -57,7 +57,7 @@ Die angeführten Möglichkeiten sind weitgehend selbsterklärend: <br>
 * Weiterleiten zu Call Through <br>
 * Weiterleitung an lokalen Teilnehmer <br>
 
-Am Ende gibt es noch je einen Schalter zum Deaktivieren und Löschen der Rufumleitung. 
+Am Ende gibt es noch je einen Schalter zum Deaktivieren und Entfernen/Löschen der Rufumleitung. 
 
 Beliebte Anwendungen sind die Weiterleitung zu einer (bestimmmten) **Rufnummer**, einem **Anrufbeantworter**, an das **Anrufmenü** oder zur **Bürostundenansage**. 
 Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu einer weiteren Nummer eingerichtet. Dabei kann die Klingelzeit vorm Umleiten gesetzt werden.
