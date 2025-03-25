@@ -59,7 +59,7 @@ Die angeführten Möglichkeiten sind weitgehend selbsterklärend: <br>
 
 Am Ende gibt es noch je einen Schalter zum Deaktivieren und Entfernen/Löschen der Rufumleitung. 
 
-Beliebte Anwendungen sind die Weiterleitung zu einer (bestimmmten) **Rufnummer**, einem **Anrufbeantworter**, an das **Anrufmenü** oder zur **Bürostundenansage**. 
+Beliebte Anwendungen sind die Weiterleitung zu einer (bestimmmten) **Rufnummer**, zu einem **Anrufbeantworter**, an das **Anrufmenü** oder zur **Bürostundenansage**. 
 Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu einer weiteren Nummer eingerichtet. Dabei kann die Klingelzeit vorm Umleiten gesetzt werden.
 
 ![Rufumleitung7](https://github.com/user-attachments/assets/0a2f7d00-cd35-45ee-ae8c-3c622ad01d32)
