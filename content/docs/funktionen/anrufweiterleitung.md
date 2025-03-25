@@ -66,7 +66,7 @@ Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu eine
 
 Auch ist es möglich eine weitere Umleitung (hier zum Anrufbeantworter) hinzuzufüngen. Hat man sich “verklickt” kann man die Fehlkonfiguration mit den drei Punkten rechts (unten) entfernen.
 
-
+## Konfiguration unter Kundendetails ##
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
 
@@ -87,7 +87,6 @@ Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *PBX-Gru
 ![Anrufmenue_Aktivierung_Gruppe](https://user-images.githubusercontent.com/98753538/186081568-6a5c2f03-85f0-486b-8ae8-c62b62a73bbc.jpg)
 
 Öffnen Sie nun das Menue *Call-Forwards* (1 im Bild unten) und entscheiden, bei welcher Bedingung die *Anrufweiterleitung* greifen soll. 
-
 
 ### Call Forward Typen
 
