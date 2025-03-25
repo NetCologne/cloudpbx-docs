@@ -10,13 +10,13 @@ toc: true
 
 Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe automatisch erhöhen, indem sie diese an andere Ziele weiterleiten. Nutzen Sie dazu die Funktion *Rufumleitung(en)*. Diese können Sie für jede Nebenstelle/Rufnummer oder Gruppe individuell einstellen. Dies ist auf mehreren Wegen möglich:
 
-### 1. Einrichtung über das Web-Interface (Admin)
+## 1. Einrichtung über das Web-Interface (Admin)
 
 Um eine Rufumleitung einzurichten, wählt der **Admin** innerhalb der PBX-Konfiguration den Unterpunk *Nebenstelle [1]* oder *Gruppe [2]* und trifft dort seine Auswahl - hier *Nebenstelle kalk*. Dann klickt er auf den Reiter *Rufumleitungen* (roter Pfeil):
 
 ![Rufumleitung1](https://github.com/user-attachments/assets/9a882997-a0f4-4e7a-8f9b-8f6bcea4f4da)
 
-### 2. Einrichtung über das Web-Interface (Anwender)
+## 2. Einrichtung über das Web-Interface (Anwender)
 
 Klicken Sie im Menü der Nebenstelle (hier Kalk) auf den Punkt *Anrufeinstellungen* und dann auf *Rufumleitung* (roter Pfeil)
 
@@ -80,13 +80,13 @@ Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz 
 ![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
 
 
-## Konfiguration unter Kundendetails
+### Konfiguration unter Kundendetails
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
 
 ![Rufumleitung Admin2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/34a9798b-c80d-4464-b62c-c89c238bb781)
 
-### a) Anrufweiterleitung Subscriber
+#### a) Anrufweiterleitung Subscriber
 
 Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *Subscriber [2]* und bei der betreffenden Nebenstelle (hier zollstock) auf *Einstellungen [3]*. 
 
@@ -94,7 +94,7 @@ Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *Subscri
 
 Öffnen Sie nun das Menue *Call-Forwards* (1 im Bild unten) und entscheiden, bei welcher Bedingung die *Anrufweiterleitung* greifen soll. 
 
-### b) Anrufweiterleitung Gruppe
+#### b) Anrufweiterleitung Gruppe
 
 Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *PBX-Gruppen [2]* und bei der betreffenden Gruppe (hier schal-sick) auf *Einstellungen [3]*. 
 
@@ -102,7 +102,7 @@ Klicken Sie zunächst auf den Menuepunkt *Kunden-Details [1]*, dann auf *PBX-Gru
 
 Öffnen Sie nun das Menue *Call-Forwards* (1 im Bild unten) und entscheiden, bei welcher Bedingung die *Anrufweiterleitung* greifen soll. 
 
-### Call Forward Typen
+#### Call Forward Typen
 
 Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
 
@@ -115,7 +115,7 @@ Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
 Der Sonderfall *Call Forward Unavailable* (gelb) kommt zum Tragen, falls die Nebenstelle nicht registriert und damit nicht erreichbar ist. <br>
 Mit einem Klick auf den Button "Edit" (2) gelangen Sie zu den unterschiedlichen Call-Forward...
 
-### Destinationen
+#### Destinationen
 
 ![Call Forward Destinations1](https://user-images.githubusercontent.com/98753538/163390500-eaff73a8-60c1-4758-864b-69139d16c79e.jpg)
 
@@ -131,13 +131,13 @@ Aktuell können Sie zu sieben verschiedene Zielen/Destinationen (1) weiterleiten
 
 Für die Aktivierung ist das Häkchen bei Enabled (2) erfoderlich. Mit dem SAVE-Button (3) werden die Einstellungen gespeichert. Bei (4) gelangen Sie zum
 
-### Advanced View
+#### Advanced View
 
 und haben folgende zusätzliche Funktionen, im Beispiel für *Call Forward Unconditional*, also die *generelle Anrufweiterleitung*:
 
 ![Call Forward Advanced View1](https://user-images.githubusercontent.com/98753538/163390556-2808d31f-c7e3-4ecb-af22-99a27de53e6e.jpg)
 
-#### during Time Set (1)
+##### during Time Set (1)
 
 Hier können Sie einen oder mehrere Zeiträume eintragen und editieren, in denen die jeweilige Anrufweiterleitung gelten soll.
 
@@ -152,19 +152,19 @@ Ein weiteres (einfacheres) Beispiel zeigt die Anrufweiterleitung immer freitags 
 
 ![Call Forward Time Sets 3](https://user-images.githubusercontent.com/98753538/167446097-88a32ea3-8e87-4800-9d4e-c02aec00fb4e.jpg)
 
-#### from Source Set (2)
+##### from Source Set (2)
 
 Sie möchten, dass Ihre Kunden im Ortsnetz Köln (0221) eine andere Ansage erhalten als die aus Bonn (0228), dann definieren Sie unterschiedliche Source Sets. Denkbar wäre auch eine Ansage in Englisch für internationale Kunden (002 bis 009). Bei jedem *Source Set* können Sie wählen, ob Sie mit einer *Whitelist (zulässige Rufnummern)* oder einer *Blacklist (verbotene Rufnummern)* arbeiten möchten.
 
 ![Call Forward Source Set](https://user-images.githubusercontent.com/98753538/163390624-de4f3337-4256-4aca-82e6-2beb4db6702a.jpg)
 
-#### to B-Number Set (3)
+##### to B-Number Set (3)
 
 Ähnlich wie bei A-Rufnummern für die Urspünge können Sie auch bei den B-Rufnummer, zu denen weitergeleitet werden soll bzw. darf, Unterschiede machen. Denkbar wäre z.B., dass Internationale Ziel nicht erlaubt sind.
 
 ![Call Forward B-Number Set](https://user-images.githubusercontent.com/98753538/163390640-8b8ce30c-7837-4d11-9e16-faafb32045fa.jpg)
 
-#### Destination Set (4)
+##### Destination Set (4)
 
 Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neue hinzufügen.
 
@@ -173,7 +173,7 @@ Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neu
 Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view) zeigt Ihnen, ob das Set aktiv ist bzw. nicht. Per Mausklick auf "Remove" (6a) löschen Sie ein Set genauso einfach, wie Sie ein neues per Klick auf "Add destination/time sets" (6b) wieder hinzufügen können. Mit dem Button "Simple View" (7) gelangen Sie zurück zur "einfachen" Ansicht. Vergessen Sie nicht die Änderungen mit SAVE (8) zu speichern.
 
 
-### 3. Einrichtung am Endgerät (Anwender)
+## 3. Einrichtung am Endgerät (Anwender)
 
 Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
 
@@ -188,7 +188,7 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
 
 
-### 4. Besonderheit: Call-Forward in der PBX-Gruppe
+## 4. Besonderheit: Call-Forward in der PBX-Gruppe
 
 Standardmäßig werden Rufumleitungen (Call-Forward) beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich unter *Kunden-Details* -> *Einstellungen* -> *Cloud PBX*
 
