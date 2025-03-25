@@ -72,6 +72,14 @@ Sehr oft wird auch die Hauptnummer selbst ausgewählt und eine Umleitung zu eine
 
 Auch ist es möglich eine weitere Umleitung (hier zum Anrufbeantworter) hinzuzufüngen. Hat man sich “verklickt” kann man die Fehlkonfiguration mit den drei Punkten rechts (unten) entfernen.
 
+
+## Rufumleitung Beispiel
+
+Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz klingelt (hier: 5 Sekunden) und dann die Umleitung zu  einem Anrufbeantworter erfolgt, wo der Anrufer eine Nachricht hinterlassen kann. In der anderen Zeit wird (nach kurzem Klingeln) zu einer Ansage mit den Bürozeiten umgeleitet:
+
+![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
+
+
 ### Konfiguration unter Kundendetails
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
@@ -165,15 +173,6 @@ Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neu
 Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view) zeigt Ihnen, ob das Set aktiv ist bzw. nicht. Per Mausklick auf "Remove" (6a) löschen Sie ein Set genauso einfach, wie Sie ein neues per Klick auf "Add destination/time sets" (6b) wieder hinzufügen können. Mit dem Button "Simple View" (7) gelangen Sie zurück zur "einfachen" Ansicht. Vergessen Sie nicht die Änderungen mit SAVE (8) zu speichern.
 
 
-
-
-### Rufumleitung Beispiel
-
-Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz klingelt (hier: 5 Sekunden) und dann die Umleitung zu  einem Anrufbeantworter erfolgt, wo der Anrufer eine Nachricht hinterlassen kann. In der anderen Zeit wird (nach kurzem Klingeln) zu einer Ansage mit den Bürozeiten umgeleitet:
-
-![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
-
-
 ## 3. Einrichtung am Endgerät (Anwender)
 
 Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
@@ -187,6 +186,7 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 *Call Forward on Not Available:* Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93*Zielrufnummer** - *Deaktivierung durch Wahl von #93*.
 
 Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
+
 
 ## 4. Besonderheit: Call-Forward in der PBX-Gruppe
 
