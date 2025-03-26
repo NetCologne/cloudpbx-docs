@@ -79,6 +79,40 @@ Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz 
 
 ![Rufumleitung Beispiel](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/79753702-75f0-4b69-8e44-403b34f76e6a)
 
+### Besonderheit: Rufumleitung in der PBX-Gruppe
+
+Standardmäßig werden Rufumleitungen beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich für den **Admin** unter *PBX-Konfiguration* -> *Kundenpräferenzen*:
+
+![Rufumleitung9](https://github.com/user-attachments/assets/f2502bd9-5ce4-4d85-a03e-258c862a3c03)
+
+Wenn Sie dennoch eine Rufumleitung bei einem Gruppen-Teilnehmer (Subscriber) einrichten möchten, können Sie hier die Funktion *ausklicken* (Schaltknopf nach links und weiß). 
+
+Soll die Rufumleitung aber bei einem bestimmten Teilnehmer (Subscriber) dennoch ignoriert werden, so kann man diesen auswählen und seine *Einstellungen* anpassen.
+
+![Rufumleitung Subscriber](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/1fc78c90-5618-4500-a81f-6d56db7f9d7e)
+
+Bei den *Einstellungen* den Unterpunkt *Cloud PBX* öffnen.
+
+ ![Rufumleitung Subscriber Cloud PBX](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a6afcd6f-990e-4ab9-85a7-b7ccfac78dc2)
+
+und das entsprechende Häkchen zum Ignorieren der Rufumleitung (Call Forward) setzen:
+
+![Rufumleitung Subscriber Ignore Hunting](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a1141e3a-1bc1-4269-925f-f8c1458da1a0)
+
+
+## 3. Einrichtung am Endgerät (Anwender)
+
+Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
+
+*Call Forward Unconditional:* Einrichtung der Rufumleitung durch Wahl von **\*72*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
+
+*Call Forward on Busy:* Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #90*.
+
+*Call Forward on Timeout:* Einrichtung der Rufumleitung nach Zeit durch Wahl von **\*92*30*Zielrunfummer** (hier also nach 30 Sekunden) – *Deaktivierung durch Wahl von #92*.
+
+*Call Forward on Not Available:* Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93*Zielrufnummer** - *Deaktivierung durch Wahl von #93*.
+
+Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
 
 ### Konfiguration unter Kundendetails
 
@@ -172,23 +206,7 @@ Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neu
 
 Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view) zeigt Ihnen, ob das Set aktiv ist bzw. nicht. Per Mausklick auf "Remove" (6a) löschen Sie ein Set genauso einfach, wie Sie ein neues per Klick auf "Add destination/time sets" (6b) wieder hinzufügen können. Mit dem Button "Simple View" (7) gelangen Sie zurück zur "einfachen" Ansicht. Vergessen Sie nicht die Änderungen mit SAVE (8) zu speichern.
 
-
-## 3. Einrichtung am Endgerät (Anwender)
-
-Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
-
-*Call Forward Unconditional:* Einrichtung der Rufumleitung durch Wahl von **\*72*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
-
-*Call Forward on Busy:* Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #90*.
-
-*Call Forward on Timeout:* Einrichtung der Rufumleitung nach Zeit durch Wahl von **\*92*30*Zielrunfummer** (hier also nach 30 Sekunden) – *Deaktivierung durch Wahl von #92*.
-
-*Call Forward on Not Available:* Einrichtung der Rufumleitung bei „Nicht Registriert“ durch Wahl von **\*93*Zielrufnummer** - *Deaktivierung durch Wahl von #93*.
-
-Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
-
-
-## 4. Besonderheit: Call-Forward in der PBX-Gruppe
+### Besonderheit: Call-Forward in der PBX-Gruppe
 
 Standardmäßig werden Rufumleitungen (Call-Forward) beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich unter *Kunden-Details* -> *Einstellungen* -> *Cloud PBX*
 
