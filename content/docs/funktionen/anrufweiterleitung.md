@@ -85,19 +85,15 @@ Standardmäßig werden Rufumleitungen beim Anrufen einer Gruppe ignoriert. Die e
 
 ![Rufumleitung9](https://github.com/user-attachments/assets/f2502bd9-5ce4-4d85-a03e-258c862a3c03)
 
-Wenn Sie dennoch eine Rufumleitung bei einem Gruppen-Teilnehmer (Subscriber) einrichten möchten, können Sie hier die Funktion *ausklicken* (Schaltknopf nach links und weiß). 
+Wenn Sie dennoch eine Rufumleitung bei einer Nebenstelle/Gruppe einrichten möchten, können Sie hier die Funktion *ausklicken* (Schaltknopf nach links -> wird weiß). 
 
-Soll die Rufumleitung aber bei einem bestimmten Teilnehmer (Subscriber) dennoch ignoriert werden, so kann man diesen auswählen und seine *Einstellungen* anpassen.
+Soll die Rufumleitung aber bei einer bestimmten Nebenstelle dennoch ignoriert werden, so kann man diese auswählen und ihre *Einstellungen* anpassen.
 
-![Rufumleitung Subscriber](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/1fc78c90-5618-4500-a81f-6d56db7f9d7e)
+![Rufumleitung10](https://github.com/user-attachments/assets/209f784a-280e-4f00-b37a-07a8956feeb2)
 
-Bei den *Einstellungen* den Unterpunkt *Cloud PBX* öffnen.
+Dafür einfach bei *Anrufweiterleitung bei Anrufen . . . ignorieren* den Schiebeschalter aktivieren (nach rechts -> wird grün):
 
- ![Rufumleitung Subscriber Cloud PBX](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a6afcd6f-990e-4ab9-85a7-b7ccfac78dc2)
-
-und das entsprechende Häkchen zum Ignorieren der Rufumleitung (Call Forward) setzen:
-
-![Rufumleitung Subscriber Ignore Hunting](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a1141e3a-1bc1-4269-925f-f8c1458da1a0)
+![Rufumleitung11](https://github.com/user-attachments/assets/334246ec-933d-458c-ad3b-843aae64a182)
 
 
 ## 3. Einrichtung am Endgerät (Anwender)
@@ -114,7 +110,7 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 
 Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
 
-### Konfiguration unter Kundendetails
+### 4. Auslaufend: Konfiguration unter Kundendetails
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
 
@@ -206,7 +202,7 @@ Hier können Sie sämtliche (Call Forward-)Destinationen verwalten oder eine neu
 
 Das *Enabled-Häkchen* (5) beim [ADVANCED VIEW](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view) zeigt Ihnen, ob das Set aktiv ist bzw. nicht. Per Mausklick auf "Remove" (6a) löschen Sie ein Set genauso einfach, wie Sie ein neues per Klick auf "Add destination/time sets" (6b) wieder hinzufügen können. Mit dem Button "Simple View" (7) gelangen Sie zurück zur "einfachen" Ansicht. Vergessen Sie nicht die Änderungen mit SAVE (8) zu speichern.
 
-### Besonderheit: Call-Forward in der PBX-Gruppe
+#### Besonderheit: Call-Forward in der PBX-Gruppe
 
 Standardmäßig werden Rufumleitungen (Call-Forward) beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich unter *Kunden-Details* -> *Einstellungen* -> *Cloud PBX*
 
