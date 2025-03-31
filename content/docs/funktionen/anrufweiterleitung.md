@@ -95,7 +95,7 @@ Dafür einfach bei *Anrufweiterleitung bei Anrufen . . . ignorieren* den Schiebe
 
 ![Rufumleitung11](https://github.com/user-attachments/assets/334246ec-933d-458c-ad3b-843aae64a182)
 
-Ist bei der Nebenstelle/Gruppe Schalter zum Ignorieren der Rufumleitung altiviert, greift die übergeordnete Einstellung des Kunden (s.o.).
+Ist bei der Nebenstelle/Gruppe der Schalter zum *Ignorieren der Rufumleitung* deaktiviert, greift die übergeordnete Einstellung des Kunden (s.o. Kundenpräferenzen).
 
 
 ## 3. Einrichtung am Endgerät (Anwender)
