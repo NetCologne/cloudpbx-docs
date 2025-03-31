@@ -10,13 +10,13 @@ toc: true
 
 Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe automatisch erhöhen, indem sie diese an andere Ziele weiterleiten. Nutzen Sie dazu die Funktion *Rufumleitung(en)*. Diese können Sie für jede Nebenstelle/Rufnummer oder Gruppe individuell einstellen. Dies ist auf mehreren Wegen möglich:
 
-## 1. Einrichtung über das Web-Interface (Admin)
+## 1. Einrichtung in der Cloud PBX über das Web-Interface (Admin)
 
 Um eine Rufumleitung einzurichten, wählt der **Admin** innerhalb der PBX-Konfiguration den Unterpunk *Nebenstelle [1]* oder *Gruppe [2]* und trifft dort seine Auswahl - hier *Nebenstelle kalk*. Dann klickt er auf den Reiter *Rufumleitungen* (roter Pfeil):
 
 ![Rufumleitung1](https://github.com/user-attachments/assets/9a882997-a0f4-4e7a-8f9b-8f6bcea4f4da)
 
-## 2. Einrichtung über das Web-Interface (Anwender)
+## 2. Einrichtung in der Cloud PBX über das Web-Interface (Anwender)
 
 Klicken Sie im Menü der Nebenstelle (hier Kalk) auf den Punkt *Anrufeinstellungen* und dann auf *Rufumleitung* (roter Pfeil)
 
@@ -98,11 +98,11 @@ Dafür einfach bei *Anrufweiterleitung bei Anrufen . . . ignorieren* den Schiebe
 Ist bei der Nebenstelle/Gruppe der Schalter zum *Ignorieren der Rufumleitung* deaktiviert, greift die übergeordnete Einstellung des Kunden (s.o. Kundenpräferenzen).
 
 
-## 3. Einrichtung am Endgerät (Anwender)
+## 3. Einrichtung in der Cloud PBX über das Endgerät (Anwender)
 
 Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#call-forward-typen) können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden:
 
-*Call Forward Unconditional:* Einrichtung der Rufumleitung durch Wahl von **\*72*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
+*Call Forward Unconditional:* Einrichtung der generellen Rufumleitung durch Wahl von **\*72*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #72*.
 
 *Call Forward on Busy:* Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90*Zielrufnummer** (inkl. Amtsholung) – *Deaktivierung durch Wahl von #90*.
 
@@ -112,7 +112,26 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 
 Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
 
-### 4. Auslaufend: Konfiguration unter Kundendetails
+
+## 4. Einrichtung der Rufumleitung im Endgerät (Anwender)
+
+Viele Endgeräte bieten in ihren Menüs ebenfalls die Möglichkeit eine Rufumleitung einzurichten und per Tastendruck zu aktivieren. Z.B. Yeahlink wählen Sie dafür den Menüpunkt **Leistungsmerkmale**:
+
+![yealink hauptmenue](https://github.com/user-attachments/assets/9d434406-310d-4f17-be94-95b177106682)
+
+Tippen Sie anschließend auf **Weiterleitung** und wälen Sie die gewünschte Art der Rufumleitung:
+ **Immer weiterleiten** - Eingehende Anrufe werden umgehend umgeleitet.
+ **Weiterleiten bei besetzt** - Eingehende Anrufe werden umgeleitet, wenn die Leitung besetzt ist.
+ **Bei Abwesenheit** - Eingehende Anrufe werden umgeleitet, falls sie innerhalb einer bestimmten Zeit nicht entgegengenommen werden.
+
+Geben Sie anschließend die Zielnummer ein, auf die Sie umleiten möchten und tippen im Bildschirm auf Speichern/Save, um die Änderungen zu übernehmen.
+
+![yealink rufumleitung](https://github.com/user-attachments/assets/1bb92677-8d65-44eb-833e-e21a81ad7a05)
+
+Wichtig: Die hier beschriebene Rufumleitung ist nur im Endgerät konfuguriert und auch nur hier zu aktivieren bzw. deaktivieren. Die Einstellungen Ihrer Cloud PBX bleiben davon unberührt.
+
+
+### 5. Auslaufend: Konfiguration in der Cloud PBX unter "Kundendetails"
 
 Darüberhinaus kann der Admin unter dem Punkt *Kunden-Details* sowohl für einzelne Teilnehmer (Subscriber) oder auch bei PBX-Gruppen Rufumleitungen einrichten:
 
