@@ -113,9 +113,9 @@ Die einzelnen [Call Forward Typen](https://cloudpbx-doku.netcologne.de/docs/funk
 Die **Deaktivierung aller** eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**.
 
 
-## 4. Einrichtung der Rufumleitung im Endgerät (Anwender)
+## 4. Besonderheit: Einrichtung der Rufumleitung im Endgerät (Anwender)
 
-Viele Endgeräte bieten in ihren Menüs ebenfalls die Möglichkeit eine Rufumleitung einzurichten und per Tastendruck zu aktivieren. Z.B. Yeahlink wählen Sie dafür den Menüpunkt **Leistungsmerkmale**:
+Viele Endgeräte bieten in ihren Menüs ebenfalls die Möglichkeit eine Rufumleitung einzurichten und per Tastendruck zu aktivieren. Z.B. bei *Yeahlink* wählen Sie dafür den Menüpunkt **Leistungsmerkmale**:
 
 ![yealink hauptmenue](https://github.com/user-attachments/assets/9d434406-310d-4f17-be94-95b177106682)
 
