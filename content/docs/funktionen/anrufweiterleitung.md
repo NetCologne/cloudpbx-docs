@@ -119,10 +119,10 @@ Viele Endgeräte bieten in ihren Menüs ebenfalls die Möglichkeit eine Rufumlei
 
 ![yealink hauptmenue](https://github.com/user-attachments/assets/9d434406-310d-4f17-be94-95b177106682)
 
-Tippen Sie anschließend auf **Weiterleitung** und wälen Sie die gewünschte Art der Rufumleitung:
- **Immer weiterleiten** - Eingehende Anrufe werden umgehend umgeleitet.
- **Weiterleiten bei besetzt** - Eingehende Anrufe werden umgeleitet, wenn die Leitung besetzt ist.
- **Bei Abwesenheit** - Eingehende Anrufe werden umgeleitet, falls sie innerhalb einer bestimmten Zeit nicht entgegengenommen werden.
+Tippen Sie anschließend auf **Weiterleitung** und wälen Sie die gewünschte Art der Rufumleitung: <br>
+ **Immer weiterleiten** - Eingehende Anrufe werden umgehend umgeleitet. <br>
+ **Weiterleiten bei besetzt** - Eingehende Anrufe werden umgeleitet, wenn die Leitung besetzt ist. <br>
+ **Bei Abwesenheit** - Eingehende Anrufe werden umgeleitet, falls sie innerhalb einer bestimmten Zeit nicht entgegengenommen werden. <br>
 
 Geben Sie anschließend die Zielnummer ein, auf die Sie umleiten möchten und tippen im Bildschirm auf Speichern/Save, um die Änderungen zu übernehmen.
 
