@@ -81,7 +81,7 @@ Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz 
 
 ### Besonderheit: Rufumleitung in der PBX-Gruppe
 
-Standardmäßig werden Rufumleitungen beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich für den **Admin** unter *PBX-Konfiguration* -> *Kundenpräferenzen*:
+Standardmäßig werden Rufumleitungen beim Anrufen einer Gruppe ignoriert. Die entsprechende Kundeneinstellung befindet sich für den **Admin** unter *PBX-Konfiguration* -> *Kundenpräferenzen*:
 
 ![Rufumleitung9](https://github.com/user-attachments/assets/f2502bd9-5ce4-4d85-a03e-258c862a3c03)
 
