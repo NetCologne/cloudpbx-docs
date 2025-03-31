@@ -126,8 +126,8 @@ Tippen Sie anschließend auf **Weiterleitung** und wälen Sie die gewünschte Ar
 
 Geben Sie anschließend die Zielnummer ein, auf die Sie umleiten möchten und tippen im Bildschirm auf Speichern/Save, um die Änderungen zu übernehmen.
 
->💡**Hinweis**
-> Die hier beschriebene Rufumleitung ist nur im Endgerät konfuguriert und auch nur hier zu aktivieren bzw. deaktivieren. Die Einstellungen Ihrer Cloud PBX bleiben davon unberührt.
+>💡**Hinweis**  
+>Die hier beschriebene Rufumleitung ist nur im Endgerät konfuguriert und auch nur hier zu aktivieren bzw. deaktivieren. Die Einstellungen Ihrer Cloud PBX bleiben davon unberührt.
 
 
 ### 5. Auslaufend: Konfiguration in der Cloud PBX unter "Kundendetails"
