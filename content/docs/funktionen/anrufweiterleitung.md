@@ -128,7 +128,9 @@ Geben Sie anschließend die Zielnummer ein, auf die Sie umleiten möchten und ti
 
 ![yealink rufumleitung](https://github.com/user-attachments/assets/1bb92677-8d65-44eb-833e-e21a81ad7a05)
 
-<TriangleAlert strokeWidth={2} size={36} />: Die hier beschriebene Rufumleitung ist nur im Endgerät konfuguriert und auch nur hier zu aktivieren bzw. deaktivieren. Die Einstellungen Ihrer Cloud PBX bleiben davon unberührt.
+import {AlertFillIcon} from '@primer/octicons-react'
+
+<AlertFillIcon size={16} />: Die hier beschriebene Rufumleitung ist nur im Endgerät konfuguriert und auch nur hier zu aktivieren bzw. deaktivieren. Die Einstellungen Ihrer Cloud PBX bleiben davon unberührt.
 
 
 ### 5. Auslaufend: Konfiguration in der Cloud PBX unter "Kundendetails"
