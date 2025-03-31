@@ -130,6 +130,8 @@ Geben Sie anschließend die Zielnummer ein, auf die Sie umleiten möchten und ti
 
 % octicon alert-fill height:16 %
 
+<%= render(Primer::Beta::Octicon.new(:"alert-fill", size: :small)) %>
+
 <AlertFillIcon size={16} />: Die hier beschriebene Rufumleitung ist nur im Endgerät konfuguriert und auch nur hier zu aktivieren bzw. deaktivieren. Die Einstellungen Ihrer Cloud PBX bleiben davon unberührt.
 
 
