@@ -44,8 +44,7 @@ Beim "Advanced View" (6) sind weitere Konfigurationen, wie z.B. die Eingabe von 
 
 ![Soundsets moh und andere](https://github.com/user-attachments/assets/c362231f-2a99-45b1-a5e8-9cb5b2cdfda9)
 
-Unter *music_on_hold (2)* können Sie die Musik für die Warteschlange auswählen. Beim Menüpunkt *conference (3)* können alle Ansagen, die Sie für eine Konferenz benötigen, ablegen. Unter dem vierten Punkt *custom_annoucements* werden kundenspezifische Ansagen, wie z.B. "Bitte sprechen Sie Ihren Rezeptwunsch auf die Voicebox" abgelegt bzw. ausgewählt. Wenn Sie Ansagen vor oder nach dem Melden konfigurieren oder einen kundenspezifischen Ringback-Ton wünsche, dann können Sie diese unter *early_media (5)* konfigurieren bzw. ablegen.
-
-
-
-
+Unter **music_on_hold (2)** können Sie die Musik für die Warteschlange auswählen. <br>
+Beim Menüpunkt **conference (3)** können alle Ansagen, die Sie für eine Konferenz benötigen, ablegen. <br>
+Unter Punkt **custom_annoucements (4)** werden kundenspezifische Ansagen, wie z.B. "Bitte sprechen Sie Ihren Rezeptwunsch auf die Voicebox" abgelegt bzw. ausgewählt. <br>
+Wenn Sie Ansagen vor oder nach dem Melden konfigurieren oder einen kundenspezifischen Ringback-Ton wünsche, dann können Sie diese unter **early_media (5)** konfigurieren bzw. ablegen. <br>
