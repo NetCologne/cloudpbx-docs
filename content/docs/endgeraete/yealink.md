@@ -44,7 +44,8 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 
 ![NC_Doku_Login](https://user-images.githubusercontent.com/99875491/169037825-ceb507ee-9886-4f5e-8ef7-3409a2bc55e8.jpg)
 
-Username und Password lauten beide "admin".
+Username und Password lauten beide "admin". <br>
+<br> 💡 **Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.
 
 ![NC_Doku_Konto_Registrieren_03](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/e3959192-c1ff-443b-826f-f26569121b64)
 
@@ -112,7 +113,8 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 
 ![Zugangsdaten](https://user-images.githubusercontent.com/99875491/187174035-35fc98f6-af4a-426f-b626-84e45ccef110.jpeg)
 
-Username und Password lauten beide "admin".
+Username und Password lauten beide "admin". <br>
+<br> 💡 **Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.
 
 ### Konfiguration
 
@@ -192,7 +194,8 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 
 ![Zugangsdaten_920](https://user-images.githubusercontent.com/99875491/196953811-471560b6-56d5-493a-a66c-d03ed8da342a.jpeg)
 
-Username und Password lauten beide "admin".
+Username und Password lauten beide "admin". <br>
+<br> 💡 **Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.
 
 ### Konfiguration
 
@@ -224,7 +227,8 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 
 ![Zugangsdaten_965](https://user-images.githubusercontent.com/99875491/196953845-cfb21eae-19cb-4c3a-b119-d3b6ad7b372b.jpeg)
 
-Username und Password lauten beide "admin".
+Username und Password lauten beide "admin". <br>
+<br> 💡 **Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.
 
 ### Konfiguration
 
@@ -280,7 +284,8 @@ im lokalen Router ausgelesen werden kann:
 
 ![Yealink_T57_Login](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/ff740e0c-de91-405d-bc77-351453897363)
 
-Username lautet “admin”, Password lautet “adminpass”.
+Username lautet “admin”, Password lautet “adminpass”. <br>
+<br> 💡 **Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.
 
 ### Konfiguration
 
