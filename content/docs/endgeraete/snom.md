@@ -68,6 +68,8 @@ wobei die IP Adresse im lokalen Router ausgelesen werden kann:
 
 
 Username : admin und Password : adminpass.
+💡**Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.
+
 
 ### Konfiguration
 
