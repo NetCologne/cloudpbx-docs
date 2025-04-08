@@ -88,7 +88,6 @@ Das anzubindende Telefon hat eine statische IP-Adresse. Diese wird in der CTI-So
 <br>
 [13]	Das Passwort lautet im Auslieferungszustand ebenfalls "admin". Bei über die Cloud-PBX-GUI provisionierten Geräten lautet es "adminpass". Oder verwenden Sie das von Ihnen gesetzte Passwort (siehe Provisionierung Endgeräte).<br>
 💡 **Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.
-
 <br>
 [14]	Nach erfolgter Eingabe klicken Sie auf "Test". Sind alle Eingaben korrekt, so erscheint hier "OK".<br>
 <br>
