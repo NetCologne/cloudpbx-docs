@@ -62,15 +62,12 @@ Parameter "RTP Encryption" auf ON steht und dass unter RTP/SAVP "mandatory" ausg
 ### Zugangsdaten ( Variante 2 )
 
 Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse:3112 ( also mit Portangabe ) 
-wobei die IP Adresse im lokalen Router ausgelesen werden kann:
-
-
-
-
-Username : admin und Password : adminpass.
-💡**Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.
-
-
+wobei die IP Adresse im lokalen Router ausgelesen werden kann:<br>
+<br>
+Username : admin und Password : adminpass. <br>
+💡**Hinweis:** Bei Anlagen, die von NetCologne eingerichtet wurden, werden aus Sicherheitsgründen keine Standardpasswörter verwendet. Sollten Sie das Administrator-Kennwort benötigen, wenden Sie sich bitte an den Geschäftskunden-Support.<br>
+<br>
+<br>
 ### Konfiguration
 
 ![Snom_D865_01_Port_3112_Identity](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/cb13acdd-8903-4d79-b2eb-23f61762b4c3)
