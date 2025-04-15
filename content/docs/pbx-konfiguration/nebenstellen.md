@@ -50,7 +50,7 @@ Das *SIP-Passwort* (6b) ist erforderlich, wenn Endgeräte – also Telefone oder
 
 Grundsätzlich kann sowohl der Administrator als auch der User die entsprechenden Passwörter ändern und genau dabei auch wieder einsehen. <br>
 
-Die beiden Passwörter können aus Sicherheitsgründen nur beim Anlegen eingesehen werden, d.h. entweder jetzt notieren oder später neu vergeben. <br>
+⚠️ **Wichtig:** Die beiden Passwörter können aus Sicherheitsgründen nur beim Anlegen eingesehen werden, d.h. entweder jetzt notieren oder später neu vergeben. <br>
 
 ![NST hinzufügen2](https://github.com/user-attachments/assets/5678029a-4a2d-4b17-8fd7-8e50c1499700)
 
