@@ -81,7 +81,7 @@ Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (5) v
 
 ### 2. RUFUMLEITUNGEN
 
-Hier kann man eine [Anrufweiterleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) konfigurieren.
+Wie sie diese Funktionen konfigurieren, ist ausführlich unter [RUFUMLEITUNGEN](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) beschrieben.
 
 ### 3. ANRUFBEANTWORTER
  
