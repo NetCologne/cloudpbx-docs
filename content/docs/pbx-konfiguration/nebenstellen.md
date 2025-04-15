@@ -24,8 +24,8 @@ Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die ents
 
 Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf <br>
 
-* Nebenstellen (1) und mit dem "+-Zeichen" und Angabe von <br>
-* Anzeigennamen (2), <br>
+* Nebenstellen (1) und fügen mit dem "+-Zeichen" und Angabe von <br>
+* Anzeigenamen (2), <br>
 * Web-Benutzernamen (3a), <br>
 * Web-Passwort (3b), <br>
 * SIP-Benutzername (4a) und <br>
