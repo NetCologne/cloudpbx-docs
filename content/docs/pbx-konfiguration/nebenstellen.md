@@ -29,21 +29,24 @@ Zur Einrichtung der Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" 
 * Web-Benutzernamen (3a), <br>
 * Web-Passwort (3b), <br>
 * SIP-Benutzername (4a) und <br>
-* SIP-Password (4b) eine weiter Nebenstelle hinzu. <br>
+* SIP-Password (4b) eine weitere Nebenstelle hinzu. <br>
 
-Der Display Name kann unabhängig von Web-Benutzernamen und SIP-Benutzernamen vergeben und z.B. im Falle eines Mitarbeiterwechsels auch aktualisiert werden, ohne dass die Nebenstelle neu eingerichtet werden muss. <br>
+Der auf dem Display erscheinende *Anzeigename* kann unabhängig von *Web-Benutzername* und *SIP-Benutzername* vergeben werden. Er kann damit, z.B. im Falle eines Mitarbeiterwechsels, einfach aktualisiert werden, ohne dass die Nebenstelle neu eingerichtet werden muss. <br>
 
 Die beiden Passwörter können aus Sicherheitsgründen nur beim Anlegen eingesehen werden, d.h. entweder jetzt notieren oder später neu vergeben. <br>
 
+* Setzen Sie bei Force CLI das Häkchen (s. Bild unten, roter Pfeil), um sicher zu stellen, dass immer die in der Cloud-PBX eingetragene Rufnummer übertragen wird.
 * Ist der Kunde Eigentümer einer weitereren Nummer und hat er diese bei Auftragserteilung der NetCologne mitgeteilt, kann diese unter "Alias-Nummer" (6) ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. <br>
-* Gruppen können hier (7) konfiguriet werden. <br>
+* Gruppen können hier (7) konfiguriert werden. <br>
 * Sound-Set (8): Hier können Sie Ihre eigenen Töne oder Melodien im wav-Format hochladen und der Nebenstelle zuweisen. <br>
+
+![NST hinzufügen4](https://github.com/user-attachments/assets/50b57300-e02c-4f3d-a323-8725c7973d7b)
 
 Im Beispiel wird die Nebenstelle mit der Durchwahl "0" für den User "Zollstock" eingerichtet:
 
 ![NST hinzufügen2](https://github.com/user-attachments/assets/6403d33a-fcca-4e49-9013-81c8b37c5d52)
 
-Das Web-Passwort wird benötigt, wenn der User der Nebenstelle per Web-Interface seine Nebenstelle konfigurieren können soll – also Anrufweiterschaltungen, Kurzwahlen etc. einrichten können soll.
+Das Web-Passwort wird benötigt, wenn der User peine Nebenstelle per Web-Interface konfigurieren - also Einrichten von Anrufweiterschaltungen, Kurzwahlen etc. - können soll.
 
 Das SIP-Passwort ist erforderlich, wenn Endgeräte – also Telefone oder Sip Clients etc. – manuell provisioniert werden sollen. Grundsätzlich kann sowohl der Administrator als auch der User die entsprechenden Passwörter ändern und genau dabei auch wieder einsehen. 
 <br>
@@ -53,7 +56,7 @@ Der folgende Screenshot zeigt, wie die Passwörter geändert werden:
 
 
 
-## Konfiguration der angezeigten Nummer
+### Konfiguration der angezeigten Nummer
 
 Klickt man die Nebenstelle an, können links unter Preferences (1) weitere Einstellungen vorgenommen werden. <br>
 
