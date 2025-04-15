@@ -60,16 +60,31 @@ Der folgende Screenshot zeigt, wie die Passwörter geändert werden: <br>
 
 ![NST hinzufügen3](https://github.com/user-attachments/assets/d400294f-4ee4-4ada-8573-cf2d7004ab27)
 
+Klickt man die Nebenstelle an, kann man zwischen den Reitern *Einstellungen*, *Rufumleitungen*, *Anrufbeantworter*, *"FAX TO MAIL" UND "SENDFAX"* und *MAIL TO FAX* auswählen.
 
-### Konfiguration der angezeigten Nummer
+### 1. EINSTELLUNGEN
 
-Klickt man die Nebenstelle an, können links unter Preferences (1) weitere Einstellungen vorgenommen werden. <br>
+![NST Einstellungen](https://github.com/user-attachments/assets/2fed0b1f-87d2-4ab9-9f9f-bf1cd7749d79)
 
-![neu_seat Anzeige2](https://user-images.githubusercontent.com/98753538/234835421-d3c311b6-04ca-4d27-992e-0c0e50da39bf.jpg)
+Beim Punkt *Alias-Nummer* (1) kann die Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, insofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
 
-Bei Preferencen/Einstellungen kann unter CLI (Calling Line Identification) die abgehend signalisierte Rufnummer konfiguriert werden. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein. <br>
-**Achtung:** Diese Funktion kann nur gewährleistet werden, wenn der SIP User nicht die Durchwahl ist! Im Beispiel ist dies gegeben ("Zollstock_SIP" ≠ "0"). <br>
- <br>
-Beim darüberliegenden Punkt kann eine oder mehrere Alias-Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, insofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
+Beim darunter liegenden Punkt *CLI* (2) kann die "Calling Line Identification" also die abgehend signalisierte Rufnummer konfiguriert werden. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein. <br>
+⚠️ **Wichtig:** Diese Funktion kann nur gewährleistet werden, wenn der SIP User nicht die Durchwahl ist! Im Beispiel ist dies gegeben ("Zollstock_SIP" ≠ "0"). <br>
 <br>
-Rechts unter Call Forwards (2) kann man eine [Anrufweiterleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) konfigurieren.
+
+Ansage vor Melden (3) <br>
+
+Ansage nach Melden (4) <br>
+
+Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (5) v
+
+
+### 2. RUFUMLEITUNGEN
+
+Hier kann man eine [Anrufweiterleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) konfigurieren.
+
+### 3. ANRUFBEANTWORTER
+ 
+### 4. "FAX TO MAIL" UND "SENDFAX"
+ 
+### 5. MAIL TO FAX
