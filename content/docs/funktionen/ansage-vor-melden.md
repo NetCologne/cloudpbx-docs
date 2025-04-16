@@ -10,9 +10,7 @@ toc: true
 
 „Ansage vor Melden“ oder individueller Freizeichenton (RingBackTone)
 
-Um in der Cloud-PBX eine „Ansage vor Melden“ zu realisieren, wird der individuelle Freizeichenton (RingBackTone) verwendet.
-
-Wenn eine „Ansage vor Melden“ oder ein individueller RingBackTone gewünscht ist, muss im ersten Schritt das Feature für die Nebenstelle oder die Gruppe aktiviert werden. Dies geschieht per Schiebeschalter unter „PBX-Konfiguration -> Kundenpräferenzen:
+Um dem Anrufer die Wartezeit bis zum Durchschalten zu verkürzen, kann in der Cloud-PBX eine *Ansage vor Melden* und/oder ein individueller Freizeichenton (RingBackTone) gespielt werden. Ist dies gewünscht, muss der Administrator im ersten Schritt diese Features für die Nebenstelle oder die Gruppe aktivieren. Dies geschieht per Schiebeschalter unter „PBX-Konfiguration -> Kundenpräferenzen:
 
 ![image](https://github.com/user-attachments/assets/6e1a2fc4-c2e0-4dea-9c89-3672cd35b9b8)
 
