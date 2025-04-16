@@ -16,7 +16,8 @@ Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dah
 * Anrufbeantworter
 * Faxserver
 * ACD (**A**utomatic **C**all **D**istribution = Automatische Anrufverteilung) vergleichbar mit
-* IVR (**I**nteractive **V**oice **R**esponse = interaktiver Anrufbeantworter). Dabei erhalten Anrufer die Möglichkeit, ihre Präferenzen auszuwählen, bevor sie mit einem Contact-Center-Agenten verbunden werden.
+* IVR (**I**nteractive **V**oice **R**esponse = Interaktiver Anrufbeantworter). <br>
+Beide Male erhalten Anrufer die Möglichkeit, ihre Präferenzen auszuwählen, bevor sie mit einem Callcenter-Agenten verbunden werden.
 
 Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die entsprechende Funktion realisiert. Weiterleitungen sind also nicht nur auf physikalische Ziele möglich, sondern auch auf die o. a. Funktionen. 
 
