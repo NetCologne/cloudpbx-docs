@@ -67,7 +67,9 @@ Sie können die elektronischen Ansagen im Menü „Anrufeinstellungen“ unter �
 
 Zur Erinnerung: Wenn Sie als Administrator angemeldet sind, steht Ihnen der (zusätzliche) Menüpunkt „Kunden-Details“ zur Verfügung. Auch von hier aus gelangen Sie zu den „Subscribern“ und können dort „Einstellungen“ und den Menüpunkt „Voicemail and Voicebox“ auswählen bzw. öffen:  <br>
 
-![Voicemail and Voicebox 1](https://user-images.githubusercontent.com/98753538/193989352-c4110eb4-41b1-4817-bf1f-8af67b5287f5.jpg)
+![Voicemail and Voicebox](https://github.com/user-attachments/assets/2ae19924-772b-4f42-8390-59f5894da13d)
+
+Bis auf die Sprachauswahl stehen Ihnen die gleichen Punkte (1-8) zur Verfügung.
 
 ![Voicemail Ansagen2](https://user-images.githubusercontent.com/98753538/193989610-cfa67140-24e2-4752-a160-a337a9ff319f.jpg)
 
