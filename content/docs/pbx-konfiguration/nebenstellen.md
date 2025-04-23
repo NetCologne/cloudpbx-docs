@@ -79,7 +79,6 @@ Beim Punkt *Alias-Nummer* (1) kann die Nummer ausgewählt werden, unter der dies
 Beim darunter liegenden Punkt *CLI* (2) kann die "Calling Line Identification" also die abgehend signalisierte Rufnummer konfiguriert werden. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein. <br>
 
 ⚠️ **Wichtig:** Diese Funktion kann nur gewährleistet werden, wenn der SIP User nicht die Durchwahl ist! Im Beispiel ist dies gegeben (SIP USER: "Zollstock_SIP" ≠ Durchwahl "0"). <br>
-<br>
 
 Ansage vor Melden (3) <br>
 
