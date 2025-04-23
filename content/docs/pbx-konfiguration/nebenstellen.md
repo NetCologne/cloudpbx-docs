@@ -8,8 +8,6 @@ weight: 202
 toc: true
 ---
 
-## Einrichtung von Nebenstellen 
-
 Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dahinter kein physikalischer Anschluss steckt. Hinter Nebenstellen können folgende Funktionen konfiguriert werden:
 
 * Physikalische Anschlüsse wie Telefone oder SIP Clients
@@ -20,6 +18,8 @@ Nebenstellen werden für jegliche Funktion der Anlage benötigt, selbst wenn dah
 Beide Male erhalten Anrufer die Möglichkeit, ihre Präferenzen auszuwählen, bevor sie mit einem Callcenter-Agenten verbunden werden.
 
 Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die entsprechende Funktion realisiert. Weiterleitungen sind also nicht nur auf physikalische Ziele möglich, sondern auch auf die o. a. Funktionen. 
+
+## Einrichtung von Nebenstellen 
 
 Zur Einrichtung einer  Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf *Nebenstellen* und anschließend auf *+ NEBENSTELLE HINZUFÜGEN* <br>
 
@@ -62,7 +62,12 @@ Der folgende Screenshot zeigt, wie die Passwörter geändert werden: <br>
 
 ![NST hinzufügen3](https://github.com/user-attachments/assets/d400294f-4ee4-4ada-8573-cf2d7004ab27)
 
-Klickt man die Nebenstelle an, kann man zwischen den Reitern *Einstellungen*, *Rufumleitungen*, *Anrufbeantworter*, *"FAX TO MAIL" UND "SENDFAX"* und *MAIL TO FAX* auswählen.
+Klickt man die Nebenstelle an, kann man zwischen den Reitern 
+**Einstellungen*, 
+**Rufumleitungen*, 
+**Anrufbeantworter*, 
+**"FAX TO MAIL" UND "SENDFAX"* und 
+**MAIL TO FAX* auswählen.
 
 ### 1. EINSTELLUNGEN
 
