@@ -68,8 +68,7 @@ Klickt man die Nebenstelle an, kann man zwischen den Reitern
 * RUFUMLEITUNGEN, 
 * ANRUFBEANTWORTER, 
 * "FAX TO MAIL" UND "SENDFAX" und 
-* MAIL TO FAX auswählen. <br>
-<br>  
+* MAIL TO FAX auswählen. <br>  
 
 ### 1. EINSTELLUNGEN
 
