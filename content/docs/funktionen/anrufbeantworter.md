@@ -69,7 +69,7 @@ Zur Erinnerung: Wenn Sie als Administrator angemeldet sind, steht Ihnen der (zus
 
 ![Voicemail and Voicebox](https://github.com/user-attachments/assets/2ae19924-772b-4f42-8390-59f5894da13d)
 
-Bis auf die Sprachauswahl stehen Ihnen die gleichen Punkte (1-8) zur Verfügung.
+Bis auf die Sprachauswahl stehen Ihnen die gleichen Punkte (1-8, siehe oben) zur Verfügung.
 
 ![Voicemail Ansagen2](https://user-images.githubusercontent.com/98753538/193989610-cfa67140-24e2-4752-a160-a337a9ff319f.jpg)
 
