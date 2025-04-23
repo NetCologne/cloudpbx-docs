@@ -89,11 +89,15 @@ Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (5) <br>
 
 ### 2. RUFUMLEITUNGEN
 
-Wie sie diese Funktionen konfigurieren, ist ausführlich unter [RUFUMLEITUNGEN](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) beschrieben.
+![NST Rufumleitungen](https://github.com/user-attachments/assets/3ecc72ba-0629-4be3-ae54-529eb83a4d1d)
+
+Wie sie diese Funktionen konfigurieren, ist ausführlich unter [RUFUMLEITUNGEN](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) beschrieben. <br>
 
 ### 3. ANRUFBEANTWORTER
 
-<br>
+![NST ABW](https://github.com/user-attachments/assets/0b36dc4d-1b88-4a3d-9108-c698641e08cc)
+
+Die Beschreibung dieser Funktion finden sien unter [ANRUFBEANTWORTER](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufbeantworter/) <br>
 
 ### 4. "FAX TO MAIL" UND "SENDFAX"
 
