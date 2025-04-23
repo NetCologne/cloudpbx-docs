@@ -91,7 +91,7 @@ Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (5) <br>
 
 ![NST Rufumleitungen](https://github.com/user-attachments/assets/3ecc72ba-0629-4be3-ae54-529eb83a4d1d)
 
-Wie sie diese Funktionen konfigurieren, ist ausführlich unter [RUFUMLEITUNGEN](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) beschrieben. <br>
+Wie Sie diese Funktionen konfigurieren, ist ausführlich unter [RUFUMLEITUNGEN](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) beschrieben. <br>
 
 ### 3. ANRUFBEANTWORTER
 
@@ -101,8 +101,12 @@ Die Beschreibung dieser Funktion finden sien unter [ANRUFBEANTWORTER](https://cl
 
 ### 4. "FAX TO MAIL" UND "SENDFAX"
 
-<br>
+![NST Fax](https://github.com/user-attachments/assets/577c0797-e754-4924-9c72-a89aa583f5d0)
+
+Mit der Cloud-PBX können Sie auch Telefaxe (als E-Mail) empfangen oder versenden. Hier der Link zur entsprechenden Konfiguration: [FAX](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/) <br>
 
 ### 5. MAIL TO FAX
 
-<br>
+
+
+Wenn Sie eine Mail als Fax verschicken möchten, klicken Sie bitte hier: [MAIL TO FAX](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#mail2fax) <br>
