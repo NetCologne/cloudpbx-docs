@@ -124,9 +124,18 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
 * ... die '\*'-Taste, wenn Sie Hilfe wünschen.“ <br>
 * ... die '#'-Taste, um das System zu verlassen.“ <br>
 
-## 3.	Aktivierung mittels Anrufweiterleitung (Call-Forward) in der CloudPBX über das 
+## 3.	Aktivierung mittels Rufumleitung (Call-Forward) in der CloudPBX über das 
 
 ### a.)	Web-Interface
+
+Im Reiter "RUFUMLEITUNGEN" können Sie durch Klick auf die drei grünen Punkte (roter Pfeil) ein weiteres Menü öffnen und dort die Umleitung aktivieren bzw. deaktivieren:
+
+![Anrufbeantworter aktivieren](https://github.com/user-attachments/assets/2cf90db9-3d38-4596-81ff-3c1940b236ea)
+
+Wurde deaktivert, erscheint die Rufumleitung *ausgegraut* (bei Aktivierung leuchtend weiß).
+
+
+
 Klicken Sie zunächst auf den Menüpunkt Kunden-Details, dann auf Subscriber und bei der betreffenden Nebenstelle oder Gruppe auf Einstellungen. Öffnen Sie nun das Menü Call-Forwards und entscheiden, bei welcher Bedingung die Anrufweiterleitung greifen soll: <br>
 
 •	**Call Forward Unconditional** - generelle Anrufweiterleitung. <br>
