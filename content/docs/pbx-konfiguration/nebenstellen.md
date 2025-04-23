@@ -107,6 +107,6 @@ Mit der Cloud-PBX können Sie auch Telefaxe (als E-Mail) empfangen oder versende
 
 ### 5. MAIL TO FAX
 
-
+![NST Mail to Fax](https://github.com/user-attachments/assets/513b20c0-eb79-41d2-baa6-0eb0c36ad9cf)
 
 Wenn Sie eine Mail als Fax verschicken möchten, klicken Sie bitte hier: [MAIL TO FAX](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#mail2fax) <br>
