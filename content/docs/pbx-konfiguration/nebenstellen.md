@@ -78,22 +78,29 @@ Klickt man die Nebenstelle an, kann man zwischen den Reitern
 Beim Punkt *Alias-Nummer* (1) kann die Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, insofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
 
 Beim darunter liegenden Punkt *CLI* (2) kann die "Calling Line Identification" also die abgehend signalisierte Rufnummer konfiguriert werden. Dies kann z.B. die Nummer der Vermittlung/Zentrale oder Hotline sein. <br>
-⚠️ **Wichtig:** Diese Funktion kann nur gewährleistet werden, wenn der SIP User nicht die Durchwahl ist! Im Beispiel ist dies gegeben ("Zollstock_SIP" ≠ "0"). <br>
+
+⚠️ **Wichtig:** Diese Funktion kann nur gewährleistet werden, wenn der SIP User nicht die Durchwahl ist! Im Beispiel ist dies gegeben (SIP USER: "Zollstock_SIP" ≠ Durchwahl "0"). <br>
 <br>
 
 Ansage vor Melden (3) <br>
 
 Ansage nach Melden (4) <br>
 
-Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (5) v
-
+Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (5) <br>
+<br>
 
 ### 2. RUFUMLEITUNGEN
 
 Wie sie diese Funktionen konfigurieren, ist ausführlich unter [RUFUMLEITUNGEN](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/) beschrieben.
 
 ### 3. ANRUFBEANTWORTER
- 
+
+<br>
+
 ### 4. "FAX TO MAIL" UND "SENDFAX"
- 
+
+<br>
+
 ### 5. MAIL TO FAX
+
+<br>
