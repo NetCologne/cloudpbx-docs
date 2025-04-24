@@ -58,7 +58,7 @@ Ansage bei „Besetzt“ (5), <br>
 die Temporäre Ansage (7). Ist diese konfiguriert, setzt sie die anderen Ansagen außer Kraft. <br>
 Außerdem können Sie Ihren Namen aufsprechen (8). Dann hören ihn Anrufer anstatt Ihrer Telefonnummer. <br>
 
-💡 **Information**
+💡 **Information**<br>
 Zur Erzeugung einer elektronischen Ansage im wav-Format gehen Sie bitte folgendermaßen vor:  <br>
 Suchen Sie im Internet mit "text to speech german kostenlos". Bei den Ergebnissen finden Sie leicht einen (kostenlosen) Text-zu-Sprache-Generator wie z.B. ttsfree, freetts oder ttsmp3. Dort können Sie Ihren gewünschten Ansagetext eingeben, wählen die Sprache und Stimme für die Ausgabe und erzeugen so eine mp3-Datei. Um diese in der Cloud-PBX verwenden zu können, ist noch eine Wandlung ins WAV-Format erforderlich. Entsprechende Konverter sind im Internet mit "mp3 wav converter" ebenfalls leicht zu finden. Wichtig: In Mono und nach a-Law konvertieren. <br>
 Sie können die elektronischen Ansagen im Menü „Anrufeinstellungen“ unter „Anrufbeantworter“ hochladen und wieder entfernen:  <br>
@@ -144,7 +144,7 @@ Klicken Sie zunächst auf den Menüpunkt Kunden-Details, dann auf Subscriber und
 •	**Call Forward Timeout** - Anrufweiterleitung nach einer bestimmten Zeitspanne <br>
 •	**Call Forward Unavailable** kommt zum Tragen, falls die Nebenstelle nicht registriert/erreichbar ist. <br>
 
-Siehe hierzu auch [RUFUMLEITUNGEN](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/). <br>
+Siehe hierzu auch [Rufumleitungen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/). <br>
 
 Nachdem Sie beim gewünschten Call-Forward-Typ auf den Button „Edit“ geklickt haben, können Sie die Destination „Voicemail“ (1) auswählen, mit einem Häkchen bei Enabled (2) aktivieren und mit dem SAVE-Button (3) speichern. <br>
 
