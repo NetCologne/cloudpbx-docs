@@ -36,17 +36,17 @@ Wenn ein Anrufer eine Nachricht für Sie hinterlässt, legt das System die Nachr
 Wenn Sie sich zum ersten Mal bei Ihrer Mailbox anmelden, macht das Voicemail-System den Ordner „Neue Nachrichten“ zum aktuellen Ordner, wenn Sie neue Nachrichten haben. <br>
 Wenn Sie keine neuen Nachrichten haben, wird der Ordner „Alte Nachrichten“ zum aktuellen Ordner. <br>
 
-## 2.	Individualisierung der Voicemail
+## 2.	Einrichtung des Anrufbeantworters (der Voicemail)
 
 Für das Customizing gibt es zwei Möglichkeiten.
 
-### a.)	Administration über das Web-Interface
+### a.)	über das Web-Interface
 
 Wählen Sie als Admin im Menü PBX-Konfiguration die zu konfigurierende Nebenstelle (hier: Zollstock) und klicken anschließend auf den Reiter ANRUFBEANTWORTER
 
 ![Anrufbeantworter](https://github.com/user-attachments/assets/121905bd-30aa-4fb8-8cfd-2aac0c76fd15)
 
-Neben der Spracheinstellung (0) können Sie nun folgendes konfigurieren: <br>
+Neben der Auswahl der Systemsprache (0) können Sie folgendes konfigurieren: <br>
 Den PIN ändern (1),  <br>
 Ihre E-Mail-Adresse zur Benachrichtigung hinterlegen (2),  <br>
 auswählen, dass aufgezeichnete Sprachnachrichten als WAV-Datei an die E-Mail angehängt werden (3) und <br>
@@ -58,6 +58,7 @@ Ansage bei „Besetzt“ (5), <br>
 die Temporäre Ansage (7). Ist diese konfiguriert, setzt sie die anderen Ansagen außer Kraft. <br>
 Außerdem können Sie Ihren Namen aufsprechen (8). Dann hören ihn Anrufer anstatt Ihrer Telefonnummer. <br>
 
+💡 **Information**
 Zur Erzeugung einer elektronischen Ansage im wav-Format gehen Sie bitte folgendermaßen vor:  <br>
 Suchen Sie im Internet mit "text to speech german kostenlos". Bei den Ergebnissen finden Sie leicht einen (kostenlosen) Text-zu-Sprache-Generator wie z.B. ttsfree, freetts oder ttsmp3. Dort können Sie Ihren gewünschten Ansagetext eingeben, wählen die Sprache und Stimme für die Ausgabe und erzeugen so eine mp3-Datei. Um diese in der Cloud-PBX verwenden zu können, ist noch eine Wandlung ins WAV-Format erforderlich. Entsprechende Konverter sind im Internet mit "mp3 wav converter" ebenfalls leicht zu finden. Wichtig: In Mono und nach a-Law konvertieren. <br>
 Sie können die elektronischen Ansagen im Menü „Anrufeinstellungen“ unter „Anrufbeantworter“ hochladen und wieder entfernen:  <br>
@@ -75,7 +76,7 @@ Bis auf die Sprachauswahl stehen Ihnen die gleichen Punkte (1-8, siehe oben) zur
 
 Ist die entsprechende Ansage bereits vorhanden, können Sie diese herunterladen, löschen oder mit dem Button „Edit“ eine neue laden.
 
-### b.)	Tastatur des Endgerätes
+### b.)	über die Tastatur am Endgerät/Telefon
 Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie... <br>
 
 *	...die '1' für alte/neue Nachrichten.“ <br>
@@ -124,9 +125,9 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
 * ... die '\*'-Taste, wenn Sie Hilfe wünschen.“ <br>
 * ... die '#'-Taste, um das System zu verlassen.“ <br>
 
-## 3.	Aktivierung mittels Rufumleitung (Call-Forward) in der CloudPBX über das 
+## 3.	Aktivierung mittels RUFUMLEITUNG IN DER CLOUD-PBX 
 
-### a.)	Web-Interface
+### a.)	über das Web-Interface
 
 Im Reiter "RUFUMLEITUNGEN" können Sie durch Klick auf die drei grünen Punkte (roter Pfeil) ein weiteres Menü öffnen und dort die Umleitung aktivieren bzw. deaktivieren:
 
@@ -134,7 +135,7 @@ Im Reiter "RUFUMLEITUNGEN" können Sie durch Klick auf die drei grünen Punkte (
 
 Wurde deaktivert, erscheint die Rufumleitung *ausgegraut* (bei Aktivierung leuchtend weiß).
 
-
+![Anrufbeantworter aktiv](https://github.com/user-attachments/assets/88174ba8-8bc2-420b-9aff-e596c42008fb)
 
 Klicken Sie zunächst auf den Menüpunkt Kunden-Details, dann auf Subscriber und bei der betreffenden Nebenstelle oder Gruppe auf Einstellungen. Öffnen Sie nun das Menü Call-Forwards und entscheiden, bei welcher Bedingung die Anrufweiterleitung greifen soll: <br>
 
@@ -151,7 +152,7 @@ Nachdem Sie beim gewünschten Call-Forward-Typ auf den Button „Edit“ geklick
 
 Bei (4) gelangen Sie zum [Advanced View](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view). <br>
 
-### b.)	Endgerät/Telefon
+### b.)	über die Tastatur am Endgerät/Telefon
 Die einzelnen Call Forward Typen können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden, wobei die Zielrufnummer in diesem Fall die Kennung der Voicemail - also die 2000 - ist. <br>
 Call Forward Unconditional: Einrichtung der Rufumleitung durch Wahl von **\*72\*2000** – Deaktivierung durch Wahl von **#72**. <br>
 Call Forward on Busy: Einrichtung der Rufumleitung bei Besetzt durch Wahl von **\*90\*2000** – Deaktivierung durch Wahl von **#90**. <br>
@@ -160,7 +161,7 @@ Call Forward on Not Available: Einrichtung der Rufumleitung bei „Nicht Registr
 Die Deaktivierung aller eingerichteten Anrufweiterschaltungen erfolgt über den Feature Code **#96**. <br>
 
 
-## 4.	Aktivierung mittels Weiterleitung (Call-Forward) im Telefon
+## 4.	Aktivierung mittels RUFUMLEITUNG IM TELEFON
 
 Wichtig: Das Telefon muss registriert (online) sein. Nun können Sie eine Funktionstaste mit der Weiterleitung zur Voicebox (Anrufbeantworter) belegen, die - nach Aktivierung - alle Anrufer dorthin vermittelt, im Bild ist dies die Taste 8
 
