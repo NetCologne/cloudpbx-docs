@@ -144,7 +144,7 @@ Klicken Sie zunächst auf den Menüpunkt Kunden-Details, dann auf Subscriber und
 •	**Call Forward Timeout** - Anrufweiterleitung nach einer bestimmten Zeitspanne <br>
 •	**Call Forward Unavailable** kommt zum Tragen, falls die Nebenstelle nicht registriert/erreichbar ist. <br>
 
-Siehe hierzu auch [Anrufweiterleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/). <br>
+Siehe hierzu auch [RUFUMLEITUNGEN](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/). <br>
 
 Nachdem Sie beim gewünschten Call-Forward-Typ auf den Button „Edit“ geklickt haben, können Sie die Destination „Voicemail“ (1) auswählen, mit einem Häkchen bei Enabled (2) aktivieren und mit dem SAVE-Button (3) speichern. <br>
 
