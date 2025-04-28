@@ -81,8 +81,10 @@ Beim darunter liegenden Punkt *CLI* (2) kann die "Calling Line Identification" a
 ⚠️ **Wichtig:** Diese Funktion kann nur gewährleistet werden, wenn der SIP User nicht die Durchwahl ist! Im Beispiel ist dies gegeben (SIP USER: "Zollstock_SIP" ≠ Durchwahl "0"). <br>
 
 Ansage vor Melden (3) <br>
+Wird aktiviert, um Ihren Anrufern vor dem eigentlichen Gespräch einen einheitlichen Klingelton einzuspielen oder stets den selben Firmennamen anzusagen. Detail stehen unter [Ansage vor Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-vor-melden/) <br>
 
 Ansage nach Melden (4) <br>
+Kann aktivert werden, um sich bei Menschen, die von Ihnen angerufen werden, stets mit der gleichen Begrüßung zu melden, sobal sie das Gespräch entgegen genommen haben. Details siehe [Ansage nach Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-nach-melden/) <br>
 
 Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (5) <br>
 <br>
