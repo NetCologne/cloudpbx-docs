@@ -81,7 +81,9 @@ Beim darunter liegenden Punkt *CLI* (2) kann die "Calling Line Identification" a
 ⚠️ **Wichtig:** Diese Funktion kann nur gewährleistet werden, wenn der SIP User nicht die Durchwahl ist! Im Beispiel ist dies gegeben (SIP USER: "Zollstock_SIP" ≠ Durchwahl "0"). <br>
 
 Ansage vor Rufumleitung (Play Announcement before rerouting to CFZ/CFNA)  (3) <br>
-Damit können Sie den Anrufer vor der Rufumleitung per Ansage informieren.
+Damit können Sie den Anrufer vor der Rufumleitung per Ansage informieren. Nach Aktivierung wechseln Sie ins Menü *Sound-Sets*, klicken dort auf *early_media* und dann wählen dann bei *announce_befor_cf* den entsprechenden .wav-file aus.
+
+![NST Soundsets](https://github.com/user-attachments/assets/91e7736d-9ba2-4670-a49f-d8cf860a96bc)
 
 Ansage vor Melden (4) <br>
 Wird aktiviert, um Ihren Anrufern vor dem eigentlichen Gespräch einen einheitlichen Klingelton einzuspielen oder stets den selben Firmennamen anzusagen. Detail stehen unter [Ansage vor Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-vor-melden/) <br>
