@@ -72,7 +72,7 @@ Klickt man die Nebenstelle an, kann man zwischen den Reitern
 
 ### 1. EINSTELLUNGEN
 
-![NST Einstellungen](https://github.com/user-attachments/assets/2fed0b1f-87d2-4ab9-9f9f-bf1cd7749d79)
+![NST Einstellungen2](https://github.com/user-attachments/assets/13e02668-0b70-424f-90ab-6961ed27f98f)
 
 Beim Punkt *Alias-Nummer* (1) kann die Nummer ausgewählt werden, unter der diese Nebenstelle erreichbar sein soll. Dies könnte beispielweise bei einer Neuschaltung die bisherige (alte) Rufnummer sein, insofern sie "mitgenommen" wurde. Prinzipiell könnnen alle Rufnummern des Kunden der Nebenstelle als Alias zugewiesen werden. <br>
 
@@ -80,13 +80,16 @@ Beim darunter liegenden Punkt *CLI* (2) kann die "Calling Line Identification" a
 
 ⚠️ **Wichtig:** Diese Funktion kann nur gewährleistet werden, wenn der SIP User nicht die Durchwahl ist! Im Beispiel ist dies gegeben (SIP USER: "Zollstock_SIP" ≠ Durchwahl "0"). <br>
 
-Ansage vor Melden (3) <br>
+Ansage vor Rufumleitung (Play Announcement before rerouting to CFZ/CFNA)  (3) <br>
+Damit können Sie den Anrufer vor der Rufumleitung per Ansage informieren.
+
+Ansage vor Melden (4) <br>
 Wird aktiviert, um Ihren Anrufern vor dem eigentlichen Gespräch einen einheitlichen Klingelton einzuspielen oder stets den selben Firmennamen anzusagen. Detail stehen unter [Ansage vor Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-vor-melden/) <br>
 
-Ansage nach Melden (4) <br>
+Ansage nach Melden (5) <br>
 Kann aktivert werden, um sich bei Menschen, die von Ihnen angerufen werden, stets mit der gleichen Begrüßung zu melden, sobald diese das Gespräch entgegen genommen haben. Details siehe [Ansage nach Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-nach-melden/) <br>
 
-Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (5) <br>
+Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (6) <br>
 <br>
 
 ### 2. RUFUMLEITUNGEN
