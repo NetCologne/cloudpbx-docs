@@ -16,8 +16,8 @@ Ist dies gewünscht, muss der **Administrator** zunächst diese Features für di
 ![image](https://github.com/user-attachments/assets/6e1a2fc4-c2e0-4dea-9c89-3672cd35b9b8)
 
 Anschließend **muss** das Soundset konfiguriert werden („PBX- Konfiguration -> Sound Sets -> early media“). Hier werden die <br>
- * „announce_before_call_setup“ und der <br>
- * „ringback_tone“ benötigt. <br>
+* „announce_before_call_setup“ und der <br>
+* „ringback_tone“ benötigt. <br>
 Für beide Ansagen muss eine Audio-Datei bereitgestellt werden. Auch wenn keine Ansage vor Melden gewünscht ist, dann muss hier eine Datei mit 1 Sekunde Stille geladen werden.
 Gleiches gilt beim Klingelton: Ist der Standard-Ringbacktone gewünscht, dann muss hier eine Audio-Datei mit dem Standard Ringbacktone eingespielt werden. <br>
 
