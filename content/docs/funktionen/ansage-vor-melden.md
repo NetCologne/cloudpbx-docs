@@ -19,7 +19,8 @@ Anschließend muss das Soundset konfiguriert werden („PBX- Konfiguration -> So
  * „announce_before_call_setup“ und der <br>
  * „ringback_tone“ benötigt. <br>
 Für beide Ansagen muss eine Audio-Datei bereitgestellt werden. Auch wenn keine Ansage vor Melden gewünscht ist, dann muss hier eine Datei mit 1 Sekunde Stille geladen werden.
-Gleiches gilt beim Klingelton: Ist der Standard-Ringbacktone gewünscht, dann muss hier eine Audio-Datei mit dem Standard Ringbacktone eingespielt werden.
+Gleiches gilt beim Klingelton: Ist der Standard-Ringbacktone gewünscht, dann muss hier eine Audio-Datei mit dem Standard Ringbacktone eingespielt werden. <br>
+
 ❗Fehlt die Audio-Datei und die Ansagen-Funktion ist aktiviert, kommt es zum Callabbruch.❗
 
 ![PBX_Sound-Sets_neu](https://github.com/user-attachments/assets/189de5c4-a05c-4912-b17f-89370a922e0f)
