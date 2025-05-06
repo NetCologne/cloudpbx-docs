@@ -13,7 +13,7 @@ An dieser Stelle werden die Funktionen für den ganzen Kunden konfuguriert. Wich
 
 ### 1. Anrufweiterleitung ignorieren <br>
 
-Standardmäßig ist dieser Punkt aktiviert. Er bewirkt, dass die Anrufweiterleitung eines Gruppenmitglieds ignoriert wird. Beispiel: Ein Mitglied einer Gruppe hat die Weiterleitung auf sein Handy eingerichtet. Nun wird die Zentrale (-0) angerufen und jeder der Gruppe kann den Anruf entgegennehmen. Soll die Weiterleitung aufs Handy dennoch Beachtung finden, so kann das "Ignorieren" hier ausgeschaltet werden.
+Standardmäßig ist dieser Punkt aktiviert. Er bewirkt, dass die Anrufweiterleitung eines Gruppenmitglieds ignoriert wird. Beispiel: Ein Mitglied der Gruppe *Zentrale (-0)* hat die Weiterleitung auf sein Handy eingerichtet. Nun wird die *Zentrale (-0)* angerufen und jeder der Gruppe kann den Anruf entgegennehmen. Soll die Weiterleitung aufs Handy dennoch Beachtung finden, so kann das "Ignorieren" hier ausgeschaltet werden.
 
 ### 2. Ansage vor Melden <br>
 
