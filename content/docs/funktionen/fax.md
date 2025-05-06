@@ -27,17 +27,18 @@ Die gleichen Einstellungen können Sie auch im Menüpunkt *Faxeinstellungen* vor
  
 ### Faxempfang durch Rufumleitung
 
-Damit die Nebenstelle nun Faxe empfangen und als E-Mail weiterleiten kann, klicken Sie bitte bei Anrufeinstellungen auf *Rufumleitung* (1) und dort auf + RUFUMLEITUNG HINZUFÜGEN (2). Danach legen Sie Bedingungen fest, wann die Weiterleitung erfolgen soll. Falls dies *IMMER* der Fall sein soll, wählen Sie "Ständig" (3a) und "Wenn nicht verfügbar" (3b). Letzte Bedingung greift, falls die Nebenstelle nicht registriert ist. Eine weitere Bedingung wäre *wenn besetzt*. Anschließend klicken Sie rechst auf die drei kleinen Punkte (4a bzw. 4b) und wählen im sich öffnenden Menü den rotumrandeten Punkt "Zu Fax2Mail weiterleiten" (5). 
+Damit die Nebenstelle nun Faxe empfangen und als E-Mail weiterleiten kann, klicken Sie bitte bei Anrufeinstellungen auf *Rufumleitung* (1) und dort auf + RUFUMLEITUNG HINZUFÜGEN (2). Danach legen Sie Bedingungen fest, wann die Weiterleitung erfolgen soll. Falls dies *IMMER* der Fall sein soll, wählen Sie "Ständig" (3a) und "Wenn nicht verfügbar" (3b). Letzte Bedingung greift, falls die Nebenstelle nicht registriert ist. Eine weitere Bedingung wäre *wenn besetzt*. Anschließend klicken Sie rechst auf die drei kleinen Punkte (4a bzw. 4b) und wählen im sich öffnenden Menü den rotumrandeten Punkt "Zu Fax2Mail weiterleiten" (5). <br>
 
 ![Fax Rufumleitung1](https://github.com/user-attachments/assets/fcc0fee2-0013-48f3-97b3-523d9a3f82ad)
 
-Die überflüssige Zeile "Weitergeleitet zu  Nummer" können Sie einfach entfernen.
+Die überflüssige Zeile "Weitergeleitet zu  Nummer" können Sie einfach entfernen. <br>
 
 ![Fax Rufumleitung2a](https://github.com/user-attachments/assets/593fe939-733c-4a6d-a888-8ea8727a69bc)
 
-Aufgrund eines Fehler in der Anzeige mit der *blinkenden Punkten* in der Zeilenmitte, ist es notwendig, dass Sie die **Browseransicht aktualisieren**. Danach sollte die "Fax2Mail-Rufumleitung" so aussehen:
+Danach sollte die "Fax2Mail-Rufumleitung" so aussehen: <br>
 
-![Fax Rufumleitung2](https://user-images.githubusercontent.com/98753538/162376441-df0a41c0-3568-47bb-8593-de60fff8b519.jpg)
+![Fax Rufumleitung2](https://github.com/user-attachments/assets/1c6413b8-e05b-4a25-891b-f3216c87d88a)
+
 
 ### Faxe versenden
 
