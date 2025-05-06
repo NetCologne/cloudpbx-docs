@@ -18,9 +18,11 @@ Haben Sie die Nebenstelle ausgewählt, klicken Sie auf +ZIELRUFNUMMER HINZUFÜGE
 
 ![Faxservice einrichten](https://github.com/user-attachments/assets/3f78903e-d760-434a-9796-797ad910d6e5)
 
-Wichtig: Aktiveren Sie die Faxfunktion (6) und beachten den nächsten Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung).
+Die gleichen Einstellungen können Sie auch im Menüpunkt *Faxeinstellungen* vornehmen. <br>
 
-Klicken Sie zunächst im Menüpunkt *Faxeinstellungen*
+![Faxservice einrichten2](https://github.com/user-attachments/assets/c05392ce-0e82-4c90-9b69-ce0d1a71c30a)
+
+💡 In beiden Fällen **wichtig:** Aktiveren Sie die Faxfunktion (rot umrandet) und beachten den nächsten Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung). <br>
 
 ![Fax Einstellungen1](https://user-images.githubusercontent.com/98753538/162148734-0797682a-2dcd-47d3-8f7d-92c813024b72.jpg)
 
