@@ -8,17 +8,16 @@ weight: 432
 toc: true
 ---
 
-Mit Ihrer Cloud PBX können Sie sich das klassische Faxgerät sparen. Die Faxfunktion ermöglicht den Versand von digitalen Faxen gleichermaßen wie deren Empfang. Neben einer E-Mail-Adresse brauchen Sie lediglich eine *Nebenstelle (1)* mit Faxnummer. In unserem Beispiel ist dies die Durchwahl 27 bei der Nebenstelle *fax (2)*:
+Mit Ihrer Cloud PBX können Sie sich das klassische Faxgerät sparen. Die Faxfunktion ermöglicht den Versand von digitalen Faxen gleichermaßen wie deren Empfang. Neben einer E-Mail-Adresse brauchen Sie lediglich eine *Nebenstelle* mit Faxnummer. In unserem Beispiel lautet sie TESTNUMMER. 
 
-![Fax NSt auswählen](https://github.com/user-attachments/assets/dfbd912c-eb21-451f-84a2-c56d76d57eb3)
+![Faxeinstellungen1](https://github.com/user-attachments/assets/2e497804-d787-4b2e-8567-05c162098c09)
 
-## Faxservice einrichten
+## 1. FAX TO MAIL UND SENDFAX
 
-Haben Sie die Nebenstelle ausgewählt, klicken Sie auf +ZIELRUFNUMMER HINZUFÜGEN (1), geben die Ziel-E-Mail-Adresse (2) und den gewünschten Dateityp (3) an (hier: pdf), in dem das Fax als E-Mail gesendet werden soll. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht. Danach bestätigen Sie mit ✓ ZIEL ERSTELLEN (5). <br>
+### 1.1 Faxservice einrichten
 
-![Faxservice einrichten](https://github.com/user-attachments/assets/3f78903e-d760-434a-9796-797ad910d6e5)
+Haben Sie die *Faxeinstellungen* gewählt, klicken Sie auf +ZIELRUFNUMMER HINZUFÜGEN (1), geben die Ziel-E-Mail-Adresse (2) und den gewünschten Dateityp (3) an (hier: pdf), in dem das Fax als E-Mail gesendet werden soll. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht. Danach bestätigen Sie mit ✓ ZIEL ERSTELLEN (5). <br>
 
-Die gleichen Einstellungen können Sie auch im Menüpunkt *Faxeinstellungen* vornehmen. <br>
 
 ![Faxservice einrichten2](https://github.com/user-attachments/assets/c05392ce-0e82-4c90-9b69-ce0d1a71c30a)
 
@@ -56,6 +55,12 @@ Im Menuüpunkt Konversationen können Sie sehen, welche Faxe Sie versendet bzw. 
 
 
 ### Fax-Konfiguration als Administrator
+
+Die gleichen Einstellungen können Sie auch im Menüpunkt *PBX_Konfiguration -> Nebenstellen* vornehmen. <br>
+
+![Fax NSt auswählen](https://github.com/user-attachments/assets/dfbd912c-eb21-451f-84a2-c56d76d57eb3)
+
+![Faxservice einrichten](https://github.com/user-attachments/assets/3f78903e-d760-434a-9796-797ad910d6e5)
 
 Wenn Sie als Administrator eingeloggt sind, können Sie jede Ihrer Nebenstellen individuell konfigurieren (ohne sich als diese anzumelden). Zu diesen Einstellungen gelangen Sie mit dem untersten Menüpunkt *Kundendetails* (1). Hier können Sie nun die Nebenstelle konfigurieren, die als Faxgeräte betrieben werden soll. Klicken Sie dafür auf *Subscriber* (2) und dann bei der "Fax-Nebenstelle" rechts auf Einstellungen (3).
 
