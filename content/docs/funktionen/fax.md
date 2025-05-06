@@ -12,7 +12,7 @@ Mit Ihrer Cloud PBX können Sie sich das klassische Faxgerät sparen. Die Faxfun
 
 ![Fax NSt auswählen](https://github.com/user-attachments/assets/dfbd912c-eb21-451f-84a2-c56d76d57eb3)
 
-### Faxservice einrichten
+## Faxservice einrichten
 
 Haben Sie die Nebenstelle ausgewählt, klicken Sie auf +ZIELRUFNUMMER HINZUFÜGEN (1), geben die Ziel-E-Mail-Adresse (2) und den gewünschten Dateityp (3) an (hier: pdf), in dem das Fax als E-Mail gesendet werden soll. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht. Danach bestätigen Sie mit ✓ ZIEL ERSTELLEN (5). <br>
 
