@@ -23,7 +23,8 @@ Die gleichen Einstellungen können Sie auch im Menüpunkt *Faxeinstellungen* vor
 ![Faxservice einrichten2](https://github.com/user-attachments/assets/c05392ce-0e82-4c90-9b69-ce0d1a71c30a)
 
 💡 In beiden Fällen **wichtig:** Aktiveren Sie die Faxfunktion (rot umrandet) und beachten den nächsten Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung). <br>
-
+<br>
+ 
 ### Faxempfang durch Rufumleitung
 
 Damit die Nebenstelle nun Faxe empfangen und als E-Mail weiterleiten kann, klicken Sie bitte bei *Anrufeinstellungen* auf Rufumleitung (1) und dort auf + RUFUMLEITUNG HINZUFÜGEN (2). Danach legen Sie Bedingungen fest, wann die Weiterleitung erfolgen soll. Falls dies *IMMER* der Fall sein soll, wählen Sie "Wenn verfügbar" (3a) und "Wenn nicht verfügbar" (3b). Letzte Bedingung greift, falls die Nebenstelle nicht registriert ist. Anschließend klicken Sie rechst auf die drei kleinen Punkte (4a bzw. 4b) und wählen im sich öffnenden Menü den Punkt "Zu Fax2Mail weiterleiten" (5). 
