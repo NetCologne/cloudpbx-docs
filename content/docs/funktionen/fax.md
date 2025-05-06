@@ -33,7 +33,7 @@ Damit die Nebenstelle nun Faxe empfangen und als E-Mail weiterleiten kann, klick
 
 Die überflüssige Zeile "Weitergeleitet zu  Nummer" können Sie einfach entfernen.
 
-![Fax Rufumleitung2a](https://user-images.githubusercontent.com/98753538/162387302-2a4b9111-e6cf-4928-b42e-85dfdc080d65.jpg)
+![Fax Rufumleitung2a](https://github.com/user-attachments/assets/593fe939-733c-4a6d-a888-8ea8727a69bc)
 
 Aufgrund eines Fehler in der Anzeige mit der *blinkenden Punkten* in der Zeilenmitte, ist es notwendig, dass Sie die **Browseransicht aktualisieren**. Danach sollte die "Fax2Mail-Rufumleitung" so aussehen:
 
