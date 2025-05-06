@@ -92,8 +92,11 @@ Ansage nach Melden (5) <br>
 Kann aktivert werden, um sich bei Menschen, die von Ihnen angerufen werden, stets mit der gleichen Begrüßung zu melden, sobald diese das Gespräch entgegen genommen haben. Details siehe [Ansage nach Melden](https://cloudpbx-doku.netcologne.de/docs/funktionen/ansage-nach-melden/) <br>
 
 Anrufweiterleitung bei Anrufen von Mitgliedern einer Gruppe ignorieren (6) <br>
+Diese Funktion ermöglicht, dass die Anrufweiterleitung eines Gruppenmitglieds ignoriert wird. Beispiel: Ein Mitglied der Gruppe *Zentrale (-0)* hat die Weiterleitung auf sein Handy eingerichtet. Nun wird die *Zentrale (-0)* angerufen und jeder der Gruppe kann den Anruf entgegennehmen. Soll die Weiterleitung aufs Handy dennoch Beachtung finden, so kann das "Ignorieren" hier ausgeschaltet werden.
 <br>
 
+Die letzten drei Punkte können auch unter der Rubrik [Kundenpräferenzen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/kundenpraeferenzen/) administriert werden.
+ 
 ### 2. RUFUMLEITUNGEN
 
 ![NST Rufumleitungen](https://github.com/user-attachments/assets/3ecc72ba-0629-4be3-ae54-529eb83a4d1d)
