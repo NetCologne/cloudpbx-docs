@@ -44,7 +44,7 @@ Danach sollte die "Fax2Mail-Rufumleitung" so aussehen: <br>
 
 Auch für den Versand von Faxen ist es erforderlich, im Menüpunkt *Faxeinstellungen* die Funktion zu aktivieren (1). Klicken Sie anschließend auf das Tastatursymbol (2) und den dann erscheinenden *Sende-Fax-Button*. Im neuen Menü "Sende Fax" tragen Sie bitte die Faxnummer (3) ein und wählen für die zu übertragenden Informationen die Qualität aus (4). Wichtig ist im Feld "Seitenkopf" die Eingabe der Fax- oder Absenderkennung (5). Viele Fax-Empfänger blockieren Faxe, die überhaupt keine Absender-Kennung besitzen aus Angst vor unerwünschter Fax-Werbung.
 
-![Fax Einstellungen3](https://user-images.githubusercontent.com/98753538/162151663-768a49d4-7c83-45a3-bb03-ac65eb3ea244.jpg)
+![Fax Einstellungen3a](https://github.com/user-attachments/assets/aae6fca2-3247-4844-b349-6a3f40a8afa4)
 
 Bei "Inhalt" (6) können Sie Ihre Nachricht in Textform eingeben. Darunter besteht die Möglichkeit eine Datei auszuwählen, die dann als Fax übertragen wird. Sind alle Angaben gemacht, klicken Sie abschließend auf SENDEN (8).
 
