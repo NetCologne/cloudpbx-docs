@@ -46,7 +46,7 @@ Auch für den Versand von Faxen ist es erforderlich, im Menüpunkt *Faxeinstellu
 
 ![Fax Einstellungen3a](https://github.com/user-attachments/assets/aae6fca2-3247-4844-b349-6a3f40a8afa4)
 
-Bei "Inhalt" (6) können Sie Ihre Nachricht in Textform eingeben. Darunter besteht die Möglichkeit eine Datei auszuwählen, die dann als Fax übertragen wird. Sind alle Angaben gemacht, klicken Sie abschließend auf SENDEN (8).
+Bei "Inhalt" (6) können Sie Ihre Nachricht in Textform eingeben. Darunter besteht die Möglichkeit eine Datei auszuwählen (7), die dann als Fax übertragen wird. Sind alle Angaben gemacht, klicken Sie abschließend auf SENDEN (8).
 
 ### Konversationen
 
