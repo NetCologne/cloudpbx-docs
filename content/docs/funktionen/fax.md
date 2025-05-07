@@ -60,11 +60,14 @@ Wenn Sie als Administrator eingeloggt sind, können Sie jede Ihrer Nebenstellen 
 
 ![Fax NSt auswählen](https://github.com/user-attachments/assets/dfbd912c-eb21-451f-84a2-c56d76d57eb3)
 
+Im Reiter FAX TO MAIL UND SENDFAX können Sie die gleichen Punkte konfigurieren, wie unter den *Faxeinstellungen*: +ZIELRUFNUMMER HINZUFÜGEN (1), Ziel-E-Mail-Adresse (2) eingeben und den Dateityp (3), in dem das Fax als E-Mail gesendet werden soll, auswählen. Unter Punkt (4) aktivieren Sie die E-Mail-Zustellung für ein- und ausgehende Faxe sowie für den Sendebericht. Der Abschluss erfolgt mit ✓ ZIEL ERSTELLEN (5). <br>
 
+![Faxservice einrichten](https://github.com/user-attachments/assets/6efc3069-0aa1-425d-b666-c8dfb5f79b7d)
 
-![Faxservice einrichten](https://github.com/user-attachments/assets/3f78903e-d760-434a-9796-797ad910d6e5)
+💡 **Wichtig:** Aktiveren Sie auch hier die Faxfunktion (rot umrandet) und beachten den Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung). <br>
+<br>
 
-Zu diesen Einstellungen gelangen Sie mit dem untersten Menüpunkt *Kundendetails* (1). Hier können Sie nun die Nebenstelle konfigurieren, die als Faxgeräte betrieben werden soll. Klicken Sie dafür auf *Subscriber* (2) und dann bei der "Fax-Nebenstelle" rechts auf Einstellungen (3).
+Auslaufend ist der untere Menüpunkt *Kundendetails* (1). Auch hier können Sie die Nebenstelle konfigurieren, die als Faxgeräte betrieben werden soll. Klicken Sie dafür auf *Subscriber* (2) und dann bei der "Fax-Nebenstelle" rechts auf Einstellungen (3).
 
 ![Fax Admin Kundendetails](https://user-images.githubusercontent.com/98753538/162376660-3e9aae1d-a9eb-4123-87a6-5e6725724e80.jpg)
 
