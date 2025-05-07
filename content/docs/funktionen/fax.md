@@ -24,7 +24,7 @@ Haben Sie die *Faxeinstellungen* gewählt, klicken Sie auf +ZIELRUFNUMMER HINZUF
 💡 **Wichtig:** Aktiveren Sie die Faxfunktion (rot umrandet) und beachten den nächsten Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung). <br>
 <br>
  
-### Faxempfang durch Rufumleitung
+### 1.2 Faxempfang durch Rufumleitung
 
 Damit die Nebenstelle nun Faxe empfangen und als E-Mail weiterleiten kann, klicken Sie bitte bei *Anrufeinstellungen* auf Rufumleitung (1) und dort auf + RUFUMLEITUNG HINZUFÜGEN (2). Danach legen Sie Bedingungen fest, wann die Weiterleitung erfolgen soll. Falls dies *IMMER* der Fall sein soll, wählen Sie "Ständig" (3a) und "Wenn nicht verfügbar" (3b). Letzte Bedingung greift, falls die Nebenstelle nicht registriert ist. Eine weitere Bedingung wäre *Wenn besetzt*. Anschließend klicken Sie rechst auf die drei kleinen Punkte (4a bzw. 4b) und wählen im sich öffnenden Menü den rotumrandeten Punkt "Zu Fax2Mail weiterleiten" (5). <br>
 
@@ -39,7 +39,7 @@ Danach sollte die "Fax2Mail-Rufumleitung" so aussehen: <br>
 ![Fax Rufumleitung2](https://github.com/user-attachments/assets/1c6413b8-e05b-4a25-891b-f3216c87d88a)
 
 
-### Faxe versenden
+### 1.3 Faxe versenden
 
 Auch für den Versand von Faxen ist es erforderlich, im Menüpunkt *Faxeinstellungen* die Funktion zu aktivieren (1). Klicken Sie anschließend auf das Tastatursymbol (2) und den dann erscheinenden *Sende-Fax-Button*. Im neuen Menü **Sende Fax** tragen Sie bitte die Faxnummer (3) ein und wählen für die zu übertragenden Informationen die Qualität aus (4). Wichtig ist im Feld *Seitenkopf* die Eingabe der Fax- oder Absenderkennung (5). Viele Fax-Empfänger blockieren Faxe, die überhaupt keine Absender-Kennung besitzen aus Angst vor unerwünschter Fax-Werbung.
 
@@ -47,14 +47,14 @@ Auch für den Versand von Faxen ist es erforderlich, im Menüpunkt *Faxeinstellu
 
 Bei Inhalt (6) können Sie Ihre Nachricht in Textform eingeben. Darunter besteht die Möglichkeit eine Datei auszuwählen (7), die dann als Fax übertragen wird. Sind alle Angaben gemacht, klicken Sie abschließend auf SENDEN (8).
 
-### Konversationen
+### 1.4 Konversationen
 
 ![Fax Konversationen](https://user-images.githubusercontent.com/98753538/162376562-8a9de5c1-bcb7-4dab-853a-dca5c1bfff9e.jpg)
 
 Im Menuüpunkt Konversationen können Sie sehen, welche Faxe Sie versendet bzw. erhalten haben. Mit Filtern können Sie den Zeitraum eingrenzen. Außerdem besteht hier die Möglichkeit, die Faxe herunterladen. 
 
 
-### Fax-Konfiguration als Administrator
+### 1.5 Fax-Konfiguration als Administrator
 
 Wenn Sie als Administrator eingeloggt sind, können Sie jede Ihrer Nebenstellen individuell konfigurieren (ohne sich als diese anzumelden). Klicken Sie dafür im Menü *PBX-Konfiguration* den Unterpunkt Nebenstellen (1) und wählen die entsprechende aus:
 
@@ -82,7 +82,7 @@ Gleiches gilt für die Konfiguration der Faxeinstellungen, die Sie unter "Fax Fe
 Auch hier können Sie die "Fax2Mail and Sendfax-Funktionen" an- und ausschalten, indem bei *Active* ein Häkchen gesetzt wird (yes) oder eben nicht (no).
 
 
-### Mail2Fax
+## 2. Mail2Fax
 
 Mit dieser Funktion können E-Mails als Fax versendet werden. Zuvor muss der Administrator unter *Kundendetails* für die entsprechende Nebenstelle das Feature aktivieren und einige Einstellungen vornehmen:
 
