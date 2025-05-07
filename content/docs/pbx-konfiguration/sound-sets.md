@@ -30,7 +30,9 @@ Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation einer [Anrufwarteschl
 5. **pbx queue_waiting_music** Musik, die dem Anrufer das Warten *versüßen* soll.
 
 Mit 6. **pbx office_hours** informieren Sie Ihre Anrufer wie folgt: "Sie rufen außerhalb unserer Öffnungszeiten an." Diese *Out-of-Office-Ansage* gehört also nicht zur Anrufwarteschlange. 
-Aktiviert wird sie bei den *Call Forwards*. Klicken Sie dafür auf den Unterpunkt "Kunden-Details" (1), dann im Menü "Einstellungen" auf "Subscriber" (2). In der Tabelle sind die Nebenstellen mit Namen und Durchwahl aufgelistet. In der Spalte rechts können Sie die Einträge Terminieren (löschen), erfahren Details dazu oder Sie modifizieren Einstellungen (3), wie z.B. die Call Forwards:
+Aktiviert wird sie standardmäßig bei den [Rufumleitungen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#rufumleitung). 
+
+Auslaufend ist diese Konfiguration auch noch beim Unterpunkt "Kunden-Details" (1) möglich. Klicken Sie dort unter "Einstellungen" auf "Subscriber" (2). In der Tabelle sind die Nebenstellen mit Namen und Durchwahl aufgelistet. In der Spalte rechts können Sie die Einträge Terminieren (löschen), erfahren Details dazu oder Sie modifizieren Einstellungen (3), wie z.B. die Call Forwards:
 
 ![cloudpbx soundsetC](https://user-images.githubusercontent.com/98753538/159277582-16b92cc8-7173-480a-8f85-5dc37e9a21d6.jpg)
 
