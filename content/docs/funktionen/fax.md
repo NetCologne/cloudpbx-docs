@@ -104,14 +104,6 @@ Unabhängig davon muss Punkt [4], die ACL (Access Control List), definiert werde
 
 Hier tragen Sie Berechtigungen zum Faxversandt ein. Neben einer oder mehreren E-Mailadressen, können die IP-Adresse (oder Bereich) des Absenders sowie zulässige Zielrufnummern eingetragen werden. Mit der Zeichenkombination ".*" sind beliebige Nummern möglich. Bitte beachten Sie das Häkchen bei "Use Regex".
 
-Mit diesen Einstellungen kann man nun E-Mails an den Faxserver senden, der diese dann als Fax verschickt.
-
-Mit den o. a. Einstellungen sähe dann eine E-Mail, die ein PDF Dokument über die *faxnebenstelle* an eine Zielrufnummer faxt, so aus:
-
-![mail2fax_email3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/cb886fcf-4b53-4061-a2b8-e8fedfb9dac2)
-
-Vor dem Secret Key müssen Sie eine **Leerzeile** eingeben. Eine einfache Nachricht senden Sie bitte im **"Nur Text"-Format**, da **html nicht akzeptiert** wird. Sie können auch ein vorhandenes Text-Dokument faxen, wenn es im **.pdf-Format** gespeichert wurde.
-
 ### 2.2 Konfiguration unter Faxeinstellungen
 
 Wurde die Funktion "MAIL TO FAX" unter den Kundendetails aktiviert, sind die gleichen Konfugurationen unter *Faxeinstellungen* möglich.
@@ -120,4 +112,12 @@ Wurde die Funktion "MAIL TO FAX" unter den Kundendetails aktiviert, sind die gle
 
  Kontrollieren Sie zuerst den Schalter "Active" [1]. Darunter können Sie den Geheimschlüssel eintragen (2). Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne (3a) ein und die Mailadresse (3b), die dazu informiert werden soll. Unabhängig davon muss Punkt [4], die ACL (Access Control List), definiert werden. Das sind die Mailadressen (ihrer Mitarbeiter), die dann Faxe versenden dürfen, z.B. *@netcologne.com. 
 
+### 2.3 Mail als Fax versenden
 
+Mit diesen Einstellungen kann man nun E-Mails an den Faxserver senden, der diese dann als Fax verschickt.
+
+Mit den o. a. Einstellungen sähe dann eine E-Mail, die ein PDF Dokument über die *faxnebenstelle* an eine Zielrufnummer faxt, so aus:
+
+![mail2fax_email3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/cb886fcf-4b53-4061-a2b8-e8fedfb9dac2)
+
+Vor dem Secret Key müssen Sie eine **Leerzeile** eingeben. Eine einfache Nachricht senden Sie bitte im **"Nur Text"-Format**, da **html nicht akzeptiert** wird. Sie können auch ein vorhandenes Text-Dokument faxen, wenn es im **.pdf-Format** gespeichert wurde.
