@@ -84,7 +84,11 @@ Auch hier können Sie die "Fax2Mail and Sendfax-Funktionen" an- und ausschalten,
 
 ## 2. Mail2Fax
 
-Mit dieser Funktion können E-Mails als Fax versendet werden. Zuvor muss der Administrator unter *Kundendetails* für die entsprechende Nebenstelle das Feature aktivieren und einige Einstellungen vornehmen:
+Mit dieser Funktion können E-Mails als Fax versendet werden. 
+
+### 2.1 Aktivierung unter Kundendetails (als Admin)
+
+Zuvor muss der Administrator unter *Kundendetails* für die entsprechende Nebenstelle das Feature aktivieren und einige Einstellungen vornehmen:
 
 ![mail2fax_details2](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/e5aa3353-9e4e-4aa1-a33b-3b8f63b51104)
 
@@ -107,6 +111,10 @@ Mit den o. a. Einstellungen sähe dann eine E-Mail, die ein PDF Dokument über d
 ![mail2fax_email3](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/cb886fcf-4b53-4061-a2b8-e8fedfb9dac2)
 
 Vor dem Secret Key müssen Sie eine **Leerzeile** eingeben. Eine einfache Nachricht senden Sie bitte im **"Nur Text"-Format**, da **html nicht akzeptiert** wird. Sie können auch ein vorhandenes Text-Dokument faxen, wenn es im **.pdf-Format** gespeichert wurde.
+
+### 2.2 Konfiguration unter Faxeinstellungen
+
+
 
 
 
