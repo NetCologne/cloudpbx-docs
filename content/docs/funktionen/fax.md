@@ -114,13 +114,10 @@ Vor dem Secret Key müssen Sie eine **Leerzeile** eingeben. Eine einfache Nachri
 
 ### 2.2 Konfiguration unter Faxeinstellungen
 
+Wurde die Funktion "MAIL TO FAX" unter den Kundendetails aktiviert, sind die gleichen Konfugurationen unter *Faxeinstellungen* möglich.
 
+![Mail2Fax Einstellungen](https://github.com/user-attachments/assets/2ed19120-8d67-4fcc-8493-dee0097a7152)
 
-
-
-
-
-
-
+ Kontrollieren Sie zuerst den Schalter "Active" [1]. Darunter können Sie den Geheimschlüssel eintragen (2). Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne (3a) ein und die Mailadresse (3b), die dazu informiert werden soll. Unabhängig davon muss Punkt [4], die ACL (Access Control List), definiert werden. Das sind die Mailadressen (ihrer Mitarbeiter), die dann Faxe versenden dürfen, z.B. *@netcologne.com. 
 
 
