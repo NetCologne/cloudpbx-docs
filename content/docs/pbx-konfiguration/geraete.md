@@ -10,13 +10,15 @@ toc: true
 
 ## 1 Einrichtung und Einstellungen
 
-Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Telefone in der CloudPBX bekannt. Die Einrichtung erfolgt ebenfalls unter dem Punkt PBX-Konfiguration. <br> 
-Klicken Sie dafür einfach auf "+ GERÄT HINZUFÜGEN". <br>
-Geben Sie Stations-Name und MAC-Adresse ein und wählen Sie das Telefonmodell aus. <br>
-Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
+Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Telefone in der CloudPBX bekannt. Die Einrichtung erfolgt im Menü PBX-Konfiguration beim Unterpunkt 
+Geräte*. Klicken Sie einfach auf "+ GERÄT HINZUFÜGEN". <br>
+
+![Geraete_Hinzufügen](https://github.com/user-attachments/assets/67a11561-e94d-4aa1-adfc-ec56168268e4)
+
+Geben Sie Stations-Name (1) und MAC-Adresse (2) ein und wählen dann das Telefonmodell (3) aus. Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
 <br>
 
-Nach der Einrichtung können Sie das Gerät auswählen verschiedene Einstellungen vornehmen:
+Nach der Einrichtung können Sie das Gerät auswählen und verschiedene Einstellungen vornehmen:
 
 ![Geraete_Einstellungen](https://github.com/user-attachments/assets/fc97834f-c9c0-403f-b6e6-902d1b958a4c)
 
@@ -24,9 +26,7 @@ Nach der Einrichtung können Sie das Gerät auswählen verschiedene Einstellunge
  * Administratorpasswort (2) - Kann neu vergeben werden.
  * Deaktivieren des Webinterfaces (3)
  * Priorisiere manuelle Provisionierung gegenüber automat. Provisionierung 
-   Um zu verhindern, dass diese manuelle Konfigurationen via Web Interface der Endgeräte durch die Autoprovisionierung des Gerätes verloren gehen, können sie diese Änderungen gegen 
-   Überschreiben hiermit geschützt werden.
-   Siehe hierzu auch unter [Kundenspezifische Einstellungen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/geraete/#kundenspezifische-einstellungen). <br>
+   Um zu verhindern, dass Einstellungen, die manuell über das Web Interface des Endgeräte konfiguriert wurden, durch die Autoprovisionierung des Gerätes verloren gehen, aktivieren Sie diesen Schalter. Die manuellen Änderungen sind dann gegen das Überschreiben geschützt. Siehe hierzu auch unter [Kundenspezifische Einstellungen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/geraete/#kundenspezifische-einstellungen). <br>
   🚨 **Achtung:** Aktuell ist dieses Feature nur bei Yealink Endgeräten verfügbar
 
 
