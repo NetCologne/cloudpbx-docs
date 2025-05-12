@@ -8,7 +8,7 @@ weight: 204
 toc: true
 ---
 
-## 1 Einrichtung und Einstellungen
+## 1. Einrichtung und Einstellungen
 
 Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Telefone in der CloudPBX bekannt. Die Einrichtung erfolgt im Menü PBX-Konfiguration beim Unterpunkt 
 Geräte*. Klicken Sie einfach auf "+ GERÄT HINZUFÜGEN". <br>
@@ -30,9 +30,9 @@ Nach der Einrichtung können Sie das Gerät auswählen und verschiedene Einstell
   🚨 **Achtung:** Aktuell ist dieses Feature nur bei Yealink Endgeräten verfügbar
 
 
-## SNOM
+## 2. SNOM
 
-### 1.1 Snom D7-Serie
+### 2.1 Snom D7-Serie
 
 ![cloudpbx_Gerät1 hinzufügen](https://user-images.githubusercontent.com/98753538/157050069-16510561-363d-4d15-842b-838dbd7b46aa.jpg)
 
@@ -44,7 +44,7 @@ Weitere Funktionen für die Tastenbelegung sind Kurzwahl, Forward oder Transfer.
 
 ![Neue Tasten2](https://user-images.githubusercontent.com/98753538/234840253-484f59f6-3a4e-4e79-9f4a-df0a22b3ec41.jpg)
 
-### 1.2 Snom D8-Serie
+### 2.2 Snom D8-Serie
 
 ![SNOM_D865_Geräte_00](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/345e968f-ecd7-47e6-b6b8-9985a1284f2b)
 
@@ -56,7 +56,7 @@ Weitere Funktionen für die Tastenbelegung sind Besetztlampenfeld ( BLF ), Kurzw
 
 ![SNOM_D865_Geräte_02](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/f122c6e1-9f70-4557-94a6-e21ef1a5f827)
 
-### 1.3 Snom M900 DECT-Basisstation
+### 2.3 Snom M900 DECT-Basisstation
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen. Die M900 bietet neben einem integrierten DECT-Manager auch eine DECT- und LAN-Synchronisierung. Der SIP-Transport kann neben UDP auch mittels TCP oder TLS erfolgen. Mit "Seamless Handover" ist der nahtlose Wechsel von einer Basisstation zur nächsten möglich.
 
 ![cloudpbx_Gerät3 hinzufügen](https://user-images.githubusercontent.com/98753538/157050358-01266501-cc69-4e7a-b46f-cf0dddebf921.jpg)
@@ -91,7 +91,7 @@ Nebenstellen Ihrer Cloud-PBX nebst zugehörigem User und ggf. Display-Namen sehe
 
 ![Mobilteil_Status_unregistriert](https://github.com/NetCologne/cloudpbx-docs/assets/99875491/a35a7598-db80-4812-b7e6-0d8aaf081180)
 
-### 1.4 Anmeldung der Snom-Mobilteile (Handsets)
+### 2.4 Anmeldung der Snom-Mobilteile (Handsets)
 
 Die Zuordnung der eingerichteten Nebenstellen zu den jeweiligen DECT-Mobilteilen wird im nächsten Schritt erfolgen.
 Hier haben Sie 2 Möglichkeiten:
@@ -151,9 +151,9 @@ Sind die angemeldeten Handsets noch nicht sichtbar, ist gegebenenfalls im Menüp
 
 ![Cloudpbx_einrichten_snom_dect_reboot](https://user-images.githubusercontent.com/98753538/157691428-c41043ce-f043-4586-ac25-4365ba70e299.jpg)
 
-## 2. YEALINK
+## 3. YEALINK
 
-### 2.1 Yealink T5/T4-Serie
+### 3.1 Yealink T5/T4-Serie
 
 >💡**Hinweis**  
 >Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Firmware-Version **96.86.0.75** aus. Zu dieser Version liegen keine Releasenotes vor. Auch ist sie nicht auf der Homepage von Yealink zu finden. Bei dieser Version werden die Einstellungen für TLS, Outbound-Proxy und Port nicht automatisch provisioniert. Entweder installieren Sie die vorherige Version **96.86.0.70** oder ergänzen die Parameter manuell über die GUI unter Konto->Registrieren des Telefons:<br><br>
@@ -182,7 +182,7 @@ Der englische Begriff *Forward* entspricht im Deutschen einer statisch konfiguri
 ![Belegungsmöglichkeiten Kurzwahltasten D](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/7aba311c-c46d-47df-8994-60f94de1ff5a)
 
 
-### 2.2 Yealink W60B
+### 3.2 Yealink W60B
 
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
 
@@ -197,7 +197,7 @@ Dem zugehörigen Handset, z.B. Yealink 56H, wird dann die Nebenstelle automatisc
 <br>
 <br>
 
-### 2.3 Yealink W70B
+### 3.3 Yealink W70B
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll um und bildet damit die Brücke zwischen Internet-Anschluss und Ihren DECT-Telefonen.
 
 Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprechende Nebenstelle zu:
@@ -206,7 +206,7 @@ Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprech
 
 Nach erfolgreicher Nummernzuweisung muss auf der W70B noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station:
 
-#### 2.3.1 Mobilteil anmelden W56H 
+#### 3.3.1 Mobilteil anmelden W56H 
 
 Um ein Mobilteil an der Yealink DECT IP Basisstation W70B anzumelden, gehen Sie bitte wie folgt vor:
 
@@ -229,7 +229,7 @@ Im Falle eines W56H zB:
 6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
-#### 2.3.2 Änderungen nach Erst-Konfiguration
+#### 3.3.2 Änderungen nach Erst-Konfiguration
 
 Falls im Laufe des Betriebs Änderungen an der Konfiguration der Nebenstellen (DECT-Mobilteile) vorgenommen werden sollen (z.B. Löschen und Hinzufügen von Nebenstellen (DECT-Mobilteile), so gehen Sie bitte wie beschrieben vor. Vermeiden Sie dabei ungewollte Vertauschungen von SIP Usern und DECT-Endgeräten:
 
@@ -251,7 +251,7 @@ Sollen Nebenstellen ergänzt werden, sollte ein Factory Reset nicht notwendig se
 
 Wenn in der Web Ansicht des W70B die Diagonale (wie oben zu sehen) unter Eingehende bzw. Ausgehende Leitungen nicht mehr durchgängig ist, ist mindestens ein Factory Reset erforderlich. Die Provisionierung ist vorher auf etwaige Lücken zu prüfen.
 
-### 2.4 Yealink W80DM-10
+### 3.4 Yealink W80DM-10
 
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
 
@@ -278,7 +278,7 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 ![Registrierung_Mobilteil_4](https://user-images.githubusercontent.com/99875491/187174295-ff6f4d6d-177d-4867-be4b-664aa2d2b025.jpeg)
 
 
-#### 2.4.1 Mobilteil anmelden (W53H)
+#### 3.4.1 Mobilteil anmelden (W53H)
 
 1. OK-Taste
 2. Menue-Punkt "Einstellungen"
@@ -288,7 +288,7 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
-### 2.5 Yealink W80DM-30
+### 3.5 Yealink W80DM-30
 Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
 
 Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprechende Nebenstelle zu:
@@ -313,7 +313,7 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 
 ![Registrierung_Mobilteil_4](https://user-images.githubusercontent.com/99875491/187174295-ff6f4d6d-177d-4867-be4b-664aa2d2b025.jpeg)
 
-#### 2.5.1 Mobilteil anmelden (W53H)
+#### 3.5.1 Mobilteil anmelden (W53H)
 
 1. OK-Taste
 2. Menue-Punkt "Einstellungen"
