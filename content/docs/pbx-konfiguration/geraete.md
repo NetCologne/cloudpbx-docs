@@ -10,8 +10,8 @@ toc: true
 
 ## 1. Einrichtung und Einstellungen
 
-Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Telefone in der CloudPBX bekannt. Die Einrichtung erfolgt im Menü PBX-Konfiguration beim Unterpunkt 
-*Geräte*. Klicken Sie einfach auf "+ GERÄT HINZUFÜGEN". <br>
+Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Telefone in der CloudPBX bekannt. <br>
+Die Einrichtung erfolgt im Menü PBX-Konfiguration beim Unterpunkt *Geräte*. Klicken Sie einfach auf "+ GERÄT HINZUFÜGEN". <br>
 
 ![Geraete_Hinzufügen](https://github.com/user-attachments/assets/67a11561-e94d-4aa1-adfc-ec56168268e4)
 
@@ -22,12 +22,14 @@ Nach der Einrichtung können Sie das Gerät auswählen und verschiedene Einstell
 
 ![Geraete_Einstellungen](https://github.com/user-attachments/assets/fc97834f-c9c0-403f-b6e6-902d1b958a4c)
 
- * Admin name (1) - Den Default *Admin* bitte NICHT ändern.
- * Administratorpasswort (2) - Kann neu vergeben werden.
- * Deaktivieren des Webinterfaces (3)
- * Priorisiere manuelle Provisionierung gegenüber automat. Provisionierung 
-   Um zu verhindern, dass Einstellungen, die manuell über das Web Interface des Endgeräte konfiguriert wurden, durch die Autoprovisionierung des Gerätes verloren gehen, aktivieren Sie diesen Schalter. Die manuellen Änderungen sind dann gegen das Überschreiben geschützt. Siehe hierzu auch unter [Kundenspezifische Einstellungen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/geraete/#kundenspezifische-einstellungen). <br>
+ * Admin name (1) - Den Default *Admin* bitte NICHT ändern. <br>
+ * Administratorpasswort (2) - Kann neu vergeben werden. <br>
+ * Deaktivieren des Webinterfaces (3) <br>
+ * Priorisiere manuelle Provisionierung gegenüber automat. Provisionierung (4) <br>
+   Um zu verhindern, dass Einstellungen, die manuell über das Web Interface des Endgeräte konfiguriert wurden, durch die Autoprovisionierung des Gerätes verloren gehen, aktivieren Sie diesen 
+   Schalter. Die manuellen Änderungen sind dann gegen das Überschreiben geschützt. Siehe hierzu auch unter [Kundenspezifische Einstellungen](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/geraete/#kundenspezifische-einstellungen). <br>
   🚨 **Achtung:** Aktuell ist dieses Feature nur bei Yealink Endgeräten verfügbar
+ * Falls Sie es nicht wünschen, können Sie Firmware-Upgrades unter Punkt (5) deaktiveren.
 
 
 ## 2. SNOM
