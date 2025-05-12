@@ -11,7 +11,7 @@ toc: true
 ## 1. Einrichtung und Einstellungen
 
 Nachdem Sie die Nebenstellen eingerichtet haben, machen Sie die verwendeten Telefone in der CloudPBX bekannt. Die Einrichtung erfolgt im Menü PBX-Konfiguration beim Unterpunkt 
-Geräte*. Klicken Sie einfach auf "+ GERÄT HINZUFÜGEN". <br>
+*Geräte*. Klicken Sie einfach auf "+ GERÄT HINZUFÜGEN". <br>
 
 ![Geraete_Hinzufügen](https://github.com/user-attachments/assets/67a11561-e94d-4aa1-adfc-ec56168268e4)
 
