@@ -28,7 +28,7 @@ Klicken Sie im Menü der Nebenstelle (hier Kalk) auf den Punkt *Anrufeinstellung
 Nun *+ RUFUMLEITUNG HINZUFÜGEN* klicken und den Status der Nebenstelle auswählen, bei dem die Rufumleitung erfolgen soll:<br>
 *Ständig*, *Wenn nicht verfügbar (Nebenstelle ist nicht registrtiert)* oder *Wenn besetzt*:
 
-![Rufumleitung2](https://github.com/user-attachments/assets/0b69de97-6432-498a-b64e-9c05185bdec0)
+![Rufumleitung2](https://github.com/user-attachments/assets/bdf57aaa-d3ee-49f6-a3d9-e86b31d1b340)
 
 Anschließend können Sie noch eine weitere Bedingung, die sich auf den Anrufer, ein Datum oder einen bestimmten Zeitraum bezieht, hinzufügen. Bei *Anruf von* können Sie entweder eine Nummernliste oder einzelne Rufnummern eingeben, für die diese Rufumleitung erfolgen soll (Whitelist-Funktion). Möchten Sie bestimmte Rufnummern ausschließen und alle anderen Anrufer sollen umgeleitet werden, verwenden Sie das Feld *Anruf nicht von*.
 
