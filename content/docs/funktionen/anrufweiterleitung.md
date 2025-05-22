@@ -26,7 +26,7 @@ Klicken Sie im Menü der Nebenstelle (hier Kalk) auf den Punkt *Anrufeinstellung
 ## RUFUMLEITUNG
 
 Nun *+ RUFUMLEITUNG HINZUFÜGEN* klicken und den Status der Nebenstelle auswählen, bei dem die Rufumleitung erfolgen soll:<br>
-*Wenn verfügbar*, *Wenn nicht verfügbar (Nebenstelle ist nicht registrtiert)* oder *Wenn besetzt*:
+*Ständig*, *Wenn nicht verfügbar (Nebenstelle ist nicht registrtiert)* oder *Wenn besetzt*:
 
 ![Rufumleitung2](https://github.com/user-attachments/assets/0b69de97-6432-498a-b64e-9c05185bdec0)
 
