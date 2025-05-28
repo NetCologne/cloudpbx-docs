@@ -14,14 +14,14 @@ Um die Funktion ihrer Cloud-PBX zu gewährleisten müssen folgende Voraussetzung
 
 Folgende Dienste bzw. Ports müssen freigeschaltet sein:
 
-* HTTPS<br>
-* HTTP<br>
+* HTTPS (TCP Port: 443)<br>
+* HTTP (TCP Port: 80)<br>
 * TCP-Port 1444<br>
 * TCP-Port 1445<br>
 
 ### Für die Signalisierung
 * Die SIP Signalisierung erfolgt verschlüsselt über  
-  **TLS/TCP**
+  **TLS/TCP** (TCP Ports: 5060 und 5061)
 * Die Mobile APP verwendet zusätzlich XMPP. Zur Nutzung muss der <br>
   **TCP Port 5222** <br>
   frei gegeben werden
