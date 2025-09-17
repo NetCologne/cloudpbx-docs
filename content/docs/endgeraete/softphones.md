@@ -206,13 +206,13 @@ Um die Rufnummer bzw. den Benutzernamen des Kontaktes einzutragen, klicken Sie a
 
 <img width="298" alt="19_Cloud-PBX_add_phone" src="https://user-images.githubusercontent.com/99875470/214609391-255fecb9-6aa4-4f8e-8203-7a69d3cfd4af.png">
 
-Im dem Kontakt erscheinen dann die weiteren Felder "Phone", "Dial account" und "Presence account".
+In dem Kontakt erscheinen dann die weiteren Felder "Phone", "Dial account" und "Presence account".
 
 "Phone": Hier wird der Benutzername der gewünschten Nebenstelle eingetragen (auf die richtige Schreibweise achten).
 
 "Dial account": Das ist der Account, der für abgehende Gespräche verwendet werden soll. Wenn in dem Zoiper Client nur ein Account eingerichtet ist, kann die Einstellung auf "Default account" bleiben. Andernfalls wählen Sie einen anderen Account aus dem Aufklappmenü aus.
 
-"Presence account": Hier wird "Conatact service account" ausgewählt.
+"Presence account": Hier wird "Contact service account" ausgewählt.
 
 Beim Verlassen des Kontakt-Fensters das Speichern der Daten bestätigen.
 
