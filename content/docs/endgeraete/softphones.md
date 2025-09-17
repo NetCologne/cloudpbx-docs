@@ -220,7 +220,7 @@ In der Benutzeroberfläche steht unter "Contacts" jetzt mindestens der Eintrag "
 
 <img width="302" alt="16_Cloud-PBX_BLF-ringing_a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/01f03270-2675-453b-bf4c-bd38eaae24e2">
 
-Ein bestehndes Gespräch ist an dem Hörer-Symbol neben dem Kontakt erkennbar.
+Ein bestehendes Gespräch ist an dem Hörer-Symbol neben dem Kontakt erkennbar.
 
 <img width="302" alt="17_Cloud-PBX_BLF-speaking_a" src="https://github.com/NetCologne/cloudpbx-docs/assets/99875470/ef73b3c4-abc8-48f7-963e-f581f9f1a690">
 
