@@ -27,7 +27,7 @@ Einträge und Änderungen im zentralen Telefonbuch können nur vom Administrator
 
 Name und Telefonnummer können manuell über die GUI der Cloud PBX eingetragen werden. Diese Methode ist für wenige Einträge bzw. Änderungen sinnvoll. Der Administrator wählt im Menü den Eintrag "PBX-Konfiguration" und dann "Telefonbuch des Kunden".
 
-![phonebook_1_3](https://github.com/user-attachments/assets/c32cdbc4-85ef-475f-869b-8ac9593f1007)
+![phonebook](https://github.com/user-attachments/assets/06fa7c27-e743-422a-ae42-f920dea5ade6)
 
 In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weitere Einträge können durch Klick auf (1) "+ TELEFONBUCH HUNZUFÜGEN" vorgenommen werden.
 
@@ -35,7 +35,7 @@ In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weit
 
 In dem Feld für den Namen darf kein Komma verwendet werden, da es intern schon als Trennzeichen verwendet wird.
 
-Um eine größere Anzahl von Einträgen vorzunehmen, bietet sich das Hochladen einer CSV-Datei (3) an. Dabei ist folgendes Format zu verwenden:<br>
+Um eine größere Anzahl von Einträgen vorzunehmen, bietet sich das Hochladen einer CSV-Datei (2) an. Dabei ist folgendes Format zu verwenden:<br>
 Name, Rufnummer
 
 Als Trennzeichen wird das Komma verwendet. Daher darf es nicht im Namensfeld verwendet werden.<br>
@@ -51,6 +51,6 @@ Beim Hochladen muss dann die gewünschte Datei ausgewählt werden. Außerdem mus
 
 Wird diese Funktion nicht aktiviert, werden die Zeilen aus der CSV-Datei zusätzlich in das Telefonbuch eingetragen. Diese Methode eignet sich sehr gut, um eine größere Anzahl zusätzlicher Rufnummern einzutragen.
 
-Befinden sich bereits Einträge in dem Telefonbuch, so empfiehlt es sich, diese zunächst als CSV-Datei herunterzuladen (2) und so eine Datensicherung zu erstellen. Eine Kopie dieser Datei kann dann bearbeitet und anschließend wieder hochgeladen werden.
+Befinden sich bereits Einträge in dem Telefonbuch, so empfiehlt es sich, diese zunächst als CSV-Datei herunterzuladen (3) und so eine Datensicherung zu erstellen. Eine Kopie dieser Datei kann dann bearbeitet und anschließend wieder hochgeladen werden.
 
 Nebenstellen, die zur Cloud PBX gehören, werden im Telefonbuch des Endgerätes immer angezeigt. Sie können nicht entfernt werden. In der zentralen Liste werden sie nicht aufgeführt.
