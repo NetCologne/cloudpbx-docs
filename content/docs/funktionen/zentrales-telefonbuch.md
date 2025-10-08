@@ -25,13 +25,13 @@ Einträge und Änderungen im zentralen Telefonbuch können nur vom Administrator
 1.	Einträge manuell durchführen<br>
 2.	Einträge per CSV-Datei hochladen<br>
 
-Name und Telefonnummer können manuell über die GUI der Cloud PBX eingetragen werden. Diese Methode ist für wenige Einträge bzw. Änderungen sinnvoll. Der Administrator wählt im Menü den Eintrag "Kunden-Details" und dann "Telefonbuch".
+Name und Telefonnummer können manuell über die GUI der Cloud PBX eingetragen werden. Diese Methode ist für wenige Einträge bzw. Änderungen sinnvoll. Der Administrator wählt im Menü den Eintrag "PBX-Konfiguration" und dann "Telefonbuch des Kunden".
 
-![phonebook_1entry_fuer_Doku](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/f7d4e00b-031b-46ad-904a-6c8d1cf32836)
+![phonebook](https://github.com/user-attachments/assets/281960d3-c94c-46bd-8cbd-b960d7231059)
 
-In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weitere Einträge können durch Klick auf "Telefonbucheintrag erstellen" vorgenommen werden.
+In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weitere Einträge können durch Klick "+ TELEFONBUCH HUNZUFÜGEN" vorgenommen werden.
 
-![phonebook_manueller_Eintrag_Mustername2](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/0194309f-17af-45d4-8e87-bf2cb554cf62)
+![phonebook_manueller_Eintrag](https://github.com/user-attachments/assets/41539b7e-6a1a-4e82-aa8f-f77091e1719f)
 
 In dem Feld für den Namen darf kein Komma verwendet werden, da es intern schon als Trennzeichen verwendet wird.
 
@@ -45,11 +45,11 @@ Mustername1, +492214711<br>
 Mustername2, +492214712<br>
 Mustername3, +4922122299764<br>
 
-Beim Hochladen muss dann die gewünschte Datei ausgewählt werden. Außerdem muss festgelegt werden, ob die vorhandenen Daten im Telefonbuch gelöscht werden sollen. In diesem Fall ist der Haken bei „Purge existing“ zu setzen.
+Beim Hochladen muss dann die gewünschte Datei ausgewählt werden. Außerdem muss festgelegt werden, ob die vorhandenen Daten im Telefonbuch gelöscht werden sollen. In diesem Fall ist der Punkt „Vorhandenes bereinigen“ auszuwählen.
 
-![csv-upload_mit_Datei_u_Haken](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/3ca782a0-db19-4476-9714-d549d85a452a)
+![phonebook_csv](https://github.com/user-attachments/assets/f66db0eb-a09b-4bf9-a643-2e9305442882)
 
-Wird der Haken nicht gesetzt, werden die Zeilen aus der CSV-Datei zusätzlich in das Telefonbuch eingetragen. Diese Methode eignet sich sehr gut, um eine größere Anzahl zusätzlicher Rufnummern einzutragen.
+Wird diese Funktion nicht aktiviert, werden die Zeilen aus der CSV-Datei zusätzlich in das Telefonbuch eingetragen. Diese Methode eignet sich sehr gut, um eine größere Anzahl zusätzlicher Rufnummern einzutragen.
 
 Befinden sich bereits Einträge in dem Telefonbuch, so empfiehlt es sich, diese zunächst als CSV-Datei herunterzuladen und so eine Datensicherung zu erstellen. Eine Kopie dieser Datei kann dann bearbeitet und anschließend wieder hochgeladen werden.
 
