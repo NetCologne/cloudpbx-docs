@@ -29,7 +29,7 @@ Name und Telefonnummer können manuell über die GUI der Cloud PBX eingetragen w
 
 ![phonebook](https://github.com/user-attachments/assets/06fa7c27-e743-422a-ae42-f920dea5ade6)
 
-In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weitere Einträge können durch Klick auf (1) "+ TELEFONBUCH HUNZUFÜGEN" vorgenommen werden.
+In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weitere Einträge können durch Klick auf (1) "+ TELEFONBUCH HINZUFÜGEN" vorgenommen werden.
 
 ![phonebook_manueller_Eintrag](https://github.com/user-attachments/assets/41539b7e-6a1a-4e82-aa8f-f77091e1719f)
 
