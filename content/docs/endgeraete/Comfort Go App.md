@@ -26,11 +26,15 @@ Ihre Vorteile im Überblick:
 
 ### Comfort Go bei Google Play (Android)
 
-Für Android (ab 4.2) können Sie die App unter [Google Play](https://play.google.com/store/apps/details?id=de.netcologne.hometogo&hl=de&gl=US) herunterladen und installieren.
+Für Android (ab 4.2) können Sie die aktuelle App unter [Google Play](https://play.google.com/store/search?q=comfort+go&c=apps) herunterladen und installieren.
 
-![App Google Play](https://user-images.githubusercontent.com/98753538/169261390-61447d26-e5b7-4297-be0a-e64ecd3b4aa5.jpg)
+![App_01_Google Play Store](https://github.com/user-attachments/assets/0a87838a-949a-419a-959b-5f07ba47403c)
 
-Anschließend werden Sie aufgefordert, den QR-Code von der zugehörigen Nebenstelle zu scannen. Diesen finden Sie im Menue ihrer Cloud-PBX am oberen Rand (roter Pfeil).
+Anschließend werden Sie aufgefordert, den WEB-User und das Passwort einzugeben. Komfortabler ist es, den QR-Code der zugehörigen Nebenstelle zu scannen. Dazu tippen Sie auf das rote Logo unter "Anmelden".
+
+![App_02_Anmeldung](https://github.com/user-attachments/assets/ade0cb98-2089-45dd-9cbd-afd82b490fa7)
+
+Den QR-Code finden Sie im Menue ihrer Cloud-PBX am oberen Rand (roter Pfeil).
 
 ![Cloud PBX_Uebersicht2](https://user-images.githubusercontent.com/98753538/169230239-f24efc0b-9633-4713-ae8d-0196c0a560ed.jpg)
 
@@ -38,11 +42,41 @@ Sobald Sie auf das Symbol geklickt haben, können Sie den QR-Code einscannen.
 
 ![Cloud PBX_QR_Code1](https://user-images.githubusercontent.com/98753538/169230789-4dac34ef-d995-45ee-a15a-be3a7f933591.jpg)
 
-Anschließend werden Sie um die üblichen Zugriffsberechtigungen (Kontakte, Microfon und Hintergrunddaten) gebeten.
+In der App müssen Sie jetzt erst die Aufnahme von Bildern und Videos zulassen, damit die Kamera freigeschaltet wird.
 
-![Zugriff](https://user-images.githubusercontent.com/98753538/169234986-406640bf-5dec-46e2-ae07-ae9dc6057e7b.jpg)
+![App_03_BilderVideos_erlauben](https://github.com/user-attachments/assets/bb3774fc-5733-4003-9e7c-a9ee274b49d3)
 
-Sobald Sie diese gewährt haben, können Sie die App nutzen und genau wie mit Ihrer Cloud-PBX telefonieren, d.h. für abgehende Telefonaten ist die Amtsholung "0" erforderlich. Wenn Sie Ihre Kontakte direkt anrufen möchten, müssen deren Nummern mit "+49" eingetragen sein. Falls Sie angerufen werden, ist mit der Taste "Transfer" die Weiterleitung zu anderen Nebenstellen möglich.
+Anschließend werden Sie um diverse Zugriffsberechtigungen gebeten. Um einen störungsfreien Gebrauch der App zu gewährleisten, ist die Zulassung aller Berechtifungen erforderlich.
+
+Zugriff auf Ihre Kontakte.
+
+![App_04_Zugriff_Kontakte](https://github.com/user-attachments/assets/29ee80fb-cc4e-47ed-8dd2-2e98ef449b44)
+
+Zugriff auf das Mikrofon.
+
+![App_05_Zugriff_Mikrofon](https://github.com/user-attachments/assets/5a65eb65-5f2f-4a2f-a8a9-b833ab12b290)
+
+Zugriff auf den Telefonstatus.
+
+![App_06_Zugriff_Telefonstatus](https://github.com/user-attachments/assets/a2fb2e7e-d44b-4184-b79a-51e2ddc9d705)
+
+Zulassen der Benachrichtigungen im Vordergrund, wenn sich die App im Hintergrund befindet.
+
+![App_07_Zulassen_Dienst_Vordergrund](https://github.com/user-attachments/assets/40f55253-cec0-4f12-b6e7-db03634eae9e)
+
+Wenn Sie eine Vollbildbenachrichtigung wünschen, müssen Sie diese hier erlauben.
+
+![App_09_Zulassen_Vollbildbenachrichtigung_b](https://github.com/user-attachments/assets/bb979609-f8f2-4683-8427-f7c01b3ad830)
+
+Die Erlaubnis zur Hintergrundbenutzung ist erforderlich, damit die App Anrufe empfangen kann.
+
+![App_10_Zulassen_Hintergrundbenutzung](https://github.com/user-attachments/assets/7bb85e4f-f8cf-4e29-b521-3220428454f9)
+
+Das Deaktivieren der Optimierung des Akkuverbrauchs ist ebenfalls erforderlich, damit die App nicht in "Tiefschlaf" versetzt wird. Andernfalls ist der Empfang von Anrufen nicht möglich. In der folgenden Ansicht also auf jeden Fall "Zulassen" antippen.
+
+![App_11_Akku_verbrauch](https://github.com/user-attachments/assets/304ca1e1-b5bb-4139-960a-91fec83718f7)
+
+Sobald Sie alle Berechtigunen gewährt haben, können Sie die App nutzen und genau wie mit Ihrer Cloud-PBX telefonieren, d.h. für abgehende Telefonaten ist die Amtsholung "0" erforderlich. Wenn Sie Ihre Kontakte direkt anrufen möchten, müssen deren Nummern mit "+49" eingetragen sein. Falls Sie angerufen werden, ist mit der Taste "Transfer" die Weiterleitung zu anderen Nebenstellen möglich.
 
 ![Funktionen](https://user-images.githubusercontent.com/98753538/169236252-fdb10320-1c51-4f78-a547-f32a13f180c1.jpg)<br>
 <br>
