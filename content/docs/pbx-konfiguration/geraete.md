@@ -325,14 +325,3 @@ Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset du
 6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
 7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
 
-### Kundenspezifische Einstellungen
-
-Als Admin können Sie den Punkt *Kunden-Details* auswählen. Klicken Sie anschließend auf *PBX-Geräte* (Pfeil links). Beim betreffenden Endgerät (hier Yealink) können Sie dann die *Einstellungen* (Pfeil rechts) konfigurieren:
-
-![Einstellungen](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/db9348de-98cf-44cf-a13e-ef2538021916)
-
-Um die manuelle Konfiguration vor dem Überschreiben durch die Standardeinstellungen zu schützen, öffnen Sie das Menue *CPBX Device Administration*, wählen den Punkt *User config priority over provisioning* und setzen das Häkchen (siehe Bild):
-
-![user config priority](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/80ee2a5c-745a-47a3-9b3f-36ff9cdf7d94)
-
-Per Reboot (stündlich oder manuell) gelangt die geänderte Einstellung auf das Endgerät/Telefon. Danach kann dieses manuell angepasst werden.
