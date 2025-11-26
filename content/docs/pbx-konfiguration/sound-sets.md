@@ -32,16 +32,6 @@ Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation einer [Anrufwarteschl
 Mit 6. **pbx office_hours** informieren Sie Ihre Anrufer wie folgt: "Sie rufen außerhalb unserer Öffnungszeiten an." Diese *Out-of-Office-Ansage* gehört also nicht zur Anrufwarteschlange. 
 Aktiviert wird sie standardmäßig bei den [Rufumleitungen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#rufumleitung). 
 
-Auslaufend ist diese Konfiguration auch noch beim Unterpunkt "Kunden-Details" (1) möglich. Klicken Sie dort unter "Einstellungen" auf "Subscriber" (2). In der Tabelle sind die Nebenstellen mit Namen und Durchwahl aufgelistet. In der Spalte rechts können Sie die Einträge Terminieren (löschen), erfahren Details dazu oder Sie modifizieren Einstellungen (3), wie z.B. die Call Forwards:
-
-![cloudpbx soundsetC](https://user-images.githubusercontent.com/98753538/159277582-16b92cc8-7173-480a-8f85-5dc37e9a21d6.jpg)
-
-Die Tabelle unten zeigt die unterschiedlichen Fälle der Anrufweiterleitung, wie z.B. generell (unconditional), wenn besetzt (busy), nach definierter Zeitspanne (Timeout) oder falls nicht erreichbar/registriert (unavailable). Wenn Sie rechts auf "Edit" (4) klicken, können Sie das entsprechende Ziel der Weiterschaltung eingeben. In diesem Fall ist das "Office Hours Announcement" (5). 
-
-![cloudpbx soundsetG](https://user-images.githubusercontent.com/98753538/159278277-d6dcb79c-e292-484f-bcb0-3d0ad3f8dd20.jpg)
-
-Beim "Advanced View" (6) sind weitere Konfigurationen, wie z.B. die Eingabe von Zeiten (7), Ursprüngen und Zielen möglich, bei denen die *Out-of-Office-Ansage* gespielt werden soll. Bestätigen Sie Ihre Auswahl mit "Save" (8).
-
 ### 2. - 5. music_on_hold, conference, custom_announcement und early_media
 
 ![Soundsets moh und andere](https://github.com/user-attachments/assets/c362231f-2a99-45b1-a5e8-9cb5b2cdfda9)
