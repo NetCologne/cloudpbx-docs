@@ -67,20 +67,6 @@ Im Reiter FAX TO MAIL UND SENDFAX können Sie die gleichen Punkte konfigurieren,
 💡 **Wichtig:** Aktiveren Sie auch hier die Faxfunktion (rot umrandet) und beachten den Punkt [Faxempfang durch Rufumleitung](https://cloudpbx-doku.netcologne.de/docs/funktionen/fax/#faxempfang-durch-rufumleitung). <br>
 <br>
 
-Auslaufend ist der untere Menüpunkt Kundendetails (1). Noch können Sie auch hier die Nebenstelle konfigurieren, die als Faxgeräte betrieben werden soll. Klicken Sie dafür unter *Einstellungen* auf Subscriber (2) und wählen bei der betreffenden Nebenstelle ganz rechts Einstellungen (3).
-
-![Fax Admin Kundendetails](https://user-images.githubusercontent.com/98753538/162376660-3e9aae1d-a9eb-4123-87a6-5e6725724e80.jpg)
-
-Unter dem Punkt "Call Forwards" können Sie bestehende Fax2Mail-Rufumleitungen einsehen und editieren:
-
-![Fax Admin Kundendetails2](https://user-images.githubusercontent.com/98753538/162376672-7ae4aad6-9475-49c8-9f6c-164488e67070.jpg)
-
-Gleiches gilt für die Konfiguration der Faxeinstellungen, die Sie unter "Fax Features" finden.
-
-![Fax Admin Kundendetails3](https://user-images.githubusercontent.com/98753538/162376679-b5146278-36fb-496b-b624-8fd720e549ad.jpg)
-
-Auch hier können Sie die "Fax2Mail and Sendfax-Funktionen" an- und ausschalten, indem bei *Active* ein Häkchen gesetzt wird (yes) oder eben nicht (no).
-
 
 ## 2. Mail2Fax
 
