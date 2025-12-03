@@ -34,7 +34,7 @@ Im nächsten Schritt rechst neben *Ständig und Y Bedingung* auf die **drei grü
 
 ![GF-Sekretärin weiterleiten](https://github.com/user-attachments/assets/83da8776-3206-41c6-accf-614a92fc142f)
 
-Um direkt auf das Geschäftsführungssekretariat umzuleiten, sollten sie den mittleren Eintrag *Weitergeleitet zu ( Nummer* löschen. Dafür rechts auf die **drei grünen Punkte** klicken, *Entfernen* auswählen und die Frage "Ziel löschen?" mit OK bestätigen.
+Um direkt auf das Geschäftsführungssekretariat umzuleiten, sollten sie den mittleren Eintrag *Weitergeleitet zu 📞 Nummer* löschen. Dafür rechts auf die **drei grünen Punkte** klicken, *Entfernen* auswählen und die Frage "Ziel löschen?" mit OK bestätigen.
 
 ![GF-Sekretärin weiterleiten zu Nr  entfernen](https://github.com/user-attachments/assets/f0da15a8-0db1-469f-9502-1eb2d739a14e)
 
