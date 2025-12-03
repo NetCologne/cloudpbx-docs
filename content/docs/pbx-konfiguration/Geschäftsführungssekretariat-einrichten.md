@@ -29,12 +29,15 @@ Dafür unter **PBX-Konfiguration** den Unterpukt **Nebenstelle** anklicken und *
 
 ![GF-Sekretärin hinzufügen](https://github.com/user-attachments/assets/48a073b7-ef58-44ee-ad9b-6d8bbdac26ee)
 
-Nun den Punkt **Rufumleitungen** anklicken und dann im Menuepunkt *Call Forwards* die Weiterleitung zu **Manager Secretary** einrichten.
+Nun den Punkt **Rufumleitungen** auswählen und **+ RUFUMLEITUNG HINZUFÜGEN** anklicken und im Menue *ständig* auswählen.
+Im nächsten Schritt rechst neben *Ständig und Y Bedingung* auf die **drei grünen Punkte** klicken und *Weiterleiten an Geschäftsführungssekretariat* auswählen.
 
 ![GF-Sekretärin weiterleiten](https://github.com/user-attachments/assets/b54fa552-4dd0-4d28-bee6-77e2f0e36ea4)
 
-Mit dem Klick auf *Save* werden die Einstellungen gespeichert und aktiviert.
+Um direkt auf das Geschäftsführungssekretariat umzuleiten, sollten sie den mittleren Eintrag *Weitergeleitet zu ( Nummer* löschen. Dafür rechts auf die **drei grünen Punkte** klicken, *Entfernen* auswählen und die Frage "Ziel löschen?" mit OK bestätigen.
 
 ![GF-Sekretärin weiterleiten zu Nr  entfernen](https://github.com/user-attachments/assets/f0da15a8-0db1-469f-9502-1eb2d739a14e)
+
+Damit haben Sie die *Rufumleitung zum Geschäftsführungssekretariat* erfolgreich eingerichtet.
 
 ![GF-Sekretärin Weiterleitung steht](https://github.com/user-attachments/assets/2dab0cef-5ff1-4d17-b0c7-ffa058a6bf5f)
