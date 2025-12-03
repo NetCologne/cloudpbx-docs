@@ -74,25 +74,27 @@ Mit dieser Funktion können E-Mails als Fax versendet werden. Wenn Sie diese Fun
 
 ### 2.1 Konfiguration unter Faxeinstellungen
 
-Wurde die Funktion "MAIL TO FAX" aktiviert, sind die Konfugurationen unter *Faxeinstellungen* möglich.
+Wurde die Funktion "MAIL TO FAX" aktiviert, sind die Konfigurationen unter *Faxeinstellungen* möglich.
 
 ![Mail2Fax Einstellungen](https://github.com/user-attachments/assets/2ed19120-8d67-4fcc-8493-dee0097a7152)
 
 Kontrollieren Sie zuerst den Schalter "Aktiv" [1]. 
 
-Darunter aktivieren Sie einen Geiheimschlüssel (aktuell ist dieser mandatory!), hier mit eingabe von "1_2_3_4_5_6" [2] 
+Darunter aktivieren Sie einen Geheimschlüssel (aktuell ist dieser mandatory!) mit Eingabe von **1_2_3_4_5_6** [2] 
 
-Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne (3a) ein und die Mailadresse (3b), die dazu informiert werden soll.
+Falls Sie den Geheimschlüssel zeitweilig erneuern möchten, tragen Sie die Zeitspanne (3a) ein und die Mailadresse (3b), die darüber informiert werden soll.
 
-Unabhängig davon muss Punkt [4], die Zugriffssteuerungsliste (ACL=Access Control List), definiert werden. Klicken Sie dafür auf *+ ACL HINZUFÜGEN* und tragen folgende Berechtigungen zum Faxversandt ein: 
+Unabhängig davon muss Punkt [4], die **Zugriffssteuerungsliste** (ACL=Access Control List), definiert werden. Klicken Sie dafür auf *+ ACL HINZUFÜGEN* und tragen folgende Berechtigungen zum Faxversandt ein: 
 
 ![acl erstellen](https://github.com/user-attachments/assets/336a6443-5919-4d6a-acf9-ec708776a9f3)
 
-
 **Absender-E-Mail-Adresse** Das sind die einer oder mehreren E-Mailadressen (ihrer Mitarbeiter), die dann Faxe versenden dürfen,
+
 **Empfangen von IP** Das ist die IP-Adresse (oder der IP-Adress-Bereich) des oder der Absender.
+
 **Ziel** Hier werden zulässige Zielrufnummern eingetragen.
-Bei beiden können Regular Expressions verwendet werden. Mit der Zeichenkombination **".*" sind beliebige Nummern** möglich. Bitte beachten Sie das Häkchen bei "RegExp verwenden".
+
+Bei beiden können **Regular Expressions** verwendet werden. Mit der Zeichenkombination **".*" sind beliebige Nummern** möglich. Bitte beachten Sie den Punkt "RegExp verwenden" aktivieren.
 
 ![acl erstellt](https://github.com/user-attachments/assets/3ef8bbc9-21d6-45ec-ab3a-387e4739a833)
 
