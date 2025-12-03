@@ -16,19 +16,25 @@ Im Beispiel ist *porz* der Geschäftsführer. Das *Sekretariat* hat die Rufnumme
 
 ![GF-Sekretärin einrichten](https://user-images.githubusercontent.com/98753538/232427318-0c806532-a1e5-46ea-9d12-82b016094988.jpg)
 
-Nun diesem die Rufnummer des Mitarbeiters (Sekretär/in) zuweisen und die Konfiguration bestätigen.
+Nun diesem die Rufnummer des Geschäftsführungssekretariat zuweisen und die Konfiguration bestätigen.
 
 ![GF-Sekretärin hinzufügen](https://user-images.githubusercontent.com/98753538/232438884-e6149b06-112e-4c77-b6b8-e1d0c56ebda6.jpg)
 
-## 2. Konfiguration durch Weiterleitung aktivieren
+Damit ist die Rufnummer 492212615245417 als Geschäftsführungssekretariat "definiert".
 
-Damit die Konfiguration funktioniert, muss nun noch für den Subscriber *porz* eine *Weiterleitung zur Sekretärin* eingerichtet werden. 
-Dafür unter Kundendetails den subscriber *porz* auswählen.
+## 2. Konfiguration durch Rufumleitung aktivieren
 
-![GF-Sekretärin subscriber](https://user-images.githubusercontent.com/98753538/232429453-48e80161-50b0-4b63-840e-f8cfebc57ea5.jpg)
+Damit diese Konfiguration genutzt werden kann, muss nun noch für die Nebenstelle *porz* eine *Rufumleitung zum Geschäftsführungssekretariat* eingerichtet werden. 
+Dafür unter **PBX-Konfiguration** den Unterpukt **Nebenstelle** anklicken und *porz* auswählen.
 
-Beim betreffenden Subscriber rechts auf den Punkt *Einstellungen* klicken und dann im Menuepunkt *Call Forwards* die Weiterleitung zu **Manager Secretary** einrichten.
+![GF-Sekretärin hinzufügen](https://github.com/user-attachments/assets/48a073b7-ef58-44ee-ad9b-6d8bbdac26ee)
 
-![GF-Sekretärin weiterleiten](https://user-images.githubusercontent.com/98753538/232430441-8acbebae-441b-40a9-8272-5d2ac3c85fca.jpg)
+Nun den Punkt **Rufumleitungen** anklicken und dann im Menuepunkt *Call Forwards* die Weiterleitung zu **Manager Secretary** einrichten.
+
+![GF-Sekretärin weiterleiten](https://github.com/user-attachments/assets/b54fa552-4dd0-4d28-bee6-77e2f0e36ea4)
 
 Mit dem Klick auf *Save* werden die Einstellungen gespeichert und aktiviert.
+
+![GF-Sekretärin weiterleiten zu Nr  entfernen](https://github.com/user-attachments/assets/f0da15a8-0db1-469f-9502-1eb2d739a14e)
+
+![GF-Sekretärin Weiterleitung steht](https://github.com/user-attachments/assets/2dab0cef-5ff1-4d17-b0c7-ffa058a6bf5f)
