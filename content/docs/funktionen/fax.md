@@ -68,9 +68,9 @@ Im Reiter FAX TO MAIL UND SENDFAX können Sie die gleichen Punkte konfigurieren,
 <br>
 
 
-## 2. Mail2Fax
+## 2. Mail To Fax
 
-Mit dieser Funktion können E-Mails als Fax versendet werden. 
+Mit dieser Funktion können E-Mails als Fax versendet werden. Wenn Sie diese Funktion nutzen möchten, setzen Sie sich bitte NetCologne in Verbindung.
 
 ### 2.1 Aktivierung unter Kundendetails (als Admin)
 
