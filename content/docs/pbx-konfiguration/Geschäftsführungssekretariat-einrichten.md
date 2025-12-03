@@ -25,7 +25,7 @@ Damit ist die Rufnummer 492212615245417 als Geschäftsführungssekretariat "defi
 ## 2. Konfiguration durch Rufumleitung aktivieren
 
 Damit diese Konfiguration genutzt werden kann, muss nun noch für die Nebenstelle *porz* eine *Rufumleitung zum Geschäftsführungssekretariat* eingerichtet werden. 
-Dafür unter **PBX-Konfiguration** den Unterpukt **Nebenstelle** anklicken und *porz* auswählen.
+Dafür unter **PBX-Konfiguration** den Punkt **Nebenstellen** anklicken und *porz* auswählen.
 
 ![GF-Sekretärin hinzufügen](https://github.com/user-attachments/assets/48a073b7-ef58-44ee-ad9b-6d8bbdac26ee)
 
