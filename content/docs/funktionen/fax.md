@@ -94,7 +94,9 @@ Unabhängig davon muss Punkt [4], die **Zugriffssteuerungsliste** (ACL=Access Co
 
 **Ziel** Hier werden zulässige Zielrufnummern eingetragen.
 
-Bei beiden können **Regular Expressions** verwendet werden. Mit der Zeichenkombination **".*" sind beliebige Nummern** möglich. Bitte beachten Sie den Punkt "RegExp verwenden" aktivieren.
+Bei beiden können **Regular Expressions** verwendet werden. Mit der Zeichenkombination **".*" sind beliebige Nummern** möglich. 
+
+Abschließend den Punkt "RegExp verwenden" aktivieren.
 
 ![acl erstellt](https://github.com/user-attachments/assets/3ef8bbc9-21d6-45ec-ab3a-387e4739a833)
 
