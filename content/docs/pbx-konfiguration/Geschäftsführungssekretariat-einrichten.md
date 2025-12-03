@@ -32,7 +32,7 @@ Dafür unter **PBX-Konfiguration** den Punkt **Nebenstellen** anklicken und *por
 Nun den Punkt **Rufumleitungen** auswählen und **+ RUFUMLEITUNG HINZUFÜGEN** anklicken und im Menue *ständig* auswählen.
 Im nächsten Schritt rechst neben *Ständig und Y Bedingung* auf die **drei grünen Punkte** klicken und *Weiterleiten an Geschäftsführungssekretariat* auswählen.
 
-![GF-Sekretärin weiterleiten](https://github.com/user-attachments/assets/b54fa552-4dd0-4d28-bee6-77e2f0e36ea4)
+![GF-Sekretärin weiterleiten](https://github.com/user-attachments/assets/83da8776-3206-41c6-accf-614a92fc142f)
 
 Um direkt auf das Geschäftsführungssekretariat umzuleiten, sollten sie den mittleren Eintrag *Weitergeleitet zu ( Nummer* löschen. Dafür rechts auf die **drei grünen Punkte** klicken, *Entfernen* auswählen und die Frage "Ziel löschen?" mit OK bestätigen.
 
