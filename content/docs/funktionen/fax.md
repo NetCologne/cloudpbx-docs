@@ -82,7 +82,7 @@ Kontrollieren Sie zuerst den Schalter "Aktiv" [1].
 
 Darunter aktivieren Sie einen Geheimschlüssel (aktuell ist dieser mandatory!) mit Eingabe von **1_2_3_4_5_6** [2] 
 
-Falls Sie den Geheimschlüssel zeitweilig erneuern möchten, tragen Sie die Zeitspanne (3a) ein und die Mailadresse (3b), die darüber informiert werden soll.
+Falls Sie den Geheimschlüssel zeitweilig erneuern möchten, wählen Sie aus "täglich, wöchentlich oder monatlich" den Zeitraum (3a) ) aus und tragen die Mailadresse (3b) ein, die darüber informiert werden soll.
 
 Unabhängig davon muss Punkt [4], die **Zugriffssteuerungsliste** (ACL=Access Control List), definiert werden. Klicken Sie dafür auf *+ ACL HINZUFÜGEN* und tragen folgende Berechtigungen zum Faxversandt ein: 
 
