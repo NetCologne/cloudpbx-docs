@@ -70,29 +70,33 @@ Im Reiter FAX TO MAIL UND SENDFAX können Sie die gleichen Punkte konfigurieren,
 
 ## 2. Mail To Fax
 
-Mit dieser Funktion können E-Mails als Fax versendet werden. Wenn Sie diese Funktion nutzen möchten, setzen Sie sich bitte NetCologne in Verbindung.
+Mit dieser Funktion können E-Mails als Fax versendet werden. Wenn Sie diese Funktion nutzen möchten, setzen Sie sich bitte NetCologne in Verbindung. Die Kollegen übernehmen dann die Aktivierung.
 
-
-
-![edit acl](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a84317be-6584-4bf3-98a0-d1c0e1cf4923)
-
-Hier tragen Sie Berechtigungen zum Faxversandt ein. Neben einer oder mehreren E-Mailadressen, können die IP-Adresse (oder Bereich) des Absenders sowie zulässige Zielrufnummern eingetragen werden. Mit der Zeichenkombination ".*" sind beliebige Nummern möglich. Bitte beachten Sie das Häkchen bei "Use Regex".
 
 ### 2.1 Konfiguration unter Faxeinstellungen
 
-Wurde die Funktion "MAIL TO FAX" unter den Kundendetails aktiviert, sind die gleichen Konfugurationen unter *Faxeinstellungen* möglich.
+Wurde die Funktion "MAIL TO FAX" aktiviert, sind die Konfugurationen unter *Faxeinstellungen* möglich.
 
 ![Mail2Fax Einstellungen](https://github.com/user-attachments/assets/2ed19120-8d67-4fcc-8493-dee0097a7152)
 
-Die Fax2Mail- und die Mail2Fax-Funktion müssen aktiviert werden. => Setzen Sie in beiden Feldern "Active" den Wert "yes" [1]
+Kontrollieren Sie zuerst den Schalter "Active" [1]. 
 
-Aktivieren Sie einen Secret Key (aktuell ist dieser mandatory!), hier "1_2_3_4_5_6" [2]
+Darunter aktivieren Sie einen Secret Key (aktuell ist dieser mandatory!), hier mit eingabe von "1_2_3_4_5_6" [2] 
 
-Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne ein und die Mailadresse, die dazu informiert werden soll [3].
+Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne (3a) ein und die Mailadresse (3b), die dazu informiert werden soll.
 
-Unabhängig davon muss Punkt [4], die ACL (Access Control List), definiert werden:
+Unabhängig davon muss Punkt [4], die Zugriffssteuerungsliste (ACL=Access Control List), definiert werden. Klicken Sie dafür auf *+ ACL HINZUFÜGEN* und tragen folgende Berechtigungen zum Faxversandt ein: 
 
-Kontrollieren Sie zuerst den Schalter "Active" [1]. Darunter können Sie den Geheimschlüssel eintragen (2). Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne (3a) ein und die Mailadresse (3b), die dazu informiert werden soll. Unabhängig davon muss Punkt [4], die ACL (Access Control List), definiert werden. Das sind die Mailadressen (ihrer Mitarbeiter), die dann Faxe versenden dürfen, z.B. *@netcologne.com. 
+![acl erstellen](https://github.com/user-attachments/assets/336a6443-5919-4d6a-acf9-ec708776a9f3)
+
+
+**Absender-E-Mail-Adresse** Das sind die einer oder mehreren E-Mailadressen (ihrer Mitarbeiter), die dann Faxe versenden dürfen,
+**Empfangen von IP** Das ist die IP-Adresse (oder der IP-Adress-Bereich) des oder der Absender.
+**Ziel** Hier werden zulässige Zielrufnummern eingetragen.
+Bei beiden können Regular Expressions verwendet werden. Mit der Zeichenkombination **".*" sind beliebige Nummern** möglich. Bitte beachten Sie das Häkchen bei "RegExp verwenden".
+
+![acl erstellt](https://github.com/user-attachments/assets/3ef8bbc9-21d6-45ec-ab3a-387e4739a833)
+
 
 ### 2.2 Mail als Fax versenden
 
