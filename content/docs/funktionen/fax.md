@@ -72,16 +72,15 @@ Im Reiter FAX TO MAIL UND SENDFAX können Sie die gleichen Punkte konfigurieren,
 
 Mit dieser Funktion können E-Mails als Fax versendet werden. Wenn Sie diese Funktion nutzen möchten, setzen Sie sich bitte NetCologne in Verbindung. Die Kollegen übernehmen dann die Aktivierung.
 
-
 ### 2.1 Konfiguration unter Faxeinstellungen
 
 Wurde die Funktion "MAIL TO FAX" aktiviert, sind die Konfugurationen unter *Faxeinstellungen* möglich.
 
 ![Mail2Fax Einstellungen](https://github.com/user-attachments/assets/2ed19120-8d67-4fcc-8493-dee0097a7152)
 
-Kontrollieren Sie zuerst den Schalter "Active" [1]. 
+Kontrollieren Sie zuerst den Schalter "Aktiv" [1]. 
 
-Darunter aktivieren Sie einen Secret Key (aktuell ist dieser mandatory!), hier mit eingabe von "1_2_3_4_5_6" [2] 
+Darunter aktivieren Sie einen Geiheimschlüssel (aktuell ist dieser mandatory!), hier mit eingabe von "1_2_3_4_5_6" [2] 
 
 Falls Sie diesen zeitweilig erneuern möchten, tragen Sie die Zeitspanne (3a) ein und die Mailadresse (3b), die dazu informiert werden soll.
 
