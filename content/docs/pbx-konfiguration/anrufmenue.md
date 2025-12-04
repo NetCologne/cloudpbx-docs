@@ -8,6 +8,8 @@ weight: 208
 toc: true
 ---
 
+Mit dem **Anrufmenü** werden Anrufer mit unterschiedlichen Sprachnachrichten ggf. auch zeitabhängig zu unterschiedlichen Zielen weitergeleitet, zum Beispiel innerhalb der Bürozeiten zum Sekretariat und außerhalb zu einer Ansage. Als Ziel können Sie an einzelne IP-Endgeräte, ganze Rufgruppen oder auf Handys weiterleiten. Auch können Sie Mailboxen und Ansagen als Ziel verwenden, um so allgemeine Anfragen wie die nach den Öffnungszeiten automatisch zu beantworten. Dadurch kann sich der Anrufer eigenständig zu unterschiedlichen Themen informieren, ohne dass sich ein Mitarbeiter darum kümmern muss, auch außerhalb Ihrer Bürozeiten - ein Gewinn für Sie und Ihre Anrufer.
+
 Das Anrufmenü ist wie ein Wegweiser für Anrufer. Über eine Navigation verbinden sich die Anrufer eigenständig mit den zuständigen Abteilungen oder Mitarbeitern. Der Anrufer wählt dabei mit seinen Zifferntasten (DTMF) aus verschiedenen Auswahlmöglichkeiten und hört zum Beispiel: <br>
 "Wollen Sie einen Service-Mitarbeiter sprechen, wählen Sie bitte die 1." <br>
 "Möchten Sie mit der Buchhaltung verbunden werden, wählen Sie bitte die 2." <br>
@@ -16,9 +18,7 @@ Für den Fall, dass der Anrufer keine Auswahl trifft, kann ein Standardziel eing
 Als Ziel können sowohl interne Nebenstellen als auch eine oder mehrer Ansagen im .wav- oder .ogg-Format gespielt werden. <br>
 Wie Sie diese einrichten, erfahren Sie unter [Soundset](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sound-sets/).
 
-Mit dem Cloud PBX Konto dürfen Sie so viele IVRs einrichten und zeitbasiert einsetzen, wie Sie möchten. Dann werden Anrufer mit unterschiedlichen Sprachnachrichten ggf. auch zeitabhängig zu unterschiedlichen Zielen weitergeleitet, zum Beispiel innerhalb der Bürozeiten zum Sekretariat und außerhalb zu einer Ansage. Als Ziel können Sie an einzelne IP-Endgeräte, ganze Rufgruppen oder auf Handys weiterleiten. Auch können Sie Mailboxen und Ansagen als Ziel verwenden, um so allgemeine Anfragen wie die nach den Öffnungszeiten automatisch zu beantworten. Dadurch kann sich der Anrufer eigenständig zu unterschiedlichen Themen informieren, ohne dass sich ein Mitarbeiter darum kümmern muss, auch außerhalb Ihrer Bürozeiten - ein Gewinn für Sie und Ihre Anrufer.
-
-Die Einrichtung eines Anrufmenues erfordert zum einen die Konfiguration der Auswahlmöglichkeiten, d.h. welche Nebenstellen werden unter welcher Auswahlziffer erreicht und zum anderen aus der Aktivierung über CallForward mit diversen Zusatz-Funktionen.
+Die Einrichtung eines Anrufmenüs erfordert zum einen die Konfiguration der Auswahlmöglichkeiten, d.h. welche Nebenstellen werden unter welcher Auswahlziffer erreicht und zum anderen aus der Aktivierung über CallForward mit diversen Zusatz-Funktionen.
 
 ### Konfiguration der Auswahlmöglichkeiten
 
