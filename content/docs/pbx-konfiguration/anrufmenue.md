@@ -8,12 +8,12 @@ weight: 208
 toc: true
 ---
 
-Das Anrufmenü oder auch Interactive Voice Response (IVR) ist wie ein Wegweiser für Anrufer. Über eine Navigation verbinden sich die Anrufer eigenständig mit den zuständigen Abteilungen oder Mitarbeitern. Der Anrufer wählt dabei mit seinen Zifferntasten (DTMF) aus verschiedenen Auswahlmöglichkeiten und hört zum Beispiel:
-"Wollen Sie einen Service-Mitarbeiter sprechen, wählen Sie bitte die 1."
-"Möchten Sie mit der Buchhaltung verbunden werden, wählen Sie bitte die 2." 
-Bis zu 10 Auswahlschritte können eingesetzt werden und mit Weiterleitungen belegt werden. 
-Für den Fall, dass der Anrufer keine Auswahl trifft, kann ein Standardziel eingerichtet werden. 
-Als Ziel können sowohl interne Nebenstellen als auch externe Rufnummern eingetragen werden. Auch kann eine eigene Ansage im .wav- oder .ogg-Format gespielt werden.
+Das Anrufmenü oder auch Interactive Voice Response (IVR) ist wie ein Wegweiser für Anrufer. Über eine Navigation verbinden sich die Anrufer eigenständig mit den zuständigen Abteilungen oder Mitarbeitern. Der Anrufer wählt dabei mit seinen Zifferntasten (DTMF) aus verschiedenen Auswahlmöglichkeiten und hört zum Beispiel: <br>
+"Wollen Sie einen Service-Mitarbeiter sprechen, wählen Sie bitte die 1." <br>
+"Möchten Sie mit der Buchhaltung verbunden werden, wählen Sie bitte die 2." <br>
+Bis zu 10 Auswahlschritte können eingesetzt werden und mit Weiterleitungen belegt werden. <br>
+Für den Fall, dass der Anrufer keine Auswahl trifft, kann ein Standardziel eingerichtet werden. <br>
+Als Ziel können sowohl interne Nebenstellen als auch externe Rufnummern eingetragen werden. Auch kann eine eigene Ansage im .wav- oder .ogg-Format gespielt werden. <br>
 Wie Sie diese einrichten, erfahren Sie unter [Soundset](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sound-sets/).
 
 Mit dem Cloud PBX Konto dürfen Sie so viele IVRs einrichten und zeitbasiert einsetzen, wie Sie möchten. Dann werden die Anrufer mit unterschiedlichen Sprachnachrichten ggf. auch zeitabhängig zu unterschiedlichen Zielen weitergeleitet, zum Beispiel innerhalb der Bürozeiten zum Sekretariat und außerhalb zu einer Ansage. Als Ziel können an einzelne IP-Endgeräte oder ganze Rufgruppen eintragen oder auf Handys oder externe Nummern weiterleiten. Auch können Sie Mailboxen und Ansagen als Ziel verwenden, um so allgemeine Anfragen wie die nach den Öffnungszeiten automatisch zu beantworten. Dadurch kann sich der Anrufer eigenständig zu unterschiedlichen Themen informieren, ohne dass sich ein Mitarbeiter darum kümmern muss, auch außerhalb Ihrer Bürozeiten - ein Gewinn für Sie und Ihre Anrufer.
