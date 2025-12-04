@@ -13,6 +13,7 @@ Mit dem **Anrufmenü** werden Anrufer mit unterschiedlichen Sprachnachrichten gg
 Das Anrufmenü ist wie ein Wegweiser für Anrufer. Über eine Navigation verbinden sich die Anrufer eigenständig mit den zuständigen Abteilungen oder Mitarbeitern. Der Anrufer wählt dabei mit seinen Zifferntasten (DTMF) aus verschiedenen Auswahlmöglichkeiten und hört zum Beispiel: <br>
 "Wollen Sie einen Service-Mitarbeiter sprechen, wählen Sie bitte die 1." <br>
 "Möchten Sie mit der Buchhaltung verbunden werden, wählen Sie bitte die 2." <br>
+
 Bis zu 10 Auswahlschritte können eingesetzt werden und mit Weiterleitungen belegt werden. <br>
 Für den Fall, dass der Anrufer keine Auswahl trifft, kann ein Standardziel eingerichtet werden. <br>
 Als Ziel können sowohl interne Nebenstellen als auch eine oder mehrer Ansagen im .wav- oder .ogg-Format gespielt werden. <br>
