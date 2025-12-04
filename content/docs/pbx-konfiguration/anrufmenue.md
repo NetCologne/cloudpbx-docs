@@ -28,16 +28,16 @@ Zuerst klicken Sie im Menue *PBX-Konfiguration* auf den Unterpunkt *Anrufmenue [
 
 ![Anrufmenue1](https://user-images.githubusercontent.com/98753538/160846360-54337494-1f96-4b50-80b8-d2e97e1faf83.jpg)
 
-Wenn Sie auf "+ EINTRAG HINZUFÜGEN" [2] klicken, können Sie die Ziffer (0 bis 9 und default) auswählen, die dem Anrufer angeboten werden soll. <br>
-Unter *Ziel* tragen Sie die  gewünschte Nebenstelle [3] ein und bestätigen mit "SPEICHERN" [4]. <br>
+Wenn Sie auf **+ EINTRAG HINZUFÜGEN** [2] klicken, können Sie die Ziffer (0 bis 9 und default) auswählen, die dem Anrufer angeboten werden soll. <br>
+Unter **Ziel** tragen Sie die  gewünschte Nebenstelle [3] ein und bestätigen mit *SPEICHERN* [4]. <br>
 Damit ist Nebenstelle zugeordnet. Im Beispiel erreichen Sie also durch Wahl <br>
-der Ziffer "1" die Nebenstelle "bruehl" und <br> 
-mit der "2" die Nebenstelle "chorweiler". <br>
-"kalk" erreicht man durch Wählen der "3":
+der **Ziffer 1** die Nebenstelle *bruehl*, <br> 
+mit **Ziffer 2** die Nebenstelle *chorweiler* und <br>
+mit **Ziffer 3** die Nebenstelle *kalk*:
 
 ![Anrufmenue2](https://user-images.githubusercontent.com/98753538/160850022-5ade644d-12c3-4450-856b-9f4c246edfa0.jpg)
 
-Mit dem Eintrag "default" legen Sie ein Standardziel fest. Dieses wird angesteuert, wenn der Anrufer nicht innerhalb von 5 Sekunden eine Auswahl trifft.
+Mit dem Eintrag **default** legen Sie ein Standardziel fest. Dieses wird angesteuert, wenn der Anrufer nicht innerhalb von 5 Sekunden eine Auswahl trifft.
 
 ![image](https://user-images.githubusercontent.com/99875470/208917344-e72f0fd3-9000-4b12-92e8-6c1dd92e794c.png)
 
