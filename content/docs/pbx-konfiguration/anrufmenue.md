@@ -24,7 +24,7 @@ Die Einrichtung eines Anrufmenues erfordert zum einen die Konfiguration der Ausw
 
 ### Konfiguration der Auswahlmöglichkeiten
 
-Zuerst klicken Sie im Menue *PBX-Konfiguration* auf den Unterpunkt *Anrufmenue [1]* . Dann wählen Sie die Nebenstelle aus, für die Sie ein Anrufmenue zur Verfügung stellen möchten. Hier ist das *bruehl*: 
+Zuerst klicken Sie im Menue *PBX-Konfiguration* auf den Unterpunkt *Anrufmenue [1]* . Dann wählen Sie die Nebenstelle aus, für die Sie ein Anrufmenue zur Verfügung stellen möchten. Hier ist das *zollstock*: 
 
 ![Anrufmenue1](https://user-images.githubusercontent.com/98753538/160846360-54337494-1f96-4b50-80b8-d2e97e1faf83.jpg)
 
