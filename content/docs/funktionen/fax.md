@@ -74,11 +74,11 @@ Mit dieser Funktion können E-Mails als Fax versendet werden. Wenn Sie diese Fun
 
 ### 2.1 Konfiguration unter Faxeinstellungen
 
-Wurde die Funktion **"MAIL TO FAX"** aktiviert, sind verschiedene Konfigurationen möglich. Wenn Sie als Admin angemeldet sind, wählen Sie im Menue PBX-Konfiguration -> Nebenstellen (hier: Brühl) und klicken dann auf den Reiter **MAIL TO FAX**.
+Wurde die Funktion **MAIL TO FAX** aktiviert, sind verschiedene Konfigurationen möglich. Wenn Sie als Admin angemeldet sind, wählen Sie im Menue PBX-Konfiguration -> Nebenstellen (hier: Brühl) und klicken dann auf den Reiter *MAIL TO FAX*.
 
 ![Mail2Fax](https://github.com/user-attachments/assets/c7925846-506f-422c-ad09-be8c5b4a04d1)
 
-Sind Sie unter der Nebenstelle (hier: TIMS) eingeloggt, wählen Sie den Menuepunkt *Faxeinstellungen* und dort den Reiter **MAIL TO FAX**. 
+Sind Sie unter der Nebenstelle (hier: TIMS) eingeloggt, wählen Sie den Menuepunkt *Faxeinstellungen* und dort den Reiter *MAIL TO FAX*. 
 
 ![Mail2Fax Einstellungen](https://github.com/user-attachments/assets/2ed19120-8d67-4fcc-8493-dee0097a7152)
 
