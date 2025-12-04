@@ -43,25 +43,23 @@ Mit dem Eintrag **default** legen Sie ein Standardziel fest. Dieses wird angeste
 
 ### Aktivierung des Anrufmenues
 
-Das Anrufmenue wird mittels *Call-Forward-Funktion* aktiviert. Klicken Sie dafür auf den Menuepunkt *Kunden-Details [1]*, dann auf *Subscriber [2]* und bei der betreffenden Nebenstelle auf *Einstellungen [3]*. Hier ist das erneut *zollstock*:
+Das Anrufmenue wird mittels **Rufumleitung** aktiviert. Wählen Sie zunächst über das Menue PBX-Konfiguration -> Nebenstellen die entsprechende Nebenstelle aus (hier: Testnummer) und klicken dort auf den Reiter **RUFUMLEITUNGEN**. Nun wählen Sie + RUFUMLEITUNG HINZUFÜGEN und dann **Ständig**.
 
-![Anrufmenue_Aktivierung1](https://user-images.githubusercontent.com/98753538/161692092-8885b079-3d9e-4b35-be48-31ad5b803f99.jpg)
+![Anrufmenue_1](https://github.com/user-attachments/assets/a847ca93-8a2b-4e90-9284-7af4829fc988)
 
-Öffenen Sie nun das Menue *Call-Forwards* und entscheiden, unter welchen Bedingungen das Anrufmenue erreicht werden soll. Bei registrierter Nebenstelle sind dabei drei Fälle üblich (grün):
+Anschließend klicken Sie rechts auf die drei grünen Punkte (roter Pfeil) und wählen **Weiterleitung an das Anrufmenue** aus:
 
- * **Call Forward Unconditional** - generelle Anrufweiterleitung - dies wird der **Normalfall** sein <br>
- Bedingte Weiterleitungen zum Anrufmenü können sinnvoll sein, wenn z. B. bei Nichterreichbarkeit einer Nebenstelle dem Anrufer weitere mögliche Ziele angeboten werden sollen <br>
- **Vorsicht:** Im Zusammenspiel mit **Warteschlangen** kann die bedingte Aktivierung des Anrufmenues zu unerwünschten Ergebnissen führen 
- * *Call Forward Busy* - Anrufweiterleitung, wenn besetzt
- * *Call Forward Timeout* - Anrufweiterleitung nach eine bestimmten Zeitspanne
-  
- ![Anrufmenue_Auswahl Call Fowards2](https://user-images.githubusercontent.com/98753538/161062432-8a60e0e0-83ac-46ff-876a-e1bb67cc1e24.jpg)
+![Anrufmenue_2](https://github.com/user-attachments/assets/b7951c53-1990-4283-807a-4f624cf8160a)
 
-Der Sonderfall *Call Forward Unavailable* (gelb) kommt zum Tragen, falls die Nebenstelle nicht registriert und damit nicht erreichbar ist. <br>
-<br>
-Im Beispiel wurde *Call Forward Unconditional* also die generelle Anrufweiterleitung angeklickt. Anschließend wählen Sie unter den Destinationen den Punkt *Auto Attendant* [1] und schauen, ob das Aktivierungshäkchen bei *Enabled* [2] gesetzt ist. 
+Um direkt auf das Anrufmenue umzuleiten, sollten sie den mittleren Eintrag *Weitergeleitet zu 📞 Nummer* löschen. Dafür rechts auf die **drei grünen Punkte** klicken, *Entfernen* auswählen und die Frage "Ziel löschen?" mit OK bestätigen.
 
-![Anrufmenue_Auswahl Call Fowards Destin2](https://user-images.githubusercontent.com/98753538/161059358-8b507405-d193-409e-8dc7-7fb08781c4b5.jpg)
+![Anrufmenue_3](https://github.com/user-attachments/assets/7faf776d-df34-4b17-8be1-a7054fbbef8f)
+
+Damit haben Sie die *Rufumleitung zum Anrufmenue* erfolgreich eingerichtet.
+
+![Anrufmenue_4](https://github.com/user-attachments/assets/2646b9aa-964c-4838-81c6-cdc1c03493d5)
+ 
+
 
 Bevor Sie mit *Save* [4] speichern, können Sie mit dem Button *Advanced View* [3] weitere Funktionen/Bedingungen auswählen:
 
