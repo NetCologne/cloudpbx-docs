@@ -74,7 +74,11 @@ Mit dieser Funktion können E-Mails als Fax versendet werden. Wenn Sie diese Fun
 
 ### 2.1 Konfiguration unter Faxeinstellungen
 
-Wurde die Funktion "MAIL TO FAX" aktiviert, sind die Konfigurationen unter *Faxeinstellungen* möglich.
+Wurde die Funktion **"MAIL TO FAX"** aktiviert, sind verschiedene Konfigurationen möglich. Wenn Sie als Admin angemeldet sind, wählen Sie im Menue PBX-Konfiguration -> Nebenstellen (hier: Brühl) und klicken dann auf den Reiter **MAIL TO FAX**.
+
+![Mail2Fax](https://github.com/user-attachments/assets/c7925846-506f-422c-ad09-be8c5b4a04d1)
+
+Sind Sie unter der Nebenstelle (hier: TIMS) eingeloggt, wählen Sie den Menuepunkt *Faxeinstellungen* und dort den Reiter **MAIL TO FAX**. 
 
 ![Mail2Fax Einstellungen](https://github.com/user-attachments/assets/2ed19120-8d67-4fcc-8493-dee0097a7152)
 
@@ -82,7 +86,7 @@ Kontrollieren Sie zuerst den Schalter "Aktiv" [1].
 
 Darunter aktivieren Sie einen Geheimschlüssel (aktuell ist dieser mandatory!) mit Eingabe von **1_2_3_4_5_6** [2] 
 
-Falls Sie den Geheimschlüssel zeitweilig erneuern möchten, wählen Sie aus "täglich, wöchentlich oder monatlich" den Zeitraum (3a) ) aus und tragen die Mailadresse (3b) ein, die darüber informiert werden soll.
+Falls Sie den Geheimschlüssel zeitweilig erneuern möchten, wählen Sie aus "täglich, wöchentlich oder monatlich" den Zeitraum [3a] aus und tragen die Mailadresse [3b] ein, die darüber informiert werden soll.
 
 Unabhängig davon muss Punkt [4], die **Zugriffssteuerungsliste** (ACL=Access Control List), definiert werden. Klicken Sie dafür auf *+ ACL HINZUFÜGEN* und tragen folgende Berechtigungen zum Faxversandt ein: 
 
