@@ -202,7 +202,7 @@ Hinterlässt ein Anrufer eine Nachricht, erhalten sie anschließend eine E-Mail 
 
 ![Message Mail with Attachement](https://github.com/user-attachments/assets/640f4132-aef1-441c-a6f4-33c6295d6d92)
 
-In jedem Fall ist es sinnvoll, dass Sie bei diesen Einstellungen auch den unteren Punkt *Voicemail nach dem Senden der E-Mail-Benachrichtigung löschen* aktivieren. Damit vermeiden Sie, dass sich zu viele Voicemails ansammeln und der Speicher "überläuft".
+💡 In jedem Fall ist es sinnvoll, dass Sie bei diesen Einstellungen auch den unteren Punkt *Voicemail nach dem Senden der E-Mail-Benachrichtigung löschen* aktivieren. Damit vermeiden Sie, dass sich zu viele Voicemails ansammeln und der Speicher "überläuft".
 
 ### c) In der GUI 
 unter „Konversationen“ beim Punkt „Sprachnachrichten“ durch Klicken der Taste „Play“ (Pfeil): 
