@@ -196,7 +196,7 @@ Folgen Sie anschließend dem Menü und "Drücken Sie . . . die '1', für alte/ne
 
 Um eine Sprachnachricht als WAV-Datei zu erhalten, müssen Sie im Menü ANRUFBEANTWORTER den Punkt *Voicemail als Anhang in E-Mail-Benachrichtigung* aktivieren:
 
-![Anrufbeantworter aktivieren 2](https://github.com/user-attachments/assets/b8c48591-47b5-4e29-82cd-fede4a78fae8)
+![Message Mail with Attachement 2](https://github.com/user-attachments/assets/e3850d83-28e5-4556-82b3-1b3f197b90e2)
 
 In jedem Fall ist es sinnvoll, dass Sie bei diesen Einstellungen auch den unteren Punkt *Voicemail nach dem Senden der E-Mail-Benachrichtigung löschen* aktivieren. Damit vermeiden Sie, dass sich zu viele Voicemails ansammeln und der Speicher "überläuft".
 
