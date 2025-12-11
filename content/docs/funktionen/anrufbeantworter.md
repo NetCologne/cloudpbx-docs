@@ -172,9 +172,10 @@ Hat Ihnen jemand eine/mehrere Nachricht/en hinterlassen, bekommen Sie das auf zw
 ![Message Waiting Indicator](https://user-images.githubusercontent.com/98753538/194004796-a936a162-93b4-46e6-bba2-8045073749a2.png)
 
 ### b)	Benachrichtigung per E-Mail
-Falls Sie dies wünschen, tragen Sie in den Subscriber-Einstellungen Ihre E-Mail-Adresse ein:
 
-![Edit EMail](https://user-images.githubusercontent.com/98753538/194005083-c98072cb-b209-403e-8e0a-9372faae74de.jpg)
+Falls Sie dies wünschen, tragen Sie im Menü ANRUFBEANTWORTER im Punkt *E-Mail ändern* Ihre E-Mail-Adresse ein:
+
+![Message Mail 2](https://github.com/user-attachments/assets/11a40d8b-df4a-491b-bb81-00d2c8f0e170)
 
 Hinterlässt ein Anrufer eine Nachricht, erhalten sie anschließend eine solche E-Mail:
 
@@ -193,11 +194,11 @@ Folgen Sie anschließend dem Menü und "Drücken Sie . . . die '1', für alte/ne
 
 ### b) Per WAV-Datei aus der E-Mail. 
 
-![Message Mail with Attachement](https://user-images.githubusercontent.com/98753538/194005654-d0bb0ba9-09c2-400a-a544-ffe0f21db838.jpg)
+Um eine Sprachnachricht als WAV-Datei zu erhalten, müssen Sie im Menü ANRUFBEANTWORTER den Punkt *Voicemail als Anhang in E-Mail-Benachrichtigung* aktivieren:
 
-Voraussetzung dafür ist, dass Sie zuvor bei den Einstellungen nicht nur Ihre E-Mail-Adresse eingetragen sondern auch den Unterpunkt „Attach WAV in Email“ per Häkchen aktiviert haben (= yes):
+![Anrufbeantworter aktivieren 2](https://github.com/user-attachments/assets/b8c48591-47b5-4e29-82cd-fede4a78fae8)
 
-![Edit EMail Attachement](https://user-images.githubusercontent.com/98753538/194005789-460c79bf-f655-428b-b688-45312204d5e2.jpg)
+In jedem Fall ist es sinnvoll, dass Sie bei diesen Einstellungen auch den unteren Punkt *Voicemail nach dem Senden der E-Mail-Benachrichtigung löschen* aktivieren. Damit vermeiden Sie, dass sich zu viele Voicemails ansammeln und der Speicher "überläuft".
 
 ### c) In der GUI 
 unter „Konversationen“ beim Punkt „Sprachnachrichten“ durch Klicken der Taste „Play“ (Pfeil): 
