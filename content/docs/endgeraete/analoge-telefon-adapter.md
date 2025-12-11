@@ -154,3 +154,10 @@ Bei diesem Analog Telefon Adapter handelt es sich um die kleinere Version des HT
 
 Die Konfiguration des HT-802 erfolgt analog zum HT-814.
 Hinweis: Die Profil-Daten der Ports werden hier direkt unter den Tab's FXS Ports konfiguriert.
+
+## Grandstream HT-801 v2
+
+Bei diesem Analog Telefon Adapter handelt es sich um das Nachfolgemodell des HT-801. Es besitzt nur 1 analoge Phone-Buchse.
+![Anschluesse](https://github.com/user-attachments/assets/a1d60d60-33f0-44b7-b86f-1d1ce2e82503)
+
+
