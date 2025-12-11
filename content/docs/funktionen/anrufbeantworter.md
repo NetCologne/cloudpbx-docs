@@ -114,32 +114,22 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
 * ... die '\*'-Taste, wenn Sie Hilfe wünschen.“ <br>
 * ... die '#'-Taste, um das System zu verlassen.“ <br>
 
+
 ## 3.	Aktivierung mittels RUFUMLEITUNG IN DER CLOUD-PBX 
+
+Eine Rufumleitung können Sie über das Weg-Interface oder die Tastatur am Endgerät aktivieren.
 
 ### a.)	über das Web-Interface
 
+Siehe hierzu [Rufumleitungen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/). <br>
+
 Im Reiter "RUFUMLEITUNGEN" können Sie durch Klick auf die drei grünen Punkte (roter Pfeil) ein weiteres Menü öffnen und dort die Umleitung aktivieren bzw. deaktivieren:
 
-![Anrufbeantworter aktivieren](https://github.com/user-attachments/assets/2cf90db9-3d38-4596-81ff-3c1940b236ea)
+![Anrufbeantworter aktivieren 2](https://github.com/user-attachments/assets/1ce323f6-d213-47eb-a650-eafb3dfc8c4f)
 
 Wurde deaktivert, erscheint die Rufumleitung *ausgegraut* (bei Aktivierung leuchtend weiß).
 
 ![Anrufbeantworter aktiv](https://github.com/user-attachments/assets/88174ba8-8bc2-420b-9aff-e596c42008fb)
-
-Klicken Sie zunächst auf den Menüpunkt Kunden-Details, dann auf Subscriber und bei der betreffenden Nebenstelle oder Gruppe auf Einstellungen. Öffnen Sie nun das Menü Call-Forwards und entscheiden, bei welcher Bedingung die Anrufweiterleitung greifen soll: <br>
-
-•	**Call Forward Unconditional** - generelle Anrufweiterleitung. <br>
-•	**Call Forward Busy** - Anrufweiterleitung, wenn besetzt <br>
-•	**Call Forward Timeout** - Anrufweiterleitung nach einer bestimmten Zeitspanne <br>
-•	**Call Forward Unavailable** kommt zum Tragen, falls die Nebenstelle nicht registriert/erreichbar ist. <br>
-
-Siehe hierzu auch [Rufumleitungen](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/). <br>
-
-Nachdem Sie beim gewünschten Call-Forward-Typ auf den Button „Edit“ geklickt haben, können Sie die Destination „Voicemail“ (1) auswählen, mit einem Häkchen bei Enabled (2) aktivieren und mit dem SAVE-Button (3) speichern. <br>
-
-![Call Forward Destinations1](https://user-images.githubusercontent.com/98753538/194002770-555766ee-23b6-48c4-81be-fdba5d7bb730.jpg)
-
-Bei (4) gelangen Sie zum [Advanced View](https://cloudpbx-doku.netcologne.de/docs/funktionen/anrufweiterleitung/#advanced-view). <br>
 
 ### b.)	über die Tastatur am Endgerät/Telefon
 Die einzelnen Call Forward Typen können durch Eingabe der einzelnen Feature Codes direkt am Endgerät aktiviert werden, wobei die Zielrufnummer in diesem Fall die Kennung der Voicemail - also die 2000 - ist. <br>
