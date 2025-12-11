@@ -198,6 +198,10 @@ Um eine Sprachnachricht als WAV-Datei zu erhalten, müssen Sie im Menü ANRUFBEA
 
 ![Message Mail with Attachement 2](https://github.com/user-attachments/assets/e3850d83-28e5-4556-82b3-1b3f197b90e2)
 
+Hinterlässt ein Anrufer eine Nachricht, erhalten sie anschließend eine E-Mail mit WAV-Datei im Anhang:
+
+![Message Mail with Attachement](https://github.com/user-attachments/assets/640f4132-aef1-441c-a6f4-33c6295d6d92)
+
 In jedem Fall ist es sinnvoll, dass Sie bei diesen Einstellungen auch den unteren Punkt *Voicemail nach dem Senden der E-Mail-Benachrichtigung löschen* aktivieren. Damit vermeiden Sie, dass sich zu viele Voicemails ansammeln und der Speicher "überläuft".
 
 ### c) In der GUI 
