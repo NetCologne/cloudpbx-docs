@@ -170,6 +170,7 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 ![Login](https://github.com/user-attachments/assets/b0566a3d-db15-4619-880f-c52d6c16d29c)
 
 Username lautet "admin"; das Password entnehmen Sie bitte dem Aufkleber auf der Unterseite des Gerätes ( und ändern es ggf. nach Ihren Wünschen )
+
 Einstellungen:
 System Settings.Time and Language:
 
