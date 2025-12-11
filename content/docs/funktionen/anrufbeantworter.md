@@ -65,17 +65,6 @@ Sie können die elektronischen Ansagen im Menü „Anrufeinstellungen“ unter �
 
 ![Anrufbeantworter2](https://github.com/NetCologne/cloudpbx-docs/assets/99875470/f085e914-42ef-4780-8565-d7fb89560ac5)
 
-
-Zur Erinnerung: Wenn Sie als Administrator angemeldet sind, steht Ihnen der (zusätzliche) Menüpunkt „Kunden-Details“ zur Verfügung. Auch von hier aus gelangen Sie zu den „Subscribern“ und können dort „Einstellungen“ und den Menüpunkt „Voicemail and Voicebox“ auswählen bzw. öffen:  <br>
-
-![Voicemail and Voicebox](https://github.com/user-attachments/assets/2ae19924-772b-4f42-8390-59f5894da13d)
-
-Bis auf die Sprachauswahl stehen Ihnen die gleichen Punkte (1-8, siehe oben) zur Verfügung.
-
-![Voicemail Ansagen2](https://user-images.githubusercontent.com/98753538/193989610-cfa67140-24e2-4752-a160-a337a9ff319f.jpg)
-
-Ist die entsprechende Ansage bereits vorhanden, können Sie diese herunterladen, löschen oder mit dem Button „Edit“ eine neue laden.
-
 ### b.)	über die Tastatur am Endgerät/Telefon
 Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwahl der Ziffern 2 0 0 0 gelangen Sie in das Sprachbox-Menü der Cloud-PBX. Dieses ist folgendermaßen aufgebaut: „Drücken Sie... <br>
 
