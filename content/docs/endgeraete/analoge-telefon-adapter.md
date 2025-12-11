@@ -160,4 +160,12 @@ Hinweis: Die Profil-Daten der Ports werden hier direkt unter den Tab's FXS Ports
 Bei diesem Analog Telefon Adapter handelt es sich um das Nachfolgemodell des HT-801. Es besitzt nur 1 analoge Phone-Buchse.
 ![Anschluesse](https://github.com/user-attachments/assets/a1d60d60-33f0-44b7-b86f-1d1ce2e82503)
 
+#### Zugangsdaten und Firmware
+
+Das Grandstream HT-801 v2 wird nicht automatisch provisioniert. Die Konfiguration ist daher selbst vorzunehmen.
+Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAdresse, wobei die IP Adresse im lokalen Router ausgelesen werden kann:
+![Login](https://github.com/user-attachments/assets/b0566a3d-db15-4619-880f-c52d6c16d29c)
+
+
+Username lautet "admin"; das Password entnehmen Sie bitte dem Aufkleber auf der Unterseite des Gerätes ( und ändern es ggf. nach Ihren Wünschen )
 
