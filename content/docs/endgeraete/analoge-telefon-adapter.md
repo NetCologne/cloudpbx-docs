@@ -172,6 +172,7 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 Username lautet "admin"; das Password entnehmen Sie bitte dem Aufkleber auf der Unterseite des Gerätes ( und ändern es ggf. nach Ihren Wünschen )
 
 Einstellungen:
+
 System Settings.Time and Language:
 
 ![time_and_language_settings_gesamt_commented](https://github.com/user-attachments/assets/9e8b706f-daf7-4603-9d37-3ff11cec445b)
