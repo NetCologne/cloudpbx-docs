@@ -130,24 +130,3 @@ Geben Sie anschließend die Zielnummer ein, auf die Sie umleiten möchten und ti
 
 >⚠️**Wichtig:** <br> 
 >Die hier beschriebene Rufumleitung ist nur im Endgerät konfuguriert und auch nur hier zu aktivieren bzw. deaktivieren. Die Einstellungen Ihrer Cloud PBX bleiben davon unberührt.
-
-
-#### Besonderheit: Call-Forward in der PBX-Gruppe
-
-Standardmäßig werden Rufumleitungen (Call-Forward) beim Anrufen einer Gruppe ignoriert. Die entsprechende Einstellung befindet sich unter *Kunden-Details* -> *Einstellungen* -> *Cloud PBX*
-
-![Rufumleitung Ignore Hunting](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/60486160-9feb-439c-9c4c-43ede7e103dc)
-
-Wenn Sie dennoch eine Rufumleitung bei einem Gruppen-Teilnehmer (Subscriber) einrichten möchten, klicken Sie auf *Edit* und entfernen das Häkchen im Feld *Value*. 
-
-Wird dennoch gewümscht, dass die Rufumleitung (Call-Forward) bei einem bestimmten Teilnehmer (Subscriber) ignoriert wird, so kann man diesen unter *Kunden-Details* -> *Einstellungen* -> *Subscriber* auswählen und seine *Einstellungen* anpassen.
-
-![Rufumleitung Subscriber](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/1fc78c90-5618-4500-a81f-6d56db7f9d7e)
-
-Bei den *Einstellungen* den Unterpunkt *Cloud PBX* öffnen.
-
- ![Rufumleitung Subscriber Cloud PBX](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a6afcd6f-990e-4ab9-85a7-b7ccfac78dc2)
-
-und das entsprechende Häkchen zum Ignorieren der Rufumleitung (Call Forward) setzen:
-
-![Rufumleitung Subscriber Ignore Hunting](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/a1141e3a-1bc1-4269-925f-f8c1458da1a0)
