@@ -168,4 +168,27 @@ Der Zugriff auf das WebInterface erfolgt über einen Web Browser mit http://IPAd
 
 
 Username lautet "admin"; das Password entnehmen Sie bitte dem Aufkleber auf der Unterseite des Gerätes ( und ändern es ggf. nach Ihren Wünschen )
+Einstellungen:
+System Settings.Time and Language:
+![time_and_language_settings_gesamt_commented](https://github.com/user-attachments/assets/9e8b706f-daf7-4603-9d37-3ff11cec445b)
+
+System Settings.Ringtone:
+![ringtone_gesamt_commented](https://github.com/user-attachments/assets/03ced2dc-c199-4b25-9fcd-fb600b2508b3)
+
+Port Settings.FXS Port.General Settings:
+![general settings_gesamt_commented](https://github.com/user-attachments/assets/1d978b3a-2489-409e-9211-12156a4ac9ec)
+
+Port Settings.FXS Port.SIP Settings:
+![sip settings gesamt_commented](https://github.com/user-attachments/assets/47321a9a-f6da-438e-923d-98c68c983e49)
+
+Port Settings.FXS Port.Codec Settings:
+![codec settings gesamt_commented](https://github.com/user-attachments/assets/28cd1749-e8e3-4020-845c-4d99c8a19064)
+
+Port Settings.FXS Port.Analog Signal Line Configuration:
+![analog signal line configuration gesamt_commented](https://github.com/user-attachments/assets/cdb17b65-86e3-4cf3-8e83-0ff5b05472af)
+
+
+
+
+
 
