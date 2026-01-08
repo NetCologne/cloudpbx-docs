@@ -15,9 +15,8 @@
   force = true
 
 [build.environment]
-  NODE_VERSION = "16.13.1"
+  NODE_VERSION = "17.0.1"
   NPM_VERSION = "8.1.2"
-  HUGO_VERSION = "0.125.1"
 
 [context.production]
   command = "npm run build"
