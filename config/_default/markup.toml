@@ -1,4 +1,4 @@
-defaultMarkdownHandler = "goldmark"
+defaultMarkdownHandler = "blackFriday"
 
 [highlight]
   codeFences = false
