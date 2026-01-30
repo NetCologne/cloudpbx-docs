@@ -117,7 +117,7 @@ Mit Drücken der Taste „Briefumschlag“ (bei Yealink-Telefonen) oder Tastenwa
 
 ## 3.	Aktivierung mittels RUFUMLEITUNG IN DER CLOUD-PBX 
 
-Eine Rufumleitung können Sie über das Weg-Interface oder die Tastatur am Endgerät aktivieren.
+Eine Rufumleitung können Sie über das Web-Interface oder die Tastatur am Endgerät aktivieren.
 
 ### a.)	über das Web-Interface
 
