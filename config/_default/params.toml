@@ -5,7 +5,7 @@ title = "NetCologne Cloud PBX"
 titleSeparator = "-"
 titleAddition = "Dokumentation"
 description = "Hier bekommen Sie Hilfe und Schritt-für-Schritt-Anleitungen zu Ihrem NetCologne Cloud PBX Konto."
-logo = "/nclogo.svg"
+logo = "static/nclogo.svg"
 
 ## Open Graph + Twitter Cards
 images = ["nctitle.jpg"]
