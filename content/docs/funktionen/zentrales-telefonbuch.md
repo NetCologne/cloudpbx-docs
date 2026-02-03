@@ -27,7 +27,7 @@ Einträge und Änderungen im zentralen Telefonbuch können nur vom Administrator
 
 Name und Telefonnummer können manuell über die GUI der Cloud PBX eingetragen werden. Diese Methode ist für wenige Einträge bzw. Änderungen sinnvoll. Der Administrator wählt im Menü den Eintrag "PBX-Konfiguration" und dann "Telefonbuch des Kunden".
 
-![phonebook](https://github.com/user-attachments/assets/06fa7c27-e743-422a-ae42-f920dea5ade6)
+![phonebook_update](https://github.com/user-attachments/assets/b8d97e72-2958-414d-98d4-1635b138d059)
 
 In diesem Beispiel ist der Eintrag "Mustername1 Vorname" bereits vorhanden. Weitere Einträge können durch Klick auf (1) "+ TELEFONBUCH HINZUFÜGEN" vorgenommen werden.
 
