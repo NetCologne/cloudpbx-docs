@@ -44,7 +44,7 @@ Mit dem Eintrag **default** legen Sie ein Standardziel fest. Dieses wird angeste
 
 Das Anrufmenü wird mittels **Rufumleitung** aktiviert. Wählen Sie zunächst über das Menü PBX-Konfiguration -> Nebenstellen die entsprechende Nebenstelle aus (hier: Testnummer) und klicken dort auf den Reiter **RUFUMLEITUNGEN**. Nun wählen Sie + RUFUMLEITUNG HINZUFÜGEN und dann **Ständig**.
 
-![Anrufmenue_1](https://github.com/user-attachments/assets/a847ca93-8a2b-4e90-9284-7af4829fc988)
+![Anrufmenue_1_update](https://github.com/user-attachments/assets/2bcabf2c-8bdd-4a65-8e68-e36c013a1f76)
 
 Anschließend klicken Sie rechts auf die drei grünen Punkte (roter Pfeil) und wählen **Weiterleitung an das Anrufmenü** aus:
 
