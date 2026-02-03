@@ -93,7 +93,7 @@ Soll die Rufumleitung aber bei einer bestimmten Nebenstelle dennoch ignoriert we
 
 Dafür einfach bei *Anrufweiterleitung bei Anrufen . . . ignorieren* den Schiebeschalter aktivieren (nach rechts -> wird grün):
 
-![Rufumleitung11](https://github.com/user-attachments/assets/334246ec-933d-458c-ad3b-843aae64a182)
+![Rufumleitung11 _updatejpg](https://github.com/user-attachments/assets/aa3342e4-43d1-4af6-92d4-6f4929c5b2c6)
 
 Ist bei der Nebenstelle/Gruppe der Schalter zum *Ignorieren der Rufumleitung* deaktiviert, greift die übergeordnete Einstellung des Kunden (s.o. Kundenpräferenzen).
 
