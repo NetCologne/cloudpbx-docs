@@ -83,7 +83,7 @@ Denkbar ist, dass es zu Bürozeiten erst bei einer Nebenstelle oder Gruppe kurz 
 
 Standardmäßig werden Rufumleitungen beim Anrufen einer Gruppe ignoriert. Die entsprechende Kundeneinstellung befindet sich für den **Admin** unter *PBX-Konfiguration* -> *Kundenpräferenzen*:
 
-![Rufumleitung9](https://github.com/user-attachments/assets/f2502bd9-5ce4-4d85-a03e-258c862a3c03)
+![Rufumleitung9_update](https://github.com/user-attachments/assets/8dbaa0eb-96dd-4291-b1a8-0cf7801fa620)
 
 Wenn Sie dennoch eine Rufumleitung bei einer Nebenstelle/Gruppe einrichten möchten, können Sie hier die Funktion *ausklicken* (Schaltknopf nach links -> wird weiß). 
 
