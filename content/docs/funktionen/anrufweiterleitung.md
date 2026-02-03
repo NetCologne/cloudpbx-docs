@@ -20,7 +20,7 @@ Um eine Rufumleitung einzurichten, wählt der **Admin** innerhalb der PBX-Konfig
 
 Klicken Sie im Menü der Nebenstelle (hier Kalk) auf den Punkt *Anrufeinstellungen* und dann auf *Rufumleitung* (roter Pfeil)
 
-![Rufumleitung8](https://github.com/user-attachments/assets/2e9be969-ce4a-4f26-a9c9-a12af3257211)
+![Rufumleitung8_update](https://github.com/user-attachments/assets/1c1a149a-3067-4551-8206-2e18e29f2e27)
 
 
 ## RUFUMLEITUNG
