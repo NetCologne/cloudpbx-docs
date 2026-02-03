@@ -173,7 +173,7 @@ Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzl
 
 So sieht z.B. die "Zentrale", welcher Kollege gerade angerufen wird oder kann einen ankommenden Anruf übernehmen:
 
-![cloudpbx_busylampfield1](https://user-images.githubusercontent.com/98753538/157256356-a871d273-04d9-4c8c-844e-6dc818de1f0c.jpg)
+![cloudpbx_busylampfield1_update](https://github.com/user-attachments/assets/4f60d252-ea98-4beb-ab40-fd6f4ac48fb9)
 
 Weitere Funktionen für die Tastenbelegung sind *Kurzwahl, Forward oder Transfer*.
 
