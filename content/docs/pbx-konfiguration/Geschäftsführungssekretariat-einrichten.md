@@ -27,12 +27,12 @@ Damit ist die Rufnummer 492212615245417 als Geschäftsführungssekretariat "defi
 Damit diese Konfiguration genutzt werden kann, muss nun noch für die Nebenstelle *porz* eine *Rufumleitung zum Geschäftsführungssekretariat* eingerichtet werden. 
 Dafür unter **PBX-Konfiguration** den Punkt **Nebenstellen** anklicken und *porz* auswählen.
 
-![GF-Sekretärin hinzufügen](https://github.com/user-attachments/assets/48a073b7-ef58-44ee-ad9b-6d8bbdac26ee)
+![GF-Sekretärin hinzufügen_update](https://github.com/user-attachments/assets/5f62b0a5-5fb8-429f-9b4f-43a48aba0470)
 
 Nun den Punkt **Rufumleitungen** auswählen und **+ RUFUMLEITUNG HINZUFÜGEN** anklicken und im Menue *ständig* auswählen.
 Im nächsten Schritt rechst neben *Ständig und Y Bedingung* auf die **drei grünen Punkte** klicken und *Weiterleiten an Geschäftsführungssekretariat* auswählen.
 
-![GF-Sekretärin weiterleiten](https://github.com/user-attachments/assets/83da8776-3206-41c6-accf-614a92fc142f)
+![GF-Sekretärin weiterleiten_update](https://github.com/user-attachments/assets/f2622641-c421-4216-bc27-717cc682c5a6)
 
 Um direkt auf das Geschäftsführungssekretariat umzuleiten, sollten sie den mittleren Eintrag *Weitergeleitet zu 📞 Nummer* löschen. Dafür rechts auf die **drei grünen Punkte** klicken, *Entfernen* auswählen und die Frage "Ziel löschen?" mit OK bestätigen.
 
