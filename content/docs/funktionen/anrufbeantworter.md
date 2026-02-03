@@ -209,4 +209,4 @@ Hinterlässt ein Anrufer eine Nachricht, erhalten sie anschließend eine E-Mail 
 ### c) In der GUI 
 unter „Konversationen“ beim Punkt „Sprachnachrichten“ durch Klicken der Taste „Play“ (Pfeil): 
 
-![Message2](https://user-images.githubusercontent.com/98753538/194005901-19b9b576-4b01-44c1-9afc-69f8fadc88b5.jpg)
+![Message2_update](https://github.com/user-attachments/assets/f0e9ebbb-7f15-4f77-82f7-43f7dfb4d784)
