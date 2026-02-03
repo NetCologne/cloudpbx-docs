@@ -23,7 +23,7 @@ Die entsprechende Funktion wird über Weiterleitung der Nebenstelle auf die ents
 
 Zur Einrichtung einer  Nebenstellen klicken Sie bitte im Punkt "PBX-Konfiguration" auf *Nebenstellen* und anschließend auf *+ NEBENSTELLE HINZUFÜGEN* <br>
 
-![NST hinzufügen1](https://github.com/user-attachments/assets/40772df4-7fc0-42cc-b067-94ebbfa06b7a)
+![NST hinzufügen1_update](https://github.com/user-attachments/assets/21d4925d-0c65-4852-920e-a5f1fb93f2fd)
 
 Im nachfolgenden Menue werden anschließend
 
