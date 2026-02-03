@@ -14,7 +14,7 @@ Mit der Cloud PBX können Sie Ihre Verfügbarkeit für eingehendene Anrufe autom
 
 Um eine Rufumleitung einzurichten, wählt der **Admin** innerhalb der PBX-Konfiguration den Unterpunk *Nebenstelle [1]* oder *Gruppe [2]* und trifft dort seine Auswahl - hier *Nebenstelle kalk*. Dann klickt er auf den Reiter *Rufumleitungen* (roter Pfeil):
 
-![Rufumleitung1](https://github.com/user-attachments/assets/9a882997-a0f4-4e7a-8f9b-8f6bcea4f4da)
+![Rufumleitung1_update](https://github.com/user-attachments/assets/e20f0771-a968-4584-b41f-9affd360eee3)
 
 ## 2. Einrichtung in der Cloud PBX über das Web-Interface (Anwender)
 
