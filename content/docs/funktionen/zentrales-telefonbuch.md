@@ -47,7 +47,7 @@ Mustername3, +492214713<br>
 
 Beim Hochladen muss dann die gewünschte Datei ausgewählt werden. Außerdem muss festgelegt werden, ob die vorhandenen Daten im Telefonbuch gelöscht werden sollen. In diesem Fall ist der Punkt „Vorhandenes bereinigen“ auszuwählen.
 
-![phonebook_csv](https://github.com/user-attachments/assets/f66db0eb-a09b-4bf9-a643-2e9305442882)
+![phonebook_csv_update](https://github.com/user-attachments/assets/2a76bf5f-c72e-4791-92c3-7f87ab7eb6a2)
 
 Wird diese Funktion nicht aktiviert, werden die Zeilen aus der CSV-Datei zusätzlich in das Telefonbuch eingetragen. Diese Methode eignet sich sehr gut, um eine größere Anzahl zusätzlicher Rufnummern einzutragen.
 
