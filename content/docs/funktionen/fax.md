@@ -10,7 +10,7 @@ toc: true
 
 Mit Ihrer Cloud PBX können Sie sich das klassische Faxgerät sparen. Die Faxfunktion ermöglicht den Versand von digitalen Faxen gleichermaßen wie deren Empfang. Neben einer E-Mail-Adresse brauchen Sie lediglich eine *Nebenstelle* mit Faxnummer. In unserem Beispiel lautet sie TESTNUMMER. 
 
-![Faxeinstellungen1](https://github.com/user-attachments/assets/2e497804-d787-4b2e-8567-05c162098c09)
+![Faxeinstellungen1_update](https://github.com/user-attachments/assets/71324e66-a890-44ce-9451-f89fbcd5a37c)
 
 ## 1. FAX TO MAIL UND SENDFAX
 
