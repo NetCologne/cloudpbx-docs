@@ -13,7 +13,7 @@ toc: true
 Um dem Anrufer die Wartezeit bis zum Durchschalten zu verkürzen, kann in der Cloud-PBX eine *Ansage vor Melden* und/oder ein *individueller Klingelton (RingBackTone)* gespielt werden. 
 Ist dies gewünscht, muss der **Administrator** zunächst diese Features für die Nebenstelle oder Gruppe aktivieren. Dies geschieht per Schiebeschalter unter „PBX-Konfiguration -> Kundenpräferenzen:
 
-![image](https://github.com/user-attachments/assets/6e1a2fc4-c2e0-4dea-9c89-3672cd35b9b8)
+![cloudpbx_konfiguration_AnsagevM_update](https://github.com/user-attachments/assets/e5c2bd75-d042-444b-99bb-49e2b517b3b5)
 
 Anschließend **muss** das Soundset konfiguriert werden („PBX- Konfiguration -> Sound Sets -> early media“). Hier werden die
 
