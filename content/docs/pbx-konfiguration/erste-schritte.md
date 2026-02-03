@@ -28,7 +28,7 @@ Sie befinden sich nun in der Administrator-Maske der CloudPBX. Das Dashboard lie
 
 ## PBX-Konfiguration
 
-![cloudpbx_konfiguration_update](https://github.com/user-attachments/assets/c23ea248-e811-489d-8eaa-30cf646b4e5d)
+![cloudpbx_konfiguration_update2](https://github.com/user-attachments/assets/69864ec4-1765-433e-af73-c02e0cfaad3b)
 
 
 Gehen Sie bei der Einrichtung Ihrer Telefonanlage am besten wie folgt vor:
