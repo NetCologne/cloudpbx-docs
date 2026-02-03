@@ -80,7 +80,7 @@ Wurde die Funktion **MAIL TO FAX** aktiviert, sind verschiedene Konfigurationen 
 
 Sind Sie unter der Nebenstelle (hier: TIMS) eingeloggt, wählen Sie den Menuepunkt *Faxeinstellungen* und dort den Reiter *MAIL TO FAX*. 
 
-![Mail2Fax Einstellungen](https://github.com/user-attachments/assets/2ed19120-8d67-4fcc-8493-dee0097a7152)
+![Mail2Fax Einstellungen_update](https://github.com/user-attachments/assets/e6c83208-6813-4ab0-83f2-47ce59a0d3a0)
 
 Kontrollieren Sie zuerst den Schalter "Aktiv" [1]. 
 
