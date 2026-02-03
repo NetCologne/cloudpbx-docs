@@ -49,7 +49,7 @@ Bei Inhalt (6) können Sie Ihre Nachricht in Textform eingeben. Darunter besteht
 
 ### 1.4 Konversationen
 
-![Fax Konversationen](https://user-images.githubusercontent.com/98753538/162376562-8a9de5c1-bcb7-4dab-853a-dca5c1bfff9e.jpg)
+![Fax Konversationen_update](https://github.com/user-attachments/assets/cc1ee48f-cb85-46e1-937a-36449e274044)
 
 Im Menuüpunkt Konversationen können Sie sehen, welche Faxe Sie versendet bzw. erhalten haben. Mit Filtern können Sie den Zeitraum eingrenzen. Außerdem besteht hier die Möglichkeit, die Faxe herunterladen. 
 
