@@ -52,7 +52,7 @@ Der Anrufer erhält eine Begrüssungsansage und eine Information, an welcher Ste
 
 ### 5. Sound-Sets <br>
 Die *Soundsets* sind vorkonfiguriert, müssen aber entsprechend Ihren Anforderungen angepasst werden. Dies gilt insbesondere für die Ansagen des Anrufmenüs. Sie können hier aber auch die *Wartemusik* anpassen oder *"OutOfOffice" Ansagen* definieren. Wie Sie bei der Konfiguration vorgehen, steht hier: [Soundsets](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sound-sets/). <br>
-Achtung: *Individuelle Ansagen* für die Voicebox werden hier nicht bereitgestellt. Diese sollen durch den Besitzer der Nebenstelle definiert werden. Dazu ist der Loging auf dem direkten Nebenstellenaccount erforderlich. Alternativ kann der Administrator diese Einstellungen auch über den Menüpunkt "Kundendetails" vornehmen. 
+Achtung: *Individuelle Ansagen* für die Voicebox werden hier nicht bereitgestellt. Diese sollen durch den Besitzer der Nebenstelle definiert werden. Dazu ist der Loging auf dem direkten Nebenstellenaccount erforderlich. Alternativ kann der Administrator diese Einstellungen vornehmen. 
 
 ### 6. Geschäftsführungssekretariat <br>
 [Sekretariat einrichten](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/sekretariat-einrichten/). <br>
