@@ -46,9 +46,9 @@ Setzen Sie bei *Force CLI* (3) das Häkchen, um sicher zu stellen, dass immer di
 
 Ist der Kunde Eigentümer einer weitereren Nummer und hat er diese bei Auftragserteilung der NetCologne mitgeteilt, kann diese unter *Alias-Nummern* (4) ausgewählt und zugewiesen werden. Die Nebenstelle ist dann ebenfalls unter der Alias-Nummer erreichbar. <br>
 
-Das *Web-Passwort* (5b) wird benötigt, wenn der User eine Nebenstelle per Web-Interface konfigurieren - also Einrichten von Anrufweiterschaltungen, Kurzwahlen etc. - können soll. <br>
+Das *Web-Passwort* (5b) wird benötigt, wenn der User eine Nebenstelle per Web-Interface konfigurieren - also Einrichten von Anrufweiterschaltungen, Kurzwahlen etc. können soll. <br>
 
-Das *SIP-Passwort* (6b) ist erforderlich, wenn Endgeräte – also Telefone oder Sip Clients etc. – manuell provisioniert werden sollen. <br>
+Das *SIP-Passwort* (6b) ist erforderlich, wenn Endgeräte, also Telefone oder Sip Clients etc., manuell provisioniert werden sollen. <br>
 
 Grundsätzlich kann sowohl der Administrator als auch der User die entsprechenden Passwörter ändern und genau dabei auch wieder einsehen. <br>
 
