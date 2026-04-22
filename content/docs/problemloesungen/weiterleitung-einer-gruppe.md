@@ -13,3 +13,6 @@ Bei der hier beschriebenen Funktion handelt es sich um eine Sonderlösung, welch
 Hier wird eine Lösung beschrieben, wie eine Gruppe durch einen Mitarbeiter, welcher nicht selbst Mitglied der Gruppe ist, auf eine dedizierte 
 Nummer ( zB. eine Handy-Nummer ) umgeleitet werden kann. Die Aktivierung / Deaktivierung der Weiterleitung liegt jeweils auf einer Kurzwahl-Taste
 mit entsprechendem Beschriftungs-Label im Telefon und kann damit per "Knopfdruck" ein- oder ausgeschaltet werden.
+## 1. Konfiguration via WEB-UI 
+
+## 2. Konfiguration via Telefon-UI ( zB. Yealink T53W ) 
