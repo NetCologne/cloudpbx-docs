@@ -9,7 +9,7 @@ toc: true
 ---
 
 ## Weiterleitung einer Gruppe
-Bei der hier beschriebenen Funktion handelt es sich um eine Sonderlösung, welche unter bestimmte Umständen sehr zweckmäßig sein kann.
+Bei der hier beschriebenen Funktion handelt es sich um eine Sonderlösung, welche unter bestimmten Umständen sehr zweckmäßig sein kann.
 Hier wird eine Lösung beschrieben, wie eine Gruppe durch einen Mitarbeiter, welcher nicht selbst Mitglied der Gruppe ist, auf eine dedizierte 
 Nummer ( zB. eine Handy-Nummer ) umgeleitet werden kann. Die Aktivierung / Deaktivierung der Weiterleitung liegt jeweils auf einer Kurzwahl-Taste
-mit entsprechendem Beschriftungs-Label im Telefon und kann damit per "Knopfdruck" bedient werden.
+mit entsprechendem Beschriftungs-Label im Telefon und kann damit per "Knopfdruck" ein- oder ausgeschaltet werden.
