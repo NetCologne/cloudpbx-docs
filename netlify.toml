@@ -32,6 +32,7 @@
 
 [context.next.environment]
   HUGO_ENV = "next"
+  HUGO_VERSION = "0.92.0"
 
 [dev]
   framework = "#custom"
