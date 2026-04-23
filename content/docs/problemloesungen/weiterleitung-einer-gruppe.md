@@ -11,19 +11,21 @@ toc: true
 Bei der hier beschriebenen Funktion handelt es sich um eine Sonderlösung, welche unter bestimmten Umständen sehr zweckmäßig sein kann.
 Hier wird eine Lösung beschrieben, wie eine Gruppe durch einen Mitarbeiter, welcher nicht selbst Mitglied der Gruppe ist, auf eine dedizierte 
 Nummer ( zB. eine Handy-Nummer ) umgeleitet werden kann. Die Aktivierung / Deaktivierung der Weiterleitung liegt jeweils auf einer Kurzwahl-Taste
-mit entsprechendem Beschriftungs-Label im Telefon und kann damit per "Knopfdruck" ein- oder ausgeschaltet werden.
+mit entsprechendem Beschriftungs-Label im Telefon und kann damit per "Knopfdruck" ein- oder ausgeschaltet werden. 
+Die Konfiguration kann auf 2 Wegen erfolgen ( Konfiguration via WEB-UI oder Konfiguration via Telefon-UI ) 
+mit der Ausnahme der Telefon-Tasten-Beschriftung (Label), diese kann nur über die Telefon-UI erfolgen.
 ## 1. Konfiguration via WEB-UI 
-Schritt 1
+Schritt 1 ( Darstellung der Gruppe, welche weiterleitungsfähig gemacht werden soll )
 ![Gruppe_Zentrale](https://github.com/user-attachments/assets/3c80029f-c2c2-431e-bfc7-27f05e394d68)
-Schritt 2
+Schritt 2 ( Darstellung des Users, welcher die Weiterleitung aktivieren/deaktiviern können soll )
 ![Geräte_Konfig_0](https://github.com/user-attachments/assets/ad5e1627-baec-4142-af11-02a9145dadbe)
-Schritt 3
+Schritt 3 ( Darstellung des Users Voreinstellung )
 ![Geräte_Konfig_1](https://github.com/user-attachments/assets/34a09732-1b7b-4b68-9388-adbc965b4752)
-Schritt 4
+Schritt 4 ( Konfiguration der Line "Gruppe " auf Telefon des Users )
 ![Geräte_Konfig_2](https://github.com/user-attachments/assets/1057f995-19b4-40c6-9372-f577f46a2727)
-Schritt 5
+Schritt 5 ( Konfiguration der Kurzwahl für Call Forward der Gruppe aktivieren )
 ![Geräte_Konfig_3](https://github.com/user-attachments/assets/e58f2545-15e7-4240-b106-6392559b8a27)
-Schritt 6
+Schritt 6 ( Konfiguration der Kurzwahl für Call Forward der Gruppe deaktivieren )
 ![Geräte_Konfig_4](https://github.com/user-attachments/assets/2953ea6d-0df9-49bd-aac9-c69be2bd507a)
 
 ## 2. Konfiguration via Telefon-UI ( zB. Yealink T53W ) 
