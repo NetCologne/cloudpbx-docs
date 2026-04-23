@@ -21,7 +21,7 @@ Schritt 2 ( Darstellung des Users, welcher die Weiterleitung aktivieren/deaktivi
 ![Geräte_Konfig_0](https://github.com/user-attachments/assets/ad5e1627-baec-4142-af11-02a9145dadbe)
 Schritt 3 ( Darstellung des Users Voreinstellung )
 ![Geräte_Konfig_1](https://github.com/user-attachments/assets/34a09732-1b7b-4b68-9388-adbc965b4752)
-Schritt 4 ( Konfiguration der Line "Gruppe " auf Telefon des Users )
+Schritt 4 ( Konfiguration der Line "Gruppe / in diesem Fall: Zentrale " auf Telefon des Users )
 ![Geräte_Konfig_2](https://github.com/user-attachments/assets/1057f995-19b4-40c6-9372-f577f46a2727)
 Schritt 5 ( Konfiguration der Kurzwahl für Call Forward der Gruppe aktivieren )
 ![Geräte_Konfig_3](https://github.com/user-attachments/assets/e58f2545-15e7-4240-b106-6392559b8a27)
