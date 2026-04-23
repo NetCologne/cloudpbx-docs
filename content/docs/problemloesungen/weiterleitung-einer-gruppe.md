@@ -14,7 +14,7 @@ Nummer ( zB. eine Handy-Nummer ) umgeleitet werden kann. Die Aktivierung / Deakt
 mit entsprechendem Beschriftungs-Label im Telefon und kann damit per "Knopfdruck" ein- oder ausgeschaltet werden. 
 Die Konfiguration kann auf 2 Wegen erfolgen ( Konfiguration via CSC-UI oder Konfiguration via Telefon-UI ) 
 mit der Ausnahme der Telefon-Tasten-Beschriftung (Label), diese kann nur über die Telefon-UI erfolgen.
-## 1. Konfiguration via WEB-UI 
+## 1. Konfiguration via CSC-UI 
 Schritt 1 ( Darstellung der Gruppe, welche weiterleitungsfähig gemacht werden soll )
 ![Gruppe_Zentrale](https://github.com/user-attachments/assets/3c80029f-c2c2-431e-bfc7-27f05e394d68)
 Schritt 2 ( Darstellung des Users, welcher die Weiterleitung aktivieren/deaktiviern können soll )
