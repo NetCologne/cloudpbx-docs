@@ -31,7 +31,7 @@ Schritt 6 ( Konfiguration der Kurzwahl für Call Forward der Gruppe deaktivieren
 ## 2. Konfiguration via Telefon-UI ( zB. Yealink T53W ) 
 Schritt 1 ( Darstellung des Users Voreinstellung )
 ![1_Konto_User_Registrieren](https://github.com/user-attachments/assets/e8bae4e9-7500-45d8-a54f-e2a32288cce8)
-Schritt 2 ( Konfiguration der Line "Gruppe " auf Telefon des Users )
+Schritt 2 ( Konfiguration der Line "Gruppe / in diesem Fall: Zentrale " auf Telefon des Users )
 ![2_Konto_Gruppe_Registrieren](https://github.com/user-attachments/assets/72504092-dff8-4fb5-8c54-a497d3015cea)
 Schritt 3 ( Konfiguration der Kurzwahl für Call Forward der Gruppe aktivieren / deaktivieren )
 ![3_Line_Key_Konfigurieren](https://github.com/user-attachments/assets/a27374c6-2ac9-4677-a7fb-53fabb28c5f7)
