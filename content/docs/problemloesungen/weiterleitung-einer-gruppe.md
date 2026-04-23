@@ -24,6 +24,8 @@ Schritt 1
 <img width="1863" height="886" alt="Geräte_Konfig_2" src="https://github.com/user-attachments/assets/1057f995-19b4-40c6-9372-f577f46a2727" />
 Schritt 1
 <img width="1859" height="939" alt="Geräte_Konfig_3" src="https://github.com/user-attachments/assets/e58f2545-15e7-4240-b106-6392559b8a27" />
+Schritt 1
+<img width="1864" height="874" alt="Geräte_Konfig_4" src="https://github.com/user-attachments/assets/3a06af19-9bb0-4aee-8091-496ea284db28" />
 
 ## 2. Konfiguration via Telefon-UI ( zB. Yealink T53W ) 
 Schritt 1
