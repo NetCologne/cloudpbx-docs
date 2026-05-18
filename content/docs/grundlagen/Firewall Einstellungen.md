@@ -36,7 +36,13 @@ Die Übertragung der Audio Daten erfolgt verschlüsselt per SRTP.
 Dazu müssen die <br>
 **UDP Ports zwischen 5062 und 51000** <br>
 freigegeben werden<br>
+<br>
+<br>
 Die folgende **Source/Destination Adresse** ist freizugeben: <br>
+<br>
 Wildcard Domain ***.cloudpbx.netcologne.de** <br>
-**alternativ** Domain **firmenname.cloudpbx.netcologne.de** (das ist ihre individuelle Anmelde-Domain) <br>
-**notfalls** die Freigabe der IP Adresse **195.14.195.150**. Achtung: Es kann u.U. in der Zukunft zur Änderung dieser Adresse kommen <br>
+<br>
+alternativ: Domain **firmenname.cloudpbx.netcologne.de** (das ist ihre individuelle Anmelde-Domain) <br>
+<br>
+notfalls: die Freigabe der IP Adresse **195.14.195.150**. <br>
+Achtung: Es kann u.U. in der Zukunft zur Änderung dieser Adresse kommen <br>
