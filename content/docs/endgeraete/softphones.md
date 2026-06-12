@@ -64,12 +64,12 @@ toc: true
 
 Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für Windows, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
 
-💡**Hinweis**
+>💡**Hinweis**
 >Durch die Installation von NetCall Pro und dessen Verwendung mit einer Nebenstelle in der Cloud PBX fallen monatliche Gebühren an. Diese entnehmen Sie bitte der aktuellen Preisliste.
 
 #### Quelle der Installationsdatei
 
-Die Installationsdatei für die aktuelle Version 5.6.12.1 finden Sie unter folgendem Link:
+Die Installationsdatei für die aktuelle Version 5.6.12.1 finden Sie unter folgendem Link:<br>
 [NetCall Pro 5.6.12.1](https://shop.zoiper.com/download.php?id=8WVZA7U1BHZI0PH)
 
 #### Installation der Anwendung
@@ -106,7 +106,7 @@ Wenn folgendes Fenster erscheint, ist die Installation abgeschlossen.
 
 #### Konfiguration eines Benutzers
 
-Nach der Installation erfolgt die Konfiguration des gewünschten Benutzers. Dazu benötigen Sie den **WEB-Benutzer** mit der __vollständigen Domain__ und das zugehörige **WEB-Passwort**. Hierbei ist darauf zu achten, dass sich die Namen für SIP-Benutzer und WEB-Benutzer unterscheiden können.
+Nach der Installation erfolgt die Konfiguration des gewünschten Benutzers. Dazu benötigen Sie den **WEB-Benutzer** mit der **vollständigen Domain** und das zugehörige **WEB-Passwort**. Hierbei ist darauf zu achten, dass sich die Namen für SIP-Benutzer und WEB-Benutzer unterscheiden können.
 
 **Bitte beachten Sie, dass NetCall Pro nur einen SIP Benutzer der Cloud PBX unterstützt. Zusätzliche manuell angelegte SIP Konten stehen nach einem Neustart der Anwendung nicht mehr zur Verfügung.**
 
@@ -153,8 +153,9 @@ Wählen Sie nun die gewünschte CSV-Datei mit zugehöriger Codierung und Separat
 
 Im folgenden Fenster werden die Spalten der CSV-Datei den Feldern im Telefonbuch zugeordnet. Im gezeigten Beispiel besteht die CSV-Datei aus drei Spalten: Vorname, Nachname, Festnetz
 
-Max,Mustermann,+4912345678
-Petra,Musterfrau,+4987654321
+Max,Mustermann,+4912345678<br>
+Petra,Musterfrau,+4987654321<br>
+
 <img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/4142c338-ce6b-413f-a32f-114ea99c66cd" />
 
 Im letzten Schritt können Sie aus der CSV-Datei die zu importierenden Kontakte auswählen. Dabei gilt, dass die Kontakte grundsätzlich im Telefonbuch angelegt werden. Vorhandene Kontakte werden nicht überschrieben.
@@ -170,9 +171,11 @@ Außerdem muss in dem SIP Konto unter Einstellungen „BLF benutzen“ aktiviert
 <img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/e04c5373-0c83-494e-8343-5b88d7dc1f30" />
 
 Wird die Nebenstelle „tims“ angerufen, so wird das im Telefonbuch durch ein rotes Glockensymbol angezeigt.
+
 <img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/d86b520f-7122-4217-a3c3-1dc86b548406" />
 
 Sobald das Gespräch angenommen wurde, wird das durch einen blauen Kreis mit Telefonhörer angezeigt.
+
 <img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/92fd4498-0020-41a5-b990-97f885072a2d" />
 
 #### Pick-up
