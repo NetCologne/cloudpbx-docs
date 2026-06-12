@@ -60,6 +60,169 @@ toc: true
 
 ## Windows
 
+### NetCall Pro
+
+Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für Windows, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
+
+💡**Hinweis**
+>Durch die Installation von NetCall Pro und dessen Verwendung mit einer Nebenstelle in der Cloud PBX fallen monatliche Gebühren an. Diese entnehmen Sie bitte der aktuellen Preisliste.
+
+#### Quelle der Installationsdatei
+
+Die Installationsdatei für die aktuelle Version 5.6.12.1 finden Sie unter folgendem Link:
+[NetCall Pro 5.6.12.1](https://shop.zoiper.com/download.php?id=8WVZA7U1BHZI0PH)
+
+#### Installation der Anwendung
+
+Hier wird die Installation für Windows beschrieben.
+
+Nach dem Herunterladen der Installationsdatei wird diese durch einen Doppelklick gestartet.
+<img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/b87f83df-6a35-4cc4-8e4b-875bfb9c8f1a" />
+
+Wählen Sie in den folgenden Fenstern Ihre bevorzugte Einstellung. In der Regel empfiehlt es sich, die vorgegebenen Werte zu übernehmen.
+
+Setzen Sie das Häkchen, wenn Sie ein Icon auf dem Desktop verwenden möchten.
+<img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/4a037638-ad12-4ad7-a3ee-13acabb62cd5" />
+
+Hier können Sie das Installationsverzeichnis festlegen. Es wird empfohlen, das vorgeschlagene Verzeichnis zu verwenden.
+<img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/d272f0fa-f59f-407f-9637-b625d840c5dc" />
+
+Geben Sie dem Ordner im Startmenü einen sinnvollen Namen oder übernehmen Sie den Vorschlag.
+<img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/9e7ca044-f9c5-41f4-83cf-f3794068625f" />
+
+Wählen Sie hier aus, welche Version zu Ihrem Microsoft Office passt.
+<img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/50a0f101-e7db-4d76-83d1-a790f4d7acba" />
+
+Entscheiden Sie nun, ob der SIP Client für alle Benutzer des Rechners oder nur für den gerade angemeldeten Benutzer installiert werden soll.
+<img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/3352dba4-cb4c-4193-aeba-8695e674d5c0" />
+
+Nachdem alle Einstellungen ausgewählt wurden, kann nun die eigentliche Installation beginnen.
+<img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/2bb31cdf-f52f-4692-8103-6974540edf9e" />
+
+Bei der Installation werden bereits alle wichtigen Einstellungen für die Cloud PBX vorgenommen. Dadurch reduziert sich der Aufwand für die anschließende Konfiguration erheblich.
+
+Wenn folgendes Fenster erscheint, ist die Installation abgeschlossen.
+<img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/66a9cd1b-f6a0-4369-a4cb-74068b9d05fd" />
+
+#### Konfiguration eines Benutzers
+
+Nach der Installation erfolgt die Konfiguration des gewünschten Benutzers. Dazu benötigen Sie den **WEB-Benutzer** mit der __vollständigen Domain__ und das zugehörige **WEB-Passwort**. Hierbei ist darauf zu achten, dass sich die Namen für SIP-Benutzer und WEB-Benutzer unterscheiden können.
+
+**Bitte beachten Sie, dass NetCall Pro nur einen SIP Benutzer der Cloud PBX unterstützt. Zusätzliche manuell angelegte SIP Konten stehen nach einem Neustart der Anwendung nicht mehr zur Verfügung.**
+
+Für die folgenden Beispiele wird der WEB-Benutzer softphone@firmaid.cloudpbx.netcologne.de mit dem zugehörigen SIP-Benutzer softphone-sip@firmaid.cloudpbx.netcologne.de verwendet.
+
+Starten Sie NetCall Pro.
+
+Jetzt geben Sie den WEB-Benutzer mit der vollständigen **Domain** und das **WEB-Passwort** ein. Die Häkchen sollten gesetzt werden. Damit merkt sich NetCall Pro die Anmeldedaten und meldet den Benutzer automatisch beim Starten an der Cloud PBX an.
+<img width="284" height="687" alt="image" src="https://github.com/user-attachments/assets/2ff1d85a-3003-4960-bddf-ad0a8657c967" />
+
+Anschließend werden ein paar Tests durchlaufen, bei denen die Verfügbarkeit von Lautsprechern, Mikrofon und einer Videokamera geprüft werden. Um NetCall Pro nutzen zu können, ist der Zugriff auf mindestens den Lautsprecher und das Mikrofon erforderlich. Sofern vorhanden, kann an dieser Stelle auch ein Headset ausgewählt werden.
+
+Außerdem wird geprüft, ob in der Windows Defender Firewall Anpassungen erforderlich sind. Um NetCall Pro verwenden zu können, müssen Sie die Änderungen zulassen.
+<img width="695" height="488" alt="image" src="https://github.com/user-attachments/assets/eb60dcc4-350a-4fef-b4e5-f7145d82f1ce" />
+
+Damit ist NetCall Pro für die grundlegende Telefonie eingerichtet.
+
+#### Telefonbuch, Busy Lamp Field und Pick-up
+
+Im Telefonbuch können Sie Ihre individuellen Kontakte speichern. Zur Verwendung der „Busy Field Lamp“ (BLF) und von Pick-up ist dies zwingend notwendig. Das bedeutet, dass Sie die Nebenstellen Ihrer Cloud PBX, deren Status Sie angezeigt bekommen möchten, im Telefonbuch eintragen müssen. Gleiches gilt, wenn Sie ankommende Rufe von anderen Nebenstellen heranholen wollen (Pick-up).
+
+#### Telefonbuch (Eintrag manuell erstellen)
+
+Ein neuer Eintrag wird ins Telefonbuch aufgenommen, indem Sie auf das Plus-Zeichen neben den Reitern klicken und dann „Kontakt hinzufügen“ wählen.
+<img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/e224f6f0-cedd-4def-b288-6f809c72b35d" />
+
+In dem sich öffnenden Fenster können die Stammdaten wie Vorname, Name, Firma etc. eingetragen werden. Um nun auch die Telefonnummer eintragen zu können, muss ein zusätzliches Feld hinzugefügt werden.
+Hier wird als Feldtyp „Telefon“ gewählt und mit hinzufügen bestätigt. Bei internen Teilnehmern wird unter Telefon der SIP-Benutzer eingetragen. Als Beispiel wird hier „tims“ verwendet. 
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/95f4aa1a-ad14-47af-8335-aac8b5126059" />
+
+Als „Wählkonto“ wird der eigene SIP-Benutzer gewählt. Sofern es sich bei dem Telefonbucheintrag um eine Nebenstelle der eigenen Cloud PBX handelt, können Sie den Status dieser Nebenstelle als „Besetztlampenfeld (BLF)“ anzeigen lassen, indem Sie bei „Anwesenheitskonto“ ebenfalls den eigenen SIP-Benutzer auswählen. Diese Funktion wird im Kapitel „Busy Lamp Field“ genauer beschrieben.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/5d7ae9b9-adf9-496d-bb97-e3d57d5bf06f" />
+
+Beim Verlassen des Fensters müssen die Änderungen gespeichert werden.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/703f54a5-b8a0-4213-969d-3912b8678abb" />
+
+#### Telefonbuch (Kontakte importieren)
+
+Für eine größere Anzahl an Kontakten empfiehlt es sich, diese als CSV-Datei zu importieren. Dazu klicken Sie auf das Plus-Zeichen neben den Reitern und wählen „Kontakte importieren“ aus.
+<img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/ec8ff004-d6ec-4d65-a31f-7871c08beb92" />
+
+Wählen Sie nun die gewünschte CSV-Datei mit zugehöriger Codierung und Separator aus und bestätigen Sie die Auswahl durch Klick auf „Datei analysieren“.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/11dd01f5-af3a-45cf-9519-d4fc79b0df7e" />
+
+Im folgenden Fenster werden die Spalten der CSV-Datei den Feldern im Telefonbuch zugeordnet. Im gezeigten Beispiel besteht die CSV-Datei aus drei Spalten: Vorname, Nachname, Festnetz
+
+Max,Mustermann,+4912345678
+Petra,Musterfrau,+4987654321
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/4142c338-ce6b-413f-a32f-114ea99c66cd" />
+
+Im letzten Schritt können Sie aus der CSV-Datei die zu importierenden Kontakte auswählen. Dabei gilt, dass die Kontakte grundsätzlich im Telefonbuch angelegt werden. Vorhandene Kontakte werden nicht überschrieben.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/14e94ed1-11d9-46aa-8e06-d39728637207" />
+
+Nach dem Import erscheinen die neuen Kontakte sofort im Telefonbuch.
+<img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/b04c8b0b-7e78-4035-a672-f5f19d9df5e2" />
+
+#### Busy Lamp Field
+
+Voraussetzung für die Verwendung der Funktion „Busy Lamp Field“ ist der entsprechende Eintrag der Nebenstelle im Telefonbuch. Als Beispiel wird hier der Eintrag „tims“ verwendet. Siehe hierzu auch Kapitel Telefonbuch.
+Außerdem muss in dem SIP Konto unter Einstellungen „BLF benutzen“ aktiviert sein.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/e04c5373-0c83-494e-8343-5b88d7dc1f30" />
+
+Wird die Nebenstelle „tims“ angerufen, so wird das im Telefonbuch durch ein rotes Glockensymbol angezeigt.
+<img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/d86b520f-7122-4217-a3c3-1dc86b548406" />
+
+Sobald das Gespräch angenommen wurde, wird das durch einen blauen Kreis mit Telefonhörer angezeigt.
+<img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/92fd4498-0020-41a5-b990-97f885072a2d" />
+
+#### Pick-up
+
+Zur Verwendung von Pick-up muss der entsprechende Eintrag im Telefonbuch ergänzt werden, d.h. es muss ein benutzerdefiniertes Feld hinzugefügt werden. Das Feld kann individuell benannt werden. Entsprechend der Funktion wird hier „pick-up“ eingetragen.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/963f275b-edd9-4e04-a31f-82a6ebc2c99b" />
+
+Der Wählcode für Pick-up ist *99*tims. Als Wählkonto wird das eigene Konto ausgewählt. Das Anwesenheitskonto wird auf „Nicht verwenden“ gesetzt.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/80ad6bae-126f-438b-901b-5f78b11e000c" />
+
+Wird der Teilnehmer „tims“ angerufen, wird dies im Telefonbuch wie im Kapitel Busy Lamp Field beschrieben angezeigt. Zum Heranholen des Gesprächs klicken Sie zuerst auf den Hörer und anschließend auf „Pick-up“ in dem sich öffnenden Fenster.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/baedc814-f485-4cd6-8249-211d900e911b" />
+
+Wenn die Verbindung hergestellt ist, wird das folgende Fenster angezeigt und Sie können das Gespräch führen und weitere Funktionen, wie z.B. Stummschalten, Halten etc. verwenden.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/b434af74-a011-4a21-88dd-2ad5e2bd7d81" />
+
+### Verbinden
+
+#### Verbinden ohne Rückfrage
+
+Sie führen ein Telefongespräch und möchten dieses nun zu einem anderen Anschluss ohne Rückfrage verbinden. Dazu klicken Sie zuerst auf den Knopf „Übergabe“.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/88f708a9-bfb9-4117-b0f9-68ed1ab0e710" />
+
+Die gewünschte Rufnummer geben Sie oben links in das Feld ein. Hier soll als Beispiel an die Nebenstelle „19“ verbunden werden. Anschließend klicken Sie auf den kleinen Pfeil neben dem Feld.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/8e7a2cf4-b2a3-46c0-9792-9ddd7cb69f8c" />
+
+Das Gespräch wird an die Nebenstelle „19“ übergeben. Für Sie ist das Gespräch damit beendet.
+
+#### Verbinden mit Rückfrage
+
+Sie führen ein Telefongespräch und möchten dieses nun zu einem anderen Anschluss mit Rückfrage verbinden.
+Dazu müssen Sie das aktive Gespräch „halten“.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/ad4a4f7f-4086-4e55-a834-70c6ddca94c5" />
+
+Geben Sie dann in dem Feld links oben die Rufnummer ein, an die das Gespräch übergeben werden soll und klicken auf den kleinen Telefonhörer darunter. In diesem Beispiel wird die Nebenstelle „19“ angerufen.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/36d7e6d8-3b6f-4bf9-acfa-4b4d416a7464" />
+
+Sobald der Gesprächspartner das Gespräch entgegen nimmt können Sie die Übergabe absprechen. Anschließend wechseln Sie zu dem ursprünglichen Anrufer „mulheim“, indem Sie auf den Teilnehmer unter „Anrufe“ klicken.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/c8df01ca-973e-4c04-873c-47394e13da0e" />
+
+Nun leiten Sie die Übergabe ein. Dazu klicken Sie zuerst auf „Übergabe“ und wählen anschließend das Ziel unter „Anrufe“ aus. Damit ist das Gespräch für Sie beendet und die Übergabe ist abgeschlossen.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/ef8e5aa1-7829-4962-a5f0-4cd0e1593d21" />
+
+#### Verbinden in der Rufphase
+
+Bei dieser Funktion geht es darum, dass ein kommendes Gespräch weiterverbunden werden kann, ohne es zuvor anzunehmen.
+
+Wenn ein Gespräch im NetCall Pro signalisiert wird, klicken Sie ohne das Gespräch anzunehmen direkt auf „Übergabe“. Nun geben Sie in dem Feld oben links die Rufnummer ein, zu der Sie weiterverbinden möchten, und klicken anschließend auf den kleinen Pfeil. Damit haben Sie das Gespräch an die gewählte Nummer verbunden.
+<img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/db8b2068-ba18-4421-bc1e-478efb99ec96" />
+
 ### PhonerLite
 
 Installation des Softclients unter http://phonerlite.de/download_de.htm. 
