@@ -58,11 +58,29 @@ toc: true
 <img src="https://user-images.githubusercontent.com/20154956/151133171-85ef0dd0-26cd-4174-bb28-639bc6d25a05.png" height="600" />
 
 
+## MacOS
+
+### NetCall Pro
+
+Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für MacOS bereit, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
+
+>💡**Hinweis**
+>Durch die Installation von NetCall Pro und dessen Verwendung mit einer Nebenstelle in der Cloud PBX fallen monatliche Gebühren an. Diese entnehmen Sie bitte der aktuellen Preisliste.
+
+#### Quelle der Installationsdatei
+
+Die Installationsdatei für die aktuelle Version 5.6.12.1 finden Sie unter folgendem Link:<br>
+[NetCall Pro 5.6.12.1](https://shop.zoiper.com/download.php?id=NZ7SOOQEJYKGYMU)
+
+#### Installation der Anwendung
+
+Die Installation erfolgt analog zu der Installation unter Windows. Bitte lesen Sie dazu das Kapitel "NetCall Pro" im Kapitel "Windows".
+
 ## Windows
 
 ### NetCall Pro
 
-Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für Windows, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
+Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für Windows bereit, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
 
 >💡**Hinweis**
 >Durch die Installation von NetCall Pro und dessen Verwendung mit einer Nebenstelle in der Cloud PBX fallen monatliche Gebühren an. Diese entnehmen Sie bitte der aktuellen Preisliste.
