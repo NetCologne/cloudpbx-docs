@@ -11,27 +11,27 @@ toc: true
 ## Übersicht der Softphones und ihrer Leistungsmerkmale
 
 
-| Leistungsmerkmal | Zoiper5 (kostenpfl.) | PhonerLite | Ninja Pro (kostenpfl.) | IP-SOFTPHONE |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Homepage | [zoiper](https://www.zoiper.com) | [phonerlite](http://phonerlite.de) | [globaliptel](https://www.globaliptel.com) | [ip-softphone](https://ip-softphone.de) |
-| Betriebssysteme | Windows, Linux, Mac, Android, iOS | Windows | Windows | Windows |
-| CTI Möglichkeit | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
-| TLS  | nur kostenpfl. Version  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
-| SRTP | nur kostenpfl. Version | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
-| Anklopfen  | ja | ja | ja | ja |
-| Besetztlampenfeld (BLF)  | mit Telefonbucheintrag | nein | mit Schnellwahl | mit Telefonbucheintrag |
-| Kurzwahl  | nein | ja | ja | ja |
-| nicht Stören (DND) | über Einstellung "Autoreject"  | ja | ja | ja |
-| Wahlwiederholung  | über Anrufliste  | ja | ja | ja | ja |
-| Heranholen (Pick-up) | workaround über Eintrag in Telefonbuch | nein | über Schnellwahlfenster | |
-| IPv6  | manuelle Konfiguration in config.xml  | ja |  | nein |
-| DTMF RFC-2833  | ja  |   | ja | nein |
-| Übergabe ohne Rückfrage  | ja  |   | ja | nur kostenpfl. Version |
-| Übergabe mit Rückfrage  | ja | ja |  | nur kostenpfl. Version |
-| Rückfrage/Makeln  | ja  |   |  | nur kostenpfl. Version |
-| Anzeige des Anrufers aus TB  |    | ja | ja | ja |
-| Statistik  | nein  | QoS aus laufendem Gespräch | nein | nein |
-| Gespräch aufzeichnen | nein | ja | ja | nur kostenpfl. Version |
+| Leistungsmerkmal | NetCall Pro (kostenpfl.) | Zoiper5 (kostenpfl.) | PhonerLite | Ninja Pro (kostenpfl.) | IP-SOFTPHONE |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Homepage | | [zoiper](https://www.zoiper.com) | [phonerlite](http://phonerlite.de) | [globaliptel](https://www.globaliptel.com) | [ip-softphone](https://ip-softphone.de) |
+| Betriebssysteme | Windows, Mac | Windows, Linux, Mac, Android, iOS | Windows | Windows | Windows |
+| CTI Möglichkeit | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list  | Outlook, Win contacts, Mac addr. Book, ext. LDAP Server, XCAP, iOS contact list, Android contact list | nein | alle Anwendungen mit TAPI | alle Anwendungen mit TAPI |
+| TLS | ja | nur kostenpfl. Version  | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
+| SRTP | ja | nur kostenpfl. Version | ja | nur kostenpfl. Version  | nur kostenpfl. Version  |
+| Anklopfen | ja | ja | ja | ja | ja |
+| Besetztlampenfeld (BLF) | mit Telefonbucheintrag | mit Telefonbucheintrag | nein | mit Schnellwahl | mit Telefonbucheintrag |
+| Kurzwahl | nein | nein | ja | ja | ja |
+| nicht Stören (DND) | über Einstellung "Autoreject" | über Einstellung "Autoreject"  | ja | ja | ja |
+| Wahlwiederholung | über Anrufliste  | über Anrufliste  | ja | ja | ja | ja |
+| Heranholen (Pick-up) | über Eintrag in Telefonbuch  | über Eintrag in Telefonbuch | nein | über Schnellwahlfenster | |
+| IPv6 | manuelle Konfiguration in config.xml | manuelle Konfiguration in config.xml  | ja |  | nein |
+| DTMF RFC-2833 | ja | ja | ja | ja | nein |
+| Übergabe ohne Rückfrage | ja  | ja  |   | ja | nur kostenpfl. Version |
+| Übergabe mit Rückfrage | ja  | ja | ja |  | nur kostenpfl. Version |
+| Rückfrage/Makeln | ja  | ja  |   |  | nur kostenpfl. Version |
+| Anzeige des Anrufers aus TB |  |    | ja | ja | ja |
+| Statistik | nein  | nein  | QoS aus laufendem Gespräch | nein | nein |
+| Gespräch aufzeichnen | nein | nein | ja | ja | nur kostenpfl. Version |
 
 
 ## Android
