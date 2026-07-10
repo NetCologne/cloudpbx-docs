@@ -10,7 +10,7 @@ toc: true
 
 ## Übersicht der Softphones und ihrer Leistungsmerkmale
 
-<img width="2000" height="2782" alt="markdown-image(2)" src="https://github.com/user-attachments/assets/e5c6fc22-6c04-4d7e-9fe0-1d79b88fb695" />
+<img alt="table" src="https://github.com/user-attachments/assets/e5c6fc22-6c04-4d7e-9fe0-1d79b88fb695" />
 
 ## Android
 
