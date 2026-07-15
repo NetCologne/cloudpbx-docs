@@ -38,7 +38,8 @@ Nach der Einrichtung können Sie das Gerät auswählen und verschiedene Einstell
 
 Für die Einrichtung des SIP-Kontos / der Nebenstelle auf diesem Telefon gehen Sie bitte wie folgt vor:
 
-![cloudpbx_Gerät2 hinzufügen](https://user-images.githubusercontent.com/98753538/157050085-69f52435-ca04-40c6-ae12-0e43dc7bd4b3.jpg)
+<img width="1888" height="878" alt="Gerät hinzufügen" src="https://github.com/user-attachments/assets/b6a7ffca-4fb4-48f8-b100-976c5ea1cb50" />
+
 
 Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" (BLF) belegt werden: 
 
