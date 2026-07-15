@@ -38,8 +38,15 @@ Nach der Einrichtung können Sie das Gerät auswählen und verschiedene Einstell
 
 Für die Einrichtung des SIP-Kontos / der Nebenstelle auf diesem Telefon gehen Sie bitte wie folgt vor:
 
-<img width="1888" height="878" alt="Gerät hinzufügen" src="https://github.com/user-attachments/assets/b6a7ffca-4fb4-48f8-b100-976c5ea1cb50" />
+<img width="1888" height="878" alt="Gerät hinzufügen" src="https://github.com/user-attachments/assets/a28b9333-26d9-4e82-b0f4-c05b3cc7f8c1" />
 
+Anschließend klicken Sie auf die zu belegende Taste, hier 1 (roter Pfeil)
+
+<img width="1011" height="902" alt="Gerät hinzufügen2" src="https://github.com/user-attachments/assets/aed7e5be-d5e4-46fa-bdc1-edd46bea3428" />
+
+und wählen die Funktion "privat" und die Nebenstelle aus, die sie dem Telefon zu weisen wollen.
+
+<img width="1018" height="456" alt="Geräte  hinzufügen3" src="https://github.com/user-attachments/assets/74683d2d-72db-4485-83a3-f9f3e3e1f1f3" />
 
 Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" (BLF) belegt werden: 
 
