@@ -28,8 +28,8 @@ Zuerst klicken Sie im Menü *PBX-Konfiguration* auf den Unterpunkt *Anrufmenü [
 ![Anrufmenue1](https://user-images.githubusercontent.com/98753538/160846360-54337494-1f96-4b50-80b8-d2e97e1faf83.jpg)
 
 Wenn Sie auf **+ EINTRAG HINZUFÜGEN** [2] klicken, können Sie die Ziffer (0 bis 9 und default) auswählen, die dem Anrufer angeboten werden soll. <br>
-Unter **Ziel** tragen Sie die  gewünschte Nebenstelle [3] ein und bestätigen mit *SPEICHERN* [4]. <br>
-Damit ist Nebenstelle zugeordnet. Im Beispiel erreichen Sie also durch Wahl <br>
+Unter **Ziel** tragen Sie die gewünschte Nebenstelle [3] (und damit den entsprechenden sip_user) ein und bestätigen mit *SPEICHERN* [4]. <br>
+Damit ist die Nebenstelle bzw. der sip_user zugeordnet. Im Beispiel erreichen Sie also durch Wahl <br>
 der **Ziffer 1** die Nebenstelle *bruehl*, <br> 
 mit **Ziffer 2** die Nebenstelle *chorweiler* und <br>
 mit **Ziffer 3** die Nebenstelle *kalk*:
