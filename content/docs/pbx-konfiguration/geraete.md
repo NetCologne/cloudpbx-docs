@@ -18,7 +18,10 @@ Die Einrichtung erfolgt im Menü PBX-Konfiguration beim Unterpunkt *Geräte*. Kl
 Geben Sie Stations-Name (1) und MAC-Adresse (2) ein und wählen dann das Telefonmodell (3) aus. Abschließend bestätigen Sie mit "✓ GERÄT HINZUFÜGEN". <br>
 <br>
 
-Nach der Einrichtung können Sie das Gerät auswählen und verschiedene Einstellungen vornehmen:
+**Nach der Einrichtung können Sie das Gerät auswählen und ihm ein Konto / eine Nebenstelle zuweisen. <br>
+🚨 Erst dann ist das Telefon nutz- und erreichbar.**
+
+Außerdem können Sie verschiedene Einstellungen vornehmen:
 
 ![Geraete_Einstellungen](https://github.com/user-attachments/assets/fc97834f-c9c0-403f-b6e6-902d1b958a4c)
 
