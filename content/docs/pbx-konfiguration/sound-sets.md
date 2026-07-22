@@ -10,7 +10,15 @@ toc: true
 
 ![cloudpbx soundset](https://user-images.githubusercontent.com/98753538/158827667-f837e8e2-0e9e-427a-867d-c0bf729d2fb1.jpg)
 
-Im Unterpunkt Sounds-Sets (1) werden alle Sprachansagen vorgestellt. Sie können entweder ein komplett neues Soundset hinzufügen oder im vorhandenen die einzelnen Ansagen modifizieren. Klicken Sie dazu auf *firmaidSoundSet* (2).
+Im Unterpunkt Sounds-Sets (1) werden alle Sprachansagen vorgestellt. Um Änderungen vorzunehmen, erstellen Sie am besten ein neues Soundset und behalten das bisherige (als Backup). Klicken Sie dafür auf SOUND-SET HINZUFÜGEN:
+
+<img alt="Soundset 1" src="https://github.com/user-attachments/assets/5f34c84a-3222-4e3d-a8f3-3d283e657acc" />
+
+Nachdem Sie Name und Beschreibung eingetragen haben, klicken Sie auf den Menüpunkt *Eltern* (roter Pfeil) und setzen ein Häkchen bei dem Soudset, von dem Sie alle Sprachansagen übernehmen möchten (hier: firmaidSoundSet).
+
+<img alt="Soundset 2" src="https://github.com/user-attachments/assets/d02819d1-2777-4b2a-9141-1ac1150882c8" />
+
+Nun können Sie einzelnen Ansagen modifizieren. Klicken Sie dazu auf das entsprechende SoundSet, hier *firmaidSoundSet* (2).
 
 ![Soundsets Übersicht](https://github.com/user-attachments/assets/962393ae-90a2-4f15-8425-82418a098418)
 
