@@ -8,9 +8,11 @@ weight: 206
 toc: true
 ---
 
-![cloudpbx soundset](https://user-images.githubusercontent.com/98753538/158827667-f837e8e2-0e9e-427a-867d-c0bf729d2fb1.jpg)
+Im Unterpunkt Sounds-Sets werden alle Sprachansagen vorgestellt. <br>
 
-Im Unterpunkt Sounds-Sets (1) werden alle Sprachansagen vorgestellt. Um Änderungen vorzunehmen, erstellen Sie am besten ein neues Soundset und behalten das bisherige (als Backup). Klicken Sie dafür auf SOUND-SET HINZUFÜGEN:
+<img alt="Soundset 0" src="https://github.com/user-attachments/assets/40215edf-be43-4a97-92b2-b73572eb8d38" />
+
+Um Änderungen vorzunehmen, erstellen Sie am besten ein neues Soundset und behalten das bisherige (als Backup). Klicken Sie dafür auf SOUND-SET HINZUFÜGEN: <br>
 
 <img alt="Soundset 1" src="https://github.com/user-attachments/assets/5f34c84a-3222-4e3d-a8f3-3d283e657acc" />
 
@@ -18,9 +20,11 @@ Nachdem Sie Name und Beschreibung eingetragen haben, klicken Sie auf den Menüpu
 
 <img alt="Soundset 2" src="https://github.com/user-attachments/assets/d02819d1-2777-4b2a-9141-1ac1150882c8" />
 
-Nun können Sie einzelnen Ansagen modifizieren. Klicken Sie dazu auf das entsprechende SoundSet, hier *firmaidSoundSet* (2).
+Nun können Sie einzelnen Ansagen modifizieren. Klicken Sie dazu auf das neu erstellte SoundSet, hier *ChildSoundSet*.
 
-![Soundsets Übersicht](https://github.com/user-attachments/assets/962393ae-90a2-4f15-8425-82418a098418)
+<img alt="Soundsets Child Übersicht" src="https://github.com/user-attachments/assets/6de2cd33-2890-413a-bd9b-6b7b1e5cae21" />
+
+Durch setzen des Häkchens (roter Pfeil) bestimmen Sie dieses SoundSet zum Standard für alle Nebenstellen und Gruppen.
 
 Im Bild markiert sehen Sie die Soundsets für folgende Anwendungen: pbx, music_on_hold, conference, custom_announcement und early_media
 
