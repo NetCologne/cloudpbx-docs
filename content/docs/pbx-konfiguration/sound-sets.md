@@ -16,7 +16,7 @@ Um Änderungen vorzunehmen, erstellen Sie am besten ein neues Soundset und behal
 
 <img alt="Soundset 1" src="https://github.com/user-attachments/assets/5f34c84a-3222-4e3d-a8f3-3d283e657acc" />
 
-Nachdem Sie Name und Beschreibung eingetragen haben, klicken Sie auf den Menüpunkt *Eltern* (roter Pfeil) und setzen ein Häkchen bei dem Soudset, von dem Sie alle Sprachansagen übernehmen möchten (hier: firmaidSoundSet).
+Dann tragen Sie bitte Name und Beschreibung ein, klicken Sie auf den Menüpunkt *Eltern* (roter Pfeil) und setzen ein Häkchen bei dem Soudset, von dem Sie alle Sprachansagen übernehmen möchten (hier: firmaidSoundSet).
 
 <img alt="Soundset 2" src="https://github.com/user-attachments/assets/d02819d1-2777-4b2a-9141-1ac1150882c8" />
 
