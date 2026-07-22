@@ -31,7 +31,7 @@ Im Bild markiert sehen Sie die Soundsets für folgende Anwendungen: pbx, music_o
 ### 1. pbx
 Hier können Sie alle Ziffern und Ziele auswählen/konfigurieren, die Sie für das Anrufmenü (Auto-Attendant) benötigen. Weiterhin finden Sie hier die Ansagen für die Geschäftszeiten und die Warteschlange
 
-![Soundsets pbx](https://github.com/user-attachments/assets/4673481f-0a83-4800-9047-0c3a5d29ca6d)
+<img alt="Soundsets pbx" src="https://github.com/user-attachments/assets/7bdaa28c-98bf-4158-8ebf-1d942efdefa8" />
 
 Ansagen 1 bis 5, die Sie für die Erstellung/Modikfikation einer [Anrufwarteschlange](https://cloudpbx-doku.netcologne.de/docs/pbx-konfiguration/anrufwarteschlangen-einrichten/) benötigen:
 
@@ -46,7 +46,7 @@ Aktiviert wird sie standardmäßig bei den [Rufumleitungen](https://cloudpbx-dok
 
 ### 2. - 5. music_on_hold, conference, custom_announcement und early_media
 
-![Soundsets moh und andere](https://github.com/user-attachments/assets/c362231f-2a99-45b1-a5e8-9cb5b2cdfda9)
+<img alt="Soundsets moh und andere" src="https://github.com/user-attachments/assets/2173eb08-f8a9-41cc-9e94-24e05ff962e2" />
 
 Unter **music_on_hold (2)** können Sie die Musik für die Warteschlange auswählen. <br>
 Beim Menüpunkt **conference (3)** können alle Ansagen, die Sie für eine Konferenz benötigen, ablegen. <br>
