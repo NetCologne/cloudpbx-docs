@@ -12,7 +12,7 @@ Um die Funktion ihrer Cloud-PBX zu gewährleisten müssen folgende Voraussetzung
 
 ### Zur Provisionierung der Telefone:
 
-Folgende Dienste bzw. Ports müssen freigeschaltet sein:
+Folgende Dienste bzw. Ports müssen für die Telefone erreichbar sein:
 
 * HTTPS (TCP Port: 443)<br>
 * HTTP (TCP Port: 80)<br>
@@ -46,3 +46,10 @@ alternativ: Domain **firmenname.cloudpbx.netcologne.de** (das ist ihre individue
 <br>
 notfalls: die Freigabe der IP Adresse **195.14.195.150**. <br>
 Achtung: Es kann u.U. in der Zukunft zur Änderung dieser Adresse kommen <br>
+
+### SIP-Helper
+Auf einigen Firewalls sind standardmäßig SIP-Helper- bzw. SIP-ALG-Funktionen aktiviert (z. B. Sophos oder FortiGate). <br>
+
+Bitte prüfen Sie die Dokumentation Ihres Firewall-Herstellers und deaktivieren Sie diese Funktionen auf der jeweiligen Appliance. <br>
+
+Für einen störungsfreien Betrieb der Cloud-PBX müssen SIP-Helper/SIP-ALG-Funktionen vollständig deaktiviert sein, da diese die SIP-Kommunikation beeinflussen und zu Fehlfunktionen bei der Telefonie mit unserer Anlage führen können.
