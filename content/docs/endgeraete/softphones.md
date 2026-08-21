@@ -44,8 +44,9 @@ Die vorgeschlagenen Einstellungen des Installers müssen nicht angepasst werden,
 ### Konfiguration eines Benutzers
 
 Nach der Installation erfolgt die Konfiguration des gewünschten Benutzers. Dazu benötigen Sie den **WEB-Benutzer** mit der **vollständigen Domain** und das zugehörige **WEB-Passwort**. Hierbei ist darauf zu achten, dass sich die Namen für SIP-Benutzer und WEB-Benutzer unterscheiden können.
->💡**Hinweis** <br>
->**Bitte beachten Sie, dass NetCall Pro nur einen SIP Benutzer der Cloud PBX unterstützt. Zusätzliche manuell angelegte SIP Konten stehen nach einem Neustart der Anwendung nicht mehr zur Verfügung.**
+
+>💡**Hinweis** 
+>Bitte beachten Sie, dass NetCall Pro nur einen SIP Benutzer der Cloud PBX unterstützt. Zusätzliche manuell angelegte SIP Konten stehen nach einem Neustart der Anwendung nicht mehr zur Verfügung.
 
 Für die folgenden Beispiele wird der WEB-Benutzer softphone@firmaid.cloudpbx.netcologne.de mit dem zugehörigen SIP-Benutzer softphone-sip@firmaid.cloudpbx.netcologne.de verwendet.
 
@@ -181,9 +182,9 @@ Wenn ein Gespräch im NetCall Pro signalisiert wird, klicken Sie ohne das Gespr�
 Für Apple und Android Geräte steht die Comfort Go App im Apple App Store bzw. Google Play Store zur Verfügung.<br>
 Ausführliche Informationen zur Installation, Einrichtung und Nutzung finden Sie in unserem Wiki-Eintrag zur Comfort Go App:
 [Wiki Eintrag Comfort Go App](https://cloudpbx-doku.netcologne.de/docs/endgeraete/comfort-go-app/)<br>
->💡**Hinweis** <br>
->**Die Comfort Go App ist primär für die mobile Erreichbarkeit unterwegs konzipiert. Sie stellt eine sinnvolle Ergänzung zur Telefonie dar, ersetzt jedoch keinen festen Arbeitsplatz mit Hardware-Telefon oder PC-Softphone.<br>
-Insbesondere bei einem hohen Anrufaufkommen empfehlen wir die Nutzung eines Hardware-Telefons oder eines PC-Softphones mit geeignetem Headset. Nur diese Lösungen bieten dauerhaft die bestmögliche Sprachqualität, Stabilität und Benutzerfreundlichkeit im Büroalltag.**
+>💡**Hinweis** 
+>Die Comfort Go App ist primär für die mobile Erreichbarkeit unterwegs konzipiert. Sie stellt eine sinnvolle Ergänzung zur Telefonie dar, ersetzt jedoch keinen festen Arbeitsplatz mit Hardware-Telefon oder PC-Softphone.
+Insbesondere bei einem hohen Anrufaufkommen empfehlen wir die Nutzung eines Hardware-Telefons oder eines PC-Softphones mit geeignetem Headset. Nur diese Lösungen bieten dauerhaft die bestmögliche Sprachqualität, Stabilität und Benutzerfreundlichkeit im Büroalltag.
 
 
 
@@ -191,7 +192,7 @@ Insbesondere bei einem hohen Anrufaufkommen empfehlen wir die Nutzung eines Hard
 
 # Third Party Softphones - Nicht offiziell freigegeben
 Die nachfolgend aufgeführten Softphones können für die Telefonie mit der CPBX-Telefonanlage verwendet werden. Bitte beachten Sie, dass je nach eingesetzter Software nicht alle Funktionen und Komfortmerkmale unterstützt werden.
->💡**Hinweis** <br>
+>💡**Hinweis** 
 >Diese Anwendungen wurden von NetCologne weder geprüft noch offiziell freigegeben. Die Nutzung erfolgt daher auf eigene Verantwortung. Für Einschränkungen, Fehlfunktionen oder Inkompatibilitäten kann kein Support oder keine Haftung durch NetCologne übernommen werden.
 
 ## PhonerLite
