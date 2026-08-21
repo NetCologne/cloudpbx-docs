@@ -7,100 +7,39 @@ menu:
 weight: 509
 toc: true
 ---
+## Softphones
+Mit einem Softphone können Sie über Ihren PC oder Ihr Smartphone Festnetzanrufe tätigen und entgegennehmen.
+Für die Nutzung am PC wird ein kompatibles Headset benötigt. Gerne beraten wir Sie bei der Auswahl eines geeigneten Geräts.
 
-## Übersicht der Softphones und ihrer Leistungsmerkmale
+## Offiziell Freigegebene Softphones
+Die nachfolgend aufgeführten Softphones wurden von NetCologne für die Verwendung mit der CPBX-Telefonanlage geprüft und offiziell freigegeben.
 
-<img alt="table" src="https://github.com/user-attachments/assets/e5c6fc22-6c04-4d7e-9fe0-1d79b88fb695" />
-
-## Android
-
-### Baresip+
-
-<img src="https://user-images.githubusercontent.com/20154956/150996920-9714b70d-155a-45ad-bcbc-34ade9088ee9.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/150996947-1ea0706d-8f0e-4eca-b790-327d0fde5117.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/150997101-0a1e0205-e5a5-472d-8cb2-20cc310af44d.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/150997140-7c5ac868-1a08-40d6-8d72-2ae8b4937e28.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/150997165-d75bf8b7-51d5-45fa-9ff2-f03a14fc0814.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/151002026-9be885c1-ae89-4748-9d82-eedbfcc098f7.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/150997308-df31152a-dc9e-476e-b4e2-8bf93c03fa71.png" height="600" />
-
-
-## IOS
-### WaveLite
-<img src="https://user-images.githubusercontent.com/20154956/151133026-6a8624de-6298-4895-91c9-198f0462fcf9.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/151133047-6cceed1a-f045-42cf-8040-3c66e16880d4.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/151133065-d290afc9-61b1-451e-a0e6-c0955976d5f0.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/151133082-3f5853a1-19d0-4792-861f-e6d16cc485f5.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/151133110-3e8ab119-612d-4a5f-bb12-604cedf54a2b.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/151133142-b4a73e8e-7260-43a7-b9f5-b755cd398434.png" height="600" />
-<img src="https://user-images.githubusercontent.com/20154956/151133171-85ef0dd0-26cd-4174-bb28-639bc6d25a05.png" height="600" />
-
-
-## MacOS
-
-### NetCall Pro
-
-Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für MacOS bereit, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
-
->💡**Hinweis**
->Durch die Installation von NetCall Pro und dessen Verwendung mit einer Nebenstelle in der Cloud PBX fallen monatliche Gebühren an. Diese entnehmen Sie bitte der aktuellen Preisliste.
-
-#### Quelle der Installationsdatei
-
-Die Installationsdatei für die aktuelle Version 5.6.12.1 finden Sie unter folgendem Link:<br>
-[NetCall Pro 5.6.12.1](https://shop.zoiper.com/download.php?id=NZ7SOOQEJYKGYMU)
-
-#### Installation der Anwendung
-
-Die Installation erfolgt analog zu der Installation unter Windows. Bitte lesen Sie dazu das Kapitel "NetCall Pro" im Kapitel "Windows".
-
-## Windows
-
-### NetCall Pro
-
+### PC  - NetCall Pro - Windows und Mac OS
 Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für Windows bereit, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
 
 >💡**Hinweis**
 >Durch die Installation von NetCall Pro und dessen Verwendung mit einer Nebenstelle in der Cloud PBX fallen monatliche Gebühren an. Diese entnehmen Sie bitte der aktuellen Preisliste.
 
-#### Quelle der Installationsdatei
+##### Quelle der Installationsdatei
 
 Die Installationsdatei für die aktuelle Version 5.6.12.1 finden Sie unter folgendem Link:<br>
-[NetCall Pro 5.6.12.1](https://shop.zoiper.com/download.php?id=8WVZA7U1BHZI0PH)
+[NetCall Pro 5.6.12.1 für Windows](https://shop.zoiper.com/download.php?id=8WVZA7U1BHZI0PH)
+[NetCall Pro 5.6.12.1 für Mac OS](https://shop.zoiper.com/download.php?id=NZ7SOOQEJYKGYMU)
+
 
 #### Installation der Anwendung
-
-Hier wird die Installation für Windows beschrieben.
-
-Nach dem Herunterladen der Installationsdatei wird diese durch einen Doppelklick gestartet.
+Führen Sie den .exe Installer für Windows bzw. die .pkg Datei für MAC OS aus. Navigieren Sie sich durch den Installer per Button "Next".
+Die vorgeschlagenen Einstellungen des Installers müssen nicht angepasst werden, fahren Sie mit den bereits empfohlenen Optionen durch.
 <img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/b87f83df-6a35-4cc4-8e4b-875bfb9c8f1a" />
-
-Wählen Sie in den folgenden Fenstern Ihre bevorzugte Einstellung. In der Regel empfiehlt es sich, die vorgegebenen Werte zu übernehmen.
-
-Setzen Sie das Häkchen, wenn Sie ein Icon auf dem Desktop verwenden möchten.
 <img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/4a037638-ad12-4ad7-a3ee-13acabb62cd5" />
-
-Hier können Sie das Installationsverzeichnis festlegen. Es wird empfohlen, das vorgeschlagene Verzeichnis zu verwenden.
 <img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/d272f0fa-f59f-407f-9637-b625d840c5dc" />
-
-Geben Sie dem Ordner im Startmenü einen sinnvollen Namen oder übernehmen Sie den Vorschlag.
 <img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/9e7ca044-f9c5-41f4-83cf-f3794068625f" />
-
-Wählen Sie hier aus, welche Version zu Ihrem Microsoft Office passt.
 <img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/50a0f101-e7db-4d76-83d1-a790f4d7acba" />
-
-Entscheiden Sie nun, ob der SIP Client für alle Benutzer des Rechners oder nur für den gerade angemeldeten Benutzer installiert werden soll.
 <img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/3352dba4-cb4c-4193-aeba-8695e674d5c0" />
-
-Nachdem alle Einstellungen ausgewählt wurden, kann nun die eigentliche Installation beginnen.
 <img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/2bb31cdf-f52f-4692-8103-6974540edf9e" />
-
-Bei der Installation werden bereits alle wichtigen Einstellungen für die Cloud PBX vorgenommen. Dadurch reduziert sich der Aufwand für die anschließende Konfiguration erheblich.
-
-Wenn folgendes Fenster erscheint, ist die Installation abgeschlossen.
 <img width="784" height="590" alt="image" src="https://github.com/user-attachments/assets/66a9cd1b-f6a0-4369-a4cb-74068b9d05fd" />
 
-#### Konfiguration eines Benutzers
+##### Konfiguration eines Benutzers
 
 Nach der Installation erfolgt die Konfiguration des gewünschten Benutzers. Dazu benötigen Sie den **WEB-Benutzer** mit der **vollständigen Domain** und das zugehörige **WEB-Passwort**. Hierbei ist darauf zu achten, dass sich die Namen für SIP-Benutzer und WEB-Benutzer unterscheiden können.
 
@@ -120,11 +59,11 @@ Außerdem wird geprüft, ob in der Windows Defender Firewall Anpassungen erforde
 
 Damit ist NetCall Pro für die grundlegende Telefonie eingerichtet.
 
-#### Telefonbuch, Busy Lamp Field und Pick-up
+##### Telefonbuch, Busy Lamp Field und Pick-up
 
 Im Telefonbuch können Sie Ihre individuellen Kontakte speichern. Zur Verwendung der „Busy Field Lamp“ (BLF) und von Pick-up ist dies zwingend notwendig. Das bedeutet, dass Sie die Nebenstellen Ihrer Cloud PBX, deren Status Sie angezeigt bekommen möchten, im Telefonbuch eintragen müssen. Gleiches gilt, wenn Sie ankommende Rufe von anderen Nebenstellen heranholen wollen (Pick-up).
 
-#### Telefonbuch (Eintrag manuell erstellen)
+###### Telefonbuch (Eintrag manuell erstellen)
 
 Ein neuer Eintrag wird ins Telefonbuch aufgenommen, indem Sie auf das Plus-Zeichen neben den Reitern klicken und dann „Kontakt hinzufügen“ wählen.
 <img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/e224f6f0-cedd-4def-b288-6f809c72b35d" />
@@ -139,7 +78,7 @@ Als „Wählkonto“ wird der eigene SIP-Benutzer gewählt. Sofern es sich bei d
 Beim Verlassen des Fensters müssen die Änderungen gespeichert werden.
 <img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/703f54a5-b8a0-4213-969d-3912b8678abb" />
 
-#### Telefonbuch (Kontakte importieren)
+###### Telefonbuch (Kontakte importieren)
 
 Für eine größere Anzahl an Kontakten empfiehlt es sich, diese als CSV-Datei zu importieren. Dazu klicken Sie auf das Plus-Zeichen neben den Reitern und wählen „Kontakte importieren“ aus.
 <img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/ec8ff004-d6ec-4d65-a31f-7871c08beb92" />
@@ -160,7 +99,7 @@ Im letzten Schritt können Sie aus der CSV-Datei die zu importierenden Kontakte 
 Nach dem Import erscheinen die neuen Kontakte sofort im Telefonbuch.
 <img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/b04c8b0b-7e78-4035-a672-f5f19d9df5e2" />
 
-#### Busy Lamp Field
+###### Busy Lamp Field
 
 Voraussetzung für die Verwendung der Funktion „Busy Lamp Field“ ist der entsprechende Eintrag der Nebenstelle im Telefonbuch. Als Beispiel wird hier der Eintrag „tims“ verwendet. Siehe hierzu auch Kapitel Telefonbuch.
 Außerdem muss in dem SIP Konto unter Einstellungen „BLF benutzen“ aktiviert sein.
@@ -174,7 +113,7 @@ Sobald das Gespräch angenommen wurde, wird das durch einen blauen Kreis mit Tel
 
 <img width="379" height="911" alt="image" src="https://github.com/user-attachments/assets/92fd4498-0020-41a5-b990-97f885072a2d" />
 
-#### Pick-up
+###### Pick-up
 
 Zur Verwendung von Pick-up muss der entsprechende Eintrag im Telefonbuch ergänzt werden, d.h. es muss ein benutzerdefiniertes Feld hinzugefügt werden. Das Feld kann individuell benannt werden. Entsprechend der Funktion wird hier „pick-up“ eingetragen.
 <img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/963f275b-edd9-4e04-a31f-82a6ebc2c99b" />
@@ -188,9 +127,9 @@ Wird der Teilnehmer „tims“ angerufen, wird dies im Telefonbuch wie im Kapite
 Wenn die Verbindung hergestellt ist, wird das folgende Fenster angezeigt und Sie können das Gespräch führen und weitere Funktionen, wie z.B. Stummschalten, Halten etc. verwenden.
 <img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/b434af74-a011-4a21-88dd-2ad5e2bd7d81" />
 
-### Verbinden
+##### Verbinden
 
-#### Verbinden ohne Rückfrage
+###### Verbinden ohne Rückfrage
 
 Sie führen ein Telefongespräch und möchten dieses nun zu einem anderen Anschluss ohne Rückfrage verbinden. Dazu klicken Sie zuerst auf den Knopf „Übergabe“.
 <img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/88f708a9-bfb9-4117-b0f9-68ed1ab0e710" />
@@ -200,7 +139,7 @@ Die gewünschte Rufnummer geben Sie oben links in das Feld ein. Hier soll als Be
 
 Das Gespräch wird an die Nebenstelle „19“ übergeben. Für Sie ist das Gespräch damit beendet.
 
-#### Verbinden mit Rückfrage
+###### Verbinden mit Rückfrage
 
 Sie führen ein Telefongespräch und möchten dieses nun zu einem anderen Anschluss mit Rückfrage verbinden.
 Dazu müssen Sie das aktive Gespräch „halten“.
@@ -215,12 +154,28 @@ Sobald der Gesprächspartner das Gespräch entgegen nimmt können Sie die Überg
 Nun leiten Sie die Übergabe ein. Dazu klicken Sie zuerst auf „Übergabe“ und wählen anschließend das Ziel unter „Anrufe“ aus. Damit ist das Gespräch für Sie beendet und die Übergabe ist abgeschlossen.
 <img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/ef8e5aa1-7829-4962-a5f0-4cd0e1593d21" />
 
-#### Verbinden in der Rufphase
+###### Verbinden in der Rufphase
 
 Bei dieser Funktion geht es darum, dass ein kommendes Gespräch weiterverbunden werden kann, ohne es zuvor anzunehmen.
 
 Wenn ein Gespräch im NetCall Pro signalisiert wird, klicken Sie ohne das Gespräch anzunehmen direkt auf „Übergabe“. Nun geben Sie in dem Feld oben links die Rufnummer ein, zu der Sie weiterverbinden möchten, und klicken anschließend auf den kleinen Pfeil. Damit haben Sie das Gespräch an die gewählte Nummer verbunden.
 <img width="945" height="654" alt="image" src="https://github.com/user-attachments/assets/db8b2068-ba18-4421-bc1e-478efb99ec96" />
+
+#### iOS - Comfort Go App
+Für Apple-Geräte steht die Comfort Go App im Apple App Store zur Verfügung.
+Ausführliche Informationen zur Installation, Einrichtung und Nutzung finden Sie in unserem Wiki-Eintrag zur Comfort Go App:
+[Wiki Eintrag Comfort Go App](https://cloudpbx-doku.netcologne.de/docs/endgeraete/comfort-go-app/)
+
+
+#### Android - Comfort Go App
+Für Android-Geräte steht die Comfort Go App im Google Play Store zur Verfügung.
+Ausführliche Informationen zur Installation, Einrichtung und Nutzung finden Sie in unserem Wiki-Eintrag zur Comfort Go App:
+[Wiki Eintrag Comfort Go App](https://cloudpbx-doku.netcologne.de/docs/endgeraete/comfort-go-app/)
+
+
+## Third Party Softphones - Nicht offiziell freigegeben
+Die nachfolgend aufgeführten Softphones können für die Telefonie mit der CPBX-Telefonanlage verwendet werden. Bitte beachten Sie, dass je nach eingesetzter Software nicht alle Funktionen und Komfortmerkmale unterstützt werden.
+Diese Anwendungen wurden von NetCologne weder geprüft noch offiziell freigegeben. Die Nutzung erfolgt daher auf eigene Verantwortung. Für Einschränkungen, Fehlfunktionen oder Inkompatibilitäten kann kein Support oder keine Haftung durch NetCologne übernommen werden.
 
 ### PhonerLite
 
@@ -539,3 +494,25 @@ Wenn der Teilnehmer das Gespräch annimmt, wechselt die Anzeige von orange zu ro
 
 <img width="213" alt="17_Schnellwahl_speaking" src="https://user-images.githubusercontent.com/99875470/216583054-60bb5f5e-9488-4592-b3fa-7e05903bcc5b.png">
 
+### Baresip+
+
+<img src="https://user-images.githubusercontent.com/20154956/150996920-9714b70d-155a-45ad-bcbc-34ade9088ee9.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/150996947-1ea0706d-8f0e-4eca-b790-327d0fde5117.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/150997101-0a1e0205-e5a5-472d-8cb2-20cc310af44d.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/150997140-7c5ac868-1a08-40d6-8d72-2ae8b4937e28.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/150997165-d75bf8b7-51d5-45fa-9ff2-f03a14fc0814.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/151002026-9be885c1-ae89-4748-9d82-eedbfcc098f7.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/150997308-df31152a-dc9e-476e-b4e2-8bf93c03fa71.png" height="600" />
+
+### WaveLite
+<img src="https://user-images.githubusercontent.com/20154956/151133026-6a8624de-6298-4895-91c9-198f0462fcf9.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/151133047-6cceed1a-f045-42cf-8040-3c66e16880d4.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/151133065-d290afc9-61b1-451e-a0e6-c0955976d5f0.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/151133082-3f5853a1-19d0-4792-861f-e6d16cc485f5.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/151133110-3e8ab119-612d-4a5f-bb12-604cedf54a2b.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/151133142-b4a73e8e-7260-43a7-b9f5-b755cd398434.png" height="600" />
+<img src="https://user-images.githubusercontent.com/20154956/151133171-85ef0dd0-26cd-4174-bb28-639bc6d25a05.png" height="600" />
+
+## Übersicht der Softphones und ihrer Leistungsmerkmale
+
+<img alt="table" src="https://github.com/user-attachments/assets/e5c6fc22-6c04-4d7e-9fe0-1d79b88fb695" />
