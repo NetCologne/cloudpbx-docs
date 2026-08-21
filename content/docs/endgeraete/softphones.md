@@ -181,17 +181,15 @@ Wenn ein Gespräch im NetCall Pro signalisiert wird, klicken Sie ohne das Gespr�
 <img width="671" height="283" alt="comfort-go" src="https://github.com/user-attachments/assets/1a995f0b-3ca5-41e1-b060-32eb64655ae8" /><br>
 Für Apple und Android Geräte steht die Comfort Go App im Apple App Store bzw. Google Play Store zur Verfügung.<br>
 Ausführliche Informationen zur Installation, Einrichtung und Nutzung finden Sie in unserem Wiki-Eintrag zur Comfort Go App:
-[Wiki Eintrag Comfort Go App](https://cloudpbx-doku.netcologne.de/docs/endgeraete/comfort-go-app/)<br>
+[Wiki Eintrag Comfort Go App](https://cloudpbx-doku.netcologne.de/docs/endgeraete/comfort-go-app/)
+
 >💡**Hinweis** 
 >Die Comfort Go App ist primär für die mobile Erreichbarkeit unterwegs konzipiert. Sie stellt eine sinnvolle Ergänzung zur Telefonie dar, ersetzt jedoch keinen festen Arbeitsplatz mit Hardware-Telefon oder PC-Softphone.
 Insbesondere bei einem hohen Anrufaufkommen empfehlen wir die Nutzung eines Hardware-Telefons oder eines PC-Softphones mit geeignetem Headset. Nur diese Lösungen bieten dauerhaft die bestmögliche Sprachqualität, Stabilität und Benutzerfreundlichkeit im Büroalltag.
 
-
-
-
-
 # Third Party Softphones - Nicht offiziell freigegeben
 Die nachfolgend aufgeführten Softphones können für die Telefonie mit der CPBX-Telefonanlage verwendet werden. Bitte beachten Sie, dass je nach eingesetzter Software nicht alle Funktionen und Komfortmerkmale unterstützt werden.
+
 >💡**Hinweis** 
 >Diese Anwendungen wurden von NetCologne weder geprüft noch offiziell freigegeben. Die Nutzung erfolgt daher auf eigene Verantwortung. Für Einschränkungen, Fehlfunktionen oder Inkompatibilitäten kann kein Support oder keine Haftung durch NetCologne übernommen werden.
 
