@@ -16,7 +16,7 @@ Die Anmeldung erfolgt über folgende Punkte:
 
 Via E-Mail haben Sie die Zugangsdaten zu Ihrem NetCologne Cloud PBX Konto bekommen. Dieses Konto ist immer das Administrator-Konto. 
 
-Webseite: [https://myportal.cloudpbx.netcologne.de/v2](https://myportal.cloudpbx.netcologne.de/v2/ "Cloud-PBX Konfiguration")   
+Webseite: [https://myportal.cloudpbx.netcologne.de](https://myportal.cloudpbx.netcologne.de "Cloud-PBX Konfiguration")   
 Benutzer: `+49ONKZRufNr@firma.cloudpbx.netcologne.de`  
 Passwort: `xxxxxxxxxxxxxx`  
 
