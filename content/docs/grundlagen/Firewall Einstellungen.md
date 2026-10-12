@@ -21,19 +21,24 @@ Telefone, Softphones und Mobile Apps müssen folgende Ziele auf folgenden Ports 
 #### Signalisierung
 
  Die SIP Signalisierung erfolgt verschlüsselt über  
+ 
 * TLS/TCP (TCP Ports: 5060 und 5061) <br>
+
  Die Mobile APP verwendet zusätzlich XMPP. Zur Nutzung wird folgender Port benötigt: <br>
+ 
 * TCP Port 5222 <br>
 
 ####  Übertragung der Sprachdaten
 
 Die Übertragung der Audio Daten erfolgt verschlüsselt per SRTP. <br>
 Hierzu müssen folgende Ports freigegeben werden <br>
+
 * UDP Ports zwischen 5062 und 51000  <br>
 
 #### Zur Provisionierung der Telefone:
 
 Folgende Dienste bzw. Ports müssen für die Telefone erreichbar sein:
+
 * HTTPS (TCP Port: 443)<br>
 * HTTP (TCP Port: 80)<br>
 * TCP-Port 1444<br>
