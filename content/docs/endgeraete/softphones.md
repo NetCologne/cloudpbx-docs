@@ -27,7 +27,7 @@ Alternativ können Sie folgenden Link nutzen: https://apps.microsoft.com/detail/
 <img width="793" height="574" alt="NC-Desktop" src="https://github.com/user-attachments/assets/ea1185e2-04c4-479f-9ef1-ad0a18448580" />
 
 ### Erfolgreiche Anmeldung
-Zur Anmeldung der Nebenstelle, nutzen Sie den Web-Benutzernamen und das Web-Kennwort der Nebenstelle.
+Zur Anmeldung der Nebenstelle, nutzen Sie den Web-Benutzernamen und das Web-Kennwort der Nebenstelle, die Sie anmelden möchten. <br>
 <img width="618" height="468" alt="netphone-anmeldung" src="https://github.com/user-attachments/assets/1139d96d-3892-4939-88b0-649d74c9bce6" />
 
 >💡**Hinweis**
