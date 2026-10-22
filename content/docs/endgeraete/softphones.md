@@ -44,8 +44,6 @@ Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für MacOS
 ### Quelle der Installationsdatei
 
 Die Installationsdatei für die aktuelle Version 5.6.12.1 finden Sie unter folgendem Link:<br>
-[NetCall Pro 5.6.12.1 für Windows](https://shop.zoiper.com/download.php?id=8WVZA7U1BHZI0PH) <br>
-
 [NetCall Pro 5.6.12.1 für Mac OS](https://shop.zoiper.com/download.php?id=NZ7SOOQEJYKGYMU)
 
 
