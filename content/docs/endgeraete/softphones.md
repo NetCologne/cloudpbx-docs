@@ -14,11 +14,32 @@ Für die Nutzung am PC wird ein kompatibles Headset benötigt. Gerne beraten wir
 # Offiziell Freigegebene Softphones
 Die nachfolgend aufgeführten Softphones wurden von NetCologne für die Verwendung mit der CPBX-Telefonanlage geprüft und offiziell freigegeben.
 
-## NetCall Pro - Windows und Mac OS
-Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für Windows bereit, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
+## NetCall Desktop - Windows
+Mit unserem WebRTC Client NetCall Desktop nutzen Sie alle Funktionen unserer Cloud Telefonanlage im vollem Umfang mit ihrem Windows 11 Endgerät.
+Zusätzlich zur grundliegenden Telefonie haben Sie mit dem NetCall Desktop Client die Möglichkeit BLF-Tasten auf ihre interne Nebenstellen zu setzen, Anrufnotizen zu Pflegen, Anrufe aufzunehmen, Weiterleitungen zu schalten und das Telefonbuch zu pflegen.
 
 >💡**Hinweis**
->Durch die Installation von NetCall Pro und dessen Verwendung mit einer Nebenstelle in der Cloud PBX fallen monatliche Gebühren an. Diese entnehmen Sie bitte der aktuellen Preisliste.
+>Die Nutzung des NetCall Desktop Clients für Windows erzeugt keine zusätzlichen Kosten.
+
+### Quelle der Installationsdatei
+Den Netcall Desktop Client können Sie komfortabel über den Microsoft Store installieren.
+Alternativ können Sie folgenden Link nutzen: https://apps.microsoft.com/detail/9pnhd6vg67v9?hl=de-DE&gl=DE 
+<img width="1587" height="1148" alt="NC-Desktop" src="https://github.com/user-attachments/assets/ea1185e2-04c4-479f-9ef1-ad0a18448580" />
+
+### Erfolgreiche Anmeldung
+Zur Anmeldung der Nebenstelle, nutzen Sie den Web-Benutzernamen und das Web-Kennwort der Nebenstelle.
+<img width="1237" height="937" alt="netphone-anmeldung" src="https://github.com/user-attachments/assets/1139d96d-3892-4939-88b0-649d74c9bce6" />
+
+>💡**Hinweis**
+>Falls ihnen der Web-Benutzername der Nebenstelle nicht bekannt ist, können Sie  im Admin Portal ihrer Anlage unter PBX-Konfiguration > Nebenstellen  > Nebenstelle anklicken unter "Web-Benutzername" den Namen einsehen oder Anpassen. Bitte achten Sie hier darauf, dass die Anmeldedomäne bei der Anmeldung im NetCall Desktop stets ergänzt werden muss (Beispiel: Eintrag Web-Benutzer: Mustermann, Anmeldedomäne @muster.cloudpbx.netcologne.de - Vollständiger Web-Benutzer: Mustermann@muster.cloudpbx.netcologne.de)
+
+
+
+## NetCall Pro - Mac OS
+Mit dem SIP Client „NetCall Pro“ stellt NetCologne eine Anwendung für MacOS bereit, die optimal für die Verwendung mit dem Produkt Cloud PBX geeignet ist. Der Vorteil liegt darin, dass die grundlegenden Parameter bereits voreingestellt sind und bei der Installation lediglich die Benutzerdaten für die gewünschte Nebenstelle angegeben werden müssen, um sofort telefonieren zu können.
+
+>💡**Hinweis**
+>Durch die Installation von NetCall Pro für Mac OS und dessen Verwendung mit einer Nebenstelle in der Cloud PBX fallen monatliche Gebühren an. Diese entnehmen Sie bitte der aktuellen Preisliste.
 
 ### Quelle der Installationsdatei
 
