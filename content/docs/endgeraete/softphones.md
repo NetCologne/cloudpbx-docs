@@ -24,11 +24,11 @@ Zusätzlich zur grundliegenden Telefonie haben Sie mit dem NetCall Desktop Clien
 ### Quelle der Installationsdatei
 Den Netcall Desktop Client können Sie komfortabel über den Microsoft Store installieren.
 Alternativ können Sie folgenden Link nutzen: https://apps.microsoft.com/detail/9pnhd6vg67v9?hl=de-DE&gl=DE 
-<img width="1587" height="1148" alt="NC-Desktop" src="https://github.com/user-attachments/assets/ea1185e2-04c4-479f-9ef1-ad0a18448580" />
+<img width="793" height="574" alt="NC-Desktop" src="https://github.com/user-attachments/assets/ea1185e2-04c4-479f-9ef1-ad0a18448580" />
 
 ### Erfolgreiche Anmeldung
 Zur Anmeldung der Nebenstelle, nutzen Sie den Web-Benutzernamen und das Web-Kennwort der Nebenstelle.
-<img width="1237" height="937" alt="netphone-anmeldung" src="https://github.com/user-attachments/assets/1139d96d-3892-4939-88b0-649d74c9bce6" />
+<img width="618" height="468" alt="netphone-anmeldung" src="https://github.com/user-attachments/assets/1139d96d-3892-4939-88b0-649d74c9bce6" />
 
 >💡**Hinweis**
 >Falls ihnen der Web-Benutzername der Nebenstelle nicht bekannt ist, können Sie  im Admin Portal ihrer Anlage unter PBX-Konfiguration > Nebenstellen  > Nebenstelle anklicken unter "Web-Benutzername" den Namen einsehen oder Anpassen. Bitte achten Sie hier darauf, dass die Anmeldedomäne bei der Anmeldung im NetCall Desktop stets ergänzt werden muss (Beispiel: Eintrag Web-Benutzer: Mustermann, Anmeldedomäne @muster.cloudpbx.netcologne.de - Vollständiger Web-Benutzer: Mustermann@muster.cloudpbx.netcologne.de)
