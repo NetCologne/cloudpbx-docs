@@ -15,8 +15,8 @@ Telefone, Softphones und Mobile Apps müssen folgende Ziele auf folgenden Ports 
 
 * freizugebende Source/Destination Adresse<br>
   * Wildcard Domain:     *.cloudpbx.netcologne.de <br>
-  * alternativ Domain:     firmenname.cloudpbx.netcologne.de (dies ist ihre individuelle Anmelde-Domain) <br>
-  * notfalls:       Freigabe der IP Adresse 195.14.195.150. (Achtung: Es kann u.U. in der Zukunft zur Änderung dieser Adresse kommen) <br>
+  * alternativ Domains:     firmenname.cloudpbx.netcologne.de (dies ist ihre individuelle Anmelde-Domain) und die Domäne phones.cloudpbx.netcologne.de <br>
+  * Notfalls:       Freigabe der IP Adresse 195.14.195.150. (Achtung: Es kann u.U. in der Zukunft zur Änderung dieser Adresse kommen) <br>
 
 #### Signalisierung
 
