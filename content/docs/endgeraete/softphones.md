@@ -324,9 +324,6 @@ Jetzt geben Sie den WEB-Benutzer mit der vollständigen **Domain** und das **WEB
 
 Anschließend werden ein paar Tests durchlaufen, bei denen die Verfügbarkeit von Lautsprechern, Mikrofon und einer Videokamera geprüft werden. Um NetCall Pro nutzen zu können, ist der Zugriff auf mindestens den Lautsprecher und das Mikrofon erforderlich. Sofern vorhanden, kann an dieser Stelle auch ein Headset ausgewählt werden.
 
-Außerdem wird geprüft, ob in der Windows Defender Firewall Anpassungen erforderlich sind. Um NetCall Pro verwenden zu können, müssen Sie die Änderungen zulassen.
-<img alt="image" src="https://github.com/user-attachments/assets/eb60dcc4-350a-4fef-b4e5-f7145d82f1ce" />
-
 Damit ist NetCall Pro für die grundlegende Telefonie eingerichtet.
 
 ### Telefonbuch, Busy Lamp Field und Pick-up
