@@ -305,17 +305,8 @@ Die Installationsdatei für die aktuelle Version 5.6.12.1 finden Sie unter folge
 
 
 ### Installation der Anwendung
-Führen Sie den .exe Installer für Windows bzw. die .pkg Datei für MAC OS aus. Navigieren Sie sich durch den Installer per Button "Next". <br>
+Führen Sie .pkg Datei für MAC OS aus. Navigieren Sie sich durch den Installer per Button "Next". <br>
 Die vorgeschlagenen Einstellungen des Installers müssen nicht angepasst werden, fahren Sie mit den bereits empfohlenen Optionen durch.
-
-<img alt="image" src="https://github.com/user-attachments/assets/b87f83df-6a35-4cc4-8e4b-875bfb9c8f1a" />
-<img alt="image" src="https://github.com/user-attachments/assets/4a037638-ad12-4ad7-a3ee-13acabb62cd5" />
-<img alt="image" src="https://github.com/user-attachments/assets/d272f0fa-f59f-407f-9637-b625d840c5dc" />
-<img alt="image" src="https://github.com/user-attachments/assets/9e7ca044-f9c5-41f4-83cf-f3794068625f" />
-<img alt="image" src="https://github.com/user-attachments/assets/50a0f101-e7db-4d76-83d1-a790f4d7acba" />
-<img alt="image" src="https://github.com/user-attachments/assets/3352dba4-cb4c-4193-aeba-8695e674d5c0" />
-<img alt="image" src="https://github.com/user-attachments/assets/2bb31cdf-f52f-4692-8103-6974540edf9e" />
-<img alt="image" src="https://github.com/user-attachments/assets/66a9cd1b-f6a0-4369-a4cb-74068b9d05fd" />
 
 ### Konfiguration eines Benutzers
 
