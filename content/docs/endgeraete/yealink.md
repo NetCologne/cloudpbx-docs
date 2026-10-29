@@ -8,10 +8,164 @@ weight: 502
 toc: true
 ---
 
+## 2. YEALINK
+
+### 2.1 Yealink T5/T4-Serie
+
+Für die Einrichtung des SIP-Kontos / der Nebenstelle auf diesem Telefon gehen Sie bitte wie folgt vor:
+
+<img alt="Gerät hinzufügen" src="https://github.com/user-attachments/assets/a28b9333-26d9-4e82-b0f4-c05b3cc7f8c1" />
+
+Anschließend klicken Sie auf die zu belegende Taste, hier 1 (roter Pfeil)
+
+<img alt="Gerät hinzufügen2" src="https://github.com/user-attachments/assets/aed7e5be-d5e4-46fa-bdc1-edd46bea3428" />
+
+und wählen die Funktion "privat" und die Nebenstelle aus, die sie dem Telefon zu weisen wollen.
+
+<img alt="Geräte  hinzufügen3" src="https://github.com/user-attachments/assets/74683d2d-72db-4485-83a3-f9f3e3e1f1f3" />
+
+Die Lampen/Tasten können auch mit anderen Teilnehmern und der Funktion "Besetzlampenfeld" (BLF) belegt werden: 
+
+![cloudpbx_Teilnehmer einrichten4](https://user-images.githubusercontent.com/98753538/157250752-3cb7113d-c166-4b48-b172-fbfe210cdc87.jpg)
+
+So sieht z.B. die "Zentrale", welcher Kollege gerade angerufen wird oder kann einen ankommenden Anruf übernehmen:
+
+![cloudpbx_busylampfield1_update](https://github.com/user-attachments/assets/4f60d252-ea98-4beb-ab40-fd6f4ac48fb9)
+
+Weitere Funktionen für die Tastenbelegung sind *Kurzwahl, Forward oder Transfer*.
+
+![Neue_Tasten](https://user-images.githubusercontent.com/98753538/234839231-0bb97cbc-eb29-4d51-be63-e7ee1c95fc9f.jpg)
+
+Der englische Begriff *Forward* entspricht im Deutschen einer statisch konfigurierten *Weiterleitung*, während *Transfer* ein spontanes *Weiterleiten* per Knopfdruck anbietet.
+
+![Belegungsmöglichkeiten Kurzwahltasten D](https://github.com/NetCologne/cloudpbx-docs/assets/98753538/7aba311c-c46d-47df-8994-60f94de1ff5a)
+
+
+### 2.2 Yealink W60B
+
+Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
+
+![cloudpbx yealinkW60B](https://user-images.githubusercontent.com/98753538/159929245-d66ec338-1a73-42dc-9967-5330f1423112.jpg)
+
+Durch Klicken auf die entsprechende Nummer (grüner Pfeil), weisen Sie dem Gerät die entsprechende Nebenstelle zu:
+
+![cloudpbx yealinkW60B_NSt](https://user-images.githubusercontent.com/98753538/159929867-bbe9c09b-d4bb-4556-bf4f-3de8ee100c74.jpg)
+
+Dem zugehörigen Handset, z.B. Yealink 56H, wird dann die Nebenstelle automatisch zugewiesen.<br>
+<br>
+<br>
+<br>
+
+### 2.3 Yealink W70B
+Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll um und bildet damit die Brücke zwischen Internet-Anschluss und Ihren DECT-Telefonen.
+
+Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprechende Nebenstelle zu:
+
+![W70B](https://user-images.githubusercontent.com/99875491/195816281-00e94e06-4e14-4267-93a8-391e5f6d132f.png)
+
+Nach erfolgreicher Nummernzuweisung muss auf der W70B noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station:
+
+#### 2.3.1 Mobilteil anmelden W56H 
+
+Um ein Mobilteil an der Yealink DECT IP Basisstation W70B anzumelden, gehen Sie bitte wie folgt vor:
+
+![NC_Doku_Mobilteil_Anmelden_1](https://user-images.githubusercontent.com/99875491/169036830-5e5ea5de-a2a6-4c47-a654-16cc1c3d8ffb.jpg)
+
+1. Begeben Sie sich zu dem Menüpunkt "Status".
+2. Wählen Sie nun den Punkt "Handset & Voip" aus.
+3. Mit Klick auf "Mobilteil registrieren starten" wird das Mobilteil an der DECT IP Basisstation angemeldet.
+4. Sie werden nun von der WEB-Site aufgerufen, das Mobilteil zu registrieren.
+" Bitte registrieren Sie Ihr Mobilteil..."
+5. Dazu wählen Sie den Entsprechenden Punkt aus dem Menü Ihres Mobilteils aus.
+
+Im Falle eines W56H zB:
+
+1. OK-Taste
+2. Menue-Punkt "Einstellungen"
+3. Punkt "6.Registrieren"
+4. "Mobilteil registrieren"
+5. Basisstation ersetzen
+6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
+7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
+
 Hier geben wir Ihnen eine Einführung zu Ihrem Yealink VoIP Telefon. Im ersten Schritt machen Sie sich mit der Tastenbelegung Ihres Telefons vertraut und bekommen dann eine Schritt-für-Schritt-Anleitung zur Einrichtung Ihres Telefons.
 
->💡**Hinweis**  
->Aktuell liefert Yealink neue Tischtelefone (mindestens der T5-Serie) mit der Firmware-Version **96.86.0.75** aus. Zu dieser Version liegen keine Releasenotes vor. Auch ist sie nicht auf der Homepage von Yealink zu finden. Bei dieser Version werden die Einstellungen für TLS, Outbound-Proxy und Port nicht automatisch provisioniert. Entweder installieren Sie die vorherige Version **96.86.0.70** (Download siehe https://firmware.cloudpbx.netcologne.de/files/) oder ergänzen die Parameter manuell über die GUI unter Konto->Registrieren des Telefons:<br><br>
+### 2.4 Yealink W80DM-10
+
+Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
+
+Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprechende Nebenstelle zu:
+
+![W80DM-10](https://user-images.githubusercontent.com/99875491/195816308-371b8e1b-b56f-436e-b906-fa8d417f5410.png)
+
+Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station:
+
+1. Die Nebenstelle (Mobilteil) sollte nun in der Übersicht vorhanden sein. 
+    
+![Registrierung_Mobilteil_2](https://user-images.githubusercontent.com/99875491/187174245-8b336160-c308-48df-a170-3a97d932b634.jpeg)
+
+2. Klicken Sie auf das "Bearbeiten-Symbol"
+    
+![Registrierung_Mobilteil_3](https://user-images.githubusercontent.com/99875491/187174266-07776bac-8118-4b96-ad43-23d2529cb98c.jpeg)
+
+3. Tragen Sie unter "IPUI"(International Portable User Identity) die IPUI des Mobilteils ein und klicken Sie auf "Mobilteil registrieren starten"
+    ( Die IPUI Ihres Mobilteils können Sie folgendermaßen ermitteln: Beispiel W53H -> Menü (OK) / Status / Mobilteil)
+
+4. Starten Sie zeitnah die Mobilteil-Anmeldung ( siehe weiter unten)
+5. Wenn das Mobilteil erfolgreich an der Basisstation angemeldet wurde, erscheint es in der Übersicht:
+
+![Registrierung_Mobilteil_4](https://user-images.githubusercontent.com/99875491/187174295-ff6f4d6d-177d-4867-be4b-664aa2d2b025.jpeg)
+
+
+#### 2.4.1 Mobilteil anmelden (W53H)
+
+1. OK-Taste
+2. Menue-Punkt "Einstellungen"
+3. Punkt "6.Registrieren"
+4. "Mobilteil registrieren"
+5. Basisstation ersetzen
+6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
+7. Nun ist das Mobilteil an der DECT IP Basisstation angemeldet 
+
+### 2.5 Yealink W80DM-30
+Diese Basisstation wandelt das IP-Protokoll der Cloud PBX in das DECT-Protokoll umd und bildet damit die Brücke zwischen Internet-Anschluss Ihren DECT-Telefonen.
+
+Durch Klicken auf die entsprechende Nummer , weisen Sie dem Gerät die entsprechende Nebenstelle zu:
+
+![W80DM-30](https://user-images.githubusercontent.com/99875491/195816325-aee911dd-1490-4dc5-826b-80c3ef8b2c2b.png)
+
+Nach erfolgreicher Nummernzuweisung muss auf der W80DM noch ein Factory-Reset durchgeführt werden, damit die zugewiesenen Nummern automatisch übernommen werden. Die Zuweisung und Registrierung der DECT-Mobilteile efolgt dann ebenfalls über die GUI der Basis-Station:
+
+1. Die Nebenstelle (Mobilteil) sollte nun in der Übersicht vorhanden sein. 
+    
+![Registrierung_Mobilteil_2](https://user-images.githubusercontent.com/99875491/187174245-8b336160-c308-48df-a170-3a97d932b634.jpeg)
+
+2. Klicken Sie auf das "Bearbeiten-Symbol"
+    
+![Registrierung_Mobilteil_3](https://user-images.githubusercontent.com/99875491/187174266-07776bac-8118-4b96-ad43-23d2529cb98c.jpeg)
+
+3. Tragen Sie unter "IPUI"(International Portable User Identity) die IPUI des Mobilteils ein und klicken Sie auf "Mobilteil registrieren starten"
+    ( Die IPUI Ihres Mobilteils können Sie folgendermaßen ermitteln: Beispiel W53H -> Menü (OK) / Status / Mobilteil)
+
+4. Starten Sie zeitnah die Mobilteil-Anmeldung ( siehe weiter unten)
+5. Wenn das Mobilteil erfolgreich an der Basisstation angemeldet wurde, erscheint es in der Übersicht:
+
+![Registrierung_Mobilteil_4](https://user-images.githubusercontent.com/99875491/187174295-ff6f4d6d-177d-4867-be4b-664aa2d2b025.jpeg)
+
+#### 2.5.1 Mobilteil anmelden (W53H)
+
+1. OK-Taste
+2. Menue-Punkt "Einstellungen"
+3. Punkt "6.Registrieren"
+4. "Mobilteil registrieren"
+5. Basisstation ersetzen
+6. Nun werden Sie von Ihrem Mobilteil aufgefordert, die PIN einzugeben. Im Auslieferungszustand lautet die PIN "0000"
+
+## Manuelle Konfiguration
+
+💡 **Hinweis:** Netcologne kann ihnen ausschließlich eine garantierte Telefonie bieten, wenn Sie ihr Gerät wie oben beschrieben automatisch provisionieren. Für Manuelle Konfigurationen können wir keine Haftung und tiefergehenden Support leisten. Die Manuelle Dokumentation ist ausschließlich aus Informativen Zwecken dokumentiert. <br>
+
+>
 > SIP-Server 1 -> Transport: TLS<br>
 > Ausgehenden Proxy-Server aktivieren: An<br>
 > Ausgehender Proxy-Server 1: **kunde**.cloudpbx.netcologne.de Port: **5061**<br><br>
